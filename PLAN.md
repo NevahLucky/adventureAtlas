@@ -142,7 +142,8 @@ routed times for those two origins.
 South Carolina is the pilot for county first research: 196 entries across all 46 counties. Aiken now
 has the training track, Hitchcock Woods, Sunday polo and Hopelands. Barnwell has Healing Springs.
 Lee has the state park and the county museum. Saluda has the Alamo diorama. Allendale has its African
-American cultural center. No South Carolina county has fewer than one entry, and most have three or
+South Carolina county has fewer than one entry, and most have three or four. Two are still thin:
+Allendale and Saluda have one entry each, so give both a second pass before calling the pilot done.
 four.
 
 | State | Entries | Counties | | State | Entries | Counties |
