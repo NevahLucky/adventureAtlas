@@ -122,7 +122,7 @@
   "company": "Local equestrian demonstrations",
   "party": "2–6",
   "customer": "Families, Japanophiles, horse people",
-  "unique": "Japanese mounted archery — a galloping samurai looses an arrow at a wooden target — demonstrated in the Willamette Valley by the first riders to stage it outside Japan.",
+  "unique": "Japanese mounted archery, a galloping samurai looses an arrow at a wooden target, demonstrated in the Willamette Valley by the first riders to stage it outside Japan.",
   "buzz": "Audiences are startled by the speed and the sound of the arrow; demonstrations are rare and announced locally, so check ahead.",
   "rating": 88,
   "id": "yabusame-horseback-archery-creswell",
@@ -333,6 +333,32 @@
   "buzz": "The crafts are genuinely handmade; the food row is the lunch move. It is crowded by noon.",
   "rating": 79,
   "id": "portland-saturday-market-portland",
+  "state_abbr": "OR",
+  "county_full": "Multnomah County"
+ },
+ {
+  "name": "Peculiarium",
+  "city": "Portland",
+  "county": "Multnomah",
+  "state": "Oregon",
+  "cats": [
+   "Quirky",
+   "Art",
+   "Museum"
+  ],
+  "cost": "$8–$10",
+  "cost_num": 9,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1990s",
+  "company": "Freakybuttrue Peculiarium",
+  "party": "2–4",
+  "customer": "Families with teens, art people",
+  "unique": "A gallery of the deliberately bizarre, with alien autopsies, a giant bigfoot and a room of cursed objects, made by local artists with a sense of humor.",
+  "buzz": "It is silly and handmade, and kids over ten love it; the ice cream counter is a nice palate cleanser.",
+  "rating": 75,
+  "id": "peculiarium-portland",
   "state_abbr": "OR",
   "county_full": "Multnomah County"
  }

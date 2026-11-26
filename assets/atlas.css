@@ -224,7 +224,10 @@ select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .mini-btn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 
 /* table */
-.table-shell{border:1px solid var(--line);background:#fffdf7;border-radius:4px;overflow:visible}
+.table-shell{border:1px solid var(--line);background:#fffdf7;border-radius:4px;overflow-x:auto;overflow-y:visible;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.table-shell::-webkit-scrollbar{height:10px}
+.table-shell::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}
+.table-shell::-webkit-scrollbar-track{background:transparent}
 table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1346px}
 table.atlas thead th{
   background:var(--paper-2);text-align:left;
@@ -289,9 +292,6 @@ footer.site .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:
 footer.site a:hover{color:#fff}
 
 /* ---------- responsive ---------- */
-@media(max-width:1379px){
-  .table-shell{overflow-x:auto;overflow-y:hidden}
-}
 @media(max-width:1240px){
   .state-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
   .country-grid{grid-template-columns:1.4fr 1fr 1fr}

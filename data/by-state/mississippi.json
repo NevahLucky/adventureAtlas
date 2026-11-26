@@ -19,7 +19,7 @@
   "party": "2–4",
   "customer": "Road trippers, retirees, cyclists",
   "unique": "A 444-mile two lane road with no trucks and no billboards, following a pre Columbian trail through cypress bottoms, Indian mounds and 19th century inns.",
-  "buzz": "Drivers call it the most relaxing road in America; cyclists do it in a week. Gas up before you enter — services are sparse.",
+  "buzz": "Drivers call it the most relaxing road in America; cyclists do it in a week. Gas up before you enter, services are sparse.",
   "rating": 87,
   "id": "natchez-trace-parkway-natchez",
   "state_abbr": "MS",
@@ -127,6 +127,32 @@
   "id": "vicksburg-national-military-park-vicksburg",
   "state_abbr": "MS",
   "county_full": "Warren County"
+ },
+ {
+  "name": "The Shed BBQ",
+  "city": "Ocean Springs",
+  "county": "Jackson",
+  "state": "Mississippi",
+  "cats": [
+   "Food & Drink",
+   "Community",
+   "Quirky"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 20,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "2001",
+  "company": "The Shed BBQ",
+  "party": "2–6",
+  "customer": "Families, bikers, barbecue fans",
+  "unique": "A barbecue joint built from salvaged shacks and junk, with picnic tables under the trees, a stage for live blues and ribs that win competitions.",
+  "buzz": "The atmosphere is half the meal and the ribs are legitimately good; live music on weekends. A Gulf Coast institution.",
+  "rating": 82,
+  "id": "the-shed-bbq-ocean-springs",
+  "state_abbr": "MS",
+  "county_full": "Jackson County"
  },
  {
   "name": "Gulf Islands National Seashore",

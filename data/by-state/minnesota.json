@@ -130,6 +130,32 @@
   "county_full": "Ramsey County"
  },
  {
+  "name": "SPAM Museum",
+  "city": "Austin",
+  "county": "Mower",
+  "state": "Minnesota",
+  "cats": [
+   "Museum",
+   "Food & Drink",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round, closed Sundays",
+  "start": "2001",
+  "company": "Hormel",
+  "party": "2–6",
+  "customer": "Families, road trippers, food people",
+  "unique": "A free museum devoted to a canned meat product, with a production line, a world map of SPAM love and a tasting counter where you can try flavors sold nowhere else.",
+  "buzz": "It is free, well made and genuinely funny; the tasting is the highlight. A perfect road trip break.",
+  "rating": 78,
+  "id": "spam-museum-austin",
+  "state_abbr": "MN",
+  "county_full": "Mower County"
+ },
+ {
   "name": "Mall of America",
   "city": "Bloomington",
   "county": "Hennepin",

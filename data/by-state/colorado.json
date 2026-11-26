@@ -122,7 +122,7 @@
   "company": "Local guide services",
   "party": "2–4",
   "customer": "Athletic beginners, young adults",
-  "unique": "A protected climbing route bolted across a 600-foot cliff above Telluride, with cables, ladders and a bridge over a waterfall — no rope skills needed.",
+  "unique": "A protected climbing route bolted across a 600-foot cliff above Telluride, with cables, ladders and a bridge over a waterfall, no rope skills needed.",
   "buzz": "Guides are praised for managing fear well; the exposure is real and the views are absurd. Book early, the season is short.",
   "rating": 90,
   "id": "telluride-via-ferrata-telluride",
@@ -251,10 +251,36 @@
   "party": "2–4",
   "customer": "Families, photographers, wildlife people",
   "unique": "Bull elk bugle and clash across the meadows of Moraine Park in the fall, with the Continental Divide behind them and sometimes a few hundred yards from your car.",
-  "buzz": "The sound is unearthly; rangers manage the crowds well. Keep your distance — tourists get charged every year.",
+  "buzz": "The sound is unearthly; rangers manage the crowds well. Keep your distance, tourists get charged every year.",
   "rating": 87,
   "id": "rocky-mountain-elk-rut-estes-park",
   "state_abbr": "CO",
   "county_full": "Larimer County"
+ },
+ {
+  "name": "Bishop Castle",
+  "city": "Rye",
+  "county": "Pueblo",
+  "state": "Colorado",
+  "cats": [
+   "Quirky",
+   "Architecture",
+   "Art"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "May–Oct",
+  "start": "1969",
+  "company": "Bishop Castle",
+  "party": "2–4",
+  "customer": "Road trippers, families, photographers",
+  "unique": "A castle being built by one family from hand gathered stone, with a fire breathing dragon, a glass ceiling and a stairway that climbs into the air.",
+  "buzz": "It is free, slightly dangerous and completely sincere; the builder's signs about government are part of the experience.",
+  "rating": 82,
+  "id": "bishop-castle-rye",
+  "state_abbr": "CO",
+  "county_full": "Pueblo County"
  }
 ]

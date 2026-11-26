@@ -44,7 +44,7 @@
   "company": "South Dakota Game, Fish and Parks",
   "party": "2–4",
   "customer": "Families, wildlife people, bikers",
-  "unique": "A 1,300-head bison herd, begging burros, granite spires and the Needles Highway — a road that threads through rock tunnels barely wider than a car.",
+  "unique": "A 1,300-head bison herd, begging burros, granite spires and the Needles Highway, a road that threads through rock tunnels barely wider than a car.",
   "buzz": "The wildlife loop is the highlight; the Needles Highway is genuinely thrilling. Bison jams can last an hour.",
   "rating": 90,
   "id": "custer-state-park-custer",
@@ -96,7 +96,7 @@
   "company": "National Park Service",
   "party": "2–4",
   "customer": "Families, cave nerds, science people",
-  "unique": "One of the longest caves in the world and the first national park for a cave, famous for boxwork — thin calcite fins that look like honeycomb.",
+  "unique": "One of the longest caves in the world and the first national park for a cave, famous for boxwork, thin calcite fins that look like honeycomb.",
   "buzz": "The natural entrance tour is the classic; rangers explain the barometric wind that breathes in and out of the cave. Book ahead.",
   "rating": 85,
   "id": "wind-cave-hot-springs",
@@ -232,5 +232,31 @@
   "id": "corn-palace-mitchell",
   "state_abbr": "SD",
   "county_full": "Davison County"
+ },
+ {
+  "name": "Cosmos Mystery Area",
+  "city": "Rapid City",
+  "county": "Pennington",
+  "state": "South Dakota",
+  "cats": [
+   "Quirky",
+   "Science",
+   "Family"
+  ],
+  "cost": "$10–$14",
+  "cost_num": 12,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "May–Oct",
+  "start": "1950s",
+  "company": "Cosmos Mystery Area",
+  "party": "2–6",
+  "customer": "Families, kids, road trippers",
+  "unique": "A shack in the Black Hills where balls roll uphill and people seem to lean at impossible angles, a classic gravity illusion attraction that never explains itself.",
+  "buzz": "It is a roadside gag and the guides lean into the fun; kids are delighted. Twenty minutes from Mount Rushmore.",
+  "rating": 69,
+  "id": "cosmos-mystery-area-rapid-city",
+  "state_abbr": "SD",
+  "county_full": "Pennington County"
  }
 ]

@@ -103,6 +103,32 @@
   "county_full": "Adams County"
  },
  {
+  "name": "American Sign Museum",
+  "city": "Cincinnati",
+  "county": "Hamilton",
+  "state": "Ohio",
+  "cats": [
+   "Museum",
+   "Design",
+   "Quirky"
+  ],
+  "cost": "$12–$15",
+  "cost_num": 13,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Wed–Sun",
+  "start": "2005",
+  "company": "American Sign Museum",
+  "party": "2–4",
+  "customer": "Design people, families, photographers",
+  "unique": "Two warehouses of neon, bulb and painted signs from the last century, with a Main Street of storefronts and a workshop where restorers bring dead signs back to light.",
+  "buzz": "The neon room is a photographer's dream and the history of sign making is unexpectedly interesting; allow ninety minutes.",
+  "rating": 84,
+  "id": "american-sign-museum-cincinnati",
+  "state_abbr": "OH",
+  "county_full": "Hamilton County"
+ },
+ {
   "name": "Rock and Roll Hall of Fame",
   "city": "Cleveland",
   "county": "Cuyahoga",
@@ -204,5 +230,31 @@
   "id": "put-in-bay-put-in-bay",
   "state_abbr": "OH",
   "county_full": "Ottawa County"
+ },
+ {
+  "name": "Loveland Castle",
+  "city": "Loveland",
+  "county": "Clermont",
+  "state": "Ohio",
+  "cats": [
+   "Quirky",
+   "Architecture",
+   "Historical"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Apr–Oct",
+  "start": "1929",
+  "company": "Knights of the Golden Trail",
+  "party": "2–6",
+  "customer": "Families, castle fans, road trippers",
+  "unique": "A medieval style castle built by hand from river stones by a scoutmaster and his troop, with a dungeon, a great hall and a sword in a stone.",
+  "buzz": "It is homemade and earnest and kids love it; the story of the builder is the best part. Cheap and quick.",
+  "rating": 74,
+  "id": "loveland-castle-loveland",
+  "state_abbr": "OH",
+  "county_full": "Clermont County"
  }
 ]

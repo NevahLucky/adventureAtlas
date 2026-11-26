@@ -102,5 +102,31 @@
   "id": "boot-hill-museum-dodge-city",
   "state_abbr": "KS",
   "county_full": "Ford County"
+ },
+ {
+  "name": "World's Largest Ball of Twine",
+  "city": "Cawker City",
+  "county": "Mitchell",
+  "state": "Kansas",
+  "cats": [
+   "Quirky",
+   "Road Trip",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "20 min",
+  "dur_h": 0.33,
+  "dates": "Year round",
+  "start": "1953",
+  "company": "City of Cawker City",
+  "party": "NA",
+  "customer": "Road trippers, families",
+  "unique": "A continuously growing ball of sisal twine that weighs nearly nine tons, with a gazebo, a guest book and an annual twine festival where anyone can add a strand.",
+  "buzz": "It is exactly what you hope for: free, absurd and proudly local. Ten minutes and a photo, then back on the highway.",
+  "rating": 70,
+  "id": "world-s-largest-ball-of-twine-cawker-city",
+  "state_abbr": "KS",
+  "county_full": "Mitchell County"
  }
 ]

@@ -18,7 +18,7 @@
   "company": "National Park Service",
   "party": "2–4",
   "customer": "Adventurers, photographers, locals",
-  "unique": "In rare cold winters, Lake Superior freezes solid enough to walk to sea caves hung with curtains of blue ice — a phenomenon that may not happen at all in a given year.",
+  "unique": "In rare cold winters, Lake Superior freezes solid enough to walk to sea caves hung with curtains of blue ice, a phenomenon that may not happen at all in a given year.",
   "buzz": "When it opens, it is one of the most spectacular things in the Midwest; check the park's ice report before driving. Never go alone.",
   "rating": 90,
   "id": "apostle-islands-ice-caves-bayfield",
@@ -205,6 +205,32 @@
   "id": "summerfest-milwaukee",
   "state_abbr": "WI",
   "county_full": "Milwaukee County"
+ },
+ {
+  "name": "Forevertron",
+  "city": "North Freedom",
+  "county": "Sauk",
+  "state": "Wisconsin",
+  "cats": [
+   "Art",
+   "Quirky",
+   "Road Trip"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "45 min",
+  "dur_h": 0.75,
+  "dates": "May–Oct",
+  "start": "1983",
+  "company": "Dr. Evermor's Sculpture Park",
+  "party": "2–4",
+  "customer": "Art people, road trippers, photographers",
+  "unique": "The largest scrap metal sculpture in the world, a 300 ton time machine built from industrial salvage by a former junkyard artist, surrounded by giant birds and a teapot orchestra.",
+  "buzz": "It is free, enormous and completely unexpected; photographers love it at sunset. A ten minute detour off the interstate.",
+  "rating": 83,
+  "id": "forevertron-north-freedom",
+  "state_abbr": "WI",
+  "county_full": "Sauk County"
  },
  {
   "name": "Harley-Davidson Museum",

@@ -178,5 +178,31 @@
   "id": "cody-nite-rodeo-cody",
   "state_abbr": "WY",
   "county_full": "Park County"
+ },
+ {
+  "name": "Wyoming Frontier Prison",
+  "city": "Rawlins",
+  "county": "Carbon",
+  "state": "Wyoming",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Museum"
+  ],
+  "cost": "$8–$12",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Sep",
+  "start": "1901",
+  "company": "Wyoming Frontier Prison",
+  "party": "2–4",
+  "customer": "History buffs, teens, road trippers",
+  "unique": "A preserved territorial prison with a death row cell block, a gas chamber and graffiti carved by inmates, toured by guides who do not soften the details.",
+  "buzz": "The tour is grim and fascinating; guides tell the stories of specific prisoners. Not for young children.",
+  "rating": 78,
+  "id": "wyoming-frontier-prison-rawlins",
+  "state_abbr": "WY",
+  "county_full": "Carbon County"
  }
 ]

@@ -43,7 +43,7 @@
   "company": "Pennsylvania State Parks",
   "party": "2–4",
   "customer": "Hikers, photographers, families with older kids",
-  "unique": "Twenty two named waterfalls in a single seven-mile loop down and back up a hemlock gorge — the highest concentration of falls on one trail in the East.",
+  "unique": "Twenty two named waterfalls in a single seven-mile loop down and back up a hemlock gorge, the highest concentration of falls on one trail in the East.",
   "buzz": "Hikers call it the best waterfall hike in Pennsylvania and warn the rocks are slick; the falls trail closes in ice.",
   "rating": 89,
   "id": "ricketts-glen-falls-trail-benton",
@@ -75,6 +75,32 @@
   "id": "eastern-state-penitentiary-philadelphia",
   "state_abbr": "PA",
   "county_full": "Philadelphia County"
+ },
+ {
+  "name": "Mahoning Drive-In Theater",
+  "city": "Lehighton",
+  "county": "Carbon",
+  "state": "Pennsylvania",
+  "cats": [
+   "Film",
+   "Quirky",
+   "Community"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Apr–Oct, weekends",
+  "start": "1949",
+  "company": "Mahoning Drive-In",
+  "party": "2–6",
+  "customer": "Film fans, families, locals",
+  "unique": "A 1949 drive in that refuses to go digital, projecting only 35mm prints on a huge screen, with a volunteer crew and a crowd that brings lawn chairs and cheers the reel changes.",
+  "buzz": "Film people drive hours for it and the atmosphere is a party. Bring bug spray, cash for the snack bar and a radio for the sound.",
+  "rating": 88,
+  "id": "mahoning-drive-in-theater-lehighton",
+  "state_abbr": "PA",
+  "county_full": "Carbon County"
  },
  {
   "name": "Longwood Gardens",
@@ -120,7 +146,7 @@
   "company": "National Park Service",
   "party": "2–6",
   "customer": "History buffs, families, school groups",
-  "unique": "Twenty five square miles of preserved battle line — Little Round Top, the Wheatfield, Pickett's Charge — best seen by bike or with a licensed guide in your car.",
+  "unique": "Twenty five square miles of preserved battle line, Little Round Top, the Wheatfield, Pickett's Charge, best seen by bike or with a licensed guide in your car.",
   "buzz": "Licensed guides are worth every dollar; the auto tour alone misses the story. The cyclorama is dated but moving.",
   "rating": 86,
   "id": "gettysburg-battlefield-gettysburg",
@@ -203,6 +229,32 @@
   "id": "mutter-museum-philadelphia",
   "state_abbr": "PA",
   "county_full": "Philadelphia County"
+ },
+ {
+  "name": "Roadside America",
+  "city": "Shartlesville",
+  "county": "Berks",
+  "state": "Pennsylvania",
+  "cats": [
+   "Quirky",
+   "Art",
+   "Family"
+  ],
+  "cost": "$8–$10",
+  "cost_num": 9,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1935",
+  "company": "Roadside America",
+  "party": "2–6",
+  "customer": "Families, road trippers, model train fans",
+  "unique": "A 6,000 square foot miniature village of tiny houses, farms and a working railroad, built by one man over decades and lit by a day to night show.",
+  "buzz": "It is a time capsule of a roadside attraction and children are hypnotized; the night show is kitsch perfection.",
+  "rating": 76,
+  "id": "roadside-america-shartlesville",
+  "state_abbr": "PA",
+  "county_full": "Berks County"
  },
  {
   "name": "Punxsutawney Groundhog Day",

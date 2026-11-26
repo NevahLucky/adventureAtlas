@@ -44,7 +44,7 @@
   "company": "Cape May Whale Watcher",
   "party": "2–6",
   "customer": "Families, couples, retirees",
-  "unique": "Victorian painted-lady streets on one side, bottlenose dolphins and humpbacks off the point on the other — a beach town that never modernized.",
+  "unique": "Victorian painted-lady streets on one side, bottlenose dolphins and humpbacks off the point on the other, a beach town that never modernized.",
   "buzz": "Dolphin sightings are near-guaranteed; the whale part is luck. The town's B&Bs and Cape May Point birding get equal praise.",
   "rating": 82,
   "id": "cape-may-whale-watch-cape-may",
@@ -126,6 +126,32 @@
   "id": "six-flags-great-adventure-jackson",
   "state_abbr": "NJ",
   "county_full": "Ocean County"
+ },
+ {
+  "name": "Lucy the Elephant",
+  "city": "Margate",
+  "county": "Atlantic",
+  "state": "New Jersey",
+  "cats": [
+   "Quirky",
+   "Historical",
+   "Family"
+  ],
+  "cost": "$8–$10",
+  "cost_num": 9,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, tours seasonal",
+  "start": "1881",
+  "company": "Save Lucy Committee",
+  "party": "2–6",
+  "customer": "Families, road trippers, history buffs",
+  "unique": "A six story wooden elephant built in 1881 as a real estate gimmick, now a national historic landmark you can climb through, with a howdah on top.",
+  "buzz": "The tour is short and charming and the story of the rescue is good; kids love going inside an elephant.",
+  "rating": 77,
+  "id": "lucy-the-elephant-margate",
+  "state_abbr": "NJ",
+  "county_full": "Atlantic County"
  },
  {
   "name": "Atlantic City Boardwalk",

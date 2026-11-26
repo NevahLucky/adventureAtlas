@@ -126,5 +126,31 @@
   "id": "gates-of-the-mountains-boat-tour-helena",
   "state_abbr": "MT",
   "county_full": "Lewis and Clark County"
+ },
+ {
+  "name": "Berkeley Pit",
+  "city": "Butte",
+  "county": "Silver Bow",
+  "state": "Montana",
+  "cats": [
+   "Science",
+   "Dark Tourism",
+   "Industrial"
+  ],
+  "cost": "$5–$8",
+  "cost_num": 6,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1955",
+  "company": "Montana Resources",
+  "party": "2–4",
+  "customer": "Curious travellers, photographers, engineers",
+  "unique": "A mile wide open pit mine filled with water so toxic that a flock of geese died on it in 1995, now an observation deck and a museum about the copper that wired America.",
+  "buzz": "It is stark and strange and the scale is hard to grasp; the viewing stand is free and the museum adds context.",
+  "rating": 77,
+  "id": "berkeley-pit-butte",
+  "state_abbr": "MT",
+  "county_full": "Silver Bow County"
  }
 ]

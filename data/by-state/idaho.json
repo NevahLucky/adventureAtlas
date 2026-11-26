@@ -128,5 +128,31 @@
   "id": "craters-of-the-moon-arco",
   "state_abbr": "ID",
   "county_full": "Butte County"
+ },
+ {
+  "name": "Idaho Potato Museum",
+  "city": "Blackfoot",
+  "county": "Bingham",
+  "state": "Idaho",
+  "cats": [
+   "Museum",
+   "Quirky",
+   "Food & Drink"
+  ],
+  "cost": "$5–$8",
+  "cost_num": 6,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1988",
+  "company": "Idaho Potato Museum",
+  "party": "2–6",
+  "customer": "Families, road trippers",
+  "unique": "A museum with the world's largest potato chip, a walk through a potato harvester and a cafe serving a baked potato the size of a football.",
+  "buzz": "It is small, cheap and better than it needs to be; the free potato at the end is a nice touch.",
+  "rating": 72,
+  "id": "idaho-potato-museum-blackfoot",
+  "state_abbr": "ID",
+  "county_full": "Bingham County"
  }
 ]

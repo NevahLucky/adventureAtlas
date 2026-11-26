@@ -128,6 +128,32 @@
   "county_full": "Travis County"
  },
  {
+  "name": "Broken Spoke",
+  "city": "Austin",
+  "county": "Travis",
+  "state": "Texas",
+  "cats": [
+   "Music",
+   "Dance",
+   "Historical"
+  ],
+  "cost": "$10–$20",
+  "cost_num": 14,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round, Wed–Sat",
+  "start": "1964",
+  "company": "Broken Spoke",
+  "party": "2–8",
+  "customer": "Locals, dancers, country fans",
+  "unique": "A family owned honky tonk with a dirt parking lot, a saddle hanging over the bar, two step lessons at 8pm and a kitchen that serves chicken fried steak until late.",
+  "buzz": "Regulars have been dancing here for decades and they will show you the steps. It is the antidote to a city that keeps changing.",
+  "rating": 87,
+  "id": "broken-spoke-austin",
+  "state_abbr": "TX",
+  "county_full": "Travis County"
+ },
+ {
   "name": "NASA Johnson Space Center",
   "city": "Houston",
   "county": "Harris",
@@ -249,7 +275,7 @@
   "company": "Free / self guided",
   "party": "NA",
   "customer": "Families, tourists, locals",
-  "unique": "The largest urban bat colony in North America — 1.5 million Mexican free-tailed bats pour out from under a downtown bridge at dusk in a spiral that lasts twenty minutes.",
+  "unique": "The largest urban bat colony in North America, 1.5 million Mexican free-tailed bats pour out from under a downtown bridge at dusk in a spiral that lasts twenty minutes.",
   "buzz": "It is free and genuinely spectacular; the bat observation center is small but the bridge lawn is the spot. Bring a blanket.",
   "rating": 84,
   "id": "congress-avenue-bat-flight-austin",
@@ -437,6 +463,32 @@
   "id": "cadillac-ranch-amarillo",
   "state_abbr": "TX",
   "county_full": "Potter County"
+ },
+ {
+  "name": "Snake Farm",
+  "city": "New Braunfels",
+  "county": "Comal",
+  "state": "Texas",
+  "cats": [
+   "Wildlife",
+   "Quirky",
+   "Family"
+  ],
+  "cost": "$12–$15",
+  "cost_num": 13,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1967",
+  "company": "Animal World and Snake Farm Zoo",
+  "party": "2–6",
+  "customer": "Families, kids, reptile fans",
+  "unique": "A roadside reptile zoo with hundreds of snakes, alligators and a venom lab, running since 1967 on the highway between Austin and San Antonio.",
+  "buzz": "It is old school and proud of it; the venom demonstration is the highlight and kids leave thrilled.",
+  "rating": 76,
+  "id": "snake-farm-new-braunfels",
+  "state_abbr": "TX",
+  "county_full": "Comal County"
  },
  {
   "name": "Iguana Fest",

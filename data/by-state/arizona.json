@@ -260,6 +260,32 @@
   "county_full": "Coconino County"
  },
  {
+  "name": "Mystery Castle",
+  "city": "Phoenix",
+  "county": "Maricopa",
+  "state": "Arizona",
+  "cats": [
+   "Quirky",
+   "Architecture",
+   "Historical"
+  ],
+  "cost": "$10–$12",
+  "cost_num": 11,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Oct–May",
+  "start": "1930s",
+  "company": "Mystery Castle",
+  "party": "2–4",
+  "customer": "Road trippers, families, architecture fans",
+  "unique": "An 18 room castle built from stone, adobe and salvage by a father for his daughter, with a chapel, a dungeon and furniture made from railroad parts.",
+  "buzz": "The story is better than the building and the guides tell it well; it is hidden at the base of South Mountain.",
+  "rating": 78,
+  "id": "mystery-castle-phoenix",
+  "state_abbr": "AZ",
+  "county_full": "Maricopa County"
+ },
+ {
   "name": "Tombstone Gunfight",
   "city": "Tombstone",
   "county": "Cochise",

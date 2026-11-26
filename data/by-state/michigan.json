@@ -147,7 +147,7 @@
   "company": "ArtPrize",
   "party": "2–6",
   "customer": "Art people, families, locals",
-  "unique": "An open entry art competition that takes over an entire city — venues in bars, churches, parks and museums, with the public voting for the winner.",
+  "unique": "An open entry art competition that takes over an entire city, venues in bars, churches, parks and museums, with the public voting for the winner.",
   "buzz": "The scale is the point; some work is amateur and some is museum grade. Download the map and pick three venues.",
   "rating": 83,
   "id": "artprize-grand-rapids",
@@ -224,11 +224,37 @@
   "company": "Heidelberg Project",
   "party": "2–4",
   "customer": "Art people, photographers, locals",
-  "unique": "Two blocks of abandoned houses covered in polka dots, stuffed animals and painted signs — an outdoor art environment that refuses to be gentrified away.",
+  "unique": "Two blocks of abandoned houses covered in polka dots, stuffed animals and painted signs, an outdoor art environment that refuses to be gentrified away.",
   "buzz": "It is free, strange and deeply personal; respect the residents and don't wander into occupied houses. Best with a local guide.",
   "rating": 80,
   "id": "heidelberg-project-detroit",
   "state_abbr": "MI",
   "county_full": "Wayne County"
+ },
+ {
+  "name": "Bronner's Christmas Wonderland",
+  "city": "Frankenmuth",
+  "county": "Saginaw",
+  "state": "Michigan",
+  "cats": [
+   "Quirky",
+   "Market",
+   "Family"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1945",
+  "company": "Bronner's",
+  "party": "2–6",
+  "customer": "Families, collectors, tour buses",
+  "unique": "The largest Christmas store in the world, open every day of the year, with 50,000 ornaments and a silent night chapel, in a town that leans into its Bavarian theme.",
+  "buzz": "It is overwhelming and cheerful; the personalized ornament counter is the reason people come back. Christmas music in July.",
+  "rating": 73,
+  "id": "bronner-s-christmas-wonderland-frankenmuth",
+  "state_abbr": "MI",
+  "county_full": "Saginaw County"
  }
 ]

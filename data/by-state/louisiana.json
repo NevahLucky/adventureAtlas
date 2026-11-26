@@ -148,7 +148,7 @@
   "party": "2–6",
   "customer": "Curious travellers, photographers, locals",
   "unique": "Inmates ride bulls and compete in poker-on-horseback inside a maximum-security prison, with a craft fair of prison-made goods and a crowd of thousands.",
-  "buzz": "People call it the most complicated day of their trip — spectacle, exploitation and genuine skill all at once. Tickets sell out.",
+  "buzz": "People call it the most complicated day of their trip, spectacle, exploitation and genuine skill all at once. Tickets sell out.",
   "rating": 84,
   "id": "angola-prison-rodeo-angola",
   "state_abbr": "LA",
@@ -207,6 +207,32 @@
   "county_full": "Iberia Parish"
  },
  {
+  "name": "Middendorf's",
+  "city": "Manchac",
+  "county": "Tangipahoa",
+  "state": "Louisiana",
+  "cats": [
+   "Food & Drink",
+   "Water",
+   "Historical"
+  ],
+  "cost": "$18–$30",
+  "cost_num": 24,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Wed–Sun",
+  "start": "1934",
+  "company": "Middendorf's",
+  "party": "2–6",
+  "customer": "Locals, families, road trippers",
+  "unique": "A roadhouse on a swamp pass between two lakes, famous for thin fried catfish and a view of the Manchac swamp from the dining room windows.",
+  "buzz": "The thin catfish is the order and the swamp view is the setting; it is a detour people make on purpose. Cash for the tip jar.",
+  "rating": 81,
+  "id": "middendorf-s-manchac",
+  "state_abbr": "LA",
+  "county_full": "Tangipahoa Parish"
+ },
+ {
   "name": "Natchitoches Christmas Lights",
   "city": "Natchitoches",
   "county": "Natchitoches",
@@ -225,11 +251,36 @@
   "company": "City of Natchitoches",
   "party": "2–6",
   "customer": "Families, couples, retirees",
-  "unique": "Three hundred thousand lights along a 33-block historic riverfront, with boat parades, fireworks and meat pies — the oldest holiday light display in the South.",
+  "unique": "Three hundred thousand lights along a 33-block historic riverfront, with boat parades, fireworks and meat pies, the oldest holiday light display in the South.",
   "buzz": "It is a genuine small town spectacle; parking is the challenge. Eat a Natchitoches meat pie while you walk.",
   "rating": 80,
   "id": "natchitoches-christmas-lights-natchitoches",
   "state_abbr": "LA",
   "county_full": "Natchitoches Parish"
+ },
+ {
+  "name": "Abita Brewing",
+  "city": "Abita Springs",
+  "county": "St. Tammany",
+  "state": "Louisiana",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round, tours daily",
+  "start": "1986",
+  "company": "Abita Brewing",
+  "party": "2–6",
+  "customer": "Beer people, young adults, couples",
+  "unique": "The oldest craft brewery in the South, in a piney town across Lake Pontchartrain, with a tour, a tasting room and a brewpub pouring seasonals you cannot get elsewhere.",
+  "buzz": "The tour is casual and generous; the purple haze and the root beer are the local favorites. A good rainy day in New Orleans.",
+  "rating": 79,
+  "id": "abita-brewing-abita-springs",
+  "state_abbr": "LA",
+  "county_full": "St. Tammany Parish"
  }
 ]

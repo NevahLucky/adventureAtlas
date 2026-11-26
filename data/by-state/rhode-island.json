@@ -103,6 +103,32 @@
   "county_full": "Washington County"
  },
  {
+  "name": "International Tennis Hall of Fame",
+  "city": "Newport",
+  "county": "Newport",
+  "state": "Rhode Island",
+  "cats": [
+   "Sports",
+   "Museum",
+   "Historical"
+  ],
+  "cost": "$12–$18",
+  "cost_num": 15,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1954",
+  "company": "International Tennis Hall of Fame",
+  "party": "2–4",
+  "customer": "Tennis fans, families, retirees",
+  "unique": "A museum inside the 1880 Newport Casino, with the original grass courts still played on and a gallery of the sport's oddest trophies.",
+  "buzz": "The grass courts are the surprise; you can book a hit after the museum. The building alone is worth the ticket.",
+  "rating": 80,
+  "id": "international-tennis-hall-of-fame-newport",
+  "state_abbr": "RI",
+  "county_full": "Newport County"
+ },
+ {
   "name": "Federal Hill Food Crawl",
   "city": "Providence",
   "county": "Providence",

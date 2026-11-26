@@ -1,5 +1,31 @@
 [
  {
+  "name": "American Visionary Art Museum",
+  "city": "Baltimore",
+  "county": "Baltimore City",
+  "state": "Maryland",
+  "cats": [
+   "Art",
+   "Museum",
+   "Quirky"
+  ],
+  "cost": "$15–$18",
+  "cost_num": 16,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round, closed Mondays",
+  "start": "1995",
+  "company": "American Visionary Art Museum",
+  "party": "2–4",
+  "customer": "Art people, families, teens",
+  "unique": "A museum devoted to self taught artists, with a giant whirligig outside, a sculpture made of matchsticks and galleries that feel like walking through someone else's brain.",
+  "buzz": "People call it the most joyful museum in the country; the gift shop is a destination of its own.",
+  "rating": 89,
+  "id": "american-visionary-art-museum-baltimore",
+  "state_abbr": "MD",
+  "county_full": "Baltimore City"
+ },
+ {
   "name": "Assateague Wild Ponies",
   "city": "Berlin",
   "county": "Worcester",

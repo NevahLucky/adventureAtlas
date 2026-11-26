@@ -148,7 +148,7 @@
   "company": "Utah State Parks",
   "party": "2–4",
   "customer": "Families, photographers, kids",
-  "unique": "A valley of thousands of mushroom shaped hoodoos you can wander among freely, with no trails and no barriers — a natural playground.",
+  "unique": "A valley of thousands of mushroom shaped hoodoos you can wander among freely, with no trails and no barriers, a natural playground.",
   "buzz": "People call it the most fun park in Utah; kids climb everything and the light at sunset is unreal. It is remote.",
   "rating": 88,
   "id": "goblin-valley-green-river",
@@ -258,5 +258,31 @@
   "id": "antelope-island-bison-syracuse",
   "state_abbr": "UT",
   "county_full": "Davis County"
+ },
+ {
+  "name": "Gilgal Sculpture Garden",
+  "city": "Salt Lake City",
+  "county": "Salt Lake",
+  "state": "Utah",
+  "cats": [
+   "Art",
+   "Quirky",
+   "Spiritual"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year round, daylight",
+  "start": "1945",
+  "company": "Gilgal Sculpture Garden",
+  "party": "NA",
+  "customer": "Art people, curious travellers",
+  "unique": "A hidden garden of stone carvings by a Mormon bishop, including a sphinx with the face of Joseph Smith, tucked between houses in a residential block.",
+  "buzz": "It is free, small and genuinely strange; most locals have never been. A five minute detour.",
+  "rating": 81,
+  "id": "gilgal-sculpture-garden-salt-lake-city",
+  "state_abbr": "UT",
+  "county_full": "Salt Lake County"
  }
 ]

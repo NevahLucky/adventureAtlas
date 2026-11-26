@@ -94,12 +94,38 @@
   "company": "Illinois Historic Preservation",
   "party": "2–4",
   "customer": "History buffs, families, photographers",
-  "unique": "The largest pre Columbian city north of Mexico, with 120 mounds including Monks Mound — bigger at its base than the Great Pyramid — and a solar calendar of posts.",
+  "unique": "The largest pre Columbian city north of Mexico, with 120 mounds including Monks Mound, bigger at its base than the Great Pyramid, and a solar calendar of posts.",
   "buzz": "The museum is excellent and the climb is easy; sunset from Monks Mound is the move. Quiet and little visited.",
   "rating": 86,
   "id": "cahokia-mounds-collinsville",
   "state_abbr": "IL",
   "county_full": "Madison County"
+ },
+ {
+  "name": "Galloping Ghost Arcade",
+  "city": "Brookfield",
+  "county": "Cook",
+  "state": "Illinois",
+  "cats": [
+   "Gaming",
+   "Museum",
+   "Community"
+  ],
+  "cost": "$20–$25",
+  "cost_num": 22,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Year round, daily",
+  "start": "2010",
+  "company": "Galloping Ghost Arcade",
+  "party": "2–4",
+  "customer": "Gamers, families, retro fans",
+  "unique": "More than eight hundred playable arcade machines, all on free play for one flat fee, from 1970s black and white cabinets to prototypes that never shipped.",
+  "buzz": "The collection is absurd and the owner is usually on the floor fixing something. Weeknights are quiet and weekends are a tournament scene.",
+  "rating": 86,
+  "id": "galloping-ghost-arcade-brookfield",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
  },
  {
   "name": "Starved Rock",
@@ -150,6 +176,32 @@
   "id": "garden-of-the-gods-herod",
   "state_abbr": "IL",
   "county_full": "Saline County"
+ },
+ {
+  "name": "Superdawg",
+  "city": "Chicago",
+  "county": "Cook",
+  "state": "Illinois",
+  "cats": [
+   "Food & Drink",
+   "Quirky",
+   "Road Trip"
+  ],
+  "cost": "$8–$15",
+  "cost_num": 11,
+  "dur": "45 min",
+  "dur_h": 0.75,
+  "dates": "Year round",
+  "start": "1948",
+  "company": "Superdawg",
+  "party": "2–4",
+  "customer": "Families, locals, hot dog fans",
+  "unique": "A drive in with two giant hot dog statues on the roof, carhops on rollerskates and a Chicago style dog with a pickled tomato, unchanged since 1948.",
+  "buzz": "The nostalgia is the meal and the dogs are good; eat in the car or at the picnic tables. A classic.",
+  "rating": 79,
+  "id": "superdawg-chicago",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
  },
  {
   "name": "Illinois State Fair",

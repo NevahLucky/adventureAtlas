@@ -310,5 +310,31 @@
   "id": "hanauma-bay-honolulu",
   "state_abbr": "HI",
   "county_full": "Honolulu County"
+ },
+ {
+  "name": "Dole Plantation Maze",
+  "city": "Wahiawa",
+  "county": "Honolulu",
+  "state": "Hawaii",
+  "cats": [
+   "Family",
+   "Quirky",
+   "Nature"
+  ],
+  "cost": "$8–$12",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1998",
+  "company": "Dole Plantation",
+  "party": "2–6",
+  "customer": "Families, kids, tourists",
+  "unique": "The world's largest hedge maze, plus a train through pineapple fields and a garden of tropical varieties, with pineapple ice cream at the end.",
+  "buzz": "The maze takes an hour and is genuinely fun for kids; the train is short. Tourist heavy but well run.",
+  "rating": 73,
+  "id": "dole-plantation-maze-wahiawa",
+  "state_abbr": "HI",
+  "county_full": "Honolulu County"
  }
 ]

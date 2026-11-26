@@ -18,10 +18,11 @@
   "company": "Barber Vintage Motorsports Museum",
   "party": "2–4",
   "customer": "Car and bike people, families, designers",
-  "unique": "The world's largest motorcycle collection — 1,600 machines in a five story glass-and-steel building beside a racetrack — with everything from board trackers to a Britten.",
+  "unique": "The world's largest motorcycle collection, 1,600 machines in a five story glass-and-steel building beside a racetrack, with everything from board trackers to a Britten.",
   "buzz": "Even nonriders are floored by the building and the presentation; the track hosts events most weekends. Allow more time than you think.",
   "rating": 89,
   "drive_min_clemson": 251,
+  "drive_min": 364,
   "id": "barber-vintage-motorsports-museum-birmingham",
   "state_abbr": "AL",
   "county_full": "Jefferson County"
@@ -48,6 +49,7 @@
   "buzz": "Tours are led by people who were there or grew up with it; music people call it a pilgrimage. The Shoals area has three studios worth a day.",
   "rating": 88,
   "drive_min_clemson": 354,
+  "drive_min": 467,
   "id": "muscle-shoals-sound-studio-tour-sheffield",
   "state_abbr": "AL",
   "county_full": "Colbert County"
@@ -74,6 +76,7 @@
   "buzz": "Kids love the ladders and tight passages; veterans are often aboard telling stories. It is hot below deck in summer.",
   "rating": 83,
   "drive_min_clemson": 408,
+  "drive_min": 521,
   "id": "uss-alabama-battleship-mobile",
   "state_abbr": "AL",
   "county_full": "Mobile County"
@@ -100,6 +103,7 @@
   "buzz": "Guides are funny and the scale is genuinely impressive; it is less commercial than Luray. Watch for bats.",
   "rating": 82,
   "drive_min_clemson": 283,
+  "drive_min": 395,
   "id": "cathedral-caverns-grant",
   "state_abbr": "AL",
   "county_full": "Marshall County"
@@ -127,6 +131,7 @@
   "buzz": "The self guided walk is eerie and free; locals report unexplained sounds and the place has a genuine reputation. Bring closed shoes.",
   "rating": 81,
   "drive_min_clemson": 251,
+  "drive_min": 364,
   "id": "sloss-furnaces-birmingham",
   "state_abbr": "AL",
   "county_full": "Jefferson County"
@@ -154,9 +159,38 @@
   "buzz": "The setting is the selling point; reviews complain about heat, expensive drinks and the walk between stages. Book a condo early.",
   "rating": 79,
   "drive_min_clemson": 440,
+  "drive_min": 552,
   "id": "hangout-music-festival-gulf-shores",
   "state_abbr": "AL",
   "county_full": "Baldwin County"
+ },
+ {
+  "name": "Vulcan Park",
+  "city": "Birmingham",
+  "county": "Jefferson",
+  "state": "Alabama",
+  "cats": [
+   "Architecture",
+   "Historical",
+   "Family"
+  ],
+  "cost": "$6–$10",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1936",
+  "company": "Vulcan Park Foundation",
+  "party": "2–4",
+  "customer": "Families, history buffs, tourists",
+  "unique": "A 56 foot cast iron Roman god of fire on a hill above Birmingham, with a museum on the city's iron history and a viewing platform under the statue.",
+  "buzz": "The view is the best in the city and the statue is genuinely odd; the museum is small but well done. Cheap and quick.",
+  "rating": 77,
+  "drive_min": 364,
+  "drive_min_clemson": 251,
+  "id": "vulcan-park-birmingham",
+  "state_abbr": "AL",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Coon Dog Cemetery",
@@ -180,8 +214,37 @@
   "buzz": "People stop for ten minutes and leave moved; it is free and deeply Southern. Combine with Muscle Shoals for a strange and excellent day.",
   "rating": 76,
   "drive_min_clemson": 210,
+  "drive_min": 322,
   "id": "coon-dog-cemetery-cherokee",
   "state_abbr": "AL",
   "county_full": "Colbert County"
+ },
+ {
+  "name": "Toomer's Drugs",
+  "city": "Auburn",
+  "county": "Lee",
+  "state": "Alabama",
+  "cats": [
+   "Food & Drink",
+   "Sports",
+   "Community"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 7,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year round",
+  "start": "1896",
+  "company": "Toomer's Drugs",
+  "party": "2–4",
+  "customer": "Students, alumni, families",
+  "unique": "A 19th century drugstore counter that sells lemonade so tart it makes people flinch, across from campus, where the trees were poisoned by a rival fan and the town replanted.",
+  "buzz": "The lemonade is a rite of passage and the line moves fast; the football lore is worth asking about.",
+  "rating": 74,
+  "drive_min": 333,
+  "drive_min_clemson": 220,
+  "id": "toomer-s-drugs-auburn",
+  "state_abbr": "AL",
+  "county_full": "Lee County"
  }
 ]

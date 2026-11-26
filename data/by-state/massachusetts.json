@@ -50,6 +50,32 @@
   "county_full": "Berkshire County"
  },
  {
+  "name": "Mapparium",
+  "city": "Boston",
+  "county": "Suffolk",
+  "state": "Massachusetts",
+  "cats": [
+   "Science",
+   "Art",
+   "Historical"
+  ],
+  "cost": "$6–$10",
+  "cost_num": 8,
+  "dur": "45 min",
+  "dur_h": 0.75,
+  "dates": "Year round, closed Mondays",
+  "start": "1935",
+  "company": "Mary Baker Eddy Library",
+  "party": "2–4",
+  "customer": "Families, design people, travellers",
+  "unique": "A three story stained glass globe you walk through on a glass bridge, built in 1935, with the countries as they were before the Second World War.",
+  "buzz": "Fifteen minutes inside and people are quiet; the acoustics are the hidden trick. Small, cheap and unforgettable.",
+  "rating": 85,
+  "id": "mapparium-boston",
+  "state_abbr": "MA",
+  "county_full": "Suffolk County"
+ },
+ {
   "name": "Nantucket by Bike",
   "city": "Nantucket",
   "county": "Nantucket",
@@ -168,7 +194,7 @@
   "company": "Historical walking tour operators",
   "party": "2–4",
   "customer": "Families, teens, history buffs",
-  "unique": "The actual geography of the 1692 panic — the meeting house site, the jail, Gallows Hill — told by guides who separate the trials from the Halloween economy.",
+  "unique": "The actual geography of the 1692 panic, the meeting house site, the jail, Gallows Hill, told by guides who separate the trials from the Halloween economy.",
   "buzz": "Pick a historian led tour, not a ghost gimmick; reviews praise the ones that use court transcripts. October crowds are genuinely unpleasant.",
   "rating": 79,
   "id": "salem-witch-trials-walk-salem",

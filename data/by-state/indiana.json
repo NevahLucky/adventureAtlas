@@ -128,5 +128,31 @@
   "id": "shipshewana-auction-and-flea-market-shipshewana",
   "state_abbr": "IN",
   "county_full": "LaGrange County"
+ },
+ {
+  "name": "Fair Oaks Farms",
+  "city": "Fair Oaks",
+  "county": "Newton",
+  "state": "Indiana",
+  "cats": [
+   "Food & Drink",
+   "Science",
+   "Family"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 20,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "2004",
+  "company": "Fair Oaks Farms",
+  "party": "2–6",
+  "customer": "Families, kids, food people",
+  "unique": "A working dairy and pig farm with a bus tour through the barns, a cheese operation, a restaurant and a giant jumping pillow, all in the middle of Indiana corn.",
+  "buzz": "The bus tour is better than expected and the cheese is excellent; it is a long drive from anywhere, which keeps it uncrowded.",
+  "rating": 78,
+  "id": "fair-oaks-farms-fair-oaks",
+  "state_abbr": "IN",
+  "county_full": "Newton County"
  }
 ]

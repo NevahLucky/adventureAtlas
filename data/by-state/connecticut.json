@@ -94,7 +94,7 @@
   "company": "Lake Compounce",
   "party": "2–6",
   "customer": "Families, teens, coaster nerds",
-  "unique": "America's oldest continuously operating amusement park, wrapped around a spring fed lake, with Boulder Dash — a wooden coaster cut into a mountainside.",
+  "unique": "America's oldest continuously operating amusement park, wrapped around a spring fed lake, with Boulder Dash, a wooden coaster cut into a mountainside.",
   "buzz": "Coaster people adore Boulder Dash and say the park is small enough to do in a day without misery. Water park crowds peak in July.",
   "rating": 81,
   "id": "lake-compounce-bristol",
@@ -152,5 +152,57 @@
   "id": "gillette-castle-east-haddam",
   "state_abbr": "CT",
   "county_full": "Middlesex County"
+ },
+ {
+  "name": "Stew Leonard's",
+  "city": "Norwalk",
+  "county": "Fairfield",
+  "state": "Connecticut",
+  "cats": [
+   "Food & Drink",
+   "Market",
+   "Family"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1969",
+  "company": "Stew Leonard's",
+  "party": "2–6",
+  "customer": "Families, food people",
+  "unique": "A grocery store built like a theme park, with animatronic farm animals, a bakery conveyor and a dairy that churns its own ice cream while you watch.",
+  "buzz": "It is a grocery run that children ask to repeat; the crowds are real on weekends. The fresh mozzarella is the local secret.",
+  "rating": 76,
+  "id": "stew-leonard-s-norwalk",
+  "state_abbr": "CT",
+  "county_full": "Fairfield County"
+ },
+ {
+  "name": "PEZ Visitor Center",
+  "city": "Orange",
+  "county": "New Haven",
+  "state": "Connecticut",
+  "cats": [
+   "Quirky",
+   "Museum",
+   "Family"
+  ],
+  "cost": "$5–$8",
+  "cost_num": 6,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "PEZ Candy",
+  "party": "2–6",
+  "customer": "Families, collectors, kids",
+  "unique": "A candy factory visitor center with the largest PEZ dispenser collection in the world, a production viewing window and a dispenser you can fill yourself.",
+  "buzz": "Silly and cheap, and the collector wall is genuinely impressive; kids get a kick out of the filling station.",
+  "rating": 71,
+  "id": "pez-visitor-center-orange",
+  "state_abbr": "CT",
+  "county_full": "New Haven County"
  }
 ]

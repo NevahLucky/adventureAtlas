@@ -181,6 +181,32 @@
   "county_full": "Pulaski County"
  },
  {
+  "name": "Crown Candy Kitchen",
+  "city": "St. Louis",
+  "county": "St. Louis City",
+  "state": "Missouri",
+  "cats": [
+   "Food & Drink",
+   "Historical",
+   "Community"
+  ],
+  "cost": "$8–$15",
+  "cost_num": 11,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, closed Sundays",
+  "start": "1913",
+  "company": "Crown Candy Kitchen",
+  "party": "2–4",
+  "customer": "Families, locals, tourists",
+  "unique": "A 1913 soda fountain and sandwich counter in a north city neighborhood, famous for a five pound milkshake challenge and a bacon sandwich that defeats most people.",
+  "buzz": "The malts are the real draw and the heart attack burger is a stunt; the line moves and the neighborhood is worth supporting.",
+  "rating": 80,
+  "id": "crown-candy-kitchen-st-louis",
+  "state_abbr": "MO",
+  "county_full": "St. Louis City"
+ },
+ {
   "name": "Meramec Caverns",
   "city": "Stanton",
   "county": "Franklin",

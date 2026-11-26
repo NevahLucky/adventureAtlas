@@ -26,6 +26,32 @@
   "county_full": "New Castle County"
  },
  {
+  "name": "Fort Delaware",
+  "city": "Delaware City",
+  "county": "New Castle",
+  "state": "Delaware",
+  "cats": [
+   "Historical",
+   "Dark Tourism",
+   "Water"
+  ],
+  "cost": "$8–$12",
+  "cost_num": 10,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Sep, ferry access",
+  "start": "1848",
+  "company": "Delaware State Parks",
+  "party": "2–6",
+  "customer": "History buffs, families, teens",
+  "unique": "A moat ringed Civil War fortress on an island in the Delaware River, reached by ferry, with prison barracks, tunnels and a living history garrison.",
+  "buzz": "The ferry and the moat make it an adventure; the prison history is grim and well told. Bring lunch, there is nothing on the island.",
+  "rating": 82,
+  "id": "fort-delaware-delaware-city",
+  "state_abbr": "DE",
+  "county_full": "New Castle County"
+ },
+ {
   "name": "Dogfish Head Brewery Tour",
   "city": "Milton",
   "county": "Sussex",

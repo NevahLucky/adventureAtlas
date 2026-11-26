@@ -122,7 +122,7 @@
   "company": "Grotto of the Redemption",
   "party": "NA",
   "customer": "Road trippers, religious pilgrims, art people",
-  "unique": "A priest spent forty years building a nine grotto monument out of petrified wood, geodes, agate and malachite — a folk art cathedral in a cornfield.",
+  "unique": "A priest spent forty years building a nine grotto monument out of petrified wood, geodes, agate and malachite, a folk art cathedral in a cornfield.",
   "buzz": "It is free, sincere and stranger than photos suggest; the mineral collection is genuinely impressive.",
   "rating": 78,
   "id": "grotto-of-the-redemption-west-bend",
@@ -154,5 +154,31 @@
   "id": "bridges-of-madison-county-winterset",
   "state_abbr": "IA",
   "county_full": "Madison County"
+ },
+ {
+  "name": "Villisca Axe Murder House",
+  "city": "Villisca",
+  "county": "Montgomery",
+  "state": "Iowa",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Quirky"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 20,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Apr–Nov",
+  "start": "1912",
+  "company": "Villisca Axe Murder House",
+  "party": "2–4",
+  "customer": "Ghost hunters, true crime fans, teens",
+  "unique": "An unsolved 1912 family murder house preserved almost as it was, with bullet holes in the walls and overnight investigations if you want to stay.",
+  "buzz": "The tour is matter of fact about a real tragedy; it is eerie rather than theatrical. Not for young kids.",
+  "rating": 75,
+  "id": "villisca-axe-murder-house-villisca",
+  "state_abbr": "IA",
+  "county_full": "Montgomery County"
  }
 ]

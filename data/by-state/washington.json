@@ -95,7 +95,7 @@
   "company": "San Juan Island kayak outfitters",
   "party": "2–4",
   "customer": "Wildlife people, couples, families with teens",
-  "unique": "Paddle the Salish Sea among the San Juan islands, with resident orcas, humpbacks, porpoises and bald eagles — and no guarantee of any of them.",
+  "unique": "Paddle the Salish Sea among the San Juan islands, with resident orcas, humpbacks, porpoises and bald eagles, and no guarantee of any of them.",
   "buzz": "Guides are excellent on whale-watch rules; the kayak is quieter and closer than a boat. Sightings are luck, so book two days.",
   "rating": 89,
   "id": "san-juan-islands-orca-kayak-friday-harbor",
@@ -205,6 +205,32 @@
   "id": "deception-pass-oak-harbor",
   "state_abbr": "WA",
   "county_full": "Island County"
+ },
+ {
+  "name": "Ye Olde Curiosity Shop",
+  "city": "Seattle",
+  "county": "King",
+  "state": "Washington",
+  "cats": [
+   "Quirky",
+   "Museum",
+   "Water"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1899",
+  "company": "Ye Olde Curiosity Shop",
+  "party": "2–6",
+  "customer": "Families, tourists, curiosity seekers",
+  "unique": "A waterfront shop of mummies, shrunken heads and carved totems that has been collecting oddities since 1899, with a real mermaid and a two headed calf.",
+  "buzz": "It is free to wander and deeply weird; the mummy is the main attraction. A good stop before the ferry.",
+  "rating": 79,
+  "id": "ye-olde-curiosity-shop-seattle",
+  "state_abbr": "WA",
+  "county_full": "King County"
  },
  {
   "name": "Leavenworth",

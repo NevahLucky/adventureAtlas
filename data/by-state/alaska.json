@@ -208,6 +208,32 @@
   "county_full": "Anchorage"
  },
  {
+  "name": "Musk Ox Farm",
+  "city": "Palmer",
+  "county": "Matanuska-Susitna",
+  "state": "Alaska",
+  "cats": [
+   "Wildlife",
+   "Family",
+   "Nature"
+  ],
+  "cost": "$10–$14",
+  "cost_num": 12,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Sep",
+  "start": "1964",
+  "company": "Musk Ox Farm",
+  "party": "2–4",
+  "customer": "Families, wildlife people, knitters",
+  "unique": "A working musk ox farm where you meet animals that look like walking carpets, learn how their qiviut wool is harvested and usually get within a few feet of the herd.",
+  "buzz": "The tour is funny and informative and the animals are absurdly photogenic; the gift shop sells qiviut yarn at prices that will shock you.",
+  "rating": 84,
+  "id": "musk-ox-farm-palmer",
+  "state_abbr": "AK",
+  "county_full": "Matanuska-Susitna Borough"
+ },
+ {
   "name": "Utqiagvik Polar Plunge",
   "city": "Utqiagvik",
   "county": "North Slope",
