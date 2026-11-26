@@ -200,7 +200,8 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 2. North Carolina. 66 of 100 counties have entries, all at three or more, 34 are blank. Next: Wayne,
    Lenoir, Greene, Jones, Pamlico, Tyrrell, Currituck, Camden, Pasquotank, Perquimans, Chowan, Gates,
    Hertford, Bertie, Northampton, Warren, Person, Caswell, Rockingham, Alexander, Ashe, Alleghany.
-3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.
+3. Tennessee. 16 of 95 counties have entries, all at three or more, 79 are blank. Next: the metro
+   ring around Nashville and Memphis, then the Upper Cumberland and the rural west.
 4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
 5. The remaining states, thinnest first, using the coverage report to choose.
 6. Then a third country, using the same rules.
