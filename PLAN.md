@@ -138,8 +138,9 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 490 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
-290 counties nationally still have a single entry, and those are the backlog.
+Current picture: 496 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+North Carolina is 44 of 100.
+271 counties nationally still have a single entry, and those are the backlog.
 
 ## The radius tool
 
