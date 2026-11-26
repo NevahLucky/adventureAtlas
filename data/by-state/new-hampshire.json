@@ -1,5 +1,31 @@
 [
  {
+  "name": "Team O'Neil Rally School",
+  "city": "Dalton",
+  "county": "Coos",
+  "state": "New Hampshire",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Snow"
+  ],
+  "cost": "$300–$900",
+  "cost_num": 500,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "Year round",
+  "start": "1998",
+  "company": "Team O'Neil",
+  "party": "2–4",
+  "customer": "Drivers, winter sports people",
+  "unique": "A rally school in the White Mountains with gravel and snow stages, where you learn left foot braking and Scandinavian flicks in a car built for the purpose.",
+  "buzz": "Winter courses are the draw and the instructors are patient with total beginners. You will be tired and grinning.",
+  "rating": 88,
+  "id": "team-o-neil-rally-school-dalton",
+  "state_abbr": "NH",
+  "county_full": "Coos County"
+ },
+ {
   "name": "Frankenstein Cliff Ice Climbing",
   "city": "North Conway",
   "county": "Grafton",

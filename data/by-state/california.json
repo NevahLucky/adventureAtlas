@@ -155,6 +155,30 @@
   "county_full": "Monterey County"
  },
  {
+  "name": "King of the Hammers",
+  "city": "Johnson Valley",
+  "county": "San Bernardino",
+  "state": "California",
+  "cats": [
+   "Off Road",
+   "Motorsport",
+   "Adrenaline"
+  ],
+  "cost": "Free–$100",
+  "cost_num": 40,
+  "dur": "2 days",
+  "dur_h": 16,
+  "dates": "Late Jan–Feb",
+  "start": "2007",
+  "company": "Ultra4 Racing",
+  "unique": "A week long off road festival in the desert where rock crawlers and trophy trucks race over trails that combine boulders and open desert at speeds that should not be possible.",
+  "buzz": "It is a temporary city in the sand and the racing is savage; bring an RV, water and ear protection. Spectating is free and the nights are a party.",
+  "rating": 90,
+  "id": "king-of-the-hammers-johnson-valley",
+  "state_abbr": "CA",
+  "county_full": "San Bernardino County"
+ },
+ {
   "name": "Museum of Jurassic Technology",
   "city": "Los Angeles",
   "county": "Los Angeles",
@@ -335,6 +359,58 @@
   "county_full": "Orange County"
  },
  {
+  "name": "Sky Falconry",
+  "city": "Alpine",
+  "county": "San Diego",
+  "state": "California",
+  "cats": [
+   "Wildlife",
+   "Nature",
+   "Adrenaline"
+  ],
+  "cost": "$75–$150",
+  "cost_num": 110,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "Sky Falconry",
+  "party": "2–4",
+  "customer": "Families with teens, couples, birders",
+  "unique": "A hawk walk where a trained Harris hawk flies to your gloved fist and follows you across a hillside, with lessons on how raptors hunt and why falconry works.",
+  "buzz": "Feeling the bird land on your arm is the whole thing; the guides are patient and the views are a bonus. Book the early slot.",
+  "rating": 86,
+  "id": "sky-falconry-alpine",
+  "state_abbr": "CA",
+  "county_full": "San Diego County"
+ },
+ {
+  "name": "Safari West",
+  "city": "Santa Rosa",
+  "county": "Sonoma",
+  "state": "California",
+  "cats": [
+   "Wildlife",
+   "Nature",
+   "Camping"
+  ],
+  "cost": "$90–$300",
+  "cost_num": 150,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "1988",
+  "company": "Safari West",
+  "party": "2–4",
+  "customer": "Families, couples, animal people",
+  "unique": "A 400 acre wildlife preserve in the wine country with giraffes, rhinos and antelope, visited by safari truck, plus tent cabins if you want to wake up to the sounds.",
+  "buzz": "The safari is genuinely good and the glamping is the splurge; the animals have space and the guides know them by name.",
+  "rating": 85,
+  "id": "safari-west-santa-rosa",
+  "state_abbr": "CA",
+  "county_full": "Sonoma County"
+ },
+ {
   "name": "Trestles Surf",
   "city": "San Clemente",
   "county": "Orange",
@@ -413,6 +489,32 @@
   "county_full": "Imperial County"
  },
  {
+  "name": "Queen Mary",
+  "city": "Long Beach",
+  "county": "Los Angeles",
+  "state": "California",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Water"
+  ],
+  "cost": "$40–$60",
+  "cost_num": 45,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1936",
+  "company": "The Queen Mary",
+  "party": "2–4",
+  "customer": "History buffs, ghost hunters, families",
+  "unique": "A 1936 ocean liner turned hotel, with engine rooms, a first class dining room and haunted ship tours that go into the bow and the pool, where guests report voices.",
+  "buzz": "The ship is magnificent and the ghost tour is theatrical but rooted in real accidents; the hotel rooms are uneven.",
+  "rating": 82,
+  "id": "queen-mary-long-beach",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
+ },
+ {
   "name": "Santa Cruz Beach Boardwalk",
   "city": "Santa Cruz",
   "county": "Santa Cruz",
@@ -437,6 +539,31 @@
   "id": "santa-cruz-beach-boardwalk-santa-cruz",
   "state_abbr": "CA",
   "county_full": "Santa Cruz County"
+ },
+ {
+  "name": "Whaley House",
+  "city": "San Diego",
+  "county": "San Diego",
+  "state": "California",
+  "cats": [
+   "Dark Tourism",
+   "Historical"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1857",
+  "company": "Save Our Heritage Organisation",
+  "party": "2–4",
+  "customer": "Ghost hunters, families, history buffs",
+  "unique": "A brick Greek Revival house built on a former gallows site, called the most haunted house in America, with tours through the courtroom, parlor and family bedrooms.",
+  "buzz": "It is small and the ghost stories are well documented; evening tours are spookier. Old Town around it is a good half day.",
+  "rating": 79,
+  "id": "whaley-house-san-diego",
+  "state_abbr": "CA",
+  "county_full": "San Diego County"
  },
  {
   "name": "Glass Beach",

@@ -104,6 +104,32 @@
   "county_full": "Garfield County"
  },
  {
+  "name": "Bonneville Speed Week",
+  "city": "Wendover",
+  "county": "Tooele",
+  "state": "Utah",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Quirky"
+  ],
+  "cost": "$20–$50",
+  "cost_num": 30,
+  "dur": "Full day",
+  "dur_h": 8,
+  "dates": "August, weather permitting",
+  "start": "1949",
+  "company": "Southern California Timing Association",
+  "party": "2–6",
+  "customer": "Speed nerds, photographers, families",
+  "unique": "A week on the salt flats where home built streamliners, roadsters and motorcycles run flat out for records, and anyone with a car and a license can take a rookie pass.",
+  "buzz": "The cars are extraordinary and the pits are open; the salt destroys everything it touches. Bring sunscreen, shade and a hat.",
+  "rating": 90,
+  "id": "bonneville-speed-week-wendover",
+  "state_abbr": "UT",
+  "county_full": "Tooele County"
+ },
+ {
   "name": "Park City Skiing",
   "city": "Park City",
   "county": "Summit",

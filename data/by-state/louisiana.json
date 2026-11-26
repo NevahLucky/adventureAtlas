@@ -77,6 +77,32 @@
   "county_full": "Orleans Parish"
  },
  {
+  "name": "13th Gate Escape",
+  "city": "Baton Rouge",
+  "county": "East Baton Rouge",
+  "state": "Louisiana",
+  "cats": [
+   "Puzzle",
+   "Immersive",
+   "Adrenaline"
+  ],
+  "cost": "$30–$40",
+  "cost_num": 35,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "2016",
+  "company": "13th Gate Escape",
+  "party": "2–6",
+  "customer": "Escape room fans, teens, families",
+  "unique": "Escape rooms built by the team behind one of the country's top haunted houses, with cinematic sets, live actors and puzzles that lean into horror rather than padlocks.",
+  "buzz": "Escape enthusiasts rank it among the best in the country; the sets are film quality and the scares are real. Book the hardest room if you are experienced.",
+  "rating": 88,
+  "id": "13th-gate-escape-baton-rouge",
+  "state_abbr": "LA",
+  "county_full": "East Baton Rouge Parish"
+ },
+ {
   "name": "Crawfish Boil Season",
   "city": "Lafayette",
   "county": "Lafayette",
@@ -103,6 +129,32 @@
   "county_full": "Lafayette Parish"
  },
  {
+  "name": "13th Gate Haunted House",
+  "city": "Baton Rouge",
+  "county": "East Baton Rouge",
+  "state": "Louisiana",
+  "cats": [
+   "Dark Tourism",
+   "Immersive",
+   "Adrenaline"
+  ],
+  "cost": "$30–$45",
+  "cost_num": 38,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Late Sep–early Nov",
+  "start": "2001",
+  "company": "The 13th Gate",
+  "party": "2–6",
+  "customer": "Haunted house fans, teens, young adults",
+  "unique": "A seasonal haunted attraction with movie grade sets, a crematorium, a swamp and thirty plus scenes, regularly ranked among the best in the United States.",
+  "buzz": "The detail is the difference: real props, trained actors and a route that keeps moving. Buy the fast pass if you hate lines.",
+  "rating": 87,
+  "id": "13th-gate-haunted-house-baton-rouge",
+  "state_abbr": "LA",
+  "county_full": "East Baton Rouge Parish"
+ },
+ {
   "name": "Honey Island Swamp Tour",
   "city": "Slidell",
   "county": "St. Tammany",
@@ -127,6 +179,32 @@
   "id": "honey-island-swamp-tour-slidell",
   "state_abbr": "LA",
   "county_full": "St. Tammany Parish"
+ },
+ {
+  "name": "The Myrtles",
+  "city": "St. Francisville",
+  "county": "West Feliciana",
+  "state": "Louisiana",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Spiritual"
+  ],
+  "cost": "$20–$200",
+  "cost_num": 45,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1796",
+  "company": "The Myrtles",
+  "party": "2–4",
+  "customer": "Ghost hunters, couples, history buffs",
+  "unique": "A 1796 plantation house with a famous haunted history, offering mystery tours, a restaurant and overnight stays in rooms where guests report footsteps and mirrors that move.",
+  "buzz": "The house and grounds are beautiful and the ghost stories are well told; overnight guests either love it or check out early. Book the tour even if you skip the stay.",
+  "rating": 85,
+  "id": "the-myrtles-st-francisville",
+  "state_abbr": "LA",
+  "county_full": "West Feliciana Parish"
  },
  {
   "name": "Angola Prison Rodeo",

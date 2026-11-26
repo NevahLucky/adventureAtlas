@@ -307,6 +307,34 @@
   "county_full": "Fairfax County"
  },
  {
+  "name": "Virginia Safari Park",
+  "city": "Natural Bridge",
+  "county": "Rockbridge",
+  "state": "Virginia",
+  "cats": [
+   "Wildlife",
+   "Family",
+   "Quirky"
+  ],
+  "cost": "$20–$25",
+  "cost_num": 22,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Mar–Nov",
+  "start": "2000",
+  "company": "Virginia Safari Park",
+  "party": "2–6",
+  "customer": "Families, kids, animal people",
+  "unique": "A 180 acre drive through safari where bison, zebra and elk stick their heads in your car, plus a walk through village with giraffes and kangaroos.",
+  "buzz": "Buy the feed and accept that your car will be licked; the drive through is the fun and the walk through is a bonus. Go early.",
+  "rating": 82,
+  "drive_min": 225,
+  "drive_min_clemson": 330,
+  "id": "virginia-safari-park-natural-bridge",
+  "state_abbr": "VA",
+  "county_full": "Rockbridge County"
+ },
+ {
   "name": "Mabry Mill",
   "city": "Meadows of Dan",
   "county": "Floyd",

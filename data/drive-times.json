@@ -1459,5 +1459,167 @@
   "name": "North Myrtle Beach, Horry County, South Carolina, United States",
   "drive_min": 210,
   "drive_min_clemson": 282
+ },
+ "Athens|Tennessee": {
+  "lat": 35.4428864,
+  "lon": -84.5930113,
+  "name": "Athens, McMinn County, East Tennessee, Tennessee, United States",
+  "drive_min": 284,
+  "drive_mi": 301,
+  "drive_min_clemson": 190,
+  "drive_mi_clemson": 168
+ },
+ "Bluffton|Georgia": {
+  "lat": 31.5229496,
+  "lon": -84.8677008,
+  "name": "Bluffton, Clay County, Georgia, 31724, United States",
+  "drive_min": 411,
+  "drive_mi": 406,
+  "drive_min_clemson": 286,
+  "drive_mi_clemson": 305
+ },
+ "Concord|North Carolina": {
+  "lat": 35.4094178,
+  "lon": -80.5800049,
+  "name": "Concord, Cabarrus County, North Carolina, United States",
+  "drive_min": 47,
+  "drive_mi": 43,
+  "drive_min_clemson": 154,
+  "drive_mi_clemson": 154
+ },
+ "Cottageville|South Carolina": {
+  "lat": 32.9371083,
+  "lon": -80.480981,
+  "name": "Cottageville, Colleton County, South Carolina, United States",
+  "drive_min": 169,
+  "drive_mi": 173,
+  "drive_min_clemson": 219,
+  "drive_mi_clemson": 215
+ },
+ "Gilbert|West Virginia": {
+  "lat": 37.6142758,
+  "lon": -81.8665068,
+  "name": "Gilbert, Mingo County, West Virginia, United States",
+  "drive_min": 267,
+  "drive_mi": 282,
+  "drive_min_clemson": 332,
+  "drive_mi_clemson": 304
+ },
+ "Hildebran|North Carolina": {
+  "lat": 35.7140208,
+  "lon": -81.4220334,
+  "name": "Hildebran, Burke County, North Carolina, 28637, United States",
+  "drive_min": 71,
+  "drive_mi": 71,
+  "drive_min_clemson": 147,
+  "drive_mi_clemson": 149
+ },
+ "Kershaw|South Carolina": {
+  "lat": 34.3334398,
+  "lon": -80.5669895,
+  "name": "Kershaw County, South Carolina, United States",
+  "drive_min": 81,
+  "drive_mi": 65,
+  "drive_min_clemson": 173,
+  "drive_mi_clemson": 166
+ },
+ "Laurens|South Carolina": {
+  "lat": 34.4646451,
+  "lon": -81.9944042,
+  "name": "Laurens County, South Carolina, United States",
+  "drive_min": 105,
+  "drive_mi": 88,
+  "drive_min_clemson": 81,
+  "drive_mi_clemson": 62
+ },
+ "Moundsville|West Virginia": {
+  "lat": 39.920425,
+  "lon": -80.7432124,
+  "name": "Moundsville, Marshall County, West Virginia, 26041, United States",
+  "drive_min": 405,
+  "drive_mi": 430,
+  "drive_min_clemson": 510,
+  "drive_mi_clemson": 539
+ },
+ "Oliver Springs|Tennessee": {
+  "lat": 36.0462576,
+  "lon": -84.3432971,
+  "name": "Oliver Springs, Roane County, East Tennessee, Tennessee, United States",
+  "drive_min": 259,
+  "drive_mi": 272,
+  "drive_min_clemson": 222,
+  "drive_mi_clemson": 218
+ },
+ "Pittsboro|North Carolina": {
+  "lat": 35.7201229,
+  "lon": -79.1771539,
+  "name": "Pittsboro, Chatham County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 149,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 260
+ },
+ "Rockingham|North Carolina": {
+  "lat": 36.3926798,
+  "lon": -79.744144,
+  "name": "Rockingham County, North Carolina, United States",
+  "drive_min": 137,
+  "drive_mi": 138,
+  "drive_min_clemson": 243,
+  "drive_mi_clemson": 249
+ },
+ "Scotland Neck|North Carolina": {
+  "lat": 36.1296002,
+  "lon": -77.4202475,
+  "name": "Scotland Neck, Halifax County, North Carolina, United States",
+  "drive_min": 263,
+  "drive_mi": 267,
+  "drive_min_clemson": 370,
+  "drive_mi_clemson": 378
+ },
+ "Troy|North Carolina": {
+  "lat": 35.3584743,
+  "lon": -79.8944901,
+  "name": "Troy, Montgomery County, North Carolina, United States",
+  "drive_min": 88,
+  "drive_mi": 76,
+  "drive_min_clemson": 203,
+  "drive_mi_clemson": 200
+ },
+ "Union Point|Georgia": {
+  "lat": 33.6156831,
+  "lon": -83.0745969,
+  "name": "Union Point, Greene County, Georgia, United States",
+  "drive_min": 193,
+  "drive_mi": 208,
+  "drive_min_clemson": 130,
+  "drive_mi_clemson": 101
+ },
+ "West Columbia|South Carolina": {
+  "lat": 33.991869,
+  "lon": -81.0640341,
+  "name": "West Columbia, Lexington County, South Carolina, United States",
+  "drive_min": 76,
+  "drive_mi": 78,
+  "drive_min_clemson": 130,
+  "drive_mi_clemson": 126
+ },
+ "Williamston|South Carolina": {
+  "lat": 34.6184471,
+  "lon": -82.4779053,
+  "name": "Williamston, Anderson County, South Carolina, United States",
+  "drive_min": 125,
+  "drive_mi": 118,
+  "drive_min_clemson": 36,
+  "drive_mi_clemson": 28
+ },
+ "Winnsboro|South Carolina": {
+  "lat": 34.3807012,
+  "lon": -81.0864776,
+  "name": "Winnsboro, Fairfield County, South Carolina, United States",
+  "drive_min": 54,
+  "drive_mi": 50,
+  "drive_min_clemson": 141,
+  "drive_mi_clemson": 120
  }
 }

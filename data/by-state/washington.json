@@ -77,6 +77,32 @@
   "county_full": "Whatcom County"
  },
  {
+  "name": "DirtFish Rally School",
+  "city": "Snoqualmie",
+  "county": "King",
+  "state": "Washington",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$300–$1200",
+  "cost_num": 600,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "DirtFish",
+  "party": "2–4",
+  "customer": "Drivers, thrill seekers, corporate groups",
+  "unique": "Rally driving school on a gravel and forest stage, with instructors who teach you to slide a car sideways on purpose and a fleet of prepared Subarus.",
+  "buzz": "The half day course is enough to be humbling and addictive; the forest setting is beautiful in the rain. Book months ahead.",
+  "rating": 91,
+  "id": "dirtfish-rally-school-snoqualmie",
+  "state_abbr": "WA",
+  "county_full": "King County"
+ },
+ {
   "name": "San Juan Islands Orca Kayak",
   "city": "Friday Harbor",
   "county": "San Juan",

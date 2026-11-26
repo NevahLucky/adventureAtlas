@@ -1,5 +1,31 @@
 [
  {
+  "name": "Lakota Wolf Preserve",
+  "city": "Columbia",
+  "county": "Warren",
+  "state": "New Jersey",
+  "cats": [
+   "Wildlife",
+   "Nature",
+   "Science"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 20,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round, tours by reservation",
+  "start": "1998",
+  "company": "Lakota Wolf Preserve",
+  "party": "2–4",
+  "customer": "Families, photographers, animal people",
+  "unique": "A wolf preserve where you sit on benches inside the enclosure while timber, arctic and tundra wolves circle and howl, guided by keepers who raised them.",
+  "buzz": "The howl is the moment everyone remembers and the photography is extraordinary; book the morning tour and follow the rules.",
+  "rating": 85,
+  "id": "lakota-wolf-preserve-columbia",
+  "state_abbr": "NJ",
+  "county_full": "Warren County"
+ },
+ {
   "name": "Grounds For Sculpture",
   "city": "Hamilton",
   "county": "Mercer",

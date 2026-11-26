@@ -28,6 +28,34 @@
   "county_full": "Sevier County"
  },
  {
+  "name": "Windrock Park",
+  "city": "Oliver Springs",
+  "county": "Anderson",
+  "state": "Tennessee",
+  "cats": [
+   "Off Road",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$20–$40",
+  "cost_num": 30,
+  "dur": "2 days",
+  "dur_h": 16,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "Windrock Park",
+  "party": "2–8",
+  "customer": "Off roaders, families, groups",
+  "unique": "Seventy three thousand acres and over three hundred miles of off road trails on a former coal mining property, from easy gravel roads to rock obstacles that require a built rig.",
+  "buzz": "It is big enough for a weekend and the trail map is essential; cabins and campgrounds sit at the base. Cell service is patchy on the mountain.",
+  "rating": 89,
+  "drive_min": 259,
+  "drive_min_clemson": 222,
+  "id": "windrock-park-oliver-springs",
+  "state_abbr": "TN",
+  "county_full": "Anderson County"
+ },
+ {
   "name": "Ocoee River Rafting",
   "city": "Ocoee",
   "county": "Polk",
@@ -334,6 +362,34 @@
   "county_full": "Coffee County"
  },
  {
+  "name": "Elkmont Ghost Town",
+  "city": "Gatlinburg",
+  "county": "Sevier",
+  "state": "Tennessee",
+  "cats": [
+   "Dark Tourism",
+   "Hiking",
+   "Historical"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Apr–Nov",
+  "start": "1900s",
+  "company": "Great Smoky Mountains National Park",
+  "party": "2–4",
+  "customer": "Hikers, photographers, history buffs",
+  "unique": "A abandoned resort community inside the national park, with empty cabins and a hotel foundation along the Little River, reachable on foot and slowly being reclaimed by the forest.",
+  "buzz": "The walk is easy and the cabins are haunting in the best way; fireflies synchronize here in June. No fees and no crowds at dawn.",
+  "rating": 85,
+  "drive_min": 213,
+  "drive_min_clemson": 140,
+  "id": "elkmont-ghost-town-gatlinburg",
+  "state_abbr": "TN",
+  "county_full": "Sevier County"
+ },
+ {
   "name": "Graceland",
   "city": "Memphis",
   "county": "Shelby",
@@ -557,6 +613,33 @@
   "county_full": "Hamilton County"
  },
  {
+  "name": "The Escape Game",
+  "city": "Nashville",
+  "county": "Davidson",
+  "state": "Tennessee",
+  "cats": [
+   "Puzzle",
+   "Immersive"
+  ],
+  "cost": "$35–$45",
+  "cost_num": 40,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "2014",
+  "company": "The Escape Game",
+  "party": "2–8",
+  "customer": "Families, friends, corporate groups",
+  "unique": "High production escape rooms with practical effects and set design that feels like a film, including a prison break room and a gold rush mine.",
+  "buzz": "The rooms are polished and fair, which matters if you have done a few bad ones. Book the whole room for a group and arrive early.",
+  "rating": 82,
+  "drive_min": 392,
+  "drive_min_clemson": 322,
+  "id": "the-escape-game-nashville",
+  "state_abbr": "TN",
+  "county_full": "Davidson County"
+ },
+ {
   "name": "Anakeesta",
   "city": "Gatlinburg",
   "county": "Sevier",
@@ -611,6 +694,34 @@
   "id": "sunsphere-and-market-square-knoxville",
   "state_abbr": "TN",
   "county_full": "Knox County"
+ },
+ {
+  "name": "Mayfield Dairy Farms",
+  "city": "Athens",
+  "county": "McMinn",
+  "state": "Tennessee",
+  "cats": [
+   "Food & Drink",
+   "Maker",
+   "Family"
+  ],
+  "cost": "$5–$8",
+  "cost_num": 6,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, weekdays",
+  "start": "1910",
+  "company": "Mayfield Dairy",
+  "party": "2–6",
+  "customer": "Families, kids, road trippers",
+  "unique": "A dairy tour with a glass viewing walkway over the bottling line and an ice cream shop at the end, in a Tennessee company town that has been churning since 1910.",
+  "buzz": "It is a cheap, air conditioned hour with kids and the ice cream is the reward. The yellow jugs are a Southern grocery memory.",
+  "rating": 75,
+  "drive_min": 284,
+  "drive_min_clemson": 190,
+  "id": "mayfield-dairy-farms-athens",
+  "state_abbr": "TN",
+  "county_full": "McMinn County"
  },
  {
   "name": "Ruby Falls",

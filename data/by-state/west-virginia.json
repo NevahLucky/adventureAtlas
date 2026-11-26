@@ -83,6 +83,34 @@
   "county_full": "Fayette County"
  },
  {
+  "name": "Hatfield McCoy Trails",
+  "city": "Gilbert",
+  "county": "Mingo",
+  "state": "West Virginia",
+  "cats": [
+   "Off Road",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 45,
+  "dur": "2–3 days",
+  "dur_h": 24,
+  "dates": "Year round",
+  "start": "2000",
+  "company": "Hatfield McCoy Trails",
+  "party": "2–8",
+  "customer": "ATV riders, families, groups",
+  "unique": "Hundreds of miles of interconnected trail systems through former coal country, with towns that allow ATVs on the streets and trailheads that connect to food and lodging.",
+  "buzz": "This is the benchmark for eastern off roading: well marked, well maintained and enormous. Book a cabin and plan two days minimum.",
+  "rating": 90,
+  "drive_min": 267,
+  "drive_min_clemson": 332,
+  "id": "hatfield-mccoy-trails-gilbert",
+  "state_abbr": "WV",
+  "county_full": "Mingo County"
+ },
+ {
   "name": "Dolly Sods Wilderness",
   "city": "Davis",
   "county": "Tucker",
@@ -136,6 +164,33 @@
   "id": "harpers-ferry-harpers-ferry",
   "state_abbr": "WV",
   "county_full": "Jefferson County"
+ },
+ {
+  "name": "Moundsville State Penitentiary",
+  "city": "Moundsville",
+  "county": "Marshall",
+  "state": "West Virginia",
+  "cats": [
+   "Dark Tourism",
+   "Historical"
+  ],
+  "cost": "$20–$40",
+  "cost_num": 28,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1876",
+  "company": "Moundsville Prison",
+  "party": "2–6",
+  "customer": "Ghost hunters, history buffs, teens",
+  "unique": "A Gothic prison with a working gallows, a recreation of the electric chair and a subterranean cell block called the hole, offering day tours and overnight ghost hunts.",
+  "buzz": "Guides are former guards and tell unvarnished stories; the overnight events are not for everyone. One of the most intense prison tours in the country.",
+  "rating": 86,
+  "drive_min": 405,
+  "drive_min_clemson": 510,
+  "id": "moundsville-state-penitentiary-moundsville",
+  "state_abbr": "WV",
+  "county_full": "Marshall County"
  },
  {
   "name": "Seneca Rocks",

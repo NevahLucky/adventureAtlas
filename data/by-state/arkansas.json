@@ -52,6 +52,32 @@
   "county_full": "Benton County"
  },
  {
+  "name": "Crescent Hotel",
+  "city": "Eureka Springs",
+  "county": "Carroll",
+  "state": "Arkansas",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Spiritual"
+  ],
+  "cost": "$20–$30",
+  "cost_num": 24,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1886",
+  "company": "Crescent Hotel",
+  "party": "2–4",
+  "customer": "Ghost hunters, couples, history buffs",
+  "unique": "A limestone hotel built as a cancer cure, later a college and a scam, now a haunted hotel with a ghost tour that climbs to the fifth floor and the morgue in the basement.",
+  "buzz": "The tour guides are performers and the building has real stories; the town of Eureka Springs is worth the weekend on its own.",
+  "rating": 83,
+  "id": "crescent-hotel-eureka-springs",
+  "state_abbr": "AR",
+  "county_full": "Carroll County"
+ },
+ {
   "name": "Ozark Folk Center",
   "city": "Mountain View",
   "county": "Stone",

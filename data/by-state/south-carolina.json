@@ -84,6 +84,34 @@
   "county_full": "Oconee County"
  },
  {
+  "name": "24 Hours of Lemons",
+  "city": "Kershaw",
+  "county": "Kershaw",
+  "state": "South Carolina",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Quirky"
+  ],
+  "cost": "$150–$300 to spectate",
+  "cost_num": 150,
+  "dur": "2 days",
+  "dur_h": 16,
+  "dates": "Selected weekends",
+  "start": "2006",
+  "company": "24 Hours of Lemons",
+  "party": "2–8",
+  "customer": "Amateur racers, car clubs, spectators",
+  "unique": "Endurance racing for cars that cost five hundred dollars or less, with theme costumes, penalty flags and a paddock full of people who built their own race car in a driveway.",
+  "buzz": "It is the most fun you can have at a racetrack without being fast; spectators wander the paddock and teams will explain every terrible decision.",
+  "rating": 88,
+  "drive_min": 81,
+  "drive_min_clemson": 173,
+  "id": "24-hours-of-lemons-kershaw",
+  "state_abbr": "SC",
+  "county_full": "Kershaw County"
+ },
+ {
   "name": "Pretty Place Chapel",
   "city": "Cleveland",
   "county": "Greenville",
@@ -140,6 +168,33 @@
   "county_full": "Charleston County"
  },
  {
+  "name": "Carolina Motorsports Park Track Day",
+  "city": "Kershaw",
+  "county": "Kershaw",
+  "state": "South Carolina",
+  "cats": [
+   "Motorsport",
+   "Adrenaline"
+  ],
+  "cost": "$200–$450",
+  "cost_num": 300,
+  "dur": "Full day",
+  "dur_h": 8,
+  "dates": "Year round, event days",
+  "start": "1999",
+  "company": "Carolina Motorsports Park",
+  "party": "2–4",
+  "customer": "Drivers, car clubs, beginners",
+  "unique": "A 2.2 mile road course where you can bring your own car, take instruction and run real laps, with a kart track and skid pad on the same property.",
+  "buzz": "The novice group is well coached and the track is forgiving; brakes and tires will not survive if you overdrive. Book early, days sell out.",
+  "rating": 87,
+  "drive_min": 81,
+  "drive_min_clemson": 173,
+  "id": "carolina-motorsports-park-track-day-kershaw",
+  "state_abbr": "SC",
+  "county_full": "Kershaw County"
+ },
+ {
   "name": "BMW Performance Center",
   "city": "Greer",
   "county": "Spartanburg",
@@ -165,6 +220,34 @@
   "id": "bmw-performance-center-greer",
   "state_abbr": "SC",
   "county_full": "Spartanburg County"
+ },
+ {
+  "name": "Carolina Adventure World",
+  "city": "Winnsboro",
+  "county": "Fairfield",
+  "state": "South Carolina",
+  "cats": [
+   "Off Road",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 40,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "Year round, Wed–Sun",
+  "start": "2005",
+  "company": "Carolina Adventure World",
+  "party": "2–6",
+  "customer": "ATV riders, families, groups",
+  "unique": "One hundred miles of marked ATV and UTV trails through 3,000 acres of piedmont forest, with mud pits, hill climbs and cabin rentals at the trailhead.",
+  "buzz": "Bring your own machine or rent one; the trails are wide enough for beginners and the mud holes are optional. Dusty in summer, glorious in fall.",
+  "rating": 86,
+  "drive_min": 54,
+  "drive_min_clemson": 141,
+  "id": "carolina-adventure-world-winnsboro",
+  "state_abbr": "SC",
+  "county_full": "Fairfield County"
  },
  {
   "name": "Charleston Rainbow Row",
@@ -502,6 +585,33 @@
   "county_full": "Greenville County"
  },
  {
+  "name": "Old Charleston Jail",
+  "city": "Charleston",
+  "county": "Charleston",
+  "state": "South Carolina",
+  "cats": [
+   "Dark Tourism",
+   "Historical"
+  ],
+  "cost": "$30–$40",
+  "cost_num": 35,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round, nightly",
+  "start": "1802",
+  "company": "Bulldog Tours",
+  "party": "2–4",
+  "customer": "Ghost hunters, families with teens, history buffs",
+  "unique": "A jail that held pirates, Confederate prisoners and civil rights protesters, toured after dark with stories of executions, fires and the people who never left.",
+  "buzz": "The history is real and uncomfortable, which makes the ghost stories land harder. Guides are performers and researchers at once.",
+  "rating": 84,
+  "drive_min": 178,
+  "drive_min_clemson": 228,
+  "id": "old-charleston-jail-charleston",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
+ },
+ {
   "name": "Riverbanks Zoo and Garden",
   "city": "Columbia",
   "county": "Richland",
@@ -586,6 +696,33 @@
   "county_full": "York County"
  },
  {
+  "name": "Gulches Off Road Park",
+  "city": "Laurens",
+  "county": "Laurens",
+  "state": "South Carolina",
+  "cats": [
+   "Off Road",
+   "Adrenaline"
+  ],
+  "cost": "$20–$30",
+  "cost_num": 25,
+  "dur": "Full day",
+  "dur_h": 6,
+  "dates": "Weekends",
+  "start": "—",
+  "company": "Gulches Off Road Park",
+  "party": "2–4",
+  "customer": "Jeep and buggy owners, climbers",
+  "unique": "A rock crawling park in a hardwood gulch with ledges, waterfalls and trails rated from stock friendly to buggy only, and a crowd that will spot you through anything.",
+  "buzz": "The community is the point: strangers guide you up a ledge and cheer when you make it. Body damage is possible and expected.",
+  "rating": 83,
+  "drive_min": 105,
+  "drive_min_clemson": 81,
+  "id": "gulches-off-road-park-laurens",
+  "state_abbr": "SC",
+  "county_full": "Laurens County"
+ },
+ {
   "name": "Stumphouse Tunnel and Issaqueena Falls",
   "city": "Walhalla",
   "county": "Oconee",
@@ -642,6 +779,34 @@
   "county_full": "Greenville County"
  },
  {
+  "name": "Anderson Motor Speedway",
+  "city": "Williamston",
+  "county": "Anderson",
+  "state": "South Carolina",
+  "cats": [
+   "Motorsport",
+   "Community",
+   "Family"
+  ],
+  "cost": "$10–$20",
+  "cost_num": 15,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Mar–Oct, Saturday nights",
+  "start": "—",
+  "company": "Anderson Motor Speedway",
+  "party": "2–6",
+  "customer": "Locals, families, racing fans",
+  "unique": "A short asphalt oval where local teams race late models and street stocks on Saturday nights, with a grandstand you can sit in for ten dollars and a track that produces real contact.",
+  "buzz": "Short track racing is the best value in motorsport and this is a friendly little track. Bring a jacket and sit near the first turn.",
+  "rating": 82,
+  "drive_min": 125,
+  "drive_min_clemson": 36,
+  "id": "anderson-motor-speedway-williamston",
+  "state_abbr": "SC",
+  "county_full": "Anderson County"
+ },
+ {
   "name": "Beaufort Historic District",
   "city": "Beaufort",
   "county": "Beaufort",
@@ -668,6 +833,34 @@
   "id": "beaufort-historic-district-beaufort",
   "state_abbr": "SC",
   "county_full": "Beaufort County"
+ },
+ {
+  "name": "Bee City Honeybee Farm",
+  "city": "Cottageville",
+  "county": "Colleton",
+  "state": "South Carolina",
+  "cats": [
+   "Maker",
+   "Wildlife",
+   "Family"
+  ],
+  "cost": "$8–$12",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, closed Sundays",
+  "start": "1990s",
+  "company": "Bee City",
+  "party": "2–6",
+  "customer": "Families, kids, honey people",
+  "unique": "A family honey farm with an observation hive you can watch up close, a petting zoo, honey tasting and a keeper who explains how a colony survives the summer.",
+  "buzz": "The bee talk is genuinely educational and kids get to see the queen; the honey and pollen are sold on site. Small and sincere.",
+  "rating": 82,
+  "drive_min": 169,
+  "drive_min_clemson": 219,
+  "id": "bee-city-honeybee-farm-cottageville",
+  "state_abbr": "SC",
+  "county_full": "Colleton County"
  },
  {
   "name": "Camden Cup",
@@ -779,6 +972,34 @@
   "id": "historic-brattonsville-mcconnells",
   "state_abbr": "SC",
   "county_full": "York County"
+ },
+ {
+  "name": "New Brookland Tavern",
+  "city": "West Columbia",
+  "county": "Lexington",
+  "state": "South Carolina",
+  "cats": [
+   "Music",
+   "Nightlife",
+   "Community"
+  ],
+  "cost": "$10–$25",
+  "cost_num": 15,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round, show nights",
+  "start": "—",
+  "company": "New Brookland Tavern",
+  "party": "2–4",
+  "customer": "Music fans, students, locals",
+  "unique": "A scruffy room across the river from Columbia that books punk, hardcore and indie bands, with a patio, a pool table and a sound system louder than the building suggests.",
+  "buzz": "The booking is adventurous and the crowd is there for the music. Cheap cover, no dress code, genuine scene.",
+  "rating": 82,
+  "drive_min": 76,
+  "drive_min_clemson": 130,
+  "id": "new-brookland-tavern-west-columbia",
+  "state_abbr": "SC",
+  "county_full": "Lexington County"
  },
  {
   "name": "Sassafras Mountain",
@@ -1139,6 +1360,33 @@
   "id": "esso-club-clemson",
   "state_abbr": "SC",
   "county_full": "Pickens County"
+ },
+ {
+  "name": "Laurens County Speedway",
+  "city": "Laurens",
+  "county": "Laurens",
+  "state": "South Carolina",
+  "cats": [
+   "Motorsport",
+   "Community"
+  ],
+  "cost": "$10–$20",
+  "cost_num": 14,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Mar–Oct, Saturday nights",
+  "start": "—",
+  "company": "Laurens County Speedway",
+  "party": "2–6",
+  "customer": "Locals, families, dirt track fans",
+  "unique": "A red clay oval where crates, street stocks and bombers slide through the turns on Saturday nights, with a concession stand and a crowd that knows every driver by name.",
+  "buzz": "Dirt track racing at its most honest: cheap, loud and occasionally chaotic. Sit high in turn four.",
+  "rating": 78,
+  "drive_min": 105,
+  "drive_min_clemson": 81,
+  "id": "laurens-county-speedway-laurens",
+  "state_abbr": "SC",
+  "county_full": "Laurens County"
  },
  {
   "name": "Horizon Records",

@@ -78,6 +78,32 @@
   "county_full": "Gove County"
  },
  {
+  "name": "Sallie House",
+  "city": "Atchison",
+  "county": "Atchison",
+  "state": "Kansas",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Quirky"
+  ],
+  "cost": "$50–$100",
+  "cost_num": 60,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "By reservation",
+  "start": "1870s",
+  "company": "Sallie House",
+  "party": "2–4",
+  "customer": "Ghost hunters, paranormal fans",
+  "unique": "A small Victorian house where a young girl is said to have died during an appendectomy, now rented by the night for investigations with a binder of reported activity and no caretaker on site.",
+  "buzz": "It is not a show, it is a house, and that is what makes it unsettling. Serious investigators book weeknights and bring their own equipment.",
+  "rating": 78,
+  "id": "sallie-house-atchison",
+  "state_abbr": "KS",
+  "county_full": "Atchison County"
+ },
+ {
   "name": "Boot Hill Museum",
   "city": "Dodge City",
   "county": "Ford",

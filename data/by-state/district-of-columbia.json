@@ -153,5 +153,31 @@
   "id": "international-spy-museum-washington",
   "state_abbr": "DC",
   "county_full": "District of Columbia"
+ },
+ {
+  "name": "ARTECHOUSE",
+  "city": "Washington",
+  "county": "District of Columbia",
+  "state": "District of Columbia",
+  "cats": [
+   "Immersive",
+   "Art",
+   "Science"
+  ],
+  "cost": "$20–$30",
+  "cost_num": 25,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "2017",
+  "company": "ARTECHOUSE",
+  "party": "2–4",
+  "customer": "Families, couples, design people",
+  "unique": "A subterranean digital art space under the Mall where projectors turn the walls and floor into a moving environment, with a different artist each season.",
+  "buzz": "The scale is impressive in a small room; shows change often so check what is running. Good rainy day option.",
+  "rating": 78,
+  "id": "artechouse-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  }
 ]

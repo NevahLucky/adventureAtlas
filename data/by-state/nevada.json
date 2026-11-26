@@ -104,6 +104,32 @@
   "county_full": "Clark County"
  },
  {
+  "name": "Mint 400",
+  "city": "Las Vegas",
+  "county": "Clark",
+  "state": "Nevada",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Festival"
+  ],
+  "cost": "Free–$60",
+  "cost_num": 30,
+  "dur": "2 days",
+  "dur_h": 16,
+  "dates": "March",
+  "start": "1967",
+  "company": "The Mint 400",
+  "party": "2–6",
+  "customer": "Off road fans, photographers, families",
+  "unique": "A desert off road race for trucks, buggies and motorcycles across hundreds of miles of Mojave, with a pit area you can walk and a contingency parade down Fremont Street.",
+  "buzz": "The trucks are enormous and the jumps are violent; spectating requires a map and a four wheel drive. The Fremont Street parade is free.",
+  "rating": 88,
+  "id": "mint-400-las-vegas",
+  "state_abbr": "NV",
+  "county_full": "Clark County"
+ },
+ {
   "name": "Red Rock Canyon",
   "city": "Las Vegas",
   "county": "Clark",

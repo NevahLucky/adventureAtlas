@@ -77,6 +77,56 @@
   "county_full": "Hocking County"
  },
  {
+  "name": "Ohio State Reformatory",
+  "city": "Mansfield",
+  "county": "Richland",
+  "state": "Ohio",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Film"
+  ],
+  "cost": "$20–$40",
+  "cost_num": 30,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round, seasonal haunts",
+  "start": "1896",
+  "company": "Ohio State Reformatory",
+  "party": "2–4",
+  "customer": "Film fans, ghost hunters, history buffs",
+  "unique": "A towering Romanesque prison used in The Shawshank Redemption, with cell blocks six tiers high, solitary confinement and overnight paranormal investigations.",
+  "buzz": "The architecture is stunning and the Shawshank connection brings film people; the ghost tours are a separate, spookier ticket.",
+  "rating": 88,
+  "id": "ohio-state-reformatory-mansfield",
+  "state_abbr": "OH",
+  "county_full": "Richland County"
+ },
+ {
+  "name": "Otherworld",
+  "city": "Columbus",
+  "county": "Franklin",
+  "state": "Ohio",
+  "cats": [
+   "Immersive",
+   "Art",
+   "Puzzle"
+  ],
+  "cost": "$25–$35",
+  "cost_num": 30,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Thu–Sun",
+  "start": "2020",
+  "company": "Otherworld",
+  "unique": "A 32,000 square foot immersive art installation of more than forty rooms, half escape game and half dreamscape, where you open drawers and follow a loose story through the space.",
+  "buzz": "The scale is impressive and the details reward curiosity; it is less narrative than Meow Wolf and more playground. Good for teens.",
+  "rating": 85,
+  "id": "otherworld-columbus",
+  "state_abbr": "OH",
+  "county_full": "Franklin County"
+ },
+ {
   "name": "Serpent Mound",
   "city": "Peebles",
   "county": "Adams",

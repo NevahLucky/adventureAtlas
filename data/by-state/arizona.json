@@ -234,6 +234,32 @@
   "county_full": "Pinal County"
  },
  {
+  "name": "Bearizona",
+  "city": "Williams",
+  "county": "Coconino",
+  "state": "Arizona",
+  "cats": [
+   "Wildlife",
+   "Family",
+   "Road Trip"
+  ],
+  "cost": "$25–$30",
+  "cost_num": 27,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "Bearizona",
+  "party": "2–6",
+  "customer": "Families, kids, road trippers",
+  "unique": "A drive through wildlife park with black bears, wolves and bison roaming large forest enclosures, plus a walk through section with otters and jaguars.",
+  "buzz": "The drive through is the draw and the bears come close to the car; the walk through is smaller. A good stop on the way to the Grand Canyon.",
+  "rating": 82,
+  "id": "bearizona-williams",
+  "state_abbr": "AZ",
+  "county_full": "Coconino County"
+ },
+ {
   "name": "Meteor Crater",
   "city": "Winslow",
   "county": "Coconino",
@@ -284,6 +310,32 @@
   "id": "mystery-castle-phoenix",
   "state_abbr": "AZ",
   "county_full": "Maricopa County"
+ },
+ {
+  "name": "Rooster Cogburn Ostrich Ranch",
+  "city": "Picacho",
+  "county": "Pinal",
+  "state": "Arizona",
+  "cats": [
+   "Wildlife",
+   "Family",
+   "Quirky"
+  ],
+  "cost": "$8–$12",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1990s",
+  "company": "Rooster Cogburn Ostrich Ranch",
+  "party": "2–6",
+  "customer": "Families, kids, road trippers",
+  "unique": "An ostrich ranch beside the interstate where you hand feed ostriches, donkeys and parakeets from a cup, with a monster truck tour and a petting area.",
+  "buzz": "It is silly and cheap and kids talk about it for years; the birds are aggressive in a funny way. A good break on the drive to Tucson.",
+  "rating": 77,
+  "id": "rooster-cogburn-ostrich-ranch-picacho",
+  "state_abbr": "AZ",
+  "county_full": "Pinal County"
  },
  {
   "name": "Tombstone Gunfight",

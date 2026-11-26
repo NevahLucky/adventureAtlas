@@ -359,6 +359,32 @@
   "county_full": "Kings County"
  },
  {
+  "name": "House of Yes",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "state": "New York",
+  "cats": [
+   "Performance",
+   "Nightlife",
+   "Immersive"
+  ],
+  "cost": "$20–$50",
+  "cost_num": 35,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Year round, event nights",
+  "start": "2008",
+  "company": "House of Yes",
+  "party": "2–6",
+  "customer": "Young adults, performers, night owls",
+  "unique": "A warehouse in Bushwick putting on circus, burlesque, immersive theater and themed parties with aerialists over the crowd and a strict no phones policy.",
+  "buzz": "The productions are wildly creative and the crowd dresses for it; shows sell out and the space gets packed. Check the dress code before you go.",
+  "rating": 83,
+  "id": "house-of-yes-brooklyn",
+  "state_abbr": "NY",
+  "county_full": "Kings County"
+ },
+ {
   "name": "City Reliquary",
   "city": "Brooklyn",
   "county": "Kings",
@@ -409,6 +435,31 @@
   "id": "sleepy-hollow-halloween-sleepy-hollow",
   "state_abbr": "NY",
   "county_full": "Westchester County"
+ },
+ {
+  "name": "The Slipper Room",
+  "city": "New York",
+  "county": "New York",
+  "state": "New York",
+  "cats": [
+   "Performance",
+   "Nightlife"
+  ],
+  "cost": "$20–$40",
+  "cost_num": 30,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, nightly",
+  "start": "1999",
+  "company": "The Slipper Room",
+  "party": "2–4",
+  "customer": "Young adults, couples, visitors",
+  "unique": "A tiny burlesque and variety club on the Lower East Side with a velvet stage, a live band and acts that range from classic tease to sword swallowing.",
+  "buzz": "The room is intimate and the performers are professionals; get a table early and tip well. A reliable weird night out.",
+  "rating": 82,
+  "id": "the-slipper-room-new-york",
+  "state_abbr": "NY",
+  "county_full": "New York County"
  },
  {
   "name": "Bethel Woods",

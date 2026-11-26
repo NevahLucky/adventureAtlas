@@ -231,6 +231,56 @@
   "county_full": "Philadelphia County"
  },
  {
+  "name": "Field of Screams",
+  "city": "Mountville",
+  "county": "Lancaster",
+  "state": "Pennsylvania",
+  "cats": [
+   "Dark Tourism",
+   "Immersive",
+   "Adrenaline"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 45,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Late Sep–Oct",
+  "start": "1993",
+  "company": "Field of Screams",
+  "party": "2–6",
+  "customer": "Haunted house fans, teens, young adults",
+  "unique": "Four attractions on a farm, including a haunted hayride through the woods, a den of darkness and a corn maze, run with a level of set design that has kept it nationally ranked.",
+  "buzz": "The hayride is the signature and the actors are relentless; go with a group and buy the combo pass. Lines peak after dark.",
+  "rating": 81,
+  "id": "field-of-screams-mountville",
+  "state_abbr": "PA",
+  "county_full": "Lancaster County"
+ },
+ {
+  "name": "Pennhurst Asylum",
+  "city": "Spring City",
+  "county": "Chester",
+  "state": "Pennsylvania",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Adrenaline"
+  ],
+  "cost": "$30–$50",
+  "cost_num": 40,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Late Sep–Oct, seasonal",
+  "start": "1908",
+  "company": "Pennhurst Asylum",
+  "unique": "A haunted attraction inside a real abandoned institution for people with disabilities, with tunnels, wards and a history that is darker than any actor in makeup.",
+  "buzz": "The setting does most of the work and the history is worth reading before you go; some visitors find the spectacle uncomfortable given the real suffering.",
+  "rating": 81,
+  "id": "pennhurst-asylum-spring-city",
+  "state_abbr": "PA",
+  "county_full": "Chester County"
+ },
+ {
   "name": "Roadside America",
   "city": "Shartlesville",
   "county": "Berks",
@@ -255,6 +305,32 @@
   "id": "roadside-america-shartlesville",
   "state_abbr": "PA",
   "county_full": "Berks County"
+ },
+ {
+  "name": "Centralia",
+  "city": "Centralia",
+  "county": "Columbia",
+  "state": "Pennsylvania",
+  "cats": [
+   "Dark Tourism",
+   "Road Trip",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1866",
+  "company": "Free / self-guided",
+  "party": "NA",
+  "customer": "Road trippers, urban explorers",
+  "unique": "A town mostly erased by an underground coal fire that has burned since 1962, with a few streets, a cemetery and graffiti on the closed highway, watched over by a handful of residents.",
+  "buzz": "It is eerie and quiet and you should stay on the road; the fire is still burning and the ground is unstable. A sobering detour, not a playground.",
+  "rating": 74,
+  "id": "centralia-centralia",
+  "state_abbr": "PA",
+  "county_full": "Columbia County"
  },
  {
   "name": "Punxsutawney Groundhog Day",

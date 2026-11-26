@@ -181,6 +181,32 @@
   "county_full": "Pulaski County"
  },
  {
+  "name": "Lemp Mansion",
+  "city": "St. Louis",
+  "county": "St. Louis City",
+  "state": "Missouri",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Food & Drink"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 40,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1868",
+  "company": "Lemp Mansion",
+  "party": "2–6",
+  "customer": "Ghost hunters, history buffs, couples",
+  "unique": "A brewery family's mansion where several members died by suicide, now a restaurant and inn with ghost tours, dinner theater and overnight rooms that guests leave early.",
+  "buzz": "The dinner mystery is campy and the history is genuinely tragic; overnight guests report doors and footsteps. Book the tour before you commit to a room.",
+  "rating": 82,
+  "id": "lemp-mansion-st-louis",
+  "state_abbr": "MO",
+  "county_full": "St. Louis City"
+ },
+ {
   "name": "Crown Candy Kitchen",
   "city": "St. Louis",
   "county": "St. Louis City",

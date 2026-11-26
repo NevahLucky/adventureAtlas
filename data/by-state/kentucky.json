@@ -1,5 +1,33 @@
 [
  {
+  "name": "Waverly Hills Sanatorium",
+  "city": "Louisville",
+  "county": "Jefferson",
+  "state": "Kentucky",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Adrenaline"
+  ],
+  "cost": "$30–$100",
+  "cost_num": 50,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, tours and overnight",
+  "start": "1910",
+  "company": "Waverly Hills",
+  "party": "2–6",
+  "customer": "Ghost hunters, history buffs, teens",
+  "unique": "A massive tuberculosis hospital on a hill, with a body chute, a solarium and four floors of decaying wards, run as historical tours by day and paranormal investigations by night.",
+  "buzz": "The history is genuinely grim and the building is enormous; overnight investigations are the draw for believers. Book well ahead in October.",
+  "rating": 90,
+  "drive_min": 448,
+  "drive_min_clemson": 410,
+  "id": "waverly-hills-sanatorium-louisville",
+  "state_abbr": "KY",
+  "county_full": "Jefferson County"
+ },
+ {
   "name": "Mammoth Cave Grand Historic Tour",
   "city": "Mammoth Cave",
   "county": "Edmonson",

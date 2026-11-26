@@ -491,6 +491,32 @@
   "county_full": "Comal County"
  },
  {
+  "name": "The Big Texan Steak Ranch",
+  "city": "Amarillo",
+  "county": "Potter",
+  "state": "Texas",
+  "cats": [
+   "Food & Drink",
+   "Quirky",
+   "Road Trip"
+  ],
+  "cost": "$20–$75",
+  "cost_num": 35,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1960",
+  "company": "The Big Texan",
+  "party": "2–6",
+  "customer": "Road trippers, families, challengers",
+  "unique": "A highway steakhouse with a 72 ounce steak challenge, a shooting gallery, a gift shop and a limo with longhorn horns, all visible from I-40 for a hundred miles.",
+  "buzz": "The challenge is a spectacle and the regular steaks are fine; watch someone attempt it, tip the servers and skip the souvenir hat.",
+  "rating": 74,
+  "id": "the-big-texan-steak-ranch-amarillo",
+  "state_abbr": "TX",
+  "county_full": "Potter County"
+ },
+ {
   "name": "Iguana Fest",
   "city": "Port Lavaca",
   "county": "Calhoun",

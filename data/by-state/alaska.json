@@ -208,6 +208,32 @@
   "county_full": "Anchorage"
  },
  {
+  "name": "Alaska Wildlife Conservation Center",
+  "city": "Portage",
+  "county": "Kenai Peninsula",
+  "state": "Alaska",
+  "cats": [
+   "Wildlife",
+   "Nature",
+   "Family"
+  ],
+  "cost": "$15–$20",
+  "cost_num": 18,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1993",
+  "company": "Alaska Wildlife Conservation Center",
+  "party": "2–6",
+  "customer": "Families, wildlife people, road trippers",
+  "unique": "A drive through refuge for injured and orphaned Alaska animals, with bears, moose, musk ox and wood bison in large enclosures against the mountains.",
+  "buzz": "The setting is spectacular and the animals are visible from the road; it is a refuge, not a zoo, and the staff explain why. Worth the drive from Anchorage.",
+  "rating": 85,
+  "id": "alaska-wildlife-conservation-center-portage",
+  "state_abbr": "AK",
+  "county_full": "Kenai Peninsula Borough"
+ },
+ {
   "name": "Musk Ox Farm",
   "city": "Palmer",
   "county": "Matanuska-Susitna",

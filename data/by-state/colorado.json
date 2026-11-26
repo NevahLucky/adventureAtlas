@@ -181,6 +181,32 @@
   "county_full": "La Plata County"
  },
  {
+  "name": "Pikes Peak International Hill Climb",
+  "city": "Colorado Springs",
+  "county": "El Paso",
+  "state": "Colorado",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$20–$60",
+  "cost_num": 40,
+  "dur": "Full day",
+  "dur_h": 8,
+  "dates": "Late June",
+  "start": "1916",
+  "company": "PPIHC",
+  "party": "2–6",
+  "customer": "Motorsport fans, families, photographers",
+  "unique": "A 12.4 mile race to the 14,115 foot summit with 156 turns, no guardrails in places and a history that includes dirt, pavement and fatal crashes.",
+  "buzz": "The altitude and the drop offs make it unlike any other race; get a spectator pass and take the shuttle. Weather can cancel the day.",
+  "rating": 89,
+  "id": "pikes-peak-international-hill-climb-colorado-springs",
+  "state_abbr": "CO",
+  "county_full": "El Paso County"
+ },
+ {
   "name": "Garden of the Gods",
   "city": "Colorado Springs",
   "county": "El Paso",
@@ -254,6 +280,32 @@
   "buzz": "The sound is unearthly; rangers manage the crowds well. Keep your distance, tourists get charged every year.",
   "rating": 87,
   "id": "rocky-mountain-elk-rut-estes-park",
+  "state_abbr": "CO",
+  "county_full": "Larimer County"
+ },
+ {
+  "name": "The Stanley Hotel",
+  "city": "Estes Park",
+  "county": "Larimer",
+  "state": "Colorado",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Architecture"
+  ],
+  "cost": "$30–$40 tour",
+  "cost_num": 35,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1909",
+  "company": "The Stanley Hotel",
+  "party": "2–4",
+  "customer": "Stephen King fans, couples, ghost hunters",
+  "unique": "The grand hotel that inspired The Shining, with a nightly ghost tour through the concert hall, the tunnels and room 217, plus a hedge maze and mountain views.",
+  "buzz": "The tour is more history than scare and that is why it works; the hotel itself is worth a drink even if you do not stay.",
+  "rating": 84,
+  "id": "the-stanley-hotel-estes-park",
   "state_abbr": "CO",
   "county_full": "Larimer County"
  },

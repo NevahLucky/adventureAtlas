@@ -440,6 +440,57 @@
   "county_full": "Miami-Dade County"
  },
  {
+  "name": "St. Augustine Lighthouse",
+  "city": "St. Augustine",
+  "county": "St. Johns",
+  "state": "Florida",
+  "cats": [
+   "Dark Tourism",
+   "Historical",
+   "Water"
+  ],
+  "cost": "$20–$35",
+  "cost_num": 28,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round, night tours",
+  "start": "1874",
+  "company": "St. Augustine Lighthouse and Maritime Museum",
+  "party": "2–4",
+  "customer": "Families, ghost hunters, photographers",
+  "unique": "A black and white striped lighthouse with a maritime museum and a dark of the moon ghost tour, where staff report footsteps on the tower stairs and a girl in the basement.",
+  "buzz": "The climb is worth it for the view alone; the ghost tour is one of the better researched ones in Florida. Book after dark.",
+  "rating": 80,
+  "id": "st-augustine-lighthouse-st-augustine",
+  "state_abbr": "FL",
+  "county_full": "St. Johns County"
+ },
+ {
+  "name": "Superblue Miami",
+  "city": "Miami",
+  "county": "Miami-Dade",
+  "state": "Florida",
+  "cats": [
+   "Immersive",
+   "Art"
+  ],
+  "cost": "$35–$45",
+  "cost_num": 40,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "2021",
+  "company": "Superblue",
+  "party": "2–4",
+  "customer": "Art people, families, couples",
+  "unique": "A warehouse of immersive light and sound installations, including a mirrored infinity room and a cloud sculpture you walk through, designed by artists rather than set builders.",
+  "buzz": "The mirrored room is the photo everyone wants and the timed entry keeps it calm; it is short for the price. Pair with the Design District.",
+  "rating": 80,
+  "id": "superblue-miami-miami",
+  "state_abbr": "FL",
+  "county_full": "Miami-Dade County"
+ },
+ {
   "name": "Gatorland",
   "city": "Orlando",
   "county": "Orange",

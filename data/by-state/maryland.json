@@ -77,6 +77,32 @@
   "county_full": "Washington County"
  },
  {
+  "name": "Bengies Drive-In",
+  "city": "Middle River",
+  "county": "Baltimore",
+  "state": "Maryland",
+  "cats": [
+   "Film",
+   "Quirky",
+   "Family"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Apr–Oct",
+  "start": "1956",
+  "company": "Bengies Drive-In",
+  "party": "2–6",
+  "customer": "Families, couples, film fans",
+  "unique": "The largest drive in screen in the country at 120 feet, with a strict no talking, no headlights rule and a snack bar that still makes real food.",
+  "buzz": "The rules are enforced and that is why the picture is good; arrive early for a good spot and tune the radio. A time machine.",
+  "rating": 82,
+  "id": "bengies-drive-in-middle-river",
+  "state_abbr": "MD",
+  "county_full": "Baltimore County"
+ },
+ {
   "name": "National Aquarium",
   "city": "Baltimore",
   "county": "Baltimore City",
