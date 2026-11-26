@@ -152,19 +152,21 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 893 entries
+## Where it stands, 937 entries
 
 South Carolina is done for this pass: 220 entries across all 46 counties, minimum three per county,
 zero single-entry counties. That makes it the model for the other states.
 
-Georgia has started: 45 entries in 20 of 159 counties. Chatham, Bibb, Muscogee, Dougherty and DeKalb
-are at four or more. The rest of the state is the queue.
+Georgia has started in earnest: 89 entries in 28 of 159 counties. The Atlanta core (Fulton, DeKalb,
+Cobb, Gwinnett, Clayton) is in, along with Savannah, Macon, Columbus, Albany, Athens, Augusta,
+Brunswick and the Golden Isles, Rome, Milledgeville, Thomasville, Dahlonega, Blue Ridge, Ellijay,
+Helen, Waycross and the Okefenokee. 131 counties remain.
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
 | South Carolina | 220 | 46 | | New Mexico | 10 | 8 |
 | North Carolina | 83 | 38 | | Nevada | 10 | 5 |
-| Georgia | 45 | 20 | | Massachusetts | 10 | 8 |
+| Georgia | 89 | 28 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
 | Florida | 25 | 16 | | Alabama | 9 | 6 |
@@ -191,9 +193,9 @@ are at four or more. The rest of the state is the queue.
 
 ## Queue, county by county
 
-1. Georgia. Finish the five started counties to six or eight entries: Chatham, Bibb, Muscogee,
-   Dougherty, DeKalb. Then the Atlanta core: Fulton, Cobb, Gwinnett, Clayton, Fayette, Henry.
-   Then south and west Georgia, county by county, until all 159 are at three or more.
+1. Georgia. 28 of 159 counties have entries. Next: the remaining Atlanta metro counties (Fayette,
+   Henry, Douglas, Paulding, Cherokee, Forsyth, Rockdale, Newton), then south and west Georgia county
+   by county, until all 159 are at three or more.
 2. North Carolina. 38 of 100 counties have entries, 62 are blank. Start with Mecklenburg, Wake,
    Guilford, Forsyth, Durham, Buncombe, New Hanover, Buncombe and the rural east.
 3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.

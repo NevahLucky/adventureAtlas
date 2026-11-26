@@ -4035,5 +4035,176 @@
   "drive_mi": 253,
   "drive_min_clemson": 351,
   "drive_mi_clemson": 250
+ },
+ "Austell|Georgia": {
+  "lat": 33.8126059,
+  "lon": -84.6343783,
+  "name": "Austell, Cobb County, Georgia, United States",
+  "drive_min": 305,
+  "drive_mi": 254,
+  "drive_min_clemson": 164,
+  "drive_mi_clemson": 136
+ },
+ "Brunswick|Georgia": {
+  "lat": 31.1499528,
+  "lon": -81.4914894,
+  "name": "Brunswick, Glynn County, Georgia, United States",
+  "drive_min": 340,
+  "drive_mi": 305,
+  "drive_min_clemson": 389,
+  "drive_mi_clemson": 301
+ },
+ "Chamblee|Georgia": {
+  "lat": 33.892176,
+  "lon": -84.2988296,
+  "name": "Chamblee, DeKalb County, Georgia, 30341, United States",
+  "drive_min": 272,
+  "drive_mi": 230,
+  "drive_min_clemson": 130,
+  "drive_mi_clemson": 113
+ },
+ "Decatur|Georgia": {
+  "lat": 30.8736613,
+  "lon": -84.5740953,
+  "name": "Decatur County, Georgia, United States",
+  "drive_min": 530,
+  "drive_mi": 434,
+  "drive_min_clemson": 417,
+  "drive_mi_clemson": 358
+ },
+ "Duluth|Georgia": {
+  "lat": 34.0028569,
+  "lon": -84.1441046,
+  "name": "Duluth, Gwinnett County, Georgia, 30095, United States",
+  "drive_min": 260,
+  "drive_mi": 220,
+  "drive_min_clemson": 119,
+  "drive_mi_clemson": 102
+ },
+ "Ellijay|Georgia": {
+  "lat": 34.6950278,
+  "lon": -84.4827394,
+  "name": "Ellijay, Gilmer County, Georgia, United States",
+  "drive_min": 322,
+  "drive_mi": 257,
+  "drive_min_clemson": 175,
+  "drive_mi_clemson": 124
+ },
+ "Fargo|Georgia": {
+  "lat": 30.6865663,
+  "lon": -82.5617187,
+  "name": "Fargo, Clinch County, Georgia, United States",
+  "drive_min": 465,
+  "drive_mi": 371,
+  "drive_min_clemson": 448,
+  "drive_mi_clemson": 341
+ },
+ "Forest Park|Georgia": {
+  "lat": 33.6220542,
+  "lon": -84.3690918,
+  "name": "Forest Park, Clayton County, Georgia, 30297, United States",
+  "drive_min": 298,
+  "drive_mi": 252,
+  "drive_min_clemson": 157,
+  "drive_mi_clemson": 134
+ },
+ "Kennesaw|Georgia": {
+  "lat": 34.0234337,
+  "lon": -84.6154897,
+  "name": "Kennesaw, Cobb County, Georgia, United States",
+  "drive_min": 303,
+  "drive_mi": 255,
+  "drive_min_clemson": 162,
+  "drive_mi_clemson": 137
+ },
+ "Lawrenceville|Georgia": {
+  "lat": 33.9566391,
+  "lon": -83.9890066,
+  "name": "Lawrenceville, Gwinnett County, Georgia, United States",
+  "drive_min": 258,
+  "drive_mi": 215,
+  "drive_min_clemson": 117,
+  "drive_mi_clemson": 98
+ },
+ "Lithonia|Georgia": {
+  "lat": 33.7123305,
+  "lon": -84.1051939,
+  "name": "Lithonia, DeKalb County, Georgia, United States",
+  "drive_min": 293,
+  "drive_mi": 242,
+  "drive_min_clemson": 152,
+  "drive_mi_clemson": 124
+ },
+ "Marietta|Georgia": {
+  "lat": 33.952845,
+  "lon": -84.5496054,
+  "name": "Marietta, Cobb County, Georgia, United States",
+  "drive_min": 294,
+  "drive_mi": 249,
+  "drive_min_clemson": 153,
+  "drive_mi_clemson": 131
+ },
+ "Milledgeville|Georgia": {
+  "lat": 33.0801429,
+  "lon": -83.2320991,
+  "name": "Milledgeville, Baldwin County, Georgia, United States",
+  "drive_min": 277,
+  "drive_mi": 231,
+  "drive_min_clemson": 201,
+  "drive_mi_clemson": 152
+ },
+ "Morrow|Georgia": {
+  "lat": 33.5831662,
+  "lon": -84.3393683,
+  "name": "Morrow, Clayton County, Georgia, 30260, United States",
+  "drive_min": 300,
+  "drive_mi": 254,
+  "drive_min_clemson": 159,
+  "drive_mi_clemson": 137
+ },
+ "Mount Berry|Georgia": {
+  "lat": 34.275093,
+  "lon": -85.1832843,
+  "name": "Mount Berry, Rome, Floyd County, Georgia, 30149, United States",
+  "drive_min": 359,
+  "drive_mi": 300,
+  "drive_min_clemson": 218,
+  "drive_mi_clemson": 182
+ },
+ "Rome|Georgia": {
+  "lat": 34.257038,
+  "lon": -85.1646726,
+  "name": "Rome, Floyd County, Georgia, United States",
+  "drive_min": 356,
+  "drive_mi": 298,
+  "drive_min_clemson": 215,
+  "drive_mi_clemson": 181
+ },
+ "St. Simons Island|Georgia": {
+  "lat": 31.2182863,
+  "lon": -81.3612077,
+  "name": "Saint Simons Island, Glynn County, Georgia, 31561, United States",
+  "drive_min": 358,
+  "drive_mi": 314,
+  "drive_min_clemson": 407,
+  "drive_mi_clemson": 310
+ },
+ "Thomasville|Georgia": {
+  "lat": 30.8365815,
+  "lon": -83.9787808,
+  "name": "Thomasville, Thomas County, Georgia, 31792, United States",
+  "drive_min": 510,
+  "drive_mi": 417,
+  "drive_min_clemson": 410,
+  "drive_mi_clemson": 345
+ },
+ "Waycross|Georgia": {
+  "lat": 31.2135511,
+  "lon": -82.3540178,
+  "name": "Waycross, Ware County, Georgia, 31501, United States",
+  "drive_min": 393,
+  "drive_mi": 319,
+  "drive_min_clemson": 376,
+  "drive_mi_clemson": 289
  }
 }
