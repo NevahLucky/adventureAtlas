@@ -1621,5 +1621,194 @@
   "drive_mi": 50,
   "drive_min_clemson": 141,
   "drive_mi_clemson": 120
+ },
+ "Belton|South Carolina": {
+  "lat": 34.5228881,
+  "lon": -82.4942948,
+  "name": "Belton, Anderson County, South Carolina, 29627, United States",
+  "drive_min": 134,
+  "drive_mi": 122,
+  "drive_min_clemson": 42,
+  "drive_mi_clemson": 28
+ },
+ "Blacksburg|South Carolina": {
+  "lat": 35.1212409,
+  "lon": -81.5159246,
+  "name": "Blacksburg, Cherokee County, South Carolina, 29701, United States",
+  "drive_min": 50,
+  "drive_mi": 39,
+  "drive_min_clemson": 93,
+  "drive_mi_clemson": 91
+ },
+ "Boykin|South Carolina": {
+  "lat": 34.116819,
+  "lon": -80.5814709,
+  "name": "Boykin, Kershaw County, South Carolina, United States",
+  "drive_min": 90,
+  "drive_mi": 76,
+  "drive_min_clemson": 163,
+  "drive_mi_clemson": 161
+ },
+ "Catawba|South Carolina": {
+  "lat": 34.8529233,
+  "lon": -80.9111862,
+  "name": "Catawba, York County, South Carolina, 29704, United States",
+  "drive_min": 21,
+  "drive_mi": 16,
+  "drive_min_clemson": 144,
+  "drive_mi_clemson": 135
+ },
+ "Chester|South Carolina": {
+  "lat": 34.6859896,
+  "lon": -81.1545073,
+  "name": "Chester County, South Carolina, United States",
+  "drive_min": 39,
+  "drive_mi": 32,
+  "drive_min_clemson": 133,
+  "drive_mi_clemson": 113
+ },
+ "Clinton|South Carolina": {
+  "lat": 34.4726277,
+  "lon": -81.8806562,
+  "name": "Clinton, Laurens County, South Carolina, 29325, United States",
+  "drive_min": 90,
+  "drive_mi": 79,
+  "drive_min_clemson": 77,
+  "drive_mi_clemson": 66
+ },
+ "Conway|South Carolina": {
+  "lat": 33.8360035,
+  "lon": -79.0478143,
+  "name": "Conway, Horry County, South Carolina, United States",
+  "drive_min": 187,
+  "drive_mi": 171,
+  "drive_min_clemson": 259,
+  "drive_mi_clemson": 256
+ },
+ "Edisto Island|South Carolina": {
+  "lat": 32.5593516,
+  "lon": -80.2950995,
+  "name": "Edisto Island, Charleston County, South Carolina, 29438, United States",
+  "drive_min": 216,
+  "drive_mi": 211,
+  "drive_min_clemson": 265,
+  "drive_mi_clemson": 254
+ },
+ "Fair Play|South Carolina": {
+  "lat": 34.5112129,
+  "lon": -82.9854253,
+  "name": "Fair Play, Oconee County, South Carolina, 29643, United States",
+  "drive_min": 141,
+  "drive_mi": 140,
+  "drive_min_clemson": 28,
+  "drive_mi_clemson": 23
+ },
+ "Folly Beach|South Carolina": {
+  "lat": 32.6554848,
+  "lon": -79.9407802,
+  "name": "Folly Beach, Charleston County, South Carolina, 29439, United States",
+  "drive_min": 192,
+  "drive_mi": 202,
+  "drive_min_clemson": 242,
+  "drive_mi_clemson": 245
+ },
+ "Honea Path|South Carolina": {
+  "lat": 34.4465018,
+  "lon": -82.3915122,
+  "name": "Honea Path, Anderson County, South Carolina, United States",
+  "drive_min": 132,
+  "drive_mi": 113,
+  "drive_min_clemson": 53,
+  "drive_mi_clemson": 37
+ },
+ "Hunting Island|South Carolina": {
+  "lat": 32.3663052,
+  "lon": -80.4445497,
+  "name": "Hunting Island, Beaufort County, South Carolina, United States",
+  "drive_min": 240,
+  "drive_mi": 234,
+  "drive_min_clemson": 289,
+  "drive_mi_clemson": 276
+ },
+ "Lancaster|South Carolina": {
+  "lat": 34.6628067,
+  "lon": -80.700546,
+  "name": "Lancaster County, South Carolina, United States",
+  "drive_min": 43,
+  "drive_mi": 34,
+  "drive_min_clemson": 169,
+  "drive_mi_clemson": 146
+ },
+ "Lexington|South Carolina": {
+  "lat": 33.8986841,
+  "lon": -81.275054,
+  "name": "Lexington County, South Carolina, United States",
+  "drive_min": 91,
+  "drive_mi": 94,
+  "drive_min_clemson": 140,
+  "drive_mi_clemson": 135
+ },
+ "McClellanville|South Carolina": {
+  "lat": 33.0882246,
+  "lon": -79.4611743,
+  "name": "McClellanville, Charleston County, South Carolina, United States",
+  "drive_min": 222,
+  "drive_mi": 183,
+  "drive_min_clemson": 267,
+  "drive_mi_clemson": 269
+ },
+ "Mount Pleasant|South Carolina": {
+  "lat": 32.7927956,
+  "lon": -79.8678322,
+  "name": "Mount Pleasant, Charleston County, South Carolina, United States",
+  "drive_min": 182,
+  "drive_mi": 196,
+  "drive_min_clemson": 231,
+  "drive_mi_clemson": 238
+ },
+ "Prosperity|South Carolina": {
+  "lat": 34.2098669,
+  "lon": -81.5338576,
+  "name": "Prosperity, Newberry County, South Carolina, United States",
+  "drive_min": 100,
+  "drive_mi": 85,
+  "drive_min_clemson": 104,
+  "drive_mi_clemson": 94
+ },
+ "Pumpkintown|South Carolina": {
+  "lat": 35.0028962,
+  "lon": -82.6529075,
+  "name": "Pumpkintown, Pickens County, South Carolina, United States",
+  "drive_min": 138,
+  "drive_mi": 121,
+  "drive_min_clemson": 38,
+  "drive_mi_clemson": 30
+ },
+ "Sunset|South Carolina": {
+  "lat": 34.9776127,
+  "lon": -82.7990259,
+  "name": "Sunset, Pickens County, South Carolina, 29685, United States",
+  "drive_min": 147,
+  "drive_mi": 129,
+  "drive_min_clemson": 36,
+  "drive_mi_clemson": 24
+ },
+ "Travelers Rest|South Carolina": {
+  "lat": 34.9676167,
+  "lon": -82.4434548,
+  "name": "Travelers Rest, Greenville County, South Carolina, 29613, United States",
+  "drive_min": 117,
+  "drive_mi": 107,
+  "drive_min_clemson": 44,
+  "drive_mi_clemson": 36
+ },
+ "Union|South Carolina": {
+  "lat": 34.6941696,
+  "lon": -81.642794,
+  "name": "Union County, South Carolina, United States",
+  "drive_min": 72,
+  "drive_mi": 64,
+  "drive_min_clemson": 100,
+  "drive_mi_clemson": 84
  }
 }

@@ -81,6 +81,22 @@
     q: "", county: "", cats: [], dur: "", cost: "", party: "", starOnly: false,
     state: "", drive: 0
   };
+  var P = new URLSearchParams(location.search);
+  if (P.get("q")) st.q = P.get("q").trim().toLowerCase();
+  if (P.get("county")) st.county = P.get("county");
+  if (P.get("state")) st.state = P.get("state");
+  if (P.get("cats")) st.cats = P.get("cats").split(",").filter(Boolean);
+  if (P.get("dur")) st.dur = P.get("dur");
+  if (P.get("cost")) st.cost = P.get("cost");
+  if (P.get("party")) st.party = P.get("party");
+  if (P.get("drive")) st.drive = +P.get("drive") || 0;
+  if (P.get("star") === "1") st.starOnly = true;
+  if (P.get("sort") && /^[a-z_]+:-?1$/.test(P.get("sort"))) {
+    st.key = P.get("sort").split(":")[0];
+    st.dir = +P.get("sort").split(":")[1];
+  }
+  var VIEW = P.get("view") === "cards" ? "cards" : "table";
+
   var STARS = {};
   try { STARS = JSON.parse(localStorage.getItem("waypoint:stars") || "{}"); } catch (e) { STARS = {}; }
   function saveStars() { try { localStorage.setItem("waypoint:stars", JSON.stringify(STARS)); } catch (e) {} }
@@ -116,16 +132,18 @@
       sel.appendChild(o);
     });
     $("#countyChips").innerHTML = D.counties.map(function (c) {
-      return '<button class="county-chip" data-county="' + esc(c) + '">' + esc(c) + "</button>";
+      return '<button class="county-chip' + (st.county === c ? " on" : "") + '" data-county="' + esc(c) + '">' + esc(c) + "</button>";
     }).join("");
+    sel.value = st.county;
   }
 
   /* category chips */
   var catCounts = {};
   rows.forEach(function (r) { (r.cats || []).forEach(function (c) { catCounts[c] = (catCounts[c] || 0) + 1; }); });
   var cats = Object.keys(catCounts).sort(function (a, b) { return catCounts[b] - catCounts[a]; });
-  $("#catRow").innerHTML = '<span class="lbl">Category</span>' + cats.map(function (c) {
-    return '<button class="chip" data-cat="' + esc(c) + '">' + esc(c) + '<span class="n">' + catCounts[c] + "</span></button>";
+  $("#catRow").innerHTML = cats.map(function (c) {
+    return '<button class="chip' + (st.cats.indexOf(c) > -1 ? " on" : "") + '" data-cat="' + esc(c) + '">' +
+      esc(c) + '<span class="n">' + catCounts[c] + "</span></button>";
   }).join("");
 
   /* ------------------------------------------------------------- helpers */
@@ -315,9 +333,40 @@
   }
 
   var tb = $("#tb");
+  var cardsEl = $("#cards");
 
   function currentRows() {
     return applySort(rows.filter(match));
+  }
+
+  function tagHTML(r, n) {
+    var list = (r.cats || []);
+    var out = list.slice(0, n).map(function (c) {
+      return '<span class="cat-tag">' + esc(c) + "</span>";
+    }).join("");
+    if (list.length > n) out += '<span class="cat-tag more">+' + (list.length - n) + "</span>";
+    return out;
+  }
+
+  function cardHTML(r) {
+    var meta = [
+      "<b>" + esc(r.cost) + "</b>",
+      esc(r.dur),
+      esc(r.party),
+      REGION && r.drive_min != null ? fmtDrive(r.drive_min) + " away" : esc(r.customer)
+    ];
+    return '<article class="adv-card" data-id="' + esc(r.id) + '">' +
+      '<div class="ac-top"><span class="ac-score">' + r.rating + "</span>" +
+      '<button class="star' + (STARS[r.id] ? " on" : "") + '" data-star="' + esc(r.id) + '" aria-label="Save to shortlist">&#9733;</button></div>' +
+      "<h3>" + esc(r.name) + "</h3>" +
+      '<div class="ac-place">' + esc(r.city) + (r.state_abbr ? ", " + esc(r.state_abbr) : "") +
+      " &middot; " + esc(r.county_full) + "</div>" +
+      '<div class="ac-tags">' + tagHTML(r, 3) + "</div>" +
+      '<p class="ac-desc">' + esc(r.unique) + "</p>" +
+      '<div class="ac-meta">' + meta.join("<span></span>") + "</div>" +
+      '<div class="ac-detail"><h5>Why it is on the list</h5><p>' + esc(r.unique) +
+      '</p><h5>Word of mouth</h5><p>' + esc(r.buzz) + "</p></div>" +
+      "</article>";
   }
 
   function render() {
@@ -325,14 +374,50 @@
     tb.innerHTML = list.map(rowHTML).join("") ||
       '<tr><td colspan="' + (COLS.length + 1) + '" class="empty"><b>Nothing matches those filters.</b>' +
       "Loosen the drive time, the budget or the search.</td></tr>";
-    $("#counter").textContent = "Showing " + list.length + " of " + rows.length + " adventures";
-    var label = (COLS.filter(function (c) { return c.k === st.key; })[0] || { label: "Overall" }).label;
-    $("#sortedBy").textContent = "Sorted by " + label + (st.dir === -1 ? ", high \u2192 low" : ", low \u2192 high");
+    cardsEl.innerHTML = list.map(cardHTML).join("") ||
+      '<div class="empty" style="grid-column:1/-1"><b>Nothing matches those filters.</b>Clear a filter or widen the drive time.</div>';
+    $("#counter").textContent = list.length + " of " + rows.length + " adventures";
+    syncUI(list);
     $$("#head th").forEach(function (th) {
       th.classList.toggle("sorted", th.dataset.k === st.key);
       var a = th.querySelector(".arw");
       if (a) a.textContent = th.dataset.k === st.key ? (st.dir === -1 ? "\u25BC" : "\u25B2") : "\u2195";
     });
+  }
+
+  var DUR_LABEL = { "0-3": "Under 3 hours", "3-6": "3 to 6 hours", "6-12": "A full day", "12-48": "Overnight", "48-9999": "Multi day" };
+  var COST_LABEL = { "0": "Free only", "0-40": "Under $40", "0-100": "Under $100", "0-250": "Under $250", "250-99999": "$250 and up" };
+  var PARTY_LABEL = { solo: "Solo", couple: "Two people", small: "3 to 6", big: "7 or more", na: "Any party" };
+  var DRIVE_LABEL = { 30: "Under 30 min", 60: "Under 1 hour", 120: "Under 2 hours", 180: "Under 3 hours", 240: "Under 4 hours" };
+
+  function syncUI() {
+    document.body.classList.toggle("view-cards", VIEW === "cards");
+    $$("#viewToggle button").forEach(function (b) {
+      b.classList.toggle("on", b.dataset.view === VIEW);
+    });
+    var sv = st.key + ":" + st.dir;
+    var opt = $("#sortSel").querySelector('option[value="' + sv + '"]');
+    if (opt) $("#sortSel").value = sv;
+
+    var active = [];
+    if (REGION) {
+      if (st.state) active.push(["state", st.state]);
+      if (st.drive) active.push(["drive", DRIVE_LABEL[st.drive]]);
+    } else if (st.county) {
+      active.push(["county", st.county]);
+    }
+    st.cats.forEach(function (c) { active.push(["cat:" + c, c]); });
+    if (st.dur) active.push(["dur", DUR_LABEL[st.dur] || st.dur]);
+    if (st.cost) active.push(["cost", COST_LABEL[st.cost] || st.cost]);
+    if (st.party) active.push(["party", PARTY_LABEL[st.party] || st.party]);
+    if (st.starOnly) active.push(["star", "Shortlist only"]);
+
+    $("#fCount").textContent = active.length;
+    $("#fCount").style.display = active.length ? "" : "none";
+    $("#activeChips").innerHTML = active.map(function (a) {
+      return '<button class="fchip" data-remove="' + esc(a[0]) + '">' + esc(a[1]) + "<span>&times;</span></button>";
+    }).join("") + (active.length > 1 ? '<button class="fchip" data-remove="all" style="background:transparent">Clear all</button>' : "");
+    $("#fStar").classList.toggle("on", st.starOnly);
   }
 
   function onSort(e) {
@@ -364,7 +449,100 @@
   }
   buildHead();
 
-  /* filters */
+  /* filter panel, sort select, view toggle, chips, share, surprise */
+  $("#btnFilters").addEventListener("click", function () {
+    var panel = $("#filterPanel");
+    var open = panel.classList.toggle("open");
+    this.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+
+  $("#sortSel").addEventListener("change", function () {
+    var parts = this.value.split(":");
+    st.key = parts[0]; st.dir = +parts[1]; st.secondary = null;
+    render();
+  });
+
+  $$("#viewToggle button").forEach(function (b) {
+    b.addEventListener("click", function () { VIEW = b.dataset.view; render(); });
+  });
+
+  $("#activeChips").addEventListener("click", function (e) {
+    var chip = e.target.closest("[data-remove]");
+    if (!chip) return;
+    var k = chip.dataset.remove;
+    if (k === "all") {
+      $("#btnReset").click();
+      return;
+    }
+    if (k.indexOf("cat:") === 0) {
+      var c = k.slice(4);
+      st.cats = st.cats.filter(function (x) { return x !== c; });
+      var btn = $('#catRow .chip[data-cat="' + c.replace(/"/g, '') + '"]');
+      if (btn) btn.classList.remove("on");
+    } else if (k === "county") { st.county = ""; $("#fCounty").value = ""; syncCountyChips(); }
+    else if (k === "state") { st.state = ""; $("#fState").value = ""; }
+    else if (k === "drive") { st.drive = 0; $$(".drive-chip").forEach(function (x) { x.classList.remove("on"); }); }
+    else if (k === "dur") { st.dur = ""; $("#fDur").value = ""; }
+    else if (k === "cost") { st.cost = ""; $("#fCost").value = ""; }
+    else if (k === "party") { st.party = ""; $("#fParty").value = ""; }
+    else if (k === "star") { st.starOnly = false; }
+    render();
+  });
+
+  $("#btnSurprise").addEventListener("click", function () {
+    var list = currentRows();
+    if (!list.length) return;
+    var pick = list[Math.floor(Math.random() * list.length)];
+    if (VIEW === "cards") {
+      var card = cardsEl.querySelector('.adv-card[data-id="' + pick.id + '"]');
+      if (card) { card.classList.add("open"); card.scrollIntoView({ block: "center", behavior: "smooth" }); }
+    } else {
+      var row = tb.querySelector('tr.row[data-id="' + pick.id + '"]');
+      var det = tb.querySelector('tr.detail[data-detail="' + pick.id + '"]');
+      if (det) { det.classList.add("open"); row.classList.add("open"); det.scrollIntoView({ block: "center", behavior: "smooth" }); }
+    }
+  });
+
+  function shareURL() {
+    var p = new URLSearchParams();
+    if (st.q) p.set("q", st.q);
+    if (st.county) p.set("county", st.county);
+    if (st.state) p.set("state", st.state);
+    if (st.cats.length) p.set("cats", st.cats.join(","));
+    if (st.dur) p.set("dur", st.dur);
+    if (st.cost) p.set("cost", st.cost);
+    if (st.party) p.set("party", st.party);
+    if (st.drive) p.set("drive", st.drive);
+    if (st.starOnly) p.set("star", "1");
+    p.set("sort", st.key + ":" + st.dir);
+    if (VIEW === "cards") p.set("view", "cards");
+    var base = location.href.split("#")[0].split("?")[0];
+    return base + "?" + p.toString();
+  }
+
+  $("#btnShare").addEventListener("click", function () {
+    var url = shareURL();
+    var btn = this;
+    var done = function () {
+      btn.textContent = "Link copied";
+      setTimeout(function () { btn.textContent = "Share view"; }, 1800);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(done, function () { window.prompt("Copy this link", url); });
+    } else {
+      window.prompt("Copy this link", url);
+    }
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "/" && document.activeElement !== $("#q")) {
+      e.preventDefault(); $("#q").focus();
+    } else if (e.key === "Escape" && document.activeElement === $("#q")) {
+      $("#q").value = ""; st.q = ""; render(); $("#q").blur();
+    }
+  });
+
+  /* filter wiring */
   if (REGION) {
     var stateSel = $("#fState");
     (D.states || []).forEach(function (s) {
@@ -373,13 +551,15 @@
       o.textContent = s.name + " (" + s.count + ")";
       stateSel.appendChild(o);
     });
+    stateSel.value = st.state;
     stateSel.addEventListener("change", function () { st.state = this.value; render(); });
-    $$(".drive-chip").forEach(function (c) {
-      c.addEventListener("click", function () {
-        var v = +c.dataset.drive;
+    $$(".drive-chip").forEach(function (x) {
+      x.classList.toggle("on", st.drive !== 0 && +x.dataset.drive === st.drive);
+      x.addEventListener("click", function () {
+        var v = +x.dataset.drive;
         st.drive = st.drive === v ? 0 : v;
-        $$(".drive-chip").forEach(function (x) {
-          x.classList.toggle("on", st.drive !== 0 && +x.dataset.drive === st.drive);
+        $$(".drive-chip").forEach(function (y) {
+          y.classList.toggle("on", st.drive !== 0 && +y.dataset.drive === st.drive);
         });
         render();
       });
@@ -403,22 +583,17 @@
   $("#q").addEventListener("input", function () { st.q = this.value.trim().toLowerCase(); render(); });
   $("#fStar").addEventListener("click", function () {
     st.starOnly = !st.starOnly;
-    this.classList.toggle("on", st.starOnly);
     render();
   });
   $("#btnReset").addEventListener("click", function () {
     st.q = ""; st.county = ""; st.cats = []; st.dur = ""; st.cost = ""; st.party = "";
-    st.state = ""; st.drive = 0;
-    st.starOnly = false; st.key = "rating"; st.dir = -1; st.secondary = null;
+    st.state = ""; st.drive = 0; st.starOnly = false;
+    st.key = "rating"; st.dir = -1; st.secondary = null;
     $("#q").value = ""; $("#fDur").value = ""; $("#fCost").value = ""; $("#fParty").value = "";
-    $("#fStar").classList.remove("on");
     $$(".chip[data-cat]").forEach(function (c) { c.classList.remove("on"); });
-    if (REGION) {
-      $("#fState").value = "";
-      $$(".drive-chip").forEach(function (x) { x.classList.remove("on"); });
-    } else {
-      $("#fCounty").value = ""; syncCountyChips();
-    }
+    $$(".drive-chip").forEach(function (x) { x.classList.remove("on"); });
+    if (REGION) $("#fState").value = "";
+    else { $("#fCounty").value = ""; syncCountyChips(); }
     render();
   });
 
@@ -464,6 +639,21 @@
     }
   });
 
+  cardsEl.addEventListener("click", function (e) {
+    var star = e.target.closest("[data-star]");
+    if (star) {
+      e.stopPropagation();
+      var id = star.dataset.star;
+      if (STARS[id]) delete STARS[id]; else STARS[id] = true;
+      saveStars();
+      star.classList.toggle("on", !!STARS[id]);
+      if (st.starOnly) render();
+      return;
+    }
+    var card = e.target.closest(".adv-card");
+    if (card) card.classList.toggle("open");
+  });
+
   /* CSV of the current view */
   $("#btnCsv").addEventListener("click", function () {
     var list = currentRows();
@@ -496,6 +686,8 @@
     if (row) {
       var det = tb.querySelector('tr.detail[data-detail="' + row.dataset.id + '"]');
       if (det) { det.classList.add("open"); row.classList.add("open"); }
+      var card = cardsEl.querySelector('.adv-card[data-id="' + row.dataset.id + '"]');
+      if (card) card.classList.add("open");
       (det || row).scrollIntoView({ block: "center" });
       row.style.outline = "2px solid var(--accent)";
       setTimeout(function () { row.style.outline = ""; }, 2400);

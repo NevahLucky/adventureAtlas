@@ -6,6 +6,9 @@
 <title>Nebraska | Waypoint Atlas of Adventures</title>
 <meta name="description" content="Every adventure worth the trip in Nebraska, ranked, costed and filterable by county.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/atlas.css">
 </head>
 <body data-page="state">
@@ -42,51 +45,85 @@
   </div>
 
   <div class="toolbar" id="toolbar">
-    <div class="tb-row">
-      <div class="fgroup"><span class="lbl">County</span>
-      <select class="input" id="fCounty"><option value="">All counties</option></select></div>
-      <div class="fgroup"><span class="lbl" style="margin-left:8px">Duration</span>
-      <select class="input" id="fDur">
-        <option value="">Any length</option>
-        <option value="0-3">Under 3 hours</option>
-        <option value="3-6">3–6 hours</option>
-        <option value="6-12">A full day</option>
-        <option value="12-48">Overnight</option>
-        <option value="48-9999">Multi day</option>
-      </select></div>
-      <div class="fgroup"><span class="lbl" style="margin-left:8px">Budget</span>
-      <select class="input" id="fCost">
-        <option value="">Any cost</option>
-        <option value="0">Free only</option>
-        <option value="0-40">Under $40</option>
-        <option value="0-100">Under $100</option>
-        <option value="0-250">Under $250</option>
-        <option value="250-99999">$250+</option>
-      </select></div>
-      <div class="fgroup"><span class="lbl" style="margin-left:8px">Party</span>
-      <select class="input" id="fParty">
-        <option value="">Any party</option>
-        <option value="solo">Good solo</option>
-        <option value="couple">Two people</option>
-        <option value="small">3–6 people</option>
-        <option value="big">7+ / group</option>
-        <option value="na">Doesn't matter</option>
-      </select></div>
-      <div class="tb-right">
-        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
-        <button class="mini-btn" id="btnCsv">CSV</button>
-        <button class="mini-btn" id="btnReset">Reset</button>
+    <div class="tb-top">
+      <div class="search-wrap">
+        <svg class="mag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search names, towns, companies, notes&hellip;" autocomplete="off">
       </div>
+      <label class="sort-wrap"><span>Sort</span>
+        <select id="sortSel">
+          <option value="rating:-1">My ranking</option>
+          <option value="cost_num:1">Cost, low to high</option>
+          <option value="cost_num:-1">Cost, high to low</option>
+          <option value="dur_h:1">Shortest first</option>
+          <option value="dur_h:-1">Longest first</option>
+          <option value="name:1">A to Z</option>
+          <option value="county:1">By county</option>
+        </select>
+      </label>
+      <div class="viewtoggle" id="viewToggle">
+        <button data-view="table" class="on">Table</button>
+        <button data-view="cards">Cards</button>
+      </div>
+      <button class="mini-btn" id="btnSurprise">Surprise me</button>
+      <button class="mini-btn" id="btnShare">Share view</button>
     </div>
-    <div class="tb-row" id="catRow"></div>
-    <div class="tb-row">
-      <span class="lbl">Counties</span>
-      <div class="counties" id="countyChips"></div>
+
+    <div class="tb-mid">
+      <button class="mini-btn filter-btn" id="btnFilters">Filters <b id="fCount">0</b></button>
+      <div class="active-chips" id="activeChips"></div>
       <span class="counter" id="counter"></span>
     </div>
-    <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
-      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+
+    <div class="filter-panel" id="filterPanel">
+      <div class="fp-grid">
+        <div class="fp-group">
+          <h4>Where</h4>
+          <select class="input" id="fCounty"><option value="">All counties</option></select>
+          <div class="counties" id="countyChips"></div>
+        </div>
+        <div class="fp-group">
+          <h4>Time and money</h4>
+          <select class="input" id="fDur">
+            <option value="">Any length</option>
+            <option value="0-3">Under 3 hours</option>
+            <option value="3-6">3 to 6 hours</option>
+            <option value="6-12">A full day</option>
+            <option value="12-48">Overnight</option>
+            <option value="48-9999">Multi day</option>
+          </select>
+          <select class="input" id="fCost">
+            <option value="">Any cost</option>
+            <option value="0">Free only</option>
+            <option value="0-40">Under $40</option>
+            <option value="0-100">Under $100</option>
+            <option value="0-250">Under $250</option>
+            <option value="250-99999">$250 and up</option>
+          </select>
+        </div>
+        <div class="fp-group">
+          <h4>Company</h4>
+          <select class="input" id="fParty">
+            <option value="">Any party</option>
+            <option value="solo">Good solo</option>
+            <option value="couple">Two people</option>
+            <option value="small">3 to 6 people</option>
+            <option value="big">7 or more</option>
+            <option value="na">Doesn't matter</option>
+          </select>
+          <div class="chips" style="margin-top:4px">
+            <button class="chip" id="fStar">&#9733; Shortlist only</button>
+          </div>
+        </div>
+      </div>
+      <div class="fp-cats">
+        <h4>Category</h4>
+        <div class="chips" id="catRow"></div>
+      </div>
+      <div class="fp-actions">
+        <button class="mini-btn" id="btnReset">Clear all</button>
+        <button class="mini-btn" id="btnCsv">Export CSV</button>
+      </div>
     </div>
   </div>
 
@@ -94,9 +131,11 @@
     <table class="atlas" id="atlas">
       <colgroup id="cols"></colgroup>
       <thead id="head"></thead>
-      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas&hellip;</td></tr></tbody>
     </table>
   </div>
+
+  <div class="card-grid" id="cards"></div>
 
   <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
     <div class="wrap" style="padding:0 22px">

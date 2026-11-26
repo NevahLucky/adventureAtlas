@@ -1,6 +1,6 @@
 # Waypoint — An Atlas of Adventures Worth the Trip
 
-A static, dependency-free field guide to 613 singular things to do in the United States, from world class spectacles to the local dance hall.
+A static, dependency-free field guide to 735 singular things to do in the United States, from world class spectacles to the local dance hall.
 Browse by country → state → county, sort by any column, filter by budget, duration,
 party size and category, and keep a personal shortlist.
 
@@ -72,8 +72,9 @@ hospitality, freedom to roam, value, and how well a first-timer is treated. It i
 deliberately biased toward young adults but keeps world-class family institutions,
 retiree rituals and kid-first places when they earn it. It is not a review-site average.
 
-Rows default to `rating` descending; every column is sortable (shift-click adds a
-secondary sort), and the header arrow shows direction.
+Rows default to `rating` descending; every column is sortable (shift-click adds a secondary sort).
+The toolbar adds a sort menu, a table or card view, a filter drawer with removable chips, a random
+pick, and a share button that copies a link carrying the current filters in the query string.
 
 ## Regional pages
 

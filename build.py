@@ -124,7 +124,7 @@ def build_index(rows: list[dict]) -> str:
 
     near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
     clem = [r for r in rows if r.get("drive_min_clemson") is not None and r["drive_min_clemson"] <= 240]
-    cards = [
+    region_cards = [
         ("fort-mill", "Fort Mill, SC", "Charlotte in 22 minutes. The Blue Ridge in two and a half hours. "
          "Charleston, Savannah and the New River Gorge at the four-hour edge.", near),
         ("clemson", "Clemson, SC", "The Chattooga in 37 minutes. Asheville and Highlands in two hours. "
@@ -137,7 +137,7 @@ def build_index(rows: list[dict]) -> str:
         f'<p>{esc(blurb)}</p>'
         f'<span class="rb-foot"><b>{len(items)}</b> adventures &middot; {len({r["state"] for r in items})} states'
         f'<span class="rb-go">Open &rarr;</span></span></a>'
-        for slug, label, blurb, items in cards
+        for slug, label, blurb, items in region_cards
     )
     top = rows[:15]
     top_html = []
