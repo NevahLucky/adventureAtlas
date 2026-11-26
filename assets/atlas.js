@@ -87,8 +87,8 @@
 
   /* header */
   if (D.mode === "region") {
-    $("#stateSub").textContent = D.sub || (D.stats.count + " adventures within a four-hour drive of " +
-      (D.origin || "Fort Mill") + ", across " + D.stats.states + " states. Drive times are traffic-free routing estimates.");
+    $("#stateSub").textContent = D.sub || (D.stats.count + " adventures within four hours of " +
+      (D.origin || "Fort Mill") + ", across " + D.stats.states + " states. Drive times are routing estimates with no traffic.");
     $("#stateStats").innerHTML = [
       [D.stats.count, "Adventures"], [D.stats.states, "States"],
       [D.stats.within60, "Within an hour"], ["$" + num(D.stats.median), "Median cost"], [D.stats.top, "Top score"]
@@ -97,7 +97,7 @@
     }).join("");
   } else {
     $("#stateSub").textContent = D.stats.count + " adventures across " + D.stats.counties +
-      " counties, from free afternoons to week-long expeditions. Sorted by how much you'd enjoy them; " +
+      " counties, from free afternoons to multi day expeditions. Sorted by how much you'd enjoy them; " +
       "filter the list down to a county and a free Saturday.";
     $("#stateStats").innerHTML = [
       [D.stats.count, "Adventures"], [D.stats.counties, "Counties"],

@@ -198,6 +198,8 @@ section[id],#table{scroll-margin-top:76px}
 }
 .tb-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .tb-row .lbl{font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted-2);margin-right:2px}
+.fgroup{display:flex;align-items:center;gap:8px;flex:0 0 auto}
+.fgroup .lbl{margin:0}
 select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .chip{
   border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 11px;font-size:12px;
@@ -225,7 +227,7 @@ select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .table-shell{border:1px solid var(--line);background:#fffdf7;border-radius:4px;overflow:visible}
 table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1346px}
 table.atlas thead th{
-  position:sticky;top:62px;z-index:20;box-shadow:0 1px 0 var(--line);background:var(--paper-2);text-align:left;
+  background:var(--paper-2);text-align:left;
   font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);
   font-weight:600;padding:10px 9px;border-bottom:1px solid var(--line);cursor:pointer;
   user-select:none;white-space:nowrap;vertical-align:bottom;
@@ -318,6 +320,9 @@ footer.site a:hover{color:#fff}
   .state-grid{grid-template-columns:1fr}
   .country-grid{grid-template-columns:1fr}
   .tb-row{gap:8px}
+  .fgroup{flex:1 1 100%}
+  .fgroup select{flex:1 1 auto;min-width:0}
+  .tb-right{width:100%;justify-content:space-between;margin-left:0}
   .counter{width:100%;margin-left:0}
   #catRow{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}
   #catRow .chip{flex:0 0 auto}
@@ -376,6 +381,10 @@ footer.site a:hover{color:#fff}
 
 /* drive-time (region pages) */
 .drive-chips{display:flex;gap:7px;flex-wrap:wrap}
+#catRow{scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+#catRow::-webkit-scrollbar{height:6px}
+#catRow::-webkit-scrollbar-thumb{background:var(--line);border-radius:3px}
+#catRow::-webkit-scrollbar-track{background:transparent}
 .cell-drive .cv{font-family:var(--mono);font-size:12px;font-weight:600;color:var(--pine)}
 .region-banner{
   display:flex;align-items:center;justify-content:space-between;gap:24px;

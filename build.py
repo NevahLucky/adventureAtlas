@@ -272,20 +272,20 @@ def main() -> None:
     (regions / "fort-mill.html").write_text(build_region(
         rows, field="drive_min", slug="fort-mill", name="The Fort Mill radius",
         h1="Within four hours.", crumb="Fort Mill radius", origin="Fort Mill", abbr="SC",
-        sub=(f"{len(near)} adventures within a four-hour drive of Fort Mill, across "
+        sub=(f"{len(near)} adventures within four hours of Fort Mill, across "
              f"{len({r['state'] for r in near})} states — Charlotte in half an hour, the Blue Ridge in two and a half, "
-             f"the coast and the New River Gorge at the edge of the radius. Drive times are traffic-free routing estimates."),
+             f"the coast and the New River Gorge at the edge of the radius. Drive times are routing estimates with no traffic."),
         map_url="https://www.openstreetmap.org/#map=8/35.01/-80.95",
-        desc="Every adventure worth the trip within a four-hour drive of Fort Mill, South Carolina — routed drive times, costs and county filters."),
+        desc="Every adventure worth the trip within four hours of Fort Mill, South Carolina — routed drive times, costs and county filters."),
         encoding="utf-8")
     (regions / "clemson.html").write_text(build_region(
         rows, field="drive_min_clemson", slug="clemson", name="The Clemson radius",
         h1="Clemson, and four hours out.", crumb="Clemson radius", origin="Clemson", abbr="SC",
-        sub=(f"{len(clem)} adventures within a four-hour drive of Clemson, across "
+        sub=(f"{len(clem)} adventures within four hours of Clemson, across "
              f"{len({r['state'] for r in clem})} states — the Chattooga in forty minutes, Asheville and Highlands in two hours, "
-             f"Charleston, Savannah and the high Blue Ridge at the edge of the radius. Drive times are traffic-free routing estimates."),
+             f"Charleston, Savannah and the high Blue Ridge at the edge of the radius. Drive times are routing estimates with no traffic."),
         map_url="https://www.openstreetmap.org/#map=8/34.69/-82.84",
-        desc="Every adventure worth the trip within a four-hour drive of Clemson, South Carolina — routed drive times, costs and county filters."),
+        desc="Every adventure worth the trip within four hours of Clemson, South Carolina — routed drive times, costs and county filters."),
         encoding="utf-8")
     for name, _ in STATE_ORDER:
         items = [r for r in rows if r["state"] == name]

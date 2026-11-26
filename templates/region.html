@@ -43,18 +43,18 @@
 
   <div class="toolbar" id="toolbar">
     <div class="tb-row">
-      <span class="lbl">State</span>
-      <select class="input" id="fState"><option value="">All states</option></select>
-      <span class="lbl" style="margin-left:8px">Duration</span>
+      <div class="fgroup"><span class="lbl">State</span>
+      <select class="input" id="fState"><option value="">All states</option></select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Duration</span>
       <select class="input" id="fDur">
         <option value="">Any length</option>
         <option value="0-3">Under 3 hours</option>
         <option value="3-6">3&ndash;6 hours</option>
         <option value="6-12">A full day</option>
         <option value="12-48">Overnight</option>
-        <option value="48-9999">Multi-day</option>
-      </select>
-      <span class="lbl" style="margin-left:8px">Budget</span>
+        <option value="48-9999">Multi day</option>
+      </select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Budget</span>
       <select class="input" id="fCost">
         <option value="">Any cost</option>
         <option value="0">Free only</option>
@@ -62,8 +62,8 @@
         <option value="0-100">Under $100</option>
         <option value="0-250">Under $250</option>
         <option value="250-99999">$250+</option>
-      </select>
-      <span class="lbl" style="margin-left:8px">Party</span>
+      </select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Party</span>
       <select class="input" id="fParty">
         <option value="">Any party</option>
         <option value="solo">Good solo</option>
@@ -71,7 +71,7 @@
         <option value="small">3&ndash;6 people</option>
         <option value="big">7+ / group</option>
         <option value="na">Doesn't matter</option>
-      </select>
+      </select></div>
       <div class="tb-right">
         <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
         <button class="mini-btn" id="btnCsv">CSV</button>
@@ -107,7 +107,7 @@
   <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
     <div class="wrap" style="padding:0 22px">
       <div class="notes-grid">
-        <div><h4>How the radius works</h4><p>Drive times are traffic-free routing estimates from downtown {{ORIGIN}} to the town or trailhead in each entry, using OpenStreetMap road data. Add 15&ndash;25% for rush hour, and check the park's own directions for the last mile.</p></div>
+        <div><h4>How the radius works</h4><p>Drive times are routing estimates with no traffic from downtown {{ORIGIN}} to the town or trailhead in each entry, using OpenStreetMap road data. Add 15&ndash;25% for rush hour, and check the park's own directions for the last mile.</p></div>
         <div><h4>Why some obvious places are missing</h4><p>The atlas only lists things worth a deliberate trip. A chain restaurant or a generic mall doesn't make it just because it's close. If something local belongs here, it can be added.</p></div>
         <div><h4>Reading the score</h4><p>0&ndash;100 for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value. Sorted high to low by default.</p></div>
       </div>

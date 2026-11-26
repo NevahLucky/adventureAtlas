@@ -43,18 +43,18 @@
 
   <div class="toolbar" id="toolbar">
     <div class="tb-row">
-      <span class="lbl">County</span>
-      <select class="input" id="fCounty"><option value="">All counties</option></select>
-      <span class="lbl" style="margin-left:8px">Duration</span>
+      <div class="fgroup"><span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Duration</span>
       <select class="input" id="fDur">
         <option value="">Any length</option>
         <option value="0-3">Under 3 hours</option>
         <option value="3-6">3–6 hours</option>
         <option value="6-12">A full day</option>
         <option value="12-48">Overnight</option>
-        <option value="48-9999">Multi-day</option>
-      </select>
-      <span class="lbl" style="margin-left:8px">Budget</span>
+        <option value="48-9999">Multi day</option>
+      </select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Budget</span>
       <select class="input" id="fCost">
         <option value="">Any cost</option>
         <option value="0">Free only</option>
@@ -62,8 +62,8 @@
         <option value="0-100">Under $100</option>
         <option value="0-250">Under $250</option>
         <option value="250-99999">$250+</option>
-      </select>
-      <span class="lbl" style="margin-left:8px">Party</span>
+      </select></div>
+      <div class="fgroup"><span class="lbl" style="margin-left:8px">Party</span>
       <select class="input" id="fParty">
         <option value="">Any party</option>
         <option value="solo">Good solo</option>
@@ -71,7 +71,7 @@
         <option value="small">3–6 people</option>
         <option value="big">7+ / group</option>
         <option value="na">Doesn't matter</option>
-      </select>
+      </select></div>
       <div class="tb-right">
         <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
         <button class="mini-btn" id="btnCsv">CSV</button>
@@ -102,7 +102,7 @@
     <div class="wrap" style="padding:0 22px">
       <div class="notes-grid">
         <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
-        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
         <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
       </div>
     </div>
@@ -128,7 +128,7 @@ window.STATE = {
   slug: "delaware",
   stats: {"count": 5, "counties": 2, "free": 1, "median": 15, "top": 83},
   counties: ["New Castle", "Sussex"],
-  rows: [{"name": "Winterthur Museum", "city": "Winterthur", "county": "New Castle", "state": "Delaware", "cats": ["Museum", "Art", "Historical"], "cost": "$25–$35", "cost_num": 30, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1951", "company": "Winterthur Museum, Garden and Library", "party": "2–4", "customer": "Design people, retirees, gardeners", "unique": "Henry du Pont's 175-room mansion holding the world's premier collection of American decorative arts, set in 60 acres of naturalistic garden.", "buzz": "The period rooms are jaw-dropping; the garden tram is the sleeper hit. Some find the guided-only format slow.", "rating": 83, "id": "winterthur-museum-winterthur", "state_abbr": "DE", "county_full": "New Castle County"}, {"name": "Dogfish Head Brewery Tour", "city": "Milton", "county": "Sussex", "state": "Delaware", "cats": ["Food & Drink", "Maker"], "cost": "Free–$25", "cost_num": 15, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round, tours Thu–Sun", "start": "1995", "company": "Dogfish Head", "party": "2–6", "customer": "Beer people, young adults", "unique": "The brewery that invented continual hopping and put American craft beer on the map, with a tour that includes the original 1995 brewhouse and a tasting.", "buzz": "Tours are praised for honesty about failures and for generous pours; book ahead and eat at the brewpub.", "rating": 80, "id": "dogfish-head-brewery-tour-milton", "state_abbr": "DE", "county_full": "Sussex County"}, {"name": "Nemours Estate", "city": "Wilmington", "county": "New Castle", "state": "Delaware", "cats": ["Architecture", "Art", "Nature"], "cost": "$20–$25", "cost_num": 22, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "May–Dec", "start": "1909", "company": "Nemours Estate", "party": "2–4", "customer": "Design people, couples, retirees", "unique": "A 77-room French neoclassical mansion built by Alfred du Pont, with formal gardens modeled on Versailles and a garage full of vintage cars.", "buzz": "Less crowded than the du Pont mansions in Pennsylvania; reviews praise the gardens and the car collection.", "rating": 79, "id": "nemours-estate-wilmington", "state_abbr": "DE", "county_full": "New Castle County"}, {"name": "Cape Henlopen and Fort Miles", "city": "Lewes", "county": "Sussex", "state": "Delaware", "cats": ["Nature", "Historical", "Water"], "cost": "$10", "cost_num": 10, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1964", "company": "Delaware State Parks", "party": "2–6", "customer": "Families, history buffs, beach people", "unique": "A WWII coastal defense fort with a concrete observation tower you can climb, plus dunes, bay beach and ocean beach in one park.", "buzz": "The tower tour is the reason to come; the beaches are quieter than Rehoboth. Bikes are the best way around.", "rating": 78, "id": "cape-henlopen-and-fort-miles-lewes", "state_abbr": "DE", "county_full": "Sussex County"}, {"name": "Rehoboth Beach Boardwalk", "city": "Rehoboth Beach", "county": "Sussex", "state": "Delaware", "cats": ["Family", "Relaxing", "Food & Drink"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "May–Sep", "start": "1873", "company": "Free / self-guided", "party": "2–6", "customer": "Families, couples, DC weekenders", "unique": "A mile of boardwalk with a 1920s merry-go-round, Thrasher's fries in vinegar and a beach town that still shuts its bars early.", "buzz": "It is the Mid-Atlantic's cleanest family beach; parking is the eternal complaint. Go in September.", "rating": 76, "id": "rehoboth-beach-boardwalk-rehoboth-beach", "state_abbr": "DE", "county_full": "Sussex County"}]
+  rows: [{"name": "Winterthur Museum", "city": "Winterthur", "county": "New Castle", "state": "Delaware", "cats": ["Museum", "Art", "Historical"], "cost": "$25–$35", "cost_num": 30, "dur": "Half day", "dur_h": 4, "dates": "Year round", "start": "1951", "company": "Winterthur Museum, Garden and Library", "party": "2–4", "customer": "Design people, retirees, gardeners", "unique": "Henry du Pont's 175-room mansion holding the world's premier collection of American decorative arts, set in 60 acres of naturalistic garden.", "buzz": "The period rooms are jaw-dropping; the garden tram is the sleeper hit. Some find the guided only format slow.", "rating": 83, "id": "winterthur-museum-winterthur", "state_abbr": "DE", "county_full": "New Castle County"}, {"name": "Dogfish Head Brewery Tour", "city": "Milton", "county": "Sussex", "state": "Delaware", "cats": ["Food & Drink", "Maker"], "cost": "Free–$25", "cost_num": 15, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year round, tours Thu–Sun", "start": "1995", "company": "Dogfish Head", "party": "2–6", "customer": "Beer people, young adults", "unique": "The brewery that invented continual hopping and put American craft beer on the map, with a tour that includes the original 1995 brewhouse and a tasting.", "buzz": "Tours are praised for honesty about failures and for generous pours; book ahead and eat at the brewpub.", "rating": 80, "id": "dogfish-head-brewery-tour-milton", "state_abbr": "DE", "county_full": "Sussex County"}, {"name": "Nemours Estate", "city": "Wilmington", "county": "New Castle", "state": "Delaware", "cats": ["Architecture", "Art", "Nature"], "cost": "$20–$25", "cost_num": 22, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "May–Dec", "start": "1909", "company": "Nemours Estate", "party": "2–4", "customer": "Design people, couples, retirees", "unique": "A 77-room French neoclassical mansion built by Alfred du Pont, with formal gardens modeled on Versailles and a garage full of vintage cars.", "buzz": "Less crowded than the du Pont mansions in Pennsylvania; reviews praise the gardens and the car collection.", "rating": 79, "id": "nemours-estate-wilmington", "state_abbr": "DE", "county_full": "New Castle County"}, {"name": "Cape Henlopen and Fort Miles", "city": "Lewes", "county": "Sussex", "state": "Delaware", "cats": ["Nature", "Historical", "Water"], "cost": "$10", "cost_num": 10, "dur": "Half day", "dur_h": 4, "dates": "Year round", "start": "1964", "company": "Delaware State Parks", "party": "2–6", "customer": "Families, history buffs, beach people", "unique": "A WWII coastal defense fort with a concrete observation tower you can climb, plus dunes, bay beach and ocean beach in one park.", "buzz": "The tower tour is the reason to come; the beaches are quieter than Rehoboth. Bikes are the best way around.", "rating": 78, "id": "cape-henlopen-and-fort-miles-lewes", "state_abbr": "DE", "county_full": "Sussex County"}, {"name": "Rehoboth Beach Boardwalk", "city": "Rehoboth Beach", "county": "Sussex", "state": "Delaware", "cats": ["Family", "Relaxing", "Food & Drink"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "May–Sep", "start": "1873", "company": "Free / self guided", "party": "2–6", "customer": "Families, couples, DC weekenders", "unique": "A mile of boardwalk with a 1920s merry-go-round, Thrasher's fries in vinegar and a beach town that still shuts its bars early.", "buzz": "It is the Mid-Atlantic's cleanest family beach; parking is the eternal complaint. Go in September.", "rating": 76, "id": "rehoboth-beach-boardwalk-rehoboth-beach", "state_abbr": "DE", "county_full": "Sussex County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>
