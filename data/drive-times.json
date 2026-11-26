@@ -4521,5 +4521,347 @@
   "drive_mi": 198,
   "drive_min_clemson": 288,
   "drive_mi_clemson": 247
+ },
+ "Albemarle|North Carolina": {
+  "lat": 35.3501426,
+  "lon": -80.2000578,
+  "name": "Albemarle, Stanly County, North Carolina, 28001, United States",
+  "drive_min": 80,
+  "drive_mi": 56,
+  "drive_min_clemson": 226,
+  "drive_mi_clemson": 173
+ },
+ "Atlantic Beach|North Carolina": {
+  "lat": 34.6990505,
+  "lon": -76.7402108,
+  "name": "Atlantic Beach, Carteret County, North Carolina, 28512, United States",
+  "drive_min": 383,
+  "drive_mi": 292,
+  "drive_min_clemson": 516,
+  "drive_mi_clemson": 420
+ },
+ "Bald Head Island|North Carolina": {
+  "lat": 33.8618933,
+  "lon": -77.995528,
+  "name": "Bald Head Island, Brunswick County, North Carolina, United States",
+  "drive_min": 283,
+  "drive_mi": 221,
+  "drive_min_clemson": 416,
+  "drive_mi_clemson": 350
+ },
+ "Beaufort|North Carolina": {
+  "lat": 35.469331,
+  "lon": -76.8927522,
+  "name": "Beaufort County, North Carolina, United States",
+  "drive_min": 364,
+  "drive_mi": 299,
+  "drive_min_clemson": 497,
+  "drive_mi_clemson": 411
+ },
+ "Blowing Rock|North Carolina": {
+  "lat": 36.1350245,
+  "lon": -81.6777907,
+  "name": "Blowing Rock, Watauga County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 104,
+  "drive_min_clemson": 232,
+  "drive_mi_clemson": 162
+ },
+ "Buxton|North Carolina": {
+  "lat": 35.2485178,
+  "lon": -75.5502769,
+  "name": "Buxton, Dare County, North Carolina, 27920, United States",
+  "drive_min": 526,
+  "drive_mi": 423,
+  "drive_min_clemson": 660,
+  "drive_mi_clemson": 535
+ },
+ "Carrboro|North Carolina": {
+  "lat": 35.9099875,
+  "lon": -79.0752876,
+  "name": "Carrboro, Orange County, North Carolina, 27510, United States",
+  "drive_min": 186,
+  "drive_mi": 152,
+  "drive_min_clemson": 320,
+  "drive_mi_clemson": 264
+ },
+ "Chapel Hill|North Carolina": {
+  "lat": 35.9131542,
+  "lon": -79.05578,
+  "name": "Chapel Hill, Orange County, North Carolina, United States",
+  "drive_min": 188,
+  "drive_mi": 157,
+  "drive_min_clemson": 322,
+  "drive_mi_clemson": 268
+ },
+ "Conover|North Carolina": {
+  "lat": 35.7065004,
+  "lon": -81.2184383,
+  "name": "Conover, Catawba County, North Carolina, 28613, United States",
+  "drive_min": 78,
+  "drive_mi": 59,
+  "drive_min_clemson": 182,
+  "drive_mi_clemson": 143
+ },
+ "Harkers Island|North Carolina": {
+  "lat": 34.6990525,
+  "lon": -76.5621146,
+  "name": "Harkers Island, Carteret County, North Carolina, 28531, United States",
+  "drive_min": 409,
+  "drive_mi": 306,
+  "drive_min_clemson": 549,
+  "drive_mi_clemson": 439
+ },
+ "Hickory|North Carolina": {
+  "lat": 35.7333312,
+  "lon": -81.3442915,
+  "name": "Hickory, Catawba County, North Carolina, United States",
+  "drive_min": 88,
+  "drive_mi": 68,
+  "drive_min_clemson": 181,
+  "drive_mi_clemson": 146
+ },
+ "Lake Lure|North Carolina": {
+  "lat": 35.4278969,
+  "lon": -82.2048343,
+  "name": "Lake Lure, Rutherford County, North Carolina, 28746, United States",
+  "drive_min": 135,
+  "drive_mi": 102,
+  "drive_min_clemson": 126,
+  "drive_mi_clemson": 84
+ },
+ "Manteo|North Carolina": {
+  "lat": 35.9082257,
+  "lon": -75.6757303,
+  "name": "Manteo, Dare County, North Carolina, United States",
+  "drive_min": 441,
+  "drive_mi": 372,
+  "drive_min_clemson": 575,
+  "drive_mi_clemson": 484
+ },
+ "Monroe|North Carolina": {
+  "lat": 34.9854275,
+  "lon": -80.5495112,
+  "name": "Monroe, Union County, North Carolina, United States",
+  "drive_min": 43,
+  "drive_mi": 26,
+  "drive_min_clemson": 198,
+  "drive_mi_clemson": 158
+ },
+ "Nags Head|North Carolina": {
+  "lat": 35.9573923,
+  "lon": -75.624062,
+  "name": "Nags Head, Dare County, North Carolina, United States",
+  "drive_min": 450,
+  "drive_mi": 378,
+  "drive_min_clemson": 583,
+  "drive_mi_clemson": 490
+ },
+ "Oak Island|North Carolina": {
+  "lat": 33.9122506,
+  "lon": -78.1116284,
+  "name": "Oak Island, Brunswick County, North Carolina, 28465, United States",
+  "drive_min": 272,
+  "drive_mi": 216,
+  "drive_min_clemson": 406,
+  "drive_mi_clemson": 345
+ },
+ "Pine Knoll Shores|North Carolina": {
+  "lat": 34.6973838,
+  "lon": -76.8132697,
+  "name": "Pine Knoll Shores, Carteret County, North Carolina, United States",
+  "drive_min": 382,
+  "drive_mi": 286,
+  "drive_min_clemson": 515,
+  "drive_mi_clemson": 415
+ },
+ "Raleigh|North Carolina": {
+  "lat": 35.7803977,
+  "lon": -78.6390989,
+  "name": "Raleigh, Wake County, North Carolina, United States",
+  "drive_min": 219,
+  "drive_mi": 182,
+  "drive_min_clemson": 352,
+  "drive_mi_clemson": 294
+ },
+ "Rutherfordton|North Carolina": {
+  "lat": 35.3692877,
+  "lon": -81.9567716,
+  "name": "Rutherfordton, Rutherford County, North Carolina, United States",
+  "drive_min": 109,
+  "drive_mi": 81,
+  "drive_min_clemson": 127,
+  "drive_mi_clemson": 94
+ },
+ "Salisbury|North Carolina": {
+  "lat": 35.6709727,
+  "lon": -80.4742261,
+  "name": "Salisbury, Rowan County, North Carolina, United States",
+  "drive_min": 78,
+  "drive_mi": 60,
+  "drive_min_clemson": 211,
+  "drive_mi_clemson": 171
+ },
+ "Southport|North Carolina": {
+  "lat": 33.921563,
+  "lon": -78.0202677,
+  "name": "Southport, Brunswick County, North Carolina, United States",
+  "drive_min": 274,
+  "drive_mi": 217,
+  "drive_min_clemson": 407,
+  "drive_mi_clemson": 345
+ },
+ "Valle Crucis|North Carolina": {
+  "lat": 36.2092942,
+  "lon": -81.7784436,
+  "name": "Valle Crucis, Watauga County, North Carolina, 28691, United States",
+  "drive_min": 166,
+  "drive_mi": 115,
+  "drive_min_clemson": 231,
+  "drive_mi_clemson": 155
+ },
+ "Waxhaw|North Carolina": {
+  "lat": 34.9248125,
+  "lon": -80.7440174,
+  "name": "Waxhaw, Union County, North Carolina, United States",
+  "drive_min": 27,
+  "drive_mi": 17,
+  "drive_min_clemson": 191,
+  "drive_mi_clemson": 149
+ },
+ "Wrightsville Beach|North Carolina": {
+  "lat": 34.2079917,
+  "lon": -77.7955907,
+  "name": "Wrightsville Beach, New Hanover County, North Carolina, United States",
+  "drive_min": 271,
+  "drive_mi": 213,
+  "drive_min_clemson": 404,
+  "drive_mi_clemson": 342
+ },
+ "Bakersville|North Carolina": {
+  "lat": 36.0156735,
+  "lon": -82.1587351,
+  "name": "Bakersville, Mitchell County, North Carolina, 28705, United States",
+  "drive_min": 184,
+  "drive_mi": 139,
+  "drive_min_clemson": 193,
+  "drive_mi_clemson": 140
+ },
+ "Burlington|North Carolina": {
+  "lat": 36.0956918,
+  "lon": -79.4377991,
+  "name": "Burlington, Alamance County, North Carolina, United States",
+  "drive_min": 153,
+  "drive_mi": 128,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 240
+ },
+ "Fontana Dam|North Carolina": {
+  "lat": 35.4521843,
+  "lon": -83.8052654,
+  "name": "Fontana Dam, Swain County, North Carolina, United States",
+  "drive_min": 282,
+  "drive_mi": 220,
+  "drive_min_clemson": 175,
+  "drive_mi_clemson": 112
+ },
+ "Halifax|North Carolina": {
+  "lat": 36.2494056,
+  "lon": -77.66834,
+  "name": "Halifax County, North Carolina, United States",
+  "drive_min": 311,
+  "drive_mi": 261,
+  "drive_min_clemson": 445,
+  "drive_mi_clemson": 372
+ },
+ "Hayesville|North Carolina": {
+  "lat": 35.0462818,
+  "lon": -83.8179427,
+  "name": "Hayesville, Clay County, North Carolina, United States",
+  "drive_min": 290,
+  "drive_mi": 210,
+  "drive_min_clemson": 124,
+  "drive_mi_clemson": 80
+ },
+ "Little Switzerland|North Carolina": {
+  "lat": 35.8492885,
+  "lon": -82.0903939,
+  "name": "Little Switzerland, McDowell County, North Carolina, 28749, United States",
+  "drive_min": 169,
+  "drive_mi": 124,
+  "drive_min_clemson": 190,
+  "drive_mi_clemson": 122
+ },
+ "Maggie Valley|North Carolina": {
+  "lat": 35.5181575,
+  "lon": -83.0976419,
+  "name": "Maggie Valley, Haywood County, North Carolina, United States",
+  "drive_min": 201,
+  "drive_mi": 161,
+  "drive_min_clemson": 149,
+  "drive_mi_clemson": 95
+ },
+ "Marion|North Carolina": {
+  "lat": 35.6841022,
+  "lon": -82.0091028,
+  "name": "Marion, McDowell County, North Carolina, 28752, United States",
+  "drive_min": 134,
+  "drive_mi": 106,
+  "drive_min_clemson": 156,
+  "drive_mi_clemson": 107
+ },
+ "Mars Hill|North Carolina": {
+  "lat": 35.8263793,
+  "lon": -82.5486848,
+  "name": "Mars Hill, Madison County, North Carolina, United States",
+  "drive_min": 188,
+  "drive_mi": 152,
+  "drive_min_clemson": 142,
+  "drive_mi_clemson": 106
+ },
+ "Roanoke Rapids|North Carolina": {
+  "lat": 36.4558016,
+  "lon": -77.6573514,
+  "name": "Roanoke Rapids, Halifax County, North Carolina, United States",
+  "drive_min": 286,
+  "drive_mi": 244,
+  "drive_min_clemson": 419,
+  "drive_mi_clemson": 356
+ },
+ "Roaring Gap|North Carolina": {
+  "lat": 36.4029099,
+  "lon": -80.9853554,
+  "name": "Roaring Gap, Alleghany County, North Carolina, 28668, United States",
+  "drive_min": 133,
+  "drive_mi": 108,
+  "drive_min_clemson": 265,
+  "drive_mi_clemson": 217
+ },
+ "Swan Quarter|North Carolina": {
+  "lat": 35.4062781,
+  "lon": -76.3290861,
+  "name": "Swan Quarter, Hyde County, North Carolina, 27885, United States",
+  "drive_min": 411,
+  "drive_mi": 339,
+  "drive_min_clemson": 545,
+  "drive_mi_clemson": 451
+ },
+ "Connelly Springs|North Carolina": {
+  "lat": 35.7399645,
+  "lon": -81.5029788,
+  "name": "Connelly Springs, Burke County, North Carolina, 28612, United States",
+  "drive_min": 99,
+  "drive_mi": 75,
+  "drive_min_clemson": 182,
+  "drive_mi_clemson": 134
+ },
+ "Mount Gilead|North Carolina": {
+  "lat": 35.2148671,
+  "lon": -80.0022784,
+  "name": "Mount Gilead, Montgomery County, North Carolina, United States",
+  "drive_min": 102,
+  "drive_mi": 74,
+  "drive_min_clemson": 249,
+  "drive_mi_clemson": 192
  }
 }

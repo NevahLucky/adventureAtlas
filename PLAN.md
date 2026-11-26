@@ -152,7 +152,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,079 entries
+## Where it stands, 1,159 entries
 
 South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
 county, and all but Marlboro at five or more. It is the model for the other states.
@@ -165,7 +165,7 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
 | South Carolina | 287 | 46 | | New Mexico | 10 | 8 |
-| North Carolina | 83 | 38 | | Nevada | 10 | 5 |
+| North Carolina | 163 | 44 | | Nevada | 10 | 5 |
 | Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
@@ -196,8 +196,9 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 1. Georgia. 40 of 159 counties have entries, all at three or more. Next: the remaining 119 counties,
    starting with the rural south and west (Crisp, Colquitt, Tift, Sumter, Ben Hill, Coffee, Emanuel,
    Toombs, Bulloch, Screven) and the northeast (Habersham, Stephens, Franklin, Hart, Elbert).
-2. North Carolina. 38 of 100 counties have entries, 62 are blank. Start with Mecklenburg, Wake,
-   Guilford, Forsyth, Durham, Buncombe, New Hanover, Buncombe and the rural east.
+2. North Carolina. 44 of 100 counties have entries, all at three or more, 56 are blank. Next: the
+   Sandhills and the east (Cumberland, Hoke, Scotland, Robeson, Bladen, Columbus, Pender, Duplin,
+   Sampson, Wayne, Wilson, Edgecombe, Nash, Pitt, Onslow).
 3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.
 4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
 5. The remaining states, thinnest first, using the coverage report to choose.
