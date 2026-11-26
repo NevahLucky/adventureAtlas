@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 496 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+Current picture: 518 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
 North Carolina is 44 of 100.
 271 counties nationally still have a single entry, and those are the backlog.
 
@@ -153,7 +153,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,159 entries
+## Where it stands, 1,227 entries
 
 South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
 county, and all but Marlboro at five or more. It is the model for the other states.
@@ -166,7 +166,7 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
 | South Carolina | 287 | 46 | | New Mexico | 10 | 8 |
-| North Carolina | 163 | 44 | | Nevada | 10 | 5 |
+| North Carolina | 231 | 66 | | Nevada | 10 | 5 |
 | Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
@@ -197,9 +197,9 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 1. Georgia. 40 of 159 counties have entries, all at three or more. Next: the remaining 119 counties,
    starting with the rural south and west (Crisp, Colquitt, Tift, Sumter, Ben Hill, Coffee, Emanuel,
    Toombs, Bulloch, Screven) and the northeast (Habersham, Stephens, Franklin, Hart, Elbert).
-2. North Carolina. 44 of 100 counties have entries, all at three or more, 56 are blank. Next: the
-   Sandhills and the east (Cumberland, Hoke, Scotland, Robeson, Bladen, Columbus, Pender, Duplin,
-   Sampson, Wayne, Wilson, Edgecombe, Nash, Pitt, Onslow).
+2. North Carolina. 66 of 100 counties have entries, all at three or more, 34 are blank. Next: Wayne,
+   Lenoir, Greene, Jones, Pamlico, Tyrrell, Currituck, Camden, Pasquotank, Perquimans, Chowan, Gates,
+   Hertford, Bertie, Northampton, Warren, Person, Caswell, Rockingham, Alexander, Ashe, Alleghany.
 3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.
 4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
 5. The remaining states, thinnest first, using the coverage report to choose.

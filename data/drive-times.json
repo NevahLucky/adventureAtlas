@@ -4863,5 +4863,356 @@
   "drive_mi": 74,
   "drive_min_clemson": 249,
   "drive_mi_clemson": 192
+ },
+ "Bath|North Carolina": {
+  "lat": 35.4771094,
+  "lon": -76.8116045,
+  "name": "Bath, Beaufort County, North Carolina, United States",
+  "drive_min": 358,
+  "drive_mi": 301,
+  "drive_min_clemson": 492,
+  "drive_mi_clemson": 413
+ },
+ "Belhaven|North Carolina": {
+  "lat": 35.5401653,
+  "lon": -76.6229874,
+  "name": "Belhaven, Beaufort County, North Carolina, 27810, United States",
+  "drive_min": 375,
+  "drive_mi": 313,
+  "drive_min_clemson": 509,
+  "drive_mi_clemson": 425
+ },
+ "Beulaville|North Carolina": {
+  "lat": 34.9237763,
+  "lon": -77.7738667,
+  "name": "Beulaville, Duplin County, North Carolina, United States",
+  "drive_min": 286,
+  "drive_mi": 221,
+  "drive_min_clemson": 420,
+  "drive_mi_clemson": 346
+ },
+ "Burgaw|North Carolina": {
+  "lat": 34.5521113,
+  "lon": -77.926098,
+  "name": "Burgaw, Pender County, North Carolina, 28425, United States",
+  "drive_min": 267,
+  "drive_mi": 213,
+  "drive_min_clemson": 401,
+  "drive_mi_clemson": 341
+ },
+ "Burnsville|North Carolina": {
+  "lat": 35.9172243,
+  "lon": -82.2996695,
+  "name": "Burnsville, Yancey County, North Carolina, United States",
+  "drive_min": 187,
+  "drive_mi": 142,
+  "drive_min_clemson": 166,
+  "drive_mi_clemson": 123
+ },
+ "Clinton|North Carolina": {
+  "lat": 34.9979453,
+  "lon": -78.3233325,
+  "name": "Clinton, Sampson County, North Carolina, 28328, United States",
+  "drive_min": 239,
+  "drive_mi": 171,
+  "drive_min_clemson": 378,
+  "drive_mi_clemson": 323
+ },
+ "Collettsville|North Carolina": {
+  "lat": 35.9256856,
+  "lon": -81.6745456,
+  "name": "Collettsville, Caldwell County, North Carolina, United States",
+  "drive_min": 127,
+  "drive_mi": 93,
+  "drive_min_clemson": 206,
+  "drive_mi_clemson": 143
+ },
+ "Currie|North Carolina": {
+  "lat": 34.4626671,
+  "lon": -78.1011055,
+  "name": "Currie, Pender County, North Carolina, 28435, United States",
+  "drive_min": 249,
+  "drive_mi": 200,
+  "drive_min_clemson": 383,
+  "drive_mi_clemson": 329
+ },
+ "Danbury|North Carolina": {
+  "lat": 36.4093047,
+  "lon": -80.2058831,
+  "name": "Danbury, Stokes County, North Carolina, United States",
+  "drive_min": 153,
+  "drive_mi": 121,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 233
+ },
+ "Elizabethtown|North Carolina": {
+  "lat": 34.6293372,
+  "lon": -78.6052899,
+  "name": "Elizabethtown, Bladen County, North Carolina, 28837, United States",
+  "drive_min": 205,
+  "drive_mi": 158,
+  "drive_min_clemson": 335,
+  "drive_mi_clemson": 286
+ },
+ "Fayetteville|North Carolina": {
+  "lat": 35.0525759,
+  "lon": -78.878292,
+  "name": "Fayetteville, Cumberland County, North Carolina, United States",
+  "drive_min": 188,
+  "drive_mi": 136,
+  "drive_min_clemson": 333,
+  "drive_mi_clemson": 290
+ },
+ "Greenville|North Carolina": {
+  "lat": 35.613224,
+  "lon": -77.3724593,
+  "name": "Greenville, Pitt County, North Carolina, United States",
+  "drive_min": 308,
+  "drive_mi": 265,
+  "drive_min_clemson": 441,
+  "drive_mi_clemson": 377
+ },
+ "Henderson|North Carolina": {
+  "lat": 35.3389062,
+  "lon": -82.4663918,
+  "name": "Henderson County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 114,
+  "drive_min_clemson": 97,
+  "drive_mi_clemson": 68
+ },
+ "Jacksonville|North Carolina": {
+  "lat": 34.7509962,
+  "lon": -77.4309829,
+  "name": "Jacksonville, Onslow County, North Carolina, United States",
+  "drive_min": 316,
+  "drive_mi": 246,
+  "drive_min_clemson": 450,
+  "drive_mi_clemson": 375
+ },
+ "Kenansville|North Carolina": {
+  "lat": 34.9623883,
+  "lon": -77.9622069,
+  "name": "Kenansville, Duplin County, North Carolina, United States",
+  "drive_min": 272,
+  "drive_mi": 211,
+  "drive_min_clemson": 406,
+  "drive_mi_clemson": 335
+ },
+ "Lake Waccamaw|North Carolina": {
+  "lat": 34.3221707,
+  "lon": -78.5220264,
+  "name": "Lake Waccamaw, Columbus County, North Carolina, United States",
+  "drive_min": 207,
+  "drive_mi": 169,
+  "drive_min_clemson": 340,
+  "drive_mi_clemson": 297
+ },
+ "Laurinburg|North Carolina": {
+  "lat": 34.7740495,
+  "lon": -79.4628248,
+  "name": "Laurinburg, Scotland County, North Carolina, 28352, United States",
+  "drive_min": 131,
+  "drive_mi": 99,
+  "drive_min_clemson": 285,
+  "drive_mi_clemson": 226
+ },
+ "Lenoir|North Carolina": {
+  "lat": 35.2590371,
+  "lon": -77.6484879,
+  "name": "Lenoir County, North Carolina, United States",
+  "drive_min": 295,
+  "drive_mi": 223,
+  "drive_min_clemson": 437,
+  "drive_mi_clemson": 341
+ },
+ "Lumberton|North Carolina": {
+  "lat": 34.6183305,
+  "lon": -79.008205,
+  "name": "Lumberton, Robeson County, North Carolina, United States",
+  "drive_min": 170,
+  "drive_mi": 133,
+  "drive_min_clemson": 300,
+  "drive_mi_clemson": 261
+ },
+ "Mount Airy|North Carolina": {
+  "lat": 36.4993877,
+  "lon": -80.6072138,
+  "name": "Mount Airy, Surry County, North Carolina, United States",
+  "drive_min": 141,
+  "drive_mi": 116,
+  "drive_min_clemson": 274,
+  "drive_mi_clemson": 225
+ },
+ "Nebo|North Carolina": {
+  "lat": 35.7150585,
+  "lon": -81.9305965,
+  "name": "Nebo, McDowell County, North Carolina, 28761, United States",
+  "drive_min": 129,
+  "drive_mi": 101,
+  "drive_min_clemson": 166,
+  "drive_mi_clemson": 113
+ },
+ "North Topsail Beach|North Carolina": {
+  "lat": 34.4751366,
+  "lon": -77.4580663,
+  "name": "North Topsail Beach, Onslow County, North Carolina, United States",
+  "drive_min": 305,
+  "drive_mi": 240,
+  "drive_min_clemson": 438,
+  "drive_mi_clemson": 369
+ },
+ "Old Fort|North Carolina": {
+  "lat": 35.6293365,
+  "lon": -82.1810827,
+  "name": "Old Fort, McDowell County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 117,
+  "drive_min_clemson": 141,
+  "drive_mi_clemson": 97
+ },
+ "Oxford|North Carolina": {
+  "lat": 36.3107004,
+  "lon": -78.5908345,
+  "name": "Oxford, Granville County, North Carolina, United States",
+  "drive_min": 219,
+  "drive_mi": 187,
+  "drive_min_clemson": 353,
+  "drive_mi_clemson": 299
+ },
+ "Pembroke|North Carolina": {
+  "lat": 34.6800748,
+  "lon": -79.1933485,
+  "name": "Pembroke, Robeson County, North Carolina, 27372, United States",
+  "drive_min": 156,
+  "drive_mi": 119,
+  "drive_min_clemson": 306,
+  "drive_mi_clemson": 258
+ },
+ "Pilot Mountain|North Carolina": {
+  "lat": 36.3851349,
+  "lon": -80.4671211,
+  "name": "Pilot Mountain, Surry County, North Carolina, United States",
+  "drive_min": 147,
+  "drive_mi": 121,
+  "drive_min_clemson": 280,
+  "drive_mi_clemson": 233
+ },
+ "Raeford|North Carolina": {
+  "lat": 34.9809996,
+  "lon": -79.2241998,
+  "name": "Raeford, Hoke County, North Carolina, United States",
+  "drive_min": 158,
+  "drive_mi": 117,
+  "drive_min_clemson": 313,
+  "drive_mi_clemson": 244
+ },
+ "Richlands|North Carolina": {
+  "lat": 34.8999056,
+  "lon": -77.5463018,
+  "name": "Richlands, Onslow County, North Carolina, United States",
+  "drive_min": 305,
+  "drive_mi": 235,
+  "drive_min_clemson": 440,
+  "drive_mi_clemson": 359
+ },
+ "Rocky Mount|North Carolina": {
+  "lat": 35.9423833,
+  "lon": -77.7956949,
+  "name": "Rocky Mount, Nash County, North Carolina, United States",
+  "drive_min": 279,
+  "drive_mi": 240,
+  "drive_min_clemson": 412,
+  "drive_mi_clemson": 351
+ },
+ "Rose Hill|North Carolina": {
+  "lat": 34.8237518,
+  "lon": -78.0286818,
+  "name": "Rose Hill, Duplin County, North Carolina, United States",
+  "drive_min": 267,
+  "drive_mi": 200,
+  "drive_min_clemson": 398,
+  "drive_mi_clemson": 328
+ },
+ "Spring Lake|North Carolina": {
+  "lat": 35.1679396,
+  "lon": -78.9728056,
+  "name": "Spring Lake, Cumberland County, North Carolina, United States",
+  "drive_min": 183,
+  "drive_mi": 135,
+  "drive_min_clemson": 337,
+  "drive_mi_clemson": 262
+ },
+ "Tarboro|North Carolina": {
+  "lat": 35.8968236,
+  "lon": -77.5358049,
+  "name": "Tarboro, Edgecombe County, North Carolina, 27886, United States",
+  "drive_min": 296,
+  "drive_mi": 255,
+  "drive_min_clemson": 430,
+  "drive_mi_clemson": 367
+ },
+ "Topsail Beach|North Carolina": {
+  "lat": 34.3651685,
+  "lon": -77.6305293,
+  "name": "Topsail Beach, Pender County, North Carolina, United States",
+  "drive_min": 308,
+  "drive_mi": 241,
+  "drive_min_clemson": 441,
+  "drive_mi_clemson": 369
+ },
+ "Wagram|North Carolina": {
+  "lat": 34.8879397,
+  "lon": -79.3661515,
+  "name": "Wagram, Scotland County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 106,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 233
+ },
+ "Washington|North Carolina": {
+  "lat": 35.8725573,
+  "lon": -76.6215245,
+  "name": "Washington County, North Carolina, United States",
+  "drive_min": 365,
+  "drive_mi": 312,
+  "drive_min_clemson": 499,
+  "drive_mi_clemson": 424
+ },
+ "White Oak|North Carolina": {
+  "lat": 34.739262,
+  "lon": -78.7175597,
+  "name": "White Oak, Bladen County, North Carolina, United States",
+  "drive_min": 220,
+  "drive_mi": 155,
+  "drive_min_clemson": 350,
+  "drive_mi_clemson": 283
+ },
+ "Whiteville|North Carolina": {
+  "lat": 34.3217345,
+  "lon": -78.703148,
+  "name": "Whiteville, Columbus County, North Carolina, 28472, United States",
+  "drive_min": 197,
+  "drive_mi": 160,
+  "drive_min_clemson": 331,
+  "drive_mi_clemson": 288
+ },
+ "Wilson|North Carolina": {
+  "lat": 35.7059114,
+  "lon": -77.9175714,
+  "name": "Wilson County, North Carolina, United States",
+  "drive_min": 271,
+  "drive_mi": 232,
+  "drive_min_clemson": 405,
+  "drive_mi_clemson": 344
+ },
+ "Barnardsville|North Carolina": {
+  "lat": 35.777612,
+  "lon": -82.4548511,
+  "name": "Barnardsville, Buncombe County, North Carolina, 28709, United States",
+  "drive_min": 190,
+  "drive_mi": 153,
+  "drive_min_clemson": 144,
+  "drive_mi_clemson": 106
  }
 }
