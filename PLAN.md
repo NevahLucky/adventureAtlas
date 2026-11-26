@@ -75,7 +75,7 @@ interesting is often local.
 ## Inclusion rules
 
 1. If it makes a curious person say "oh, that is interesting", include it.
-2. Do not cap entries per county, per state or per category.
+2. There is no cap, ever. Not per county, per state or per category. If Fulton County has thirty qualifying entries, it gets thirty. Never stop because a county already has ten, fifteen or fifty.
 3. Do not drop one music festival because another is better. Include both and give the better one a
    higher rating. The rating is the filter, not the inclusion decision.
 4. Fame is irrelevant. A ten minute stop at a giant ball of twine can earn a 70. A world class museum
@@ -123,7 +123,7 @@ several lanes or a good reason it cannot.
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
 - No county below three entries where the county has three real things. One entry is not done.
-- No per county cap. Greenville County, SC is the current high at 15.
+- No per county cap. Greenville County, SC is the current high at 15, and it can take more. Depth is the product. A thin county is a research failure, not a finished county.
 - A state is done when every county is at three or more and the state sweep for duplicates is finished.
 - Only after the United States is at target should another country be started.
 
@@ -152,21 +152,21 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 937 entries
+## Where it stands, 1,012 entries
 
 South Carolina is done for this pass: 220 entries across all 46 counties, minimum three per county,
 zero single-entry counties. That makes it the model for the other states.
 
-Georgia has started in earnest: 89 entries in 28 of 159 counties. The Atlanta core (Fulton, DeKalb,
-Cobb, Gwinnett, Clayton) is in, along with Savannah, Macon, Columbus, Albany, Athens, Augusta,
-Brunswick and the Golden Isles, Rome, Milledgeville, Thomasville, Dahlonega, Blue Ridge, Ellijay,
-Helen, Waycross and the Okefenokee. 131 counties remain.
+Georgia now has 164 entries in 40 of 159 counties, and every county touched is at three or more.
+Fulton alone has 16, DeKalb 12, and the Atlanta ring (Cobb, Gwinnett, Clayton, Henry, Fayette,
+Coweta, Douglas, Paulding, Cherokee, Forsyth, Rockdale, Newton, Bartow, Hall, Carroll) is filled in.
+South Georgia, the mountains and the coast are covered at the county level. 119 counties remain.
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
 | South Carolina | 220 | 46 | | New Mexico | 10 | 8 |
 | North Carolina | 83 | 38 | | Nevada | 10 | 5 |
-| Georgia | 89 | 28 | | Massachusetts | 10 | 8 |
+| Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
 | Florida | 25 | 16 | | Alabama | 9 | 6 |
@@ -193,9 +193,9 @@ Helen, Waycross and the Okefenokee. 131 counties remain.
 
 ## Queue, county by county
 
-1. Georgia. 28 of 159 counties have entries. Next: the remaining Atlanta metro counties (Fayette,
-   Henry, Douglas, Paulding, Cherokee, Forsyth, Rockdale, Newton), then south and west Georgia county
-   by county, until all 159 are at three or more.
+1. Georgia. 40 of 159 counties have entries, all at three or more. Next: the remaining 119 counties,
+   starting with the rural south and west (Crisp, Colquitt, Tift, Sumter, Ben Hill, Coffee, Emanuel,
+   Toombs, Bulloch, Screven) and the northeast (Habersham, Stephens, Franklin, Hart, Elbert).
 2. North Carolina. 38 of 100 counties have entries, 62 are blank. Start with Mecklenburg, Wake,
    Guilford, Forsyth, Durham, Buncombe, New Hanover, Buncombe and the rural east.
 3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.

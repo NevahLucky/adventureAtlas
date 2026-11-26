@@ -4206,5 +4206,248 @@
   "drive_mi": 319,
   "drive_min_clemson": 376,
   "drive_mi_clemson": 289
+ },
+ "Ball Ground|Georgia": {
+  "lat": 34.3382257,
+  "lon": -84.3765714,
+  "name": "Ball Ground, Cherokee County, Georgia, United States",
+  "drive_min": 300,
+  "drive_mi": 241,
+  "drive_min_clemson": 159,
+  "drive_mi_clemson": 115
+ },
+ "Buford|Georgia": {
+  "lat": 34.1206564,
+  "lon": -84.0043513,
+  "name": "Buford, Gwinnett County, Georgia, United States",
+  "drive_min": 252,
+  "drive_mi": 209,
+  "drive_min_clemson": 111,
+  "drive_mi_clemson": 92
+ },
+ "Canton|Georgia": {
+  "lat": 34.2367621,
+  "lon": -84.4907621,
+  "name": "Canton, Cherokee County, Georgia, United States",
+  "drive_min": 309,
+  "drive_mi": 245,
+  "drive_min_clemson": 168,
+  "drive_mi_clemson": 127
+ },
+ "Carrollton|Georgia": {
+  "lat": 33.5801103,
+  "lon": -85.0766113,
+  "name": "Carrollton, Carroll County, Georgia, United States",
+  "drive_min": 345,
+  "drive_mi": 293,
+  "drive_min_clemson": 204,
+  "drive_mi_clemson": 175
+ },
+ "Cartersville|Georgia": {
+  "lat": 34.1652304,
+  "lon": -84.7997613,
+  "name": "Cartersville, Bartow County, Georgia, 30120, United States",
+  "drive_min": 321,
+  "drive_mi": 272,
+  "drive_min_clemson": 180,
+  "drive_mi_clemson": 154
+ },
+ "Covington|Georgia": {
+  "lat": 33.5966005,
+  "lon": -83.8598742,
+  "name": "Covington, Newton County, Georgia, 30014, United States",
+  "drive_min": 280,
+  "drive_mi": 252,
+  "drive_min_clemson": 157,
+  "drive_mi_clemson": 119
+ },
+ "Cumming|Georgia": {
+  "lat": 34.2073196,
+  "lon": -84.1401926,
+  "name": "Cumming, Forsyth County, Georgia, United States",
+  "drive_min": 271,
+  "drive_mi": 222,
+  "drive_min_clemson": 130,
+  "drive_mi_clemson": 104
+ },
+ "Dallas|Georgia": {
+  "lat": 33.9237141,
+  "lon": -84.8407732,
+  "name": "Dallas, Paulding County, Georgia, 30132, United States",
+  "drive_min": 324,
+  "drive_mi": 264,
+  "drive_min_clemson": 183,
+  "drive_mi_clemson": 146
+ },
+ "Douglasville|Georgia": {
+  "lat": 33.7514966,
+  "lon": -84.7477136,
+  "name": "Douglasville, Douglas County, Georgia, United States",
+  "drive_min": 312,
+  "drive_mi": 265,
+  "drive_min_clemson": 171,
+  "drive_mi_clemson": 147
+ },
+ "Fayetteville|Georgia": {
+  "lat": 33.4487257,
+  "lon": -84.4549262,
+  "name": "Fayetteville, Fayette County, Georgia, United States",
+  "drive_min": 318,
+  "drive_mi": 263,
+  "drive_min_clemson": 177,
+  "drive_mi_clemson": 146
+ },
+ "Gainesville|Georgia": {
+  "lat": 34.2978794,
+  "lon": -83.8240663,
+  "name": "Gainesville, Hall County, Georgia, 30501, United States",
+  "drive_min": 243,
+  "drive_mi": 202,
+  "drive_min_clemson": 99,
+  "drive_mi_clemson": 76
+ },
+ "Hampton|Georgia": {
+  "lat": 33.3870578,
+  "lon": -84.2829784,
+  "name": "Hampton, Henry County, Georgia, United States",
+  "drive_min": 323,
+  "drive_mi": 273,
+  "drive_min_clemson": 182,
+  "drive_mi_clemson": 155
+ },
+ "Jonesboro|Georgia": {
+  "lat": 33.5215013,
+  "lon": -84.3538128,
+  "name": "Jonesboro, Clayton County, Georgia, United States",
+  "drive_min": 308,
+  "drive_mi": 259,
+  "drive_min_clemson": 167,
+  "drive_mi_clemson": 141
+ },
+ "Lithia Springs|Georgia": {
+  "lat": 33.7797505,
+  "lon": -84.6506401,
+  "name": "Lithia Springs, Douglasville, Douglas County, Georgia, 30122, United States",
+  "drive_min": 307,
+  "drive_mi": 260,
+  "drive_min_clemson": 166,
+  "drive_mi_clemson": 142
+ },
+ "McDonough|Georgia": {
+  "lat": 33.4473361,
+  "lon": -84.1468616,
+  "name": "McDonough, Henry County, Georgia, 30253, United States",
+  "drive_min": 315,
+  "drive_mi": 261,
+  "drive_min_clemson": 174,
+  "drive_mi_clemson": 144
+ },
+ "Newnan|Georgia": {
+  "lat": 33.3806727,
+  "lon": -84.7997293,
+  "name": "Newnan, Coweta County, Georgia, United States",
+  "drive_min": 330,
+  "drive_mi": 279,
+  "drive_min_clemson": 189,
+  "drive_mi_clemson": 162
+ },
+ "Oxford|Georgia": {
+  "lat": 33.6190031,
+  "lon": -83.8674052,
+  "name": "Oxford, Newton County, Georgia, United States",
+  "drive_min": 282,
+  "drive_mi": 253,
+  "drive_min_clemson": 153,
+  "drive_mi_clemson": 117
+ },
+ "Roswell|Georgia": {
+  "lat": 34.02332,
+  "lon": -84.360022,
+  "name": "Roswell, Fulton County, Georgia, United States",
+  "drive_min": 287,
+  "drive_mi": 237,
+  "drive_min_clemson": 146,
+  "drive_mi_clemson": 119
+ },
+ "Senoia|Georgia": {
+  "lat": 33.3011663,
+  "lon": -84.5540046,
+  "name": "Senoia, Coweta County, Georgia, United States",
+  "drive_min": 337,
+  "drive_mi": 276,
+  "drive_min_clemson": 196,
+  "drive_mi_clemson": 158
+ },
+ "Stockbridge|Georgia": {
+  "lat": 33.5442781,
+  "lon": -84.2338093,
+  "name": "Stockbridge, Henry County, Georgia, United States",
+  "drive_min": 305,
+  "drive_mi": 258,
+  "drive_min_clemson": 164,
+  "drive_mi_clemson": 140
+ },
+ "Conyers|Georgia": {
+  "lat": 33.6676103,
+  "lon": -84.0176904,
+  "name": "Conyers, Rockdale County, Georgia, United States",
+  "drive_min": 291,
+  "drive_mi": 262,
+  "drive_min_clemson": 157,
+  "drive_mi_clemson": 120
+ },
+ "Fort Gaines|Georgia": {
+  "lat": 31.6046044,
+  "lon": -85.0497319,
+  "name": "Fort Gaines, Clay County, Georgia, United States",
+  "drive_min": 501,
+  "drive_mi": 421,
+  "drive_min_clemson": 360,
+  "drive_mi_clemson": 303
+ },
+ "Greensboro|Georgia": {
+  "lat": 33.5756831,
+  "lon": -83.1823789,
+  "name": "Greensboro, Greene County, Georgia, United States",
+  "drive_min": 240,
+  "drive_mi": 212,
+  "drive_min_clemson": 149,
+  "drive_mi_clemson": 114
+ },
+ "Omaha|Georgia": {
+  "lat": 32.1462643,
+  "lon": -85.0132629,
+  "name": "Omaha, Stewart County, Georgia, 31821, United States",
+  "drive_min": 454,
+  "drive_mi": 384,
+  "drive_min_clemson": 313,
+  "drive_mi_clemson": 266
+ },
+ "Peachtree City|Georgia": {
+  "lat": 33.3975472,
+  "lon": -84.5898256,
+  "name": "Peachtree City, Fayette County, Georgia, 30269, United States",
+  "drive_min": 324,
+  "drive_mi": 273,
+  "drive_min_clemson": 183,
+  "drive_mi_clemson": 155
+ },
+ "Porterdale|Georgia": {
+  "lat": 33.5751146,
+  "lon": -83.8937954,
+  "name": "Porterdale, Newton County, Georgia, 30070, United States",
+  "drive_min": 285,
+  "drive_mi": 255,
+  "drive_min_clemson": 161,
+  "drive_mi_clemson": 121
+ },
+ "Rabun Gap|Georgia": {
+  "lat": 34.9572143,
+  "lon": -83.3864536,
+  "name": "Rabun Gap, Rabun County, Georgia, 30568, United States",
+  "drive_min": 240,
+  "drive_mi": 179,
+  "drive_min_clemson": 74,
+  "drive_mi_clemson": 49
  }
 }
