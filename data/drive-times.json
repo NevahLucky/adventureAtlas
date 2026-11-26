@@ -1975,7 +1975,11 @@
  "Abita Springs|Louisiana": {
   "lat": 30.4785257,
   "lon": -90.0375755,
-  "name": "Abita Springs, Saint Tammany Parish, Louisiana, 70420, United States"
+  "name": "Abita Springs, Saint Tammany Parish, Louisiana, 70420, United States",
+  "drive_min": 787,
+  "drive_mi": 701,
+  "drive_min_clemson": 646,
+  "drive_mi_clemson": 584
  },
  "Alamogordo|New Mexico": {
   "lat": 32.8998822,
@@ -2015,7 +2019,11 @@
  "Angola|Louisiana": {
   "lat": 30.9598118,
   "lon": -91.6071326,
-  "name": "Louisiana State Penitentiary, 17544, Tunica Trace, Angola, West Feliciana Parish"
+  "name": "Louisiana State Penitentiary, 17544, Tunica Trace, Angola, West Feliciana Parish",
+  "drive_min": 927,
+  "drive_mi": 783,
+  "drive_min_clemson": 786,
+  "drive_mi_clemson": 665
  },
  "Arco|Idaho": {
   "lat": 43.635336,
@@ -2055,7 +2063,11 @@
  "Avery Island|Louisiana": {
   "lat": 29.8985393,
   "lon": -91.9062311,
-  "name": "Avery Island, Iberia Parish, Louisiana, 70513, United States"
+  "name": "Avery Island, Iberia Parish, Louisiana, 70513, United States",
+  "drive_min": 959,
+  "drive_mi": 844,
+  "drive_min_clemson": 818,
+  "drive_mi_clemson": 727
  },
  "Baker|Nevada": {
   "lat": 39.0121773,
@@ -2080,7 +2092,11 @@
  "Baton Rouge|Louisiana": {
   "lat": 30.4494155,
   "lon": -91.1869659,
-  "name": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
+  "name": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States",
+  "drive_min": 857,
+  "drive_mi": 768,
+  "drive_min_clemson": 716,
+  "drive_mi_clemson": 650
  },
  "Bayfield|Wisconsin": {
   "lat": 46.4710241,
@@ -2110,7 +2126,11 @@
  "Bentonville|Arkansas": {
   "lat": 36.3728608,
   "lon": -94.208787,
-  "name": "Bentonville, Benton County, Arkansas, United States"
+  "name": "Bentonville, Benton County, Arkansas, United States",
+  "drive_min": 1062,
+  "drive_mi": 966,
+  "drive_min_clemson": 921,
+  "drive_mi_clemson": 849
  },
  "Berkeley|California": {
   "lat": 37.8708393,
@@ -2313,7 +2333,11 @@
  "Clarksdale|Mississippi": {
   "lat": 34.2006479,
   "lon": -90.5702071,
-  "name": "Clarksdale, Coahoma County, Mississippi, 38614, United States"
+  "name": "Clarksdale, Coahoma County, Mississippi, 38614, United States",
+  "drive_min": 736,
+  "drive_mi": 636,
+  "drive_min_clemson": 595,
+  "drive_mi_clemson": 519
  },
  "Cleveland|Ohio": {
   "lat": 41.4996574,
@@ -2517,7 +2541,11 @@
  "Eureka Springs|Arkansas": {
   "lat": 36.4000796,
   "lon": -93.7392419,
-  "name": "Eureka Springs, Carroll County, Arkansas, 72632, United States"
+  "name": "Eureka Springs, Carroll County, Arkansas, 72632, United States",
+  "drive_min": 1044,
+  "drive_mi": 890,
+  "drive_min_clemson": 913,
+  "drive_mi_clemson": 794
  },
  "Everglades City|Florida": {
   "lat": 25.8574788,
@@ -2556,7 +2584,11 @@
  "Flora|Mississippi": {
   "lat": 32.5432591,
   "lon": -90.3094672,
-  "name": "Flora, Madison County, Mississippi, 39071, United States"
+  "name": "Flora, Madison County, Mississippi, 39071, United States",
+  "drive_min": 728,
+  "drive_mi": 647,
+  "drive_min_clemson": 587,
+  "drive_mi_clemson": 529
  },
  "Florence|Oregon": {
   "lat": 43.9800086,
@@ -2715,7 +2747,11 @@
  "Hot Springs|Arkansas": {
   "lat": 34.5038393,
   "lon": -93.0552437,
-  "name": "Hot Springs, Garland County, Arkansas, United States"
+  "name": "Hot Springs, Garland County, Arkansas, United States",
+  "drive_min": 910,
+  "drive_mi": 812,
+  "drive_min_clemson": 769,
+  "drive_mi_clemson": 695
  },
  "Hot Springs|South Dakota": {
   "lat": 43.431646,
@@ -2735,7 +2771,11 @@
  "Indianola|Mississippi": {
   "lat": 33.4509513,
   "lon": -90.6550917,
-  "name": "Indianola, Sunflower County, Mississippi, 38751, United States"
+  "name": "Indianola, Sunflower County, Mississippi, 38751, United States",
+  "drive_min": 748,
+  "drive_mi": 642,
+  "drive_min_clemson": 607,
+  "drive_mi_clemson": 524
  },
  "Indio|California": {
   "lat": 33.7192808,
@@ -2824,7 +2864,11 @@
  "Lafayette|Louisiana": {
   "lat": 30.2262187,
   "lon": -92.0178202,
-  "name": "Lafayette, Lafayette Parish, Louisiana, United States"
+  "name": "Lafayette, Lafayette Parish, Louisiana, United States",
+  "drive_min": 920,
+  "drive_mi": 822,
+  "drive_min_clemson": 779,
+  "drive_mi_clemson": 704
  },
  "Lake Placid|New York": {
   "lat": 44.2831194,
@@ -2888,7 +2932,11 @@
  "Little Rock|Arkansas": {
   "lat": 34.7465071,
   "lon": -92.2896267,
-  "name": "Little Rock, Big Rock Township, Pulaski County, Arkansas, United States"
+  "name": "Little Rock, Big Rock Township, Pulaski County, Arkansas, United States",
+  "drive_min": 851,
+  "drive_mi": 760,
+  "drive_min_clemson": 710,
+  "drive_mi_clemson": 642
  },
  "Logan|Ohio": {
   "lat": 40.4430521,
@@ -2923,12 +2971,20 @@
  "Mammoth Spring|Arkansas": {
   "lat": 36.4946025,
   "lon": -91.5428211,
-  "name": "Mammoth Spring, Fulton County, Arkansas, United States"
+  "name": "Mammoth Spring, Fulton County, Arkansas, United States",
+  "drive_min": 879,
+  "drive_mi": 750,
+  "drive_min_clemson": 748,
+  "drive_mi_clemson": 654
  },
  "Manchac|Louisiana": {
   "lat": 30.2915851,
   "lon": -90.4020293,
-  "name": "Manchac, Tangipahoa Parish, Louisiana, 70421, United States"
+  "name": "Manchac, Tangipahoa Parish, Louisiana, 70421, United States",
+  "drive_min": 825,
+  "drive_mi": 737,
+  "drive_min_clemson": 684,
+  "drive_mi_clemson": 619
  },
  "Manistique|Michigan": {
   "lat": 45.95779,
@@ -3057,7 +3113,11 @@
  "Mountain View|Arkansas": {
   "lat": 35.8684075,
   "lon": -92.1176521,
-  "name": "Mountain View, Stone County, Arkansas, 72560, United States"
+  "name": "Mountain View, Stone County, Arkansas, 72560, United States",
+  "drive_min": 910,
+  "drive_mi": 783,
+  "drive_min_clemson": 769,
+  "drive_mi_clemson": 665
  },
  "Mountville|Pennsylvania": {
   "lat": 40.0392642,
@@ -3072,7 +3132,11 @@
  "Murfreesboro|Arkansas": {
   "lat": 34.0623308,
   "lon": -93.6899049,
-  "name": "Murfreesboro, Pike County, Arkansas, 71958, United States"
+  "name": "Murfreesboro, Pike County, Arkansas, 71958, United States",
+  "drive_min": 983,
+  "drive_mi": 869,
+  "drive_min_clemson": 842,
+  "drive_mi_clemson": 752
  },
  "Mystic|Connecticut": {
   "lat": 41.3560375,
@@ -3092,12 +3156,20 @@
  "Natchez|Mississippi": {
   "lat": 31.5604076,
   "lon": -91.403171,
-  "name": "Natchez, Adams County, Mississippi, United States"
+  "name": "Natchez, Adams County, Mississippi, United States",
+  "drive_min": 827,
+  "drive_mi": 737,
+  "drive_min_clemson": 686,
+  "drive_mi_clemson": 619
  },
  "Natchitoches|Louisiana": {
   "lat": 31.7606732,
   "lon": -93.0860209,
-  "name": "Natchitoches, Natchitoches Parish, Louisiana, United States"
+  "name": "Natchitoches, Natchitoches Parish, Louisiana, United States",
+  "drive_min": 968,
+  "drive_mi": 843,
+  "drive_min_clemson": 827,
+  "drive_mi_clemson": 725
  },
  "New Braunfels|Texas": {
   "lat": 29.7028266,
@@ -3112,7 +3184,11 @@
  "New Orleans|Louisiana": {
   "lat": 29.9574657,
   "lon": -90.0629493,
-  "name": "New Orleans, Orleans Parish, Louisiana, United States"
+  "name": "New Orleans, Orleans Parish, Louisiana, United States",
+  "drive_min": 798,
+  "drive_mi": 709,
+  "drive_min_clemson": 657,
+  "drive_mi_clemson": 592
  },
  "New Shoreham|Rhode Island": {
   "lat": 41.1722089,
@@ -3177,7 +3253,11 @@
  "Ocean Springs|Mississippi": {
   "lat": 30.4112904,
   "lon": -88.8279165,
-  "name": "Ocean Springs, Jackson County, Mississippi, 39564, United States"
+  "name": "Ocean Springs, Jackson County, Mississippi, 39564, United States",
+  "drive_min": 704,
+  "drive_mi": 624,
+  "drive_min_clemson": 563,
+  "drive_mi_clemson": 507
  },
  "Oglesby|Illinois": {
   "lat": 41.2953127,
@@ -3314,7 +3394,11 @@
  "Ponca|Arkansas": {
   "lat": 36.0242433,
   "lon": -93.3646264,
-  "name": "Ponca, Newton County, Arkansas, 72670, United States"
+  "name": "Ponca, Newton County, Arkansas, 72670, United States",
+  "drive_min": 1033,
+  "drive_mi": 872,
+  "drive_min_clemson": 893,
+  "drive_mi_clemson": 786
  },
  "Port Lavaca|Texas": {
   "lat": 28.6149968,
@@ -3557,7 +3641,11 @@
  "Slidell|Louisiana": {
   "lat": 30.2751945,
   "lon": -89.7811745,
-  "name": "Slidell, Saint Tammany Parish, Louisiana, United States"
+  "name": "Slidell, Saint Tammany Parish, Louisiana, United States",
+  "drive_min": 764,
+  "drive_mi": 681,
+  "drive_min_clemson": 623,
+  "drive_mi_clemson": 564
  },
  "Snoqualmie|Washington": {
   "lat": 47.5289527,
@@ -3620,7 +3708,11 @@
  "St. Francisville|Louisiana": {
   "lat": 30.7807244,
   "lon": -91.3763353,
-  "name": "St. Francisville, West Feliciana Parish, Louisiana, United States"
+  "name": "St. Francisville, West Feliciana Parish, Louisiana, United States",
+  "drive_min": 882,
+  "drive_mi": 776,
+  "drive_min_clemson": 741,
+  "drive_mi_clemson": 658
  },
  "St. Johnsbury|Vermont": {
   "lat": 44.419494,
@@ -3659,7 +3751,11 @@
  "Stuttgart|Arkansas": {
   "lat": 34.5003748,
   "lon": -91.5526281,
-  "name": "Stuttgart, Arkansas County, Arkansas, United States"
+  "name": "Stuttgart, Arkansas County, Arkansas, United States",
+  "drive_min": 831,
+  "drive_mi": 740,
+  "drive_min_clemson": 690,
+  "drive_mi_clemson": 622
  },
  "Sun Valley|Idaho": {
   "lat": 43.696215,
@@ -3743,7 +3839,11 @@
  "Tupelo|Mississippi": {
   "lat": 34.2576067,
   "lon": -88.7033859,
-  "name": "Tupelo, Lee County, Mississippi, United States"
+  "name": "Tupelo, Lee County, Mississippi, United States",
+  "drive_min": 595,
+  "drive_mi": 523,
+  "drive_min_clemson": 454,
+  "drive_mi_clemson": 405
  },
  "Twentynine Palms|California": {
   "lat": 34.1356915,
@@ -3768,12 +3868,20 @@
  "Vacherie|Louisiana": {
   "lat": 30.0110358,
   "lon": -90.7195356,
-  "name": "Vacherie, Saint James Parish, Louisiana, 70763, United States"
+  "name": "Vacherie, Saint James Parish, Louisiana, 70763, United States",
+  "drive_min": 857,
+  "drive_mi": 758,
+  "drive_min_clemson": 716,
+  "drive_mi_clemson": 641
  },
  "Vicksburg|Mississippi": {
   "lat": 32.3528055,
   "lon": -90.8777342,
-  "name": "Vicksburg, Warren County, Mississippi, United States"
+  "name": "Vicksburg, Warren County, Mississippi, United States",
+  "drive_min": 748,
+  "drive_mi": 666,
+  "drive_min_clemson": 607,
+  "drive_mi_clemson": 549
  },
  "Villisca|Iowa": {
   "lat": 40.9293163,
@@ -4033,7 +4141,11 @@
  "Ridgeland|Mississippi": {
   "lat": 32.4284761,
   "lon": -90.1323087,
-  "name": "Ridgeland, Madison County, Mississippi, United States"
+  "name": "Ridgeland, Madison County, Mississippi, United States",
+  "drive_min": 712,
+  "drive_mi": 634,
+  "drive_min_clemson": 571,
+  "drive_mi_clemson": 516
  },
  "Greenwich|Connecticut": {
   "lat": 41.0264862,
@@ -5830,5 +5942,374 @@
   "drive_mi": 356,
   "drive_min_clemson": 548,
   "drive_mi_clemson": 468
+ },
+ "Abbeville|Louisiana": {
+  "lat": 29.9746502,
+  "lon": -92.1342921,
+  "name": "Abbeville, Vermilion Parish, Louisiana, 70510, United States",
+  "drive_min": 949,
+  "drive_mi": 844,
+  "drive_min_clemson": 808,
+  "drive_mi_clemson": 726
+ },
+ "Biloxi|Mississippi": {
+  "lat": 30.4007626,
+  "lon": -88.8893818,
+  "name": "Biloxi, Harrison County, Mississippi, United States",
+  "drive_min": 710,
+  "drive_mi": 629,
+  "drive_min_clemson": 569,
+  "drive_mi_clemson": 511
+ },
+ "Buras|Louisiana": {
+  "lat": 29.351886,
+  "lon": -89.5242248,
+  "name": "Buras, Plaquemines Parish, Louisiana, 70041, United States",
+  "drive_min": 881,
+  "drive_mi": 774,
+  "drive_min_clemson": 740,
+  "drive_mi_clemson": 656
+ },
+ "Cleveland|Mississippi": {
+  "lat": 33.7440023,
+  "lon": -90.7248187,
+  "name": "Cleveland, Bolivar County, Mississippi, 38732, United States",
+  "drive_min": 774,
+  "drive_mi": 655,
+  "drive_min_clemson": 633,
+  "drive_mi_clemson": 538
+ },
+ "Columbus|Mississippi": {
+  "lat": 33.4956744,
+  "lon": -88.4272627,
+  "name": "Columbus, Lowndes County, Mississippi, 39703, United States",
+  "drive_min": 583,
+  "drive_mi": 503,
+  "drive_min_clemson": 442,
+  "drive_mi_clemson": 386
+ },
+ "Cumberland|Kentucky": {
+  "lat": 36.7934611,
+  "lon": -85.3795095,
+  "name": "Cumberland County, Kentucky, United States",
+  "drive_min": 470,
+  "drive_mi": 387,
+  "drive_min_clemson": 424,
+  "drive_mi_clemson": 340
+ },
+ "Fayetteville|Arkansas": {
+  "lat": 36.0625843,
+  "lon": -94.1574328,
+  "name": "Fayetteville, Washington County, Arkansas, United States",
+  "drive_min": 1034,
+  "drive_mi": 941,
+  "drive_min_clemson": 893,
+  "drive_mi_clemson": 824
+ },
+ "Fifty-Six|Arkansas": {
+  "lat": 35.9579034,
+  "lon": -92.2201401,
+  "name": "Fifty-Six, Stone County, Arkansas, United States",
+  "drive_min": 930,
+  "drive_mi": 794,
+  "drive_min_clemson": 789,
+  "drive_mi_clemson": 677
+ },
+ "Fort Payne|Alabama": {
+  "lat": 34.4442547,
+  "lon": -85.7196893,
+  "name": "Fort Payne, DeKalb County, Alabama, 35967, United States",
+  "drive_min": 422,
+  "drive_mi": 343,
+  "drive_min_clemson": 281,
+  "drive_mi_clemson": 225
+ },
+ "Fort Smith|Arkansas": {
+  "lat": 35.3880338,
+  "lon": -94.4265011,
+  "name": "Fort Smith, Sebastian County, Arkansas, United States",
+  "drive_min": 1005,
+  "drive_mi": 911,
+  "drive_min_clemson": 864,
+  "drive_mi_clemson": 794
+ },
+ "Gadsden|Alabama": {
+  "lat": 34.0128323,
+  "lon": -86.0030251,
+  "name": "Gadsden, Etowah County, Alabama, United States",
+  "drive_min": 423,
+  "drive_mi": 361,
+  "drive_min_clemson": 282,
+  "drive_mi_clemson": 244
+ },
+ "Golden Pond|Kentucky": {
+  "lat": 38.9436437,
+  "lon": -84.6705929,
+  "name": "Golden Pond, Union, Boone County, Kentucky, United States",
+  "drive_min": 549,
+  "drive_mi": 457,
+  "drive_min_clemson": 503,
+  "drive_mi_clemson": 410
+ },
+ "Harrodsburg|Kentucky": {
+  "lat": 37.762298,
+  "lon": -84.8432852,
+  "name": "Harrodsburg, Mercer County, Kentucky, 40330, United States",
+  "drive_min": 471,
+  "drive_mi": 381,
+  "drive_min_clemson": 425,
+  "drive_mi_clemson": 335
+ },
+ "Hattiesburg|Mississippi": {
+  "lat": 31.3271189,
+  "lon": -89.2903392,
+  "name": "Hattiesburg, Forrest County, Mississippi, United States",
+  "drive_min": 701,
+  "drive_mi": 619,
+  "drive_min_clemson": 560,
+  "drive_mi_clemson": 502
+ },
+ "Helena|Arkansas": {
+  "lat": 34.5266746,
+  "lon": -90.586274,
+  "name": "Helena, Helena-West Helena, Phillips County, Arkansas, 72342, United States",
+  "drive_min": 756,
+  "drive_mi": 652,
+  "drive_min_clemson": 615,
+  "drive_mi_clemson": 534
+ },
+ "Hodgenville|Kentucky": {
+  "lat": 37.5737487,
+  "lon": -85.740353,
+  "name": "Hodgenville, Larue County, Kentucky, United States",
+  "drive_min": 528,
+  "drive_mi": 435,
+  "drive_min_clemson": 483,
+  "drive_mi_clemson": 388
+ },
+ "Horse Cave|Kentucky": {
+  "lat": 37.179496,
+  "lon": -85.9069175,
+  "name": "Horse Cave, Hart County, Kentucky, United States",
+  "drive_min": 516,
+  "drive_mi": 428,
+  "drive_min_clemson": 470,
+  "drive_mi_clemson": 381
+ },
+ "Houma|Louisiana": {
+  "lat": 29.5957696,
+  "lon": -90.7195348,
+  "name": "Houma, Terrebonne Parish, Louisiana, 70363, United States",
+  "drive_min": 864,
+  "drive_mi": 764,
+  "drive_min_clemson": 722,
+  "drive_mi_clemson": 646
+ },
+ "Huntsville|Alabama": {
+  "lat": 34.729847,
+  "lon": -86.5859011,
+  "name": "Huntsville, Madison County, Alabama, United States",
+  "drive_min": 503,
+  "drive_mi": 408,
+  "drive_min_clemson": 362,
+  "drive_mi_clemson": 291
+ },
+ "Jackson|Mississippi": {
+  "lat": 32.2998686,
+  "lon": -90.1830408,
+  "name": "Jackson, Hinds County, Mississippi, United States",
+  "drive_min": 701,
+  "drive_mi": 625,
+  "drive_min_clemson": 560,
+  "drive_mi_clemson": 507
+ },
+ "Jamestown|Kentucky": {
+  "lat": 36.984392,
+  "lon": -85.062818,
+  "name": "Jamestown, Russell County, Kentucky, United States",
+  "drive_min": 463,
+  "drive_mi": 378,
+  "drive_min_clemson": 417,
+  "drive_mi_clemson": 332
+ },
+ "Mentone|Alabama": {
+  "lat": 34.5795282,
+  "lon": -85.5905204,
+  "name": "Mentone, DeKalb County, Alabama, 35984, United States",
+  "drive_min": 406,
+  "drive_mi": 336,
+  "drive_min_clemson": 265,
+  "drive_mi_clemson": 218
+ },
+ "Meridian|Mississippi": {
+  "lat": 32.3643098,
+  "lon": -88.703656,
+  "name": "Meridian, Lauderdale County, Mississippi, United States",
+  "drive_min": 602,
+  "drive_mi": 534,
+  "drive_min_clemson": 461,
+  "drive_mi_clemson": 416
+ },
+ "Monroe|Louisiana": {
+  "lat": 32.5025471,
+  "lon": -92.116219,
+  "name": "Monroe, Ouachita Parish, Louisiana, United States",
+  "drive_min": 829,
+  "drive_mi": 741,
+  "drive_min_clemson": 688,
+  "drive_mi_clemson": 624
+ },
+ "Monroeville|Alabama": {
+  "lat": 31.5278224,
+  "lon": -87.3246325,
+  "name": "Monroeville, Monroe County, Alabama, United States",
+  "drive_min": 578,
+  "drive_mi": 507,
+  "drive_min_clemson": 437,
+  "drive_mi_clemson": 390
+ },
+ "Montgomery|Alabama": {
+  "lat": 32.3777111,
+  "lon": -86.3090775,
+  "name": "Montgomery, Montgomery County, Alabama, United States",
+  "drive_min": 462,
+  "drive_mi": 403,
+  "drive_min_clemson": 321,
+  "drive_mi_clemson": 285
+ },
+ "Morehead|Kentucky": {
+  "lat": 38.1839705,
+  "lon": -83.4326841,
+  "name": "Morehead, Rowan County, Kentucky, 40351, United States",
+  "drive_min": 454,
+  "drive_mi": 398,
+  "drive_min_clemson": 443,
+  "drive_mi_clemson": 355
+ },
+ "Morgan City|Louisiana": {
+  "lat": 29.6993748,
+  "lon": -91.20677,
+  "name": "Morgan City, Saint Mary Parish, Louisiana, 70380, United States",
+  "drive_min": 890,
+  "drive_mi": 791,
+  "drive_min_clemson": 749,
+  "drive_mi_clemson": 674
+ },
+ "Morrilton|Arkansas": {
+  "lat": 35.154026,
+  "lon": -92.7429266,
+  "name": "Morrilton, Conway County, Arkansas, 72110, United States",
+  "drive_min": 896,
+  "drive_mi": 805,
+  "drive_min_clemson": 755,
+  "drive_mi_clemson": 687
+ },
+ "Moundville|Alabama": {
+  "lat": 32.9976242,
+  "lon": -87.6300075,
+  "name": "Moundville, Hale County, Alabama, United States",
+  "drive_min": 522,
+  "drive_mi": 456,
+  "drive_min_clemson": 381,
+  "drive_mi_clemson": 339
+ },
+ "Oxford|Mississippi": {
+  "lat": 34.3663773,
+  "lon": -89.5187664,
+  "name": "Oxford, Lafayette County, Mississippi, United States",
+  "drive_min": 654,
+  "drive_mi": 574,
+  "drive_min_clemson": 513,
+  "drive_mi_clemson": 457
+ },
+ "Paris|Arkansas": {
+  "lat": 35.2924747,
+  "lon": -93.7294452,
+  "name": "Paris, Logan County, Arkansas, 72855, United States",
+  "drive_min": 978,
+  "drive_mi": 867,
+  "drive_min_clemson": 837,
+  "drive_mi_clemson": 749
+ },
+ "Perryville|Kentucky": {
+  "lat": 37.650351,
+  "lon": -84.9516234,
+  "name": "Perryville, Boyle County, Kentucky, United States",
+  "drive_min": 469,
+  "drive_mi": 382,
+  "drive_min_clemson": 423,
+  "drive_mi_clemson": 336
+ },
+ "Pine Bluff|Arkansas": {
+  "lat": 34.2228884,
+  "lon": -92.004334,
+  "name": "Pine Bluff, Jefferson County, Arkansas, United States",
+  "drive_min": 875,
+  "drive_mi": 776,
+  "drive_min_clemson": 734,
+  "drive_mi_clemson": 658
+ },
+ "Selma|Alabama": {
+  "lat": 32.4078632,
+  "lon": -87.0207473,
+  "name": "Selma, Dallas County, Alabama, United States",
+  "drive_min": 520,
+  "drive_mi": 451,
+  "drive_min_clemson": 379,
+  "drive_mi_clemson": 334
+ },
+ "Shreveport|Louisiana": {
+  "lat": 32.5135356,
+  "lon": -93.7477839,
+  "name": "Shreveport, Caddo Parish, Louisiana, United States",
+  "drive_min": 936,
+  "drive_mi": 839,
+  "drive_min_clemson": 795,
+  "drive_mi_clemson": 721
+ },
+ "St. Bernard|Louisiana": {
+  "lat": 29.8217562,
+  "lon": -89.6008692,
+  "name": "Saint Bernard Parish, Louisiana, United States",
+  "drive_min": 847,
+  "drive_mi": 734,
+  "drive_min_clemson": 706,
+  "drive_mi_clemson": 617
+ },
+ "Starkville|Mississippi": {
+  "lat": 33.4638745,
+  "lon": -88.8152074,
+  "name": "Starkville, Oktibbeha County, Mississippi, 39759, United States",
+  "drive_min": 610,
+  "drive_mi": 527,
+  "drive_min_clemson": 469,
+  "drive_mi_clemson": 409
+ },
+ "Theodore|Alabama": {
+  "lat": 30.5463684,
+  "lon": -88.2023937,
+  "name": "Theodore, Mobile County Commission District 3, Mobile County, Alabama, 36582, Un",
+  "drive_min": 662,
+  "drive_mi": 583,
+  "drive_min_clemson": 521,
+  "drive_mi_clemson": 465
+ },
+ "Tuscaloosa|Alabama": {
+  "lat": 33.2095614,
+  "lon": -87.5675258,
+  "name": "Tuscaloosa, Tuscaloosa County, Alabama, United States",
+  "drive_min": 508,
+  "drive_mi": 445,
+  "drive_min_clemson": 367,
+  "drive_mi_clemson": 328
+ },
+ "Versailles|Kentucky": {
+  "lat": 38.052576,
+  "lon": -84.7299464,
+  "name": "Versailles, Woodford County, Kentucky, United States",
+  "drive_min": 495,
+  "drive_mi": 404,
+  "drive_min_clemson": 449,
+  "drive_mi_clemson": 357
  }
 }
