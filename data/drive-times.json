@@ -4008,5 +4008,32 @@
   "drive_mi": 100,
   "drive_min_clemson": 136,
   "drive_mi_clemson": 90
+ },
+ "Ridge Spring|South Carolina": {
+  "lat": 33.845478,
+  "lon": -81.6619012,
+  "name": "Ridge Spring, Saluda County, South Carolina, United States",
+  "drive_min": 142,
+  "drive_mi": 116,
+  "drive_min_clemson": 159,
+  "drive_mi_clemson": 104
+ },
+ "Albany|Georgia": {
+  "lat": 31.5782062,
+  "lon": -84.1556809,
+  "name": "Albany, Dougherty County, Georgia, United States",
+  "drive_min": 443,
+  "drive_mi": 373,
+  "drive_min_clemson": 344,
+  "drive_mi_clemson": 301
+ },
+ "Tybee Island|Georgia": {
+  "lat": 31.9987321,
+  "lon": -80.8469427,
+  "name": "Tybee Island, Chatham County, Georgia, 31328, United States",
+  "drive_min": 295,
+  "drive_mi": 253,
+  "drive_min_clemson": 351,
+  "drive_mi_clemson": 250
  }
 }

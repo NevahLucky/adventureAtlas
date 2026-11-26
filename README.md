@@ -1,6 +1,6 @@
 # Waypoint — An Atlas of Adventures Worth the Trip
 
-A static, dependency-free field guide to 853 singular things to do in the United States, from world class spectacles to the local dance hall.
+A static, dependency-free field guide to 893 singular things to do in the United States, from world class spectacles to the local dance hall.
 Browse by country → state → county, sort by any column, filter by budget, duration,
 party size and category, and keep a personal shortlist.
 
@@ -26,6 +26,7 @@ templates/explore.html     page shell for the radius tool
 build.py                   regenerates every page, CSV and JSON extract
 scripts/merge_regions.py   merges data/regions into the master list
 scripts/drive_times.py     geocodes cities and routes drive times from any origin
+scripts/coverage.py        county coverage audit against data/counties.json
 PLAN.md                    coverage targets and the build queue
 DEPLOY.md                  Vercel instructions
 all-adventures.csv         flat export of the whole atlas (generated)

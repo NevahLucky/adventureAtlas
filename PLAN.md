@@ -122,9 +122,24 @@ several lanes or a good reason it cannot.
 
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
-- At least five entries per county where the county has five real things. No county is done at one.
+- No county below three entries where the county has three real things. One entry is not done.
 - No per county cap. Greenville County, SC is the current high at 15.
+- A state is done when every county is at three or more and the state sweep for duplicates is finished.
 - Only after the United States is at target should another country be started.
+
+## The coverage audit
+
+`data/counties.json` holds the official Census county list for all 51 states and districts.
+`scripts/coverage.py` compares it to the atlas and prints, per state: entries, total counties,
+counties covered, and how many have one, two, or three or more entries. It also flags county names
+that do not match the Census list, which usually means a spelling or type error.
+
+```bash
+python3 scripts/coverage.py
+```
+
+Current picture: 469 of 3,143 counties covered. South Carolina is 46 of 46. Georgia is 20 of 159.
+300 counties nationally still have a single entry, and those are the backlog.
 
 ## The radius tool
 
@@ -137,21 +152,20 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 853 entries
+## Where it stands, 893 entries
 
-South Carolina is the pilot for county first research: 196 entries across all 46 counties. Aiken now
-has the training track, Hitchcock Woods, Sunday polo and Hopelands. Barnwell has Healing Springs.
-Lee has the state park and the county museum. Saluda has the Alamo diorama. Allendale has its African
-South Carolina county has fewer than one entry, and most have three or four. Two are still thin:
-Allendale and Saluda have one entry each, so give both a second pass before calling the pilot done.
-four.
+South Carolina is done for this pass: 220 entries across all 46 counties, minimum three per county,
+zero single-entry counties. That makes it the model for the other states.
+
+Georgia has started: 45 entries in 20 of 159 counties. Chatham, Bibb, Muscogee, Dougherty and DeKalb
+are at four or more. The rest of the state is the queue.
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
-| South Carolina | 196 | 46 | | New Mexico | 10 | 8 |
+| South Carolina | 220 | 46 | | New Mexico | 10 | 8 |
 | North Carolina | 83 | 38 | | Nevada | 10 | 5 |
-| California | 29 | 18 | | Massachusetts | 10 | 8 |
-| Georgia | 29 | 19 | | Connecticut | 9 | 5 |
+| Georgia | 45 | 20 | | Massachusetts | 10 | 8 |
+| California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
 | Florida | 25 | 16 | | Alabama | 9 | 6 |
 | New York | 24 | 12 | | Mississippi | 9 | 8 |
@@ -177,14 +191,14 @@ four.
 
 ## Queue, county by county
 
-1. Georgia, county by county. Start with the 19 counties already touched, then the rest of the 159.
-   Clayton, Bibb, Chatham, Muscogee, Lowndes, Dougherty, Floyd, Clarke, Richmond and Glynn first.
-2. Tennessee, county by county. Start with the 12 present, then Davidson, Knox, Hamilton, Shelby,
-   Sevier, Blount, Sullivan, Washington and the rural counties around them.
-3. North Carolina, county by county. It has 83 entries in 38 of 100 counties, so 62 counties are
-   still blank.
+1. Georgia. Finish the five started counties to six or eight entries: Chatham, Bibb, Muscogee,
+   Dougherty, DeKalb. Then the Atlanta core: Fulton, Cobb, Gwinnett, Clayton, Fayette, Henry.
+   Then south and west Georgia, county by county, until all 159 are at three or more.
+2. North Carolina. 38 of 100 counties have entries, 62 are blank. Start with Mecklenburg, Wake,
+   Guilford, Forsyth, Durham, Buncombe, New Hanover, Buncombe and the rural east.
+3. Tennessee. 12 of 95 counties. Start with Davidson, Knox, Hamilton, Shelby, Sevier, Blount.
 4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
-5. The remaining states, thinnest first.
+5. The remaining states, thinnest first, using the coverage report to choose.
 6. Then a third country, using the same rules.
 
 ## Verification
@@ -218,6 +232,7 @@ python3 scripts/drive_times.py \
   --origin "Fort Mill,SC,35.0074,-80.9451,drive_min" \
   --origin "Clemson,SC,34.6851,-82.8364,drive_min_clemson"
 python3 build.py
+python3 scripts/coverage.py
 # 2. Open explore.html and a state page at 1440px and 420px, confirm the row counts, then commit
 ```
 
@@ -235,8 +250,8 @@ current folder. See `DEPLOY.md`.
 ## First moves in a fresh session
 
 1. Read `PLAN.md`, then `README.md`.
-2. Run `python3 build.py` and open `explore.html` and one state page.
-3. Pick one county, not one state. Georgia is the current queue head.
+2. Run `python3 scripts/coverage.py` and pick the next county from the thinnest state.
+3. Run `python3 build.py` and open `explore.html` and one state page.
 4. List what the county actually has, then write five to eight entries.
 5. Merge, route, build, check both widths, commit.
-6. Repeat for the next county. Only sweep a state for duplicates after all its counties are done.
+6. Repeat for the next county. Only sweep a state for duplicates after all its counties are at three.
