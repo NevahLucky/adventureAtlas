@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 518 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+Current picture: 522 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
 North Carolina is 44 of 100.
 271 counties nationally still have a single entry, and those are the backlog.
 
@@ -153,7 +153,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,227 entries
+## Where it stands, 1,268 entries
 
 South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
 county, and all but Marlboro at five or more. It is the model for the other states.
@@ -169,7 +169,7 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 | North Carolina | 231 | 66 | | Nevada | 10 | 5 |
 | Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
-| Tennessee | 29 | 12 | | New Jersey | 9 | 8 |
+| Tennessee | 70 | 16 | | New Jersey | 9 | 8 |
 | Florida | 25 | 16 | | Alabama | 9 | 6 |
 | New York | 24 | 12 | | Mississippi | 9 | 8 |
 | Texas | 21 | 12 | | Arkansas | 9 | 9 |

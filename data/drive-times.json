@@ -5214,5 +5214,95 @@
   "drive_mi": 153,
   "drive_min_clemson": 144,
   "drive_mi_clemson": 106
+ },
+ "Benton|Tennessee": {
+  "lat": 36.0345286,
+  "lon": -88.101285,
+  "name": "Benton County, West Tennessee, Tennessee, United States",
+  "drive_min": 597,
+  "drive_mi": 517,
+  "drive_min_clemson": 507,
+  "drive_mi_clemson": 451
+ },
+ "Bristol|Tennessee": {
+  "lat": 36.5945034,
+  "lon": -82.1885212,
+  "name": "Bristol, Sullivan County, East Tennessee, Tennessee, United States",
+  "drive_min": 230,
+  "drive_mi": 168,
+  "drive_min_clemson": 229,
+  "drive_mi_clemson": 174
+ },
+ "Clarksville|Tennessee": {
+  "lat": 36.5277607,
+  "lon": -87.3588703,
+  "name": "Clarksville, Montgomery County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 542,
+  "drive_mi": 465,
+  "drive_min_clemson": 461,
+  "drive_mi_clemson": 405
+ },
+ "Franklin|Tennessee": {
+  "lat": 35.925206,
+  "lon": -86.8689419,
+  "name": "Franklin, Williamson County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 507,
+  "drive_mi": 436,
+  "drive_min_clemson": 409,
+  "drive_mi_clemson": 357
+ },
+ "Gray|Tennessee": {
+  "lat": 36.4198258,
+  "lon": -82.4765352,
+  "name": "Gray, Washington County, East Tennessee, Tennessee, United States",
+  "drive_min": 241,
+  "drive_mi": 169,
+  "drive_min_clemson": 205,
+  "drive_mi_clemson": 158
+ },
+ "Murfreesboro|Tennessee": {
+  "lat": 35.8460396,
+  "lon": -86.3921096,
+  "name": "Murfreesboro, Rutherford County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 491,
+  "drive_mi": 421,
+  "drive_min_clemson": 372,
+  "drive_mi_clemson": 328
+ },
+ "Oak Ridge|Tennessee": {
+  "lat": 36.0103562,
+  "lon": -84.2696449,
+  "name": "Oak Ridge, Anderson County, East Tennessee, Tennessee, United States",
+  "drive_min": 322,
+  "drive_mi": 264,
+  "drive_min_clemson": 276,
+  "drive_mi_clemson": 217
+ },
+ "Norris|Tennessee": {
+  "lat": 36.1956343,
+  "lon": -84.067974,
+  "name": "Norris, Anderson County, East Tennessee, Tennessee, United States",
+  "drive_min": 318,
+  "drive_mi": 260,
+  "drive_min_clemson": 272,
+  "drive_mi_clemson": 213
+ },
+ "Reliance|Tennessee": {
+  "lat": 35.1870188,
+  "lon": -84.4990958,
+  "name": "Reliance, Polk County, East Tennessee, Tennessee, 37369, United States",
+  "drive_min": 366,
+  "drive_mi": 285,
+  "drive_min_clemson": 212,
+  "drive_mi_clemson": 142
+ },
+ "Tullahoma|Tennessee": {
+  "lat": 35.3624915,
+  "lon": -86.2099766,
+  "name": "Tullahoma, Coffee County, Middle Tennessee, Tennessee, 37388, United States",
+  "drive_min": 491,
+  "drive_mi": 421,
+  "drive_min_clemson": 350,
+  "drive_mi_clemson": 304
  }
 }
