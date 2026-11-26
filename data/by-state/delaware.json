@@ -21,7 +21,9 @@
   "unique": "Henry du Pont's 175-room mansion holding the world's premier collection of American decorative arts, set in 60 acres of naturalistic garden.",
   "buzz": "The period rooms are jaw-dropping; the garden tram is the sleeper hit. Some find the guided-only format slow.",
   "rating": 83,
-  "id": "winterthur-museum-winterthur"
+  "id": "winterthur-museum-winterthur",
+  "state_abbr": "DE",
+  "county_full": "New Castle County"
  },
  {
   "name": "Dogfish Head Brewery Tour",
@@ -44,7 +46,9 @@
   "unique": "The brewery that invented continual hopping and put American craft beer on the map, with a tour that includes the original 1995 brewhouse and a tasting.",
   "buzz": "Tours are praised for honesty about failures and for generous pours; book ahead and eat at the brewpub.",
   "rating": 80,
-  "id": "dogfish-head-brewery-tour-milton"
+  "id": "dogfish-head-brewery-tour-milton",
+  "state_abbr": "DE",
+  "county_full": "Sussex County"
  },
  {
   "name": "Nemours Estate",
@@ -68,7 +72,9 @@
   "unique": "A 77-room French neoclassical mansion built by Alfred du Pont, with formal gardens modeled on Versailles and a garage full of vintage cars.",
   "buzz": "Less crowded than the du Pont mansions in Pennsylvania; reviews praise the gardens and the car collection.",
   "rating": 79,
-  "id": "nemours-estate-wilmington"
+  "id": "nemours-estate-wilmington",
+  "state_abbr": "DE",
+  "county_full": "New Castle County"
  },
  {
   "name": "Cape Henlopen and Fort Miles",
@@ -92,7 +98,9 @@
   "unique": "A WWII coastal defense fort with a concrete observation tower you can climb, plus dunes, bay beach and ocean beach in one park.",
   "buzz": "The tower tour is the reason to come; the beaches are quieter than Rehoboth. Bikes are the best way around.",
   "rating": 78,
-  "id": "cape-henlopen-and-fort-miles-lewes"
+  "id": "cape-henlopen-and-fort-miles-lewes",
+  "state_abbr": "DE",
+  "county_full": "Sussex County"
  },
  {
   "name": "Rehoboth Beach Boardwalk",
@@ -116,6 +124,8 @@
   "unique": "A mile of boardwalk with a 1920s merry-go-round, Thrasher's fries in vinegar and a beach town that still shuts its bars early.",
   "buzz": "It is the Mid-Atlantic's cleanest family beach; parking is the eternal complaint. Go in September.",
   "rating": 76,
-  "id": "rehoboth-beach-boardwalk-rehoboth-beach"
+  "id": "rehoboth-beach-boardwalk-rehoboth-beach",
+  "state_abbr": "DE",
+  "county_full": "Sussex County"
  }
 ]

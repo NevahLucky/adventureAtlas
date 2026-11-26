@@ -21,7 +21,9 @@
   "unique": "A ten-story former shoe factory turned into a climbable sculpture of salvaged industrial junk: tunnels, a school bus hanging off the roof and a slide that drops five stories.",
   "buzz": "Kids disappear into the tunnels for hours; adults need closed shoes and a tolerance for tight spaces. The rooftop is extra.",
   "rating": 90,
-  "id": "city-museum-st-louis"
+  "id": "city-museum-st-louis",
+  "state_abbr": "MO",
+  "county_full": "St. Louis City"
  },
  {
   "name": "Kansas City Barbecue Crawl",
@@ -44,7 +46,9 @@
   "unique": "Burnt ends, sauce-dipped ribs and a style built on hickory and a tomato-molasses sauce that is sweeter than Texas and thicker than Memphis.",
   "buzz": "Joe's Kansas City and Arthur Bryant's are the canonical stops; locals argue about Gates. Order burnt ends and a Big Red.",
   "rating": 90,
-  "id": "kansas-city-barbecue-crawl-kansas-city"
+  "id": "kansas-city-barbecue-crawl-kansas-city",
+  "state_abbr": "MO",
+  "county_full": "Jackson County"
  },
  {
   "name": "St. Louis Zoo",
@@ -68,7 +72,9 @@
   "unique": "One of the last great free zoos, with a walk-through penguin house, a grizzly exhibit and a 1904 Flight Cage from the World's Fair.",
   "buzz": "Free admission and genuinely good exhibits; parking costs more than most zoos' entry. Go at opening.",
   "rating": 86,
-  "id": "st-louis-zoo-st-louis"
+  "id": "st-louis-zoo-st-louis",
+  "state_abbr": "MO",
+  "county_full": "St. Louis City"
  },
  {
   "name": "Silver Dollar City",
@@ -92,7 +98,9 @@
   "unique": "An 1880s-themed park built over a natural cave, with craftsmen blowing glass and forging iron between world-class coasters like Outlaw Run.",
   "buzz": "The theming is genuinely charming and the coasters are excellent; Christmas lights are a regional pilgrimage. Branson traffic is real.",
   "rating": 85,
-  "id": "silver-dollar-city-branson"
+  "id": "silver-dollar-city-branson",
+  "state_abbr": "MO",
+  "county_full": "Stone County"
  },
  {
   "name": "Ha Ha Tonka",
@@ -116,7 +124,9 @@
   "unique": "A stone castle ruin on a bluff above the Lake of the Ozarks, with a spring, a natural bridge and a waterfall in a dolomite canyon.",
   "buzz": "The castle ruin is eerier and more beautiful than expected; the spring trail is a steep stair climb. Sunset is the time.",
   "rating": 84,
-  "id": "ha-ha-tonka-camdenton"
+  "id": "ha-ha-tonka-camdenton",
+  "state_abbr": "MO",
+  "county_full": "Camden County"
  },
  {
   "name": "Gateway Arch",
@@ -140,7 +150,9 @@
   "unique": "A 630-foot stainless steel catenary arch with a tram that squeezes you into a pod and lifts you to a window the size of a shoebox over the Mississippi.",
   "buzz": "The tram is claustrophobic and the view is worth it; the museum underneath is excellent and free. Book timed tickets.",
   "rating": 83,
-  "id": "gateway-arch-st-louis"
+  "id": "gateway-arch-st-louis",
+  "state_abbr": "MO",
+  "county_full": "St. Louis City"
  },
  {
   "name": "Ozark Float Trip",
@@ -164,7 +176,9 @@
   "unique": "A Missouri institution: a raft, a cooler and a slow river through Ozark hills, with gravel bars for stopping and no schedule at all.",
   "buzz": "The Huzzah and Current rivers are the classics; weekends get rowdy and the water is cold. Book the shuttle and bring a dry bag.",
   "rating": 83,
-  "id": "ozark-float-trip-rolla"
+  "id": "ozark-float-trip-rolla",
+  "state_abbr": "MO",
+  "county_full": "Pulaski County"
  },
  {
   "name": "Meramec Caverns",
@@ -188,6 +202,8 @@
   "unique": "A five-story cavern lit in neon, billed on barn roofs for a hundred miles, with a sound-and-light show and a Jesse James outlaw legend.",
   "buzz": "It is unabashedly old-school roadside Americana; the formations are impressive and the show is kitsch. Kids love it.",
   "rating": 75,
-  "id": "meramec-caverns-stanton"
+  "id": "meramec-caverns-stanton",
+  "state_abbr": "MO",
+  "county_full": "Franklin County"
  }
 ]

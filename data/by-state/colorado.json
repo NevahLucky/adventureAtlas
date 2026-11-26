@@ -21,7 +21,9 @@
   "unique": "A concert venue built into 300-foot red sandstone slabs, with perfect natural acoustics and a view of the Denver skyline behind the stage.",
   "buzz": "Everyone calls it the best venue in America; the hike-in and the altitude catch visitors out. Film on the Rocks and sunrise yoga are local favorites.",
   "rating": 94,
-  "id": "red-rocks-amphitheatre-morrison"
+  "id": "red-rocks-amphitheatre-morrison",
+  "state_abbr": "CO",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Great Sand Dunes",
@@ -45,7 +47,9 @@
   "unique": "The tallest dunes in North America piled against the Sangre de Cristo mountains, with a seasonal creek to splash in and sandboarding down 700-foot slopes.",
   "buzz": "Climbing the dunes is brutal and the run down is worth it; go at dawn and bring more water than you think. Medano Creek peaks in June.",
   "rating": 93,
-  "id": "great-sand-dunes-mosca"
+  "id": "great-sand-dunes-mosca",
+  "state_abbr": "CO",
+  "county_full": "Saguache County"
  },
  {
   "name": "Mesa Verde Cliff Dwellings",
@@ -69,7 +73,9 @@
   "unique": "Six hundred cliff dwellings built into alcoves by Ancestral Puebloans, including the 150-room Cliff Palace that you can climb into on a ranger tour.",
   "buzz": "The guided tours are essential and sell out; the drive between sites is long and hot. Balcony House involves ladders and a crawl.",
   "rating": 92,
-  "id": "mesa-verde-cliff-dwellings-cortez"
+  "id": "mesa-verde-cliff-dwellings-cortez",
+  "state_abbr": "CO",
+  "county_full": "Montezuma County"
  },
  {
   "name": "Meow Wolf Convergence Station",
@@ -93,7 +99,9 @@
   "unique": "A four-story alternate universe built by hundreds of artists, with a narrative you have to piece together from clues hidden in rooms that are not rooms.",
   "buzz": "People spend hours hunting the story; kids love the slides and adults love the detail. Book a timed slot and wear comfortable shoes.",
   "rating": 90,
-  "id": "meow-wolf-convergence-station-denver"
+  "id": "meow-wolf-convergence-station-denver",
+  "state_abbr": "CO",
+  "county_full": "Denver County"
  },
  {
   "name": "Telluride Via Ferrata",
@@ -117,7 +125,9 @@
   "unique": "A protected climbing route bolted across a 600-foot cliff above Telluride, with cables, ladders and a bridge over a waterfall — no rope skills needed.",
   "buzz": "Guides are praised for managing fear well; the exposure is real and the views are absurd. Book early, the season is short.",
   "rating": 90,
-  "id": "telluride-via-ferrata-telluride"
+  "id": "telluride-via-ferrata-telluride",
+  "state_abbr": "CO",
+  "county_full": "San Miguel County"
  },
  {
   "name": "Browns Canyon Rafting",
@@ -140,7 +150,9 @@
   "unique": "Class III–IV rapids through a granite canyon designated a national monument, with big waves, a cliff jump and warm-ish water.",
   "buzz": "The best introductory whitewater in Colorado; guides are excellent with nervous first-timers. Afternoon flows are livelier.",
   "rating": 89,
-  "id": "browns-canyon-rafting-buena-vista"
+  "id": "browns-canyon-rafting-buena-vista",
+  "state_abbr": "CO",
+  "county_full": "Chaffee County"
  },
  {
   "name": "Durango and Silverton Narrow Gauge",
@@ -164,7 +176,9 @@
   "unique": "A coal-fired steam train on a ledge above the Animas River gorge, climbing to a mining town that time forgot, with open-air gondolas and soot in your teeth.",
   "buzz": "The open car is worth the upgrade; it is a long day and kids get restless on the return. Book the steam engine, not the diesel.",
   "rating": 89,
-  "id": "durango-and-silverton-narrow-gauge-durango"
+  "id": "durango-and-silverton-narrow-gauge-durango",
+  "state_abbr": "CO",
+  "county_full": "La Plata County"
  },
  {
   "name": "Garden of the Gods",
@@ -188,7 +202,9 @@
   "unique": "Fins and spires of red sandstone pushed up at a steep angle, with a paved loop, technical climbing and Pikes Peak as the backdrop.",
   "buzz": "Free and spectacular; go at sunrise for the light and to beat the tour buses. Climbing requires a permit.",
   "rating": 88,
-  "id": "garden-of-the-gods-colorado-springs"
+  "id": "garden-of-the-gods-colorado-springs",
+  "state_abbr": "CO",
+  "county_full": "El Paso County"
  },
  {
   "name": "Ouray Ice Park",
@@ -212,7 +228,9 @@
   "unique": "A mile of farmed ice in a box canyon above town, with 200 routes, free access and a festival that draws the world's best mixed climbers.",
   "buzz": "Beginners can top-rope with a guide and feel heroic; the park is free and the town is tiny and friendly. Gear rentals are easy.",
   "rating": 88,
-  "id": "ouray-ice-park-ouray"
+  "id": "ouray-ice-park-ouray",
+  "state_abbr": "CO",
+  "county_full": "Ouray County"
  },
  {
   "name": "Rocky Mountain Elk Rut",
@@ -235,6 +253,8 @@
   "unique": "Bull elk bugle and clash across the meadows of Moraine Park in the fall, with the Continental Divide behind them and sometimes a few hundred yards from your car.",
   "buzz": "The sound is unearthly; rangers manage the crowds well. Keep your distance — tourists get charged every year.",
   "rating": 87,
-  "id": "rocky-mountain-elk-rut-estes-park"
+  "id": "rocky-mountain-elk-rut-estes-park",
+  "state_abbr": "CO",
+  "county_full": "Larimer County"
  }
 ]

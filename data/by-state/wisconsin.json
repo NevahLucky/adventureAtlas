@@ -21,7 +21,9 @@
   "unique": "In rare cold winters, Lake Superior freezes solid enough to walk to sea caves hung with curtains of blue ice — a phenomenon that may not happen at all in a given year.",
   "buzz": "When it opens, it is one of the most spectacular things in the Midwest; check the park's ice report before driving. Never go alone.",
   "rating": 90,
-  "id": "apostle-islands-ice-caves-bayfield"
+  "id": "apostle-islands-ice-caves-bayfield",
+  "state_abbr": "WI",
+  "county_full": "Bayfield County"
  },
  {
   "name": "EAA AirVenture",
@@ -45,7 +47,9 @@
   "unique": "Ten thousand aircraft and 600,000 people descend on a regional airport for a week of airshows, homebuilts, warbirds and a night show with fireworks.",
   "buzz": "Even casual visitors are stunned; bring earplugs and comfortable shoes. Lodging books a year out.",
   "rating": 89,
-  "id": "eaa-airventure-oshkosh"
+  "id": "eaa-airventure-oshkosh",
+  "state_abbr": "WI",
+  "county_full": "Winnebago County"
  },
  {
   "name": "House on the Rock",
@@ -69,7 +73,9 @@
   "unique": "A fever-dream house built over a chimney, with the world's largest carousel, a sea monster, automated orchestras and a bookcase that opens into a tunnel.",
   "buzz": "People either call it a masterpiece of outsider art or a hoarder's monument; both are right. Allow three hours minimum.",
   "rating": 87,
-  "id": "house-on-the-rock-spring-green"
+  "id": "house-on-the-rock-spring-green",
+  "state_abbr": "WI",
+  "county_full": "Iowa County"
  },
  {
   "name": "Devil's Lake",
@@ -93,7 +99,9 @@
   "unique": "A spring-fed lake between two quartzite bluffs, with a balanced-rock trail, purple quartzite cliffs and some of the best top-rope climbing in the Midwest.",
   "buzz": "The bluff trails are crowded on summer weekends; go at sunrise and swim after. The East Bluff is the classic loop.",
   "rating": 86,
-  "id": "devil-s-lake-baraboo"
+  "id": "devil-s-lake-baraboo",
+  "state_abbr": "WI",
+  "county_full": "Sauk County"
  },
  {
   "name": "Door County",
@@ -117,7 +125,9 @@
   "unique": "A peninsula of cherry orchards, fish boils, lighthouses and limestone cliffs, with a shoreline that feels like Maine and a pace that feels like 1955.",
   "buzz": "The fish boil at a Scandinavian restaurant is the ritual; book a cottage months ahead for fall color.",
   "rating": 85,
-  "id": "door-county-fish-creek"
+  "id": "door-county-fish-creek",
+  "state_abbr": "WI",
+  "county_full": "Door County"
  },
  {
   "name": "Taliesin",
@@ -141,7 +151,9 @@
   "unique": "Wright's own home and studio, built into a Wisconsin hillside with the roof lines following the ridge, rebuilt twice after fires.",
   "buzz": "The house tour is excellent and the estate walk is worth the extra; photography rules are strict. Pair with House on the Rock for whiplash.",
   "rating": 85,
-  "id": "taliesin-spring-green"
+  "id": "taliesin-spring-green",
+  "state_abbr": "WI",
+  "county_full": "Iowa County"
  },
  {
   "name": "Lambeau Field",
@@ -164,7 +176,9 @@
   "unique": "The only community-owned team in major American sports, with a stadium tour that includes the tunnel, the frozen tundra and a hall of fame.",
   "buzz": "The tour is excellent even for non-fans; game-day tickets require a season-ticket waiting list or luck.",
   "rating": 84,
-  "id": "lambeau-field-green-bay"
+  "id": "lambeau-field-green-bay",
+  "state_abbr": "WI",
+  "county_full": "Brown County"
  },
  {
   "name": "Summerfest",
@@ -188,7 +202,9 @@
   "unique": "Eleven stages on the Lake Michigan shore for eleven days, with a giant American flag, fried cheese and a lineup that runs from hip-hop to polka.",
   "buzz": "It is cheap for a major festival and the lake breeze saves it; headliners cost extra. Bring a blanket and pace yourself.",
   "rating": 84,
-  "id": "summerfest-milwaukee"
+  "id": "summerfest-milwaukee",
+  "state_abbr": "WI",
+  "county_full": "Milwaukee County"
  },
  {
   "name": "Harley-Davidson Museum",
@@ -212,7 +228,9 @@
   "unique": "The archive of an American icon: prototype engines, a wall of gas tanks, the first serial-number bike and a room of custom choppers.",
   "buzz": "Even non-riders enjoy the design story; the factory tour in Menomonee Falls is a separate booking.",
   "rating": 82,
-  "id": "harley-davidson-museum-milwaukee"
+  "id": "harley-davidson-museum-milwaukee",
+  "state_abbr": "WI",
+  "county_full": "Milwaukee County"
  },
  {
   "name": "Wisconsin Dells Duck Boats",
@@ -236,6 +254,8 @@
   "unique": "A WWII amphibious vehicle drives straight from the street into the Wisconsin River and up a sandstone gorge, with a driver who tells terrible jokes.",
   "buzz": "It is exactly as silly as it sounds and kids love it; the Dells is a waterpark town with a strange natural core.",
   "rating": 76,
-  "id": "wisconsin-dells-duck-boats-wisconsin-dells"
+  "id": "wisconsin-dells-duck-boats-wisconsin-dells",
+  "state_abbr": "WI",
+  "county_full": "Columbia County"
  }
 ]

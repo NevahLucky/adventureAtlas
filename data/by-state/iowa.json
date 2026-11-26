@@ -21,7 +21,9 @@
   "unique": "Thirty thousand riders cross Iowa in seven days, eating pie in church basements and sleeping in host towns that compete to throw the best party.",
   "buzz": "It is a rolling festival more than a race; training matters and the heat is real. Register early or join a charter.",
   "rating": 88,
-  "id": "ragbrai-statewide"
+  "id": "ragbrai-statewide",
+  "state_abbr": "IA",
+  "county_full": "Statewide"
  },
  {
   "name": "Iowa State Fair",
@@ -45,7 +47,9 @@
   "unique": "The fair that invented the corn dog, with a butter cow, the largest livestock show in the country and a pork chop on a stick that draws pilgrims.",
   "buzz": "People plan vacations around it; the food is the attraction. Parking is easier than at most fairs.",
   "rating": 85,
-  "id": "iowa-state-fair-des-moines"
+  "id": "iowa-state-fair-des-moines",
+  "state_abbr": "IA",
+  "county_full": "Polk County"
  },
  {
   "name": "Maquoketa Caves",
@@ -69,7 +73,9 @@
   "unique": "Six miles of trails connecting caves you can actually enter, including one with a 17-foot ceiling and a natural bridge, in the middle of Iowa farmland.",
   "buzz": "Bring a headlamp and clothes you don't mind ruining; the caves are unpaved and genuinely dark. Mud is part of the deal.",
   "rating": 82,
-  "id": "maquoketa-caves-maquoketa"
+  "id": "maquoketa-caves-maquoketa",
+  "state_abbr": "IA",
+  "county_full": "Jackson County"
  },
  {
   "name": "Field of Dreams",
@@ -93,7 +99,9 @@
   "unique": "The actual cornfield and farmhouse from the film, with a maintained diamond where anyone can hit and ghosts of a century of baseball lore.",
   "buzz": "People arrive cynical and leave misty-eyed; the movie site is free and the souvenir shop is reasonable. Combine with Dubuque.",
   "rating": 81,
-  "id": "field-of-dreams-dyersville"
+  "id": "field-of-dreams-dyersville",
+  "state_abbr": "IA",
+  "county_full": "Dubuque County"
  },
  {
   "name": "Grotto of the Redemption",
@@ -117,7 +125,9 @@
   "unique": "A priest spent forty years building a nine-grotto monument out of petrified wood, geodes, agate and malachite — a folk-art cathedral in a cornfield.",
   "buzz": "It is free, sincere and stranger than photos suggest; the mineral collection is genuinely impressive.",
   "rating": 78,
-  "id": "grotto-of-the-redemption-west-bend"
+  "id": "grotto-of-the-redemption-west-bend",
+  "state_abbr": "IA",
+  "county_full": "Palo Alto County"
  },
  {
   "name": "Bridges of Madison County",
@@ -141,6 +151,8 @@
   "rating": 77,
   "party": "2–6",
   "customer": "Families, couples, photographers",
-  "id": "bridges-of-madison-county-winterset"
+  "id": "bridges-of-madison-county-winterset",
+  "state_abbr": "IA",
+  "county_full": "Madison County"
  }
 ]

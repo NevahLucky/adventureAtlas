@@ -21,7 +21,9 @@
   "unique": "A 14-to-16-mile climb up granite stairs and cables to a summit that drops 4,800 feet to the valley floor on three sides.",
   "buzz": "The cables are the crux and the permit lottery is the gatekeeper; altitude and heat stop more people than fear. Train for it.",
   "rating": 95,
-  "id": "half-dome-yosemite"
+  "id": "half-dome-yosemite",
+  "state_abbr": "CA",
+  "county_full": "Mariposa County"
  },
  {
   "name": "Big Sur Highway 1",
@@ -45,7 +47,9 @@
   "unique": "Ninety miles of cliff-edge highway above the Pacific, with redwood canyons, a purple sand beach and the Bixby Bridge.",
   "buzz": "The drive is the attraction; pull-offs are the whole point. Check for landslide closures before you go.",
   "rating": 93,
-  "id": "big-sur-highway-1-big-sur"
+  "id": "big-sur-highway-1-big-sur",
+  "state_abbr": "CA",
+  "county_full": "Monterey County"
  },
  {
   "name": "Death Valley",
@@ -69,7 +73,9 @@
   "unique": "The hottest, driest, lowest place in North America: salt flats, sand dunes, a crater and a lake that appears once a decade.",
   "buzz": "Winter is the only sane season; distances are huge and cell service is nil. Badwater at sunrise and the dunes at dusk.",
   "rating": 92,
-  "id": "death-valley-furnace-creek"
+  "id": "death-valley-furnace-creek",
+  "state_abbr": "CA",
+  "county_full": "Inyo County"
  },
  {
   "name": "Joshua Tree Night Sky",
@@ -93,7 +99,9 @@
   "unique": "Dr. Seuss trees, granite boulders and a sky so dark the Milky Way is a texture, two hours from Los Angeles.",
   "buzz": "The night sky is the reason to stay over; the boulders are a climber's playground. Summer heat is dangerous.",
   "rating": 92,
-  "id": "joshua-tree-night-sky-twentynine-palms"
+  "id": "joshua-tree-night-sky-twentynine-palms",
+  "state_abbr": "CA",
+  "county_full": "San Bernardino County"
  },
  {
   "name": "Alcatraz Night Tour",
@@ -116,7 +124,9 @@
   "unique": "The cellhouse after dark, with ranger talks in the solitary wing and a boat ride back past the city lights — the tour that makes the prison feel like a place people lived.",
   "buzz": "The night tour is worth the extra over the day trip; book weeks ahead. The audio tour by former inmates is excellent.",
   "rating": 91,
-  "id": "alcatraz-night-tour-san-francisco"
+  "id": "alcatraz-night-tour-san-francisco",
+  "state_abbr": "CA",
+  "county_full": "San Francisco County"
  },
  {
   "name": "Monterey Bay Aquarium",
@@ -140,7 +150,9 @@
   "unique": "A kelp forest three stories tall, a million-gallon open-ocean tank with tuna and sharks, and a sea otter exhibit that is impossible to leave.",
   "buzz": "The kelp forest and jellies are the icons; it is expensive and timed entry is essential. Go at opening on a weekday.",
   "rating": 91,
-  "id": "monterey-bay-aquarium-monterey"
+  "id": "monterey-bay-aquarium-monterey",
+  "state_abbr": "CA",
+  "county_full": "Monterey County"
  },
  {
   "name": "Avenue of the Giants",
@@ -163,7 +175,9 @@
   "unique": "A 31-mile road threading through old-growth redwoods, with trees wide enough to drive through and a canopy that turns daylight green.",
   "buzz": "People drive it twice; the Founder's Grove and the drive-through tree are the stops. It is cold and damp even in summer.",
   "rating": 89,
-  "id": "avenue-of-the-giants-redcrest"
+  "id": "avenue-of-the-giants-redcrest",
+  "state_abbr": "CA",
+  "county_full": "Humboldt County"
  },
  {
   "name": "Magic Castle",
@@ -187,7 +201,9 @@
   "unique": "A Victorian mansion where magicians perform close-up in parlors and on stages, with a dress code, secret doors and a strict no-photos rule.",
   "buzz": "People call it the best night out in LA; admission requires an invite from a member or a hotel booking. Dress up.",
   "rating": 89,
-  "id": "magic-castle-los-angeles"
+  "id": "magic-castle-los-angeles",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
  },
  {
   "name": "Mammoth Mountain",
@@ -211,7 +227,9 @@
   "unique": "A 11,053-foot volcano with the longest season in California, steeps above treeline and a town of hot springs and breweries below.",
   "buzz": "Locals ski in shorts in May; the top is wind-scoured and the lower mountain is friendly. Book lodging early.",
   "rating": 89,
-  "id": "mammoth-mountain-mammoth-lakes"
+  "id": "mammoth-mountain-mammoth-lakes",
+  "state_abbr": "CA",
+  "county_full": "Mono County"
  },
  {
   "name": "Burney Falls",
@@ -234,7 +252,9 @@
   "unique": "A 129-foot waterfall fed by underground springs that pour from the cliff face itself, so it flows at full volume even in drought.",
   "buzz": "Teddy Roosevelt called it the eighth wonder; the loop trail is short and the mist is refreshing. Combine with Lassen.",
   "rating": 88,
-  "id": "burney-falls-burney"
+  "id": "burney-falls-burney",
+  "state_abbr": "CA",
+  "county_full": "Shasta County"
  },
  {
   "name": "Getty Center",
@@ -258,7 +278,9 @@
   "unique": "A travertine hilltop campus by Richard Meier with Van Gogh's Irises, a cactus garden and a tram ride above the 405.",
   "buzz": "Free admission and the architecture compete with the art; the garden is the peaceful corner. Parking is the cost.",
   "rating": 88,
-  "id": "getty-center-los-angeles"
+  "id": "getty-center-los-angeles",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
  },
  {
   "name": "Disneyland",
@@ -282,7 +304,9 @@
   "unique": "The original park, still the best-executed theme park on earth: Pirates, the Haunted Mansion, Indiana Jones and a level of detail that rewards looking up.",
   "buzz": "Disney adults plan months out and still get surprised; the app, the lightning lane and the food are all part of the game. Go midweek.",
   "rating": 87,
-  "id": "disneyland-anaheim"
+  "id": "disneyland-anaheim",
+  "state_abbr": "CA",
+  "county_full": "Orange County"
  },
  {
   "name": "Trestles Surf",
@@ -306,7 +330,9 @@
   "unique": "A cobblestone river mouth that produces one of the most rippable waves in California, reached by a dirt path through a state park.",
   "buzz": "Locals are protective but the wave is forgiving; dawn patrol is the etiquette. Lessons are worth it for first-timers.",
   "rating": 85,
-  "id": "trestles-surf-san-clemente"
+  "id": "trestles-surf-san-clemente",
+  "state_abbr": "CA",
+  "county_full": "Orange County"
  },
  {
   "name": "Coachella",
@@ -330,7 +356,9 @@
   "unique": "A desert polo field turned into a fashion show and a festival, with giant art installations, a Ferris wheel and headliners under the stars.",
   "buzz": "The production is unmatched and the heat, walking and prices are brutal; the campgrounds are their own scene.",
   "rating": 84,
-  "id": "coachella-indio"
+  "id": "coachella-indio",
+  "state_abbr": "CA",
+  "county_full": "Riverside County"
  },
  {
   "name": "Salvation Mountain",
@@ -354,7 +382,9 @@
   "unique": "A painted adobe mountain covered in Bible verses and flowers, built by one man over thirty years in the desert near Slab City.",
   "buzz": "It is sincere, free and deeply strange; respect the artist's rules and bring water. Combine with Bombay Beach.",
   "rating": 84,
-  "id": "salvation-mountain-niland"
+  "id": "salvation-mountain-niland",
+  "state_abbr": "CA",
+  "county_full": "Imperial County"
  },
  {
   "name": "Santa Cruz Beach Boardwalk",
@@ -378,7 +408,9 @@
   "unique": "A 1907 seaside boardwalk with the Giant Dipper wooden coaster and a 1911 carousel, both national landmarks, right on the sand.",
   "buzz": "The Giant Dipper still delivers; the boardwalk is free to walk and the food is fairground-grade. Skip summer weekends.",
   "rating": 82,
-  "id": "santa-cruz-beach-boardwalk-santa-cruz"
+  "id": "santa-cruz-beach-boardwalk-santa-cruz",
+  "state_abbr": "CA",
+  "county_full": "Santa Cruz County"
  },
  {
   "name": "Glass Beach",
@@ -402,7 +434,9 @@
   "unique": "Three coves where decades of dumped glass were polished by the surf into pebbles of green, amber and blue.",
   "buzz": "Take photos, leave the glass — it is illegal to remove and the beach is shrinking. Go at low tide.",
   "rating": 78,
-  "id": "glass-beach-fort-bragg"
+  "id": "glass-beach-fort-bragg",
+  "state_abbr": "CA",
+  "county_full": "Mendocino County"
  },
  {
   "name": "Winchester Mystery House",
@@ -426,6 +460,8 @@
   "unique": "A Victorian mansion with stairs that go nowhere, doors that open onto walls and 160 rooms, built by the heiress to the Winchester rifle fortune to confuse the spirits.",
   "buzz": "The story is better than the house; the tour is scripted and the house is genuinely odd. Go for the lore, not the frights.",
   "rating": 76,
-  "id": "winchester-mystery-house-san-jose"
+  "id": "winchester-mystery-house-san-jose",
+  "state_abbr": "CA",
+  "county_full": "Santa Clara County"
  }
 ]

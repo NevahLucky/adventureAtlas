@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "minnesota",
   stats: {"count": 6, "counties": 5, "free": 0, "median": 18, "top": 93},
   counties: ["Carver", "Hennepin", "Lake", "Ramsey", "St. Louis"],
-  rows: [{"name": "Boundary Waters Canoe Area", "city": "Ely", "county": "St. Louis", "state": "Minnesota", "cats": ["Water", "Nature", "Hiking"], "cost": "$50–$150 permit and rental", "cost_num": 90, "dur": "3–7 days", "dur_h": 72, "dates": "May–Sep", "start": "1964", "company": "US Forest Service / outfitters", "party": "2–4", "customer": "Campers, families with teens, scouts", "unique": "A million acres of glacier-carved lakes where motors are banned, portages are measured in rods and the only way in is a paddle.", "buzz": "People call it the best wilderness trip in the lower 48; permits are limited and mosquitoes are a force of nature. Book permits in January.", "rating": 93, "id": "boundary-waters-canoe-area-ely"}, {"name": "Paisley Park", "city": "Chanhassen", "county": "Carver", "state": "Minnesota", "cats": ["Music", "Museum", "Architecture"], "cost": "$40–$100", "cost_num": 60, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1987", "company": "Paisley Park", "party": "2–4", "customer": "Music fans, boomers, design people", "unique": "Prince's private compound, preserved almost exactly as he left it: the soundstage, the vault, the purple corridor and the doves.", "buzz": "Fans call it moving and slightly eerie; the general tour is short and the VIP tour gets into the studio. Book ahead.", "rating": 88, "id": "paisley-park-chanhassen"}, {"name": "Minnesota State Fair", "city": "Falcon Heights", "county": "Ramsey", "state": "Minnesota", "cats": ["Festival", "Food & Drink", "Family"], "cost": "$15–$20", "cost_num": 17, "dur": "Full day", "dur_h": 9, "dates": "Late Aug–Labor Day", "start": "1859", "company": "Minnesota State Fair", "party": "4–8", "customer": "Everyone, families, food people", "unique": "The largest state fair in the country by attendance, with 500 food vendors, a butter sculpture of Princess Kay and a crop art competition that is a genuine art form.", "buzz": "The food-on-a-stick innovation is real; the Sweet Martha's cookie bucket is a ritual. Go on a weekday and split everything.", "rating": 86, "id": "minnesota-state-fair-falcon-heights"}, {"name": "Gooseberry Falls", "city": "Two Harbors", "county": "Lake", "state": "Minnesota", "cats": ["Nature", "Hiking", "Water"], "cost": "$7–$10", "cost_num": 8, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1937", "company": "Minnesota State Parks", "party": "2–6", "customer": "Families, road-trippers, photographers", "unique": "A triple waterfall on the Gooseberry River dropping into Lake Superior, with a trail along the gorge and pink granite shorelines nearby.", "buzz": "Easy access and big payoff; it is crowded in summer. The Lake Superior shoreline at Split Rock is the bonus stop.", "rating": 83, "id": "gooseberry-falls-two-harbors"}, {"name": "St. Paul Winter Carnival", "city": "St. Paul", "county": "Ramsey", "state": "Minnesota", "cats": ["Festival", "Community", "Snow"], "cost": "Free–$30", "cost_num": 10, "dur": "Full day", "dur_h": 6, "dates": "Late Jan–early Feb", "start": "1886", "company": "St. Paul Winter Carnival", "party": "2–6", "customer": "Families, locals, winter people", "unique": "An 1886 festival built to prove winter is survivable, with an ice palace, snow-sculpting competition, parades and a Vulcan Krewe that has to be seen.", "buzz": "The ice palace is the draw in years it is built; the parade is genuinely fun. Dress for -10 and embrace it.", "rating": 80, "id": "st-paul-winter-carnival-st-paul"}, {"name": "Mall of America", "city": "Bloomington", "county": "Hennepin", "state": "Minnesota", "cats": ["Family", "Quirky", "Adrenaline"], "cost": "Free–$40", "cost_num": 20, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1992", "company": "Mall of America", "party": "2–6", "customer": "Families, teens, shoppers", "unique": "An indoor amusement park with a log flume and roller coasters in the middle of a shopping mall, plus an aquarium and a LEGO store.", "buzz": "The park is better than it has any right to be; it is a suburban temple of consumerism and kids love it. Weekdays are calmer.", "rating": 74, "id": "mall-of-america-bloomington"}]
+  rows: [{"name": "Boundary Waters Canoe Area", "city": "Ely", "county": "St. Louis", "state": "Minnesota", "cats": ["Water", "Nature", "Hiking"], "cost": "$50–$150 permit and rental", "cost_num": 90, "dur": "3–7 days", "dur_h": 72, "dates": "May–Sep", "start": "1964", "company": "US Forest Service / outfitters", "party": "2–4", "customer": "Campers, families with teens, scouts", "unique": "A million acres of glacier-carved lakes where motors are banned, portages are measured in rods and the only way in is a paddle.", "buzz": "People call it the best wilderness trip in the lower 48; permits are limited and mosquitoes are a force of nature. Book permits in January.", "rating": 93, "id": "boundary-waters-canoe-area-ely", "state_abbr": "MN", "county_full": "St. Louis County"}, {"name": "Paisley Park", "city": "Chanhassen", "county": "Carver", "state": "Minnesota", "cats": ["Music", "Museum", "Architecture"], "cost": "$40–$100", "cost_num": 60, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1987", "company": "Paisley Park", "party": "2–4", "customer": "Music fans, boomers, design people", "unique": "Prince's private compound, preserved almost exactly as he left it: the soundstage, the vault, the purple corridor and the doves.", "buzz": "Fans call it moving and slightly eerie; the general tour is short and the VIP tour gets into the studio. Book ahead.", "rating": 88, "id": "paisley-park-chanhassen", "state_abbr": "MN", "county_full": "Carver County"}, {"name": "Minnesota State Fair", "city": "Falcon Heights", "county": "Ramsey", "state": "Minnesota", "cats": ["Festival", "Food & Drink", "Family"], "cost": "$15–$20", "cost_num": 17, "dur": "Full day", "dur_h": 9, "dates": "Late Aug–Labor Day", "start": "1859", "company": "Minnesota State Fair", "party": "4–8", "customer": "Everyone, families, food people", "unique": "The largest state fair in the country by attendance, with 500 food vendors, a butter sculpture of Princess Kay and a crop art competition that is a genuine art form.", "buzz": "The food-on-a-stick innovation is real; the Sweet Martha's cookie bucket is a ritual. Go on a weekday and split everything.", "rating": 86, "id": "minnesota-state-fair-falcon-heights", "state_abbr": "MN", "county_full": "Ramsey County"}, {"name": "Gooseberry Falls", "city": "Two Harbors", "county": "Lake", "state": "Minnesota", "cats": ["Nature", "Hiking", "Water"], "cost": "$7–$10", "cost_num": 8, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1937", "company": "Minnesota State Parks", "party": "2–6", "customer": "Families, road-trippers, photographers", "unique": "A triple waterfall on the Gooseberry River dropping into Lake Superior, with a trail along the gorge and pink granite shorelines nearby.", "buzz": "Easy access and big payoff; it is crowded in summer. The Lake Superior shoreline at Split Rock is the bonus stop.", "rating": 83, "id": "gooseberry-falls-two-harbors", "state_abbr": "MN", "county_full": "Lake County"}, {"name": "St. Paul Winter Carnival", "city": "St. Paul", "county": "Ramsey", "state": "Minnesota", "cats": ["Festival", "Community", "Snow"], "cost": "Free–$30", "cost_num": 10, "dur": "Full day", "dur_h": 6, "dates": "Late Jan–early Feb", "start": "1886", "company": "St. Paul Winter Carnival", "party": "2–6", "customer": "Families, locals, winter people", "unique": "An 1886 festival built to prove winter is survivable, with an ice palace, snow-sculpting competition, parades and a Vulcan Krewe that has to be seen.", "buzz": "The ice palace is the draw in years it is built; the parade is genuinely fun. Dress for -10 and embrace it.", "rating": 80, "id": "st-paul-winter-carnival-st-paul", "state_abbr": "MN", "county_full": "Ramsey County"}, {"name": "Mall of America", "city": "Bloomington", "county": "Hennepin", "state": "Minnesota", "cats": ["Family", "Quirky", "Adrenaline"], "cost": "Free–$40", "cost_num": 20, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1992", "company": "Mall of America", "party": "2–6", "customer": "Families, teens, shoppers", "unique": "An indoor amusement park with a log flume and roller coasters in the middle of a shopping mall, plus an aquarium and a LEGO store.", "buzz": "The park is better than it has any right to be; it is a suburban temple of consumerism and kids love it. Weekdays are calmer.", "rating": 74, "id": "mall-of-america-bloomington", "state_abbr": "MN", "county_full": "Hennepin County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

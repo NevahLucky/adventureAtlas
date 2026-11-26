@@ -21,7 +21,10 @@
   "unique": "An 11-mile valley of log cabins, churches and meadows where black bears, deer and turkeys graze against a mountain backdrop, closed to cars on Wednesday mornings.",
   "buzz": "The bike-only mornings are the local secret; cars crawl in summer. Go at dawn for wildlife and skip the traffic.",
   "rating": 90,
-  "id": "cades-cove-loop-townsend"
+  "drive_min": 237,
+  "id": "cades-cove-loop-townsend",
+  "state_abbr": "TN",
+  "county_full": "Sevier County"
  },
  {
   "name": "Ocoee River Rafting",
@@ -44,7 +47,10 @@
   "unique": "The 1996 Olympic whitewater course, with Class III–IV rapids in a narrow gorge and dam-release flows that make it reliable all summer.",
   "buzz": "Guides are seasoned and the rapids are continuous; the middle section is the classic. Expect to get worked.",
   "rating": 88,
-  "id": "ocoee-river-rafting-ocoee"
+  "drive_min": 289,
+  "id": "ocoee-river-rafting-ocoee",
+  "state_abbr": "TN",
+  "county_full": "Polk County"
  },
  {
   "name": "Dollywood",
@@ -68,7 +74,10 @@
   "unique": "A theme park in the Smokies with genuinely excellent coasters, a working crafts village, cinnamon bread and Dolly Parton's actual presence in the branding.",
   "buzz": "People are surprised by the quality of Lightning Rod and the shade; it is clean and friendly. Christmas is the best season.",
   "rating": 87,
-  "id": "dollywood-pigeon-forge"
+  "drive_min": 218,
+  "id": "dollywood-pigeon-forge",
+  "state_abbr": "TN",
+  "county_full": "Sevier County"
  },
  {
   "name": "Ryman Auditorium",
@@ -92,7 +101,10 @@
   "unique": "The Mother Church of Country Music, a former tabernacle with pews, stained glass and acoustics that made the Grand Ole Opry famous for thirty years.",
   "buzz": "The self-guided tour is good and the shows are better; the pews are unforgiving. Sit in the balcony for the sound.",
   "rating": 87,
-  "id": "ryman-auditorium-nashville"
+  "drive_min": 392,
+  "id": "ryman-auditorium-nashville",
+  "state_abbr": "TN",
+  "county_full": "Davidson County"
  },
  {
   "name": "Beale Street",
@@ -116,7 +128,37 @@
   "unique": "Three blocks of live blues, barbecue and neon where W.C. Handy wrote the music that became rock and roll, with bands playing seven nights a week.",
   "buzz": "The music is real and the drinks are strong; BB King's and Rum Boogie are the reliable rooms. It gets rowdy late.",
   "rating": 86,
-  "id": "beale-street-memphis"
+  "drive_min": 579,
+  "id": "beale-street-memphis",
+  "state_abbr": "TN",
+  "county_full": "Shelby County"
+ },
+ {
+  "name": "Tennessee Aquarium",
+  "city": "Chattanooga",
+  "county": "Hamilton",
+  "state": "Tennessee",
+  "cats": [
+   "Wildlife",
+   "Museum",
+   "Family"
+  ],
+  "cost": "$40–$45",
+  "cost_num": 42,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1992",
+  "company": "Tennessee Aquarium",
+  "party": "2–6",
+  "customer": "Families, kids, couples",
+  "unique": "Two buildings — river and ocean — connected by a plaza, with a walk-through tunnel under sharks, a butterfly garden and freshwater exhibits that trace the Tennessee River to the Gulf.",
+  "buzz": "The river journey building is the sleeper hit; the ocean building gets crowded. Buy timed tickets and go at opening.",
+  "rating": 86,
+  "drive_min": 330,
+  "id": "tennessee-aquarium-chattanooga",
+  "state_abbr": "TN",
+  "county_full": "Hamilton County"
  },
  {
   "name": "Bonnaroo",
@@ -140,7 +182,10 @@
   "unique": "A 700-acre farm turned into a temporary city with five stages, a ferris wheel, a comedy tent and a legendary late-night jam culture.",
   "buzz": "The lineup and the camping vibe are the draw; heat, mud and the walk are the tax. Bring a wagon and shade.",
   "rating": 85,
-  "id": "bonnaroo-manchester"
+  "drive_min": 390,
+  "id": "bonnaroo-manchester",
+  "state_abbr": "TN",
+  "county_full": "Coffee County"
  },
  {
   "name": "Graceland",
@@ -164,7 +209,10 @@
   "unique": "The Jungle Room, the jumpsuits, the Lisa Marie jet and the grave in the meditation garden — a middle-class Memphis house turned shrine to the most consequential pop star of the century.",
   "buzz": "The house tour is moving even for non-fans; the higher tiers are expensive. Book the first slot and skip the shopping complex.",
   "rating": 85,
-  "id": "graceland-memphis"
+  "drive_min": 579,
+  "id": "graceland-memphis",
+  "state_abbr": "TN",
+  "county_full": "Shelby County"
  },
  {
   "name": "Jack Daniel's Distillery",
@@ -188,7 +236,10 @@
   "unique": "The oldest registered distillery in the country, in a dry county, where whiskey is made with iron-free cave water and mellowed through sugar maple charcoal.",
   "buzz": "The tasting tour is excellent and the dry-county irony is a running joke; book ahead. The angels' share smells like the whole town.",
   "rating": 84,
-  "id": "jack-daniel-s-distillery-lynchburg"
+  "drive_min": 420,
+  "id": "jack-daniel-s-distillery-lynchburg",
+  "state_abbr": "TN",
+  "county_full": "Moore County"
  },
  {
   "name": "Lower Broadway Honky-Tonks",
@@ -212,7 +263,64 @@
   "unique": "A strip of bars where unknown bands play for tips from 10am to 3am, and the next star might be three feet away with a guitar and a day job.",
   "buzz": "Go on a weekday afternoon for the best players and the least chaos; Saturday night is a different animal.",
   "rating": 84,
-  "id": "lower-broadway-honky-tonks-nashville"
+  "drive_min": 392,
+  "id": "lower-broadway-honky-tonks-nashville",
+  "state_abbr": "TN",
+  "county_full": "Davidson County"
+ },
+ {
+  "name": "Lookout Mountain Incline Railway",
+  "city": "Chattanooga",
+  "county": "Hamilton",
+  "state": "Tennessee",
+  "cats": [
+   "Railroad",
+   "Historical",
+   "Adrenaline"
+  ],
+  "cost": "$15–$20",
+  "cost_num": 17,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year-round",
+  "start": "1895",
+  "company": "Chattanooga Area Regional Transportation Authority",
+  "party": "2–6",
+  "customer": "Families, tourists, retirees",
+  "unique": "The steepest passenger railway in the world at 72.7 percent grade, climbing Lookout Mountain in a wooden car that creaks the whole way.",
+  "buzz": "Sit on the right going up for the view; the ride is short and the wait can be long. Combine with Rock City at the top.",
+  "rating": 83,
+  "drive_min": 330,
+  "id": "lookout-mountain-incline-railway-chattanooga",
+  "state_abbr": "TN",
+  "county_full": "Hamilton County"
+ },
+ {
+  "name": "Anakeesta",
+  "city": "Gatlinburg",
+  "county": "Sevier",
+  "state": "Tennessee",
+  "cats": [
+   "Adrenaline",
+   "Nature",
+   "Family"
+  ],
+  "cost": "$40–$60",
+  "cost_num": 50,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year-round",
+  "start": "2017",
+  "company": "Anakeesta",
+  "party": "2–6",
+  "customer": "Families, couples, tourists",
+  "unique": "A mountaintop adventure park reached by chondola or rail, with a treetop skywalk, a mountain coaster and a suspension bridge above the Smokies.",
+  "buzz": "The views and the tree canopy walk are the draw; it is expensive and the coaster lines are long. Sunset is the best slot.",
+  "rating": 81,
+  "drive_min": 213,
+  "id": "anakeesta-gatlinburg",
+  "state_abbr": "TN",
+  "county_full": "Sevier County"
  },
  {
   "name": "Ruby Falls",
@@ -236,6 +344,9 @@
   "unique": "A 145-foot underground waterfall at the end of a cave walk 1,120 feet inside Lookout Mountain, lit in colored light with a soundtrack.",
   "buzz": "It is deeply touristy and kids love it; the falls are genuinely impressive. Combine with Rock City and the Incline.",
   "rating": 75,
-  "id": "ruby-falls-chattanooga"
+  "drive_min": 330,
+  "id": "ruby-falls-chattanooga",
+  "state_abbr": "TN",
+  "county_full": "Hamilton County"
  }
 ]

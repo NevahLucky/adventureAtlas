@@ -1,5 +1,31 @@
 [
  {
+  "name": "BMW Performance Center",
+  "city": "Greer",
+  "county": "Spartanburg",
+  "state": "South Carolina",
+  "cats": [
+   "Motorsport",
+   "Adrenaline"
+  ],
+  "cost": "$250–$600",
+  "cost_num": 350,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1999",
+  "company": "BMW Performance Center",
+  "party": "2–4",
+  "customer": "Car people, couples, corporate groups",
+  "unique": "Drive a BMW M car on a closed handling course, an off-road course in an X5 and a skid pad, with an instructor in the passenger seat telling you to go faster.",
+  "buzz": "The half-day M School is the sweet spot; instructors are professional racers and the facility is immaculate. Book months ahead.",
+  "rating": 86,
+  "drive_min": 99,
+  "id": "bmw-performance-center-greer",
+  "state_abbr": "SC",
+  "county_full": "Spartanburg County"
+ },
+ {
   "name": "Charleston Rainbow Row",
   "city": "Charleston",
   "county": "Charleston",
@@ -21,7 +47,64 @@
   "unique": "Thirteen pastel Georgian houses along the harbor, a preserved colonial street grid, and the smell of pluff mud at low tide — a city that curates its own decay.",
   "buzz": "The walk is free and gorgeous; the carriage tours get mixed reviews for scripted history. Eat shrimp and grits and walk the battery at dusk.",
   "rating": 86,
-  "id": "charleston-rainbow-row-charleston"
+  "drive_min": 178,
+  "id": "charleston-rainbow-row-charleston",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
+ },
+ {
+  "name": "Swamp Rabbit Trail",
+  "city": "Greenville",
+  "county": "Greenville",
+  "state": "South Carolina",
+  "cats": [
+   "Cycling",
+   "Relaxing",
+   "Food & Drink"
+  ],
+  "cost": "Free–$30 rental",
+  "cost_num": 20,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "2009",
+  "company": "Greenville County Recreation",
+  "party": "2–6",
+  "customer": "Families, cyclists, students",
+  "unique": "Twenty-two miles of paved rail-trail linking Greenville to Travelers Rest, with a brewery, a farm-to-table restaurant and a lake along the way.",
+  "buzz": "Rent a bike and ride to the Swamp Rabbit Cafe for a sandwich; the trail is flat and busy on weekends. Best local half-day.",
+  "rating": 86,
+  "drive_min": 105,
+  "id": "swamp-rabbit-trail-greenville",
+  "state_abbr": "SC",
+  "county_full": "Greenville County"
+ },
+ {
+  "name": "Falls Park on the Reedy",
+  "city": "Greenville",
+  "county": "Greenville",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Relaxing",
+   "Architecture"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "2004",
+  "company": "City of Greenville",
+  "party": "2–6",
+  "customer": "Couples, families, locals",
+  "unique": "A 32-foot waterfall in the middle of downtown, with a curved suspension bridge over the gorge, public gardens and a trail that connects to the Swamp Rabbit.",
+  "buzz": "Greenville's showpiece and it earns the hype; the bridge is the photo and the park is best at dusk. Free parking is scarce.",
+  "rating": 85,
+  "drive_min": 105,
+  "id": "falls-park-on-the-reedy-greenville",
+  "state_abbr": "SC",
+  "county_full": "Greenville County"
  },
  {
   "name": "Table Rock Trail",
@@ -44,7 +127,10 @@
   "unique": "A 3,000-foot granite dome on the Blue Ridge escarpment with a staircase-and-boulder trail to a summit that looks over the entire upstate.",
   "buzz": "Hikers call it the best workout hike in South Carolina and warn it is relentless uphill. Fall color and winter views are best.",
   "rating": 85,
-  "id": "table-rock-trail-pickens"
+  "drive_min": 138,
+  "id": "table-rock-trail-pickens",
+  "state_abbr": "SC",
+  "county_full": "Pickens County"
  },
  {
   "name": "Brookgreen Gardens",
@@ -68,7 +154,37 @@
   "unique": "America's first public sculpture garden, with 2,000 works among live oaks and a Lowcountry zoo of native animals on a former rice plantation.",
   "buzz": "The sculpture is world-class and the zoo is a nice surprise for kids; summer heat is punishing. Go in March or November.",
   "rating": 84,
-  "id": "brookgreen-gardens-murrells-inlet"
+  "drive_min": 217,
+  "id": "brookgreen-gardens-murrells-inlet",
+  "state_abbr": "SC",
+  "county_full": "Georgetown County"
+ },
+ {
+  "name": "Caesars Head State Park",
+  "city": "Cleveland",
+  "county": "Greenville",
+  "state": "South Carolina",
+  "cats": [
+   "Hiking",
+   "Nature",
+   "Wildlife"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 7,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "South Carolina State Parks",
+  "party": "2–4",
+  "customer": "Hikers, photographers, families",
+  "unique": "A granite cliff at 3,200 feet looking over the Blue Ridge escarpment, with the Raven Cliff Falls suspension bridge hike and hawks migrating along the ridge in September.",
+  "buzz": "The view from the overlook is enormous and the fall hawk watch is a genuine spectacle. The falls trail is long and steep.",
+  "rating": 84,
+  "drive_min": 124,
+  "id": "caesars-head-state-park-cleveland",
+  "state_abbr": "SC",
+  "county_full": "Greenville County"
  },
  {
   "name": "Congaree National Park",
@@ -92,7 +208,37 @@
   "unique": "The largest remaining old-growth bottomland hardwood forest in the country, with a raised boardwalk over a cypress swamp and fireflies that sync in June.",
   "buzz": "The firefly synchronization is a genuine phenomenon; mosquitoes are the price of admission. Rent a canoe for the Cedar Creek run.",
   "rating": 84,
-  "id": "congaree-national-park-hopkins"
+  "drive_min": 84,
+  "id": "congaree-national-park-hopkins",
+  "state_abbr": "SC",
+  "county_full": "Richland County"
+ },
+ {
+  "name": "Riverbanks Zoo and Garden",
+  "city": "Columbia",
+  "county": "Richland",
+  "state": "South Carolina",
+  "cats": [
+   "Wildlife",
+   "Family",
+   "Science"
+  ],
+  "cost": "$20–$25",
+  "cost_num": 22,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1974",
+  "company": "Riverbanks Zoo and Garden",
+  "party": "2–6",
+  "customer": "Families, kids, locals",
+  "unique": "A zoo built into the Saluda River bluffs with a 70-acre botanical garden across a footbridge, plus a skyfari over the elephants and gorillas.",
+  "buzz": "Consistently ranked among the best mid-size zoos in the country; the garden side is quiet and beautiful. Parking is easy and cheap.",
+  "rating": 84,
+  "drive_min": 74,
+  "id": "riverbanks-zoo-and-garden-columbia",
+  "state_abbr": "SC",
+  "county_full": "Richland County"
  },
  {
   "name": "Angel Oak",
@@ -116,7 +262,118 @@
   "unique": "A live oak estimated at 400 to 500 years old, with limbs the size of trees and a canopy that covers 17,000 square feet.",
   "buzz": "People arrive for ten minutes and stay an hour; it is free and quietly awe-inspiring. Go early to avoid tour vans.",
   "rating": 83,
-  "id": "angel-oak-johns-island"
+  "drive_min": 202,
+  "id": "angel-oak-johns-island",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
+ },
+ {
+  "name": "Anne Springs Close Greenway",
+  "city": "Fort Mill",
+  "county": "York",
+  "state": "South Carolina",
+  "cats": [
+   "Hiking",
+   "Cycling",
+   "Water"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 4,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1995",
+  "company": "Anne Springs Close Greenway",
+  "party": "2–6",
+  "customer": "Families, trail runners, locals",
+  "unique": "Two thousand acres of protected forest, dairy barn and lake minutes from Fort Mill, with 40 miles of trail and a kayak launch that feels a hundred miles from the interstate.",
+  "buzz": "The greenway is the reason people move to Fort Mill; trails are well kept and the barn events are charming. Bugs in summer, but that's the Carolinas.",
+  "rating": 83,
+  "drive_min": 0,
+  "id": "anne-springs-close-greenway-fort-mill",
+  "state_abbr": "SC",
+  "county_full": "York County"
+ },
+ {
+  "name": "Beaufort Historic District",
+  "city": "Beaufort",
+  "county": "Beaufort",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Architecture",
+   "Water"
+  ],
+  "cost": "Free–$25",
+  "cost_num": 15,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year-round",
+  "start": "1711",
+  "company": "Free / self-guided or carriage tours",
+  "party": "2–4",
+  "customer": "Couples, history buffs, retirees",
+  "unique": "A Lowcountry town of antebellum houses under live oaks, with a waterfront park, a parish church from 1842 and Gullah heritage tours that tell the other half of the story.",
+  "buzz": "Less polished and less crowded than Charleston; the carriage tours are good and the shrimp is better. Go in spring.",
+  "rating": 82,
+  "drive_min": 207,
+  "id": "beaufort-historic-district-beaufort",
+  "state_abbr": "SC",
+  "county_full": "Beaufort County"
+ },
+ {
+  "name": "Carowinds",
+  "city": "Fort Mill",
+  "county": "York",
+  "state": "South Carolina",
+  "cats": [
+   "Adrenaline",
+   "Family",
+   "Water"
+  ],
+  "cost": "$50–$85",
+  "cost_num": 65,
+  "dur": "Full day",
+  "dur_h": 9,
+  "dates": "Mar–Oct; WinterFest Nov–Dec",
+  "start": "1973",
+  "company": "Carowinds",
+  "party": "2–6",
+  "customer": "Families, teens, coaster fans",
+  "unique": "A theme park built on the state line, with Fury 325 — a 325-foot giga coaster that crosses the border twice — plus a water park and a Peanuts kids area.",
+  "buzz": "Coaster people rate Fury among the best in the world; the park is clean and the lines are manageable midweek. Food is standard.",
+  "rating": 82,
+  "drive_min": 0,
+  "id": "carowinds-fort-mill",
+  "state_abbr": "SC",
+  "county_full": "York County"
+ },
+ {
+  "name": "Historic Brattonsville",
+  "city": "McConnells",
+  "county": "York",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Maker",
+   "Family"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Tue–Sun, Mar–Dec",
+  "start": "1750s",
+  "company": "Culture and Heritage Museums",
+  "party": "2–6",
+  "customer": "Families, history buffs, homeschool groups",
+  "unique": "A 778-acre backcountry plantation with the original 1776 brick house, slave cabins and a working farm, where interpreters demonstrate the divided world of the South Carolina upcountry.",
+  "buzz": "The living-history days and the battlefield reenactment are excellent; it is quiet, cheap and rarely crowded. The slavery interpretation is honest.",
+  "rating": 82,
+  "drive_min": 33,
+  "id": "historic-brattonsville-mcconnells",
+  "state_abbr": "SC",
+  "county_full": "York County"
  },
  {
   "name": "Fort Sumter",
@@ -139,6 +396,9 @@
   "unique": "The island fort where the first shots of the Civil War were fired, reached only by boat, with the original brick walls and a flag that still flies over the harbor.",
   "buzz": "The boat ride and ranger talk are the experience; the fort itself is mostly ruins. Book the early ferry to beat the heat.",
   "rating": 81,
-  "id": "fort-sumter-charleston"
+  "drive_min": 178,
+  "id": "fort-sumter-charleston",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
  }
 ]

@@ -93,6 +93,7 @@ h1.display em{font-style:italic;color:#e6b48c}
 
 /* ---------- sections ---------- */
 section{padding:66px 0}
+section[id],#table{scroll-margin-top:76px}
 .sec-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:30px;flex-wrap:wrap}
 .sec-head h2{font-family:var(--serif);font-weight:400;font-size:clamp(28px,3.4vw,42px);line-height:1.05;margin:0;letter-spacing:-.01em}
 .sec-head p{margin:8px 0 0;color:var(--muted);max-width:62ch;font-size:14px}
@@ -205,11 +206,13 @@ select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .chip:hover{border-color:var(--ink-2)}
 .chip.on{background:var(--pine);border-color:var(--pine);color:#fff}
 .chip .n{opacity:.55;font-size:10px;margin-left:5px;font-family:var(--mono)}
+#catRow{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}
+#catRow .chip{flex:0 0 auto}
 .counties{display:flex;flex-wrap:wrap;gap:7px}
 .county-chip{border:1px dashed var(--line);background:transparent;border-radius:2px;padding:4px 9px;font-size:11.5px;color:var(--muted);cursor:pointer}
 .county-chip:hover{border-style:solid;color:var(--ink)}
 .county-chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink);border-style:solid}
-.counter{font-family:var(--mono);font-size:11px;color:var(--muted);margin-left:auto;white-space:nowrap}
+.counter{font-family:var(--mono);font-size:11px;color:var(--muted);margin-left:auto;white-space:nowrap;flex:0 0 auto}
 .tb-right{display:flex;gap:8px;align-items:center;margin-left:auto}
 .mini-btn{
   border:1px solid var(--line);background:#fff;border-radius:2px;padding:7px 11px;font-size:11px;
@@ -219,10 +222,10 @@ select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .mini-btn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 
 /* table */
-.table-shell{border:1px solid var(--line);background:#fffdf7;border-radius:4px;overflow:auto;max-height:calc(100vh - 128px);scrollbar-gutter:stable}
-table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1400px}
+.table-shell{border:1px solid var(--line);background:#fffdf7;border-radius:4px;overflow:visible}
+table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1346px}
 table.atlas thead th{
-  position:sticky;top:0;z-index:20;box-shadow:0 1px 0 var(--line);background:var(--paper-2);text-align:left;
+  position:sticky;top:62px;z-index:20;box-shadow:0 1px 0 var(--line);background:var(--paper-2);text-align:left;
   font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);
   font-weight:600;padding:10px 9px;border-bottom:1px solid var(--line);cursor:pointer;
   user-select:none;white-space:nowrap;vertical-align:bottom;
@@ -284,6 +287,9 @@ footer.site .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:
 footer.site a:hover{color:#fff}
 
 /* ---------- responsive ---------- */
+@media(max-width:1379px){
+  .table-shell{overflow-x:auto;overflow-y:hidden}
+}
 @media(max-width:1240px){
   .state-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
   .country-grid{grid-template-columns:1.4fr 1fr 1fr}
@@ -367,3 +373,22 @@ footer.site a:hover{color:#fff}
 .hp-score span{font-size:10.5px;color:#bdb6a8}
 .hero-pick p{margin:6px 0 0;font-size:12.5px;line-height:1.55;color:#c9c3b7}
 .hp-foot{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#8e8878;border-top:1px solid rgba(255,255,255,.12);padding-top:10px}
+
+/* drive-time (region pages) */
+.drive-chips{display:flex;gap:7px;flex-wrap:wrap}
+.cell-drive .cv{font-family:var(--mono);font-size:12px;font-weight:600;color:var(--pine)}
+.region-banner{
+  display:flex;align-items:center;justify-content:space-between;gap:24px;
+  border:1px solid var(--line);background:linear-gradient(100deg,#fffdf7,#f0e7d6);
+  padding:26px 30px;border-radius:4px;margin:0 0 10px;transition:.18s;
+}
+.region-banner:hover{box-shadow:var(--shadow);border-color:var(--ink)}
+.region-banner .rb-kicker{font-size:9.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+.region-banner h3{font-family:var(--serif);font-weight:400;font-size:28px;margin:6px 0 4px;line-height:1.1}
+.region-banner p{margin:0;color:var(--muted);font-size:13px}
+.region-banner .rb-go{font-size:12px;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;color:var(--pine);font-weight:600}
+@media(max-width:820px){
+  .region-banner{flex-direction:column;align-items:flex-start;padding:20px}
+  .drive-chips{flex-wrap:nowrap;overflow-x:auto;max-width:100%;padding-bottom:4px}
+  .drive-chip{flex:0 0 auto}
+}

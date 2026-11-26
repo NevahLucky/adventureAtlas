@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "idaho",
   stats: {"count": 5, "counties": 4, "free": 0, "median": 150, "top": 89},
   counties: ["Blaine", "Butte", "Idaho", "Shoshone"],
-  rows: [{"name": "Route of the Hiawatha", "city": "Wallace", "county": "Shoshone", "state": "Idaho", "cats": ["Cycling", "Railroad", "Nature"], "cost": "$25–$45", "cost_num": 35, "dur": "Half day", "dur_h": 4, "dates": "May–Sep", "start": "1998", "company": "Lookout Pass Ski Area", "party": "2–6", "customer": "Families, cyclists, retirees", "unique": "A rail-trail through ten tunnels and seven trestles in the Bitterroot Mountains, with a 1.7-mile tunnel you ride through in the dark and a shuttle back up.", "buzz": "The tunnel is a highlight and genuinely dark; bring a strong light and a jacket. Mostly downhill, which everyone loves.", "rating": 89, "id": "route-of-the-hiawatha-wallace"}, {"name": "Salmon River Rafting", "city": "Riggins", "county": "Idaho", "state": "Idaho", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$100–$200", "cost_num": 150, "dur": "Full day", "dur_h": 7, "dates": "Jun–Sep", "start": "1970s", "company": "Salmon River outfitters", "party": "2–8", "customer": "Young adults, families with teens", "unique": "The River of No Return: a wild, free-flowing river through granite canyons with big sandy beaches and rapids that build through the day.", "buzz": "Guides are excellent and the scenery is huge; the multi-day trips are the real prize. Water is cold and the sun is fierce.", "rating": 89, "id": "salmon-river-rafting-riggins"}, {"name": "Hells Canyon Jet Boat", "city": "White Bird", "county": "Idaho", "state": "Idaho", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$100–$200", "cost_num": 150, "dur": "Full day", "dur_h": 7, "dates": "May–Sep", "start": "1970s", "company": "Hells Canyon jet boat outfitters", "party": "2–6", "customer": "Families, thrill seekers, anglers", "unique": "North America's deepest river gorge, 7,900 feet from rim to river, run by jet boat through Class IV rapids to homesteads and petroglyphs.", "buzz": "The scenery is enormous and the rapids are real; full-day trips are long for small kids. Bring layers.", "rating": 88, "id": "hells-canyon-jet-boat-white-bird"}, {"name": "Sun Valley Skiing", "city": "Sun Valley", "county": "Blaine", "state": "Idaho", "cats": ["Snow", "Historical", "Relaxing"], "cost": "$150–$200", "cost_num": 175, "dur": "Full day", "dur_h": 7, "dates": "Dec–Apr", "start": "1936", "company": "Sun Valley Resort", "party": "2–6", "customer": "Skiers, families, couples", "unique": "America's first destination ski resort, where the world's first chairlift was built, with steep bowls, groomers and a Hollywood history.", "buzz": "Locals love the lack of crowds and the sunshine; the mountain is steeper than expected. The lodge is a landmark.", "rating": 88, "id": "sun-valley-skiing-sun-valley"}, {"name": "Craters of the Moon", "city": "Arco", "county": "Butte", "state": "Idaho", "cats": ["Nature", "Hiking", "Science"], "cost": "$20 vehicle", "cost_num": 20, "dur": "Half day", "dur_h": 4, "dates": "May–Oct", "start": "1924", "company": "National Park Service", "party": "2–4", "customer": "Families, geology nerds, photographers", "unique": "A field of black basalt lava flows and cinder cones so alien that Apollo astronauts trained here, with caves you can scramble into.", "buzz": "It feels like another planet and is never crowded; the lava tube caves need a flashlight and good shoes.", "rating": 86, "id": "craters-of-the-moon-arco"}]
+  rows: [{"name": "Route of the Hiawatha", "city": "Wallace", "county": "Shoshone", "state": "Idaho", "cats": ["Cycling", "Railroad", "Nature"], "cost": "$25–$45", "cost_num": 35, "dur": "Half day", "dur_h": 4, "dates": "May–Sep", "start": "1998", "company": "Lookout Pass Ski Area", "party": "2–6", "customer": "Families, cyclists, retirees", "unique": "A rail-trail through ten tunnels and seven trestles in the Bitterroot Mountains, with a 1.7-mile tunnel you ride through in the dark and a shuttle back up.", "buzz": "The tunnel is a highlight and genuinely dark; bring a strong light and a jacket. Mostly downhill, which everyone loves.", "rating": 89, "id": "route-of-the-hiawatha-wallace", "state_abbr": "ID", "county_full": "Shoshone County"}, {"name": "Salmon River Rafting", "city": "Riggins", "county": "Idaho", "state": "Idaho", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$100–$200", "cost_num": 150, "dur": "Full day", "dur_h": 7, "dates": "Jun–Sep", "start": "1970s", "company": "Salmon River outfitters", "party": "2–8", "customer": "Young adults, families with teens", "unique": "The River of No Return: a wild, free-flowing river through granite canyons with big sandy beaches and rapids that build through the day.", "buzz": "Guides are excellent and the scenery is huge; the multi-day trips are the real prize. Water is cold and the sun is fierce.", "rating": 89, "id": "salmon-river-rafting-riggins", "state_abbr": "ID", "county_full": "Idaho County"}, {"name": "Hells Canyon Jet Boat", "city": "White Bird", "county": "Idaho", "state": "Idaho", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$100–$200", "cost_num": 150, "dur": "Full day", "dur_h": 7, "dates": "May–Sep", "start": "1970s", "company": "Hells Canyon jet boat outfitters", "party": "2–6", "customer": "Families, thrill seekers, anglers", "unique": "North America's deepest river gorge, 7,900 feet from rim to river, run by jet boat through Class IV rapids to homesteads and petroglyphs.", "buzz": "The scenery is enormous and the rapids are real; full-day trips are long for small kids. Bring layers.", "rating": 88, "id": "hells-canyon-jet-boat-white-bird", "state_abbr": "ID", "county_full": "Idaho County"}, {"name": "Sun Valley Skiing", "city": "Sun Valley", "county": "Blaine", "state": "Idaho", "cats": ["Snow", "Historical", "Relaxing"], "cost": "$150–$200", "cost_num": 175, "dur": "Full day", "dur_h": 7, "dates": "Dec–Apr", "start": "1936", "company": "Sun Valley Resort", "party": "2–6", "customer": "Skiers, families, couples", "unique": "America's first destination ski resort, where the world's first chairlift was built, with steep bowls, groomers and a Hollywood history.", "buzz": "Locals love the lack of crowds and the sunshine; the mountain is steeper than expected. The lodge is a landmark.", "rating": 88, "id": "sun-valley-skiing-sun-valley", "state_abbr": "ID", "county_full": "Blaine County"}, {"name": "Craters of the Moon", "city": "Arco", "county": "Butte", "state": "Idaho", "cats": ["Nature", "Hiking", "Science"], "cost": "$20 vehicle", "cost_num": 20, "dur": "Half day", "dur_h": 4, "dates": "May–Oct", "start": "1924", "company": "National Park Service", "party": "2–4", "customer": "Families, geology nerds, photographers", "unique": "A field of black basalt lava flows and cinder cones so alien that Apollo astronauts trained here, with caves you can scramble into.", "buzz": "It feels like another planet and is never crowded; the lava tube caves need a flashlight and good shoes.", "rating": 86, "id": "craters-of-the-moon-arco", "state_abbr": "ID", "county_full": "Butte County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

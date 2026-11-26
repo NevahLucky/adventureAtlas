@@ -21,7 +21,9 @@
   "unique": "The first national river in the country: 135 miles of bluffs, gravel bars and Class I–II water, with elk on the hillsides and no dams.",
   "buzz": "Floating the Ponca to Kyle's Landing stretch is a rite of passage; outfitters are relaxed and the water is clear. Spring flow is best.",
   "rating": 88,
-  "id": "buffalo-national-river-float-ponca"
+  "id": "buffalo-national-river-float-ponca",
+  "state_abbr": "AR",
+  "county_full": "Newton County"
  },
  {
   "name": "Crystal Bridges",
@@ -45,7 +47,9 @@
   "unique": "Walmart money built a world-class American art museum in the Ozarks, with a Moshe Safdie building over a ravine and a Frank Lloyd Wright house rebuilt on site.",
   "buzz": "Free admission and a beautiful trail network make it an easy win; the contemporary collection is stronger than expected.",
   "rating": 88,
-  "id": "crystal-bridges-bentonville"
+  "id": "crystal-bridges-bentonville",
+  "state_abbr": "AR",
+  "county_full": "Benton County"
  },
  {
   "name": "Ozark Folk Center",
@@ -69,7 +73,9 @@
   "unique": "A state park dedicated to Ozark mountain culture, with working craft shops, herb gardens and nightly acoustic music in a 1,000-seat theater.",
   "buzz": "The craft demonstrations are excellent and the evening shows are warm and unpretentious. Mountain View itself has pickin' on the square.",
   "rating": 83,
-  "id": "ozark-folk-center-mountain-view"
+  "id": "ozark-folk-center-mountain-view",
+  "state_abbr": "AR",
+  "county_full": "Stone County"
  },
  {
   "name": "Hot Springs Bathhouse Row",
@@ -93,7 +99,9 @@
   "unique": "Eight ornate bathhouses from the Gilded Age spa era, with one still operating a traditional whirlpool-and-needle-shower bath and others preserved as museums.",
   "buzz": "The Buckstaff is the authentic experience — communal tubs, no frills, cheap; the modern spas are nicer and pricier.",
   "rating": 82,
-  "id": "hot-springs-bathhouse-row-hot-springs"
+  "id": "hot-springs-bathhouse-row-hot-springs",
+  "state_abbr": "AR",
+  "county_full": "Garland County"
  },
  {
   "name": "Crater of Diamonds State Park",
@@ -117,7 +125,9 @@
   "unique": "The only public diamond mine in the world where you keep what you find: a plowed volcanic crater you sift by hand in the Arkansas heat.",
   "buzz": "Find rates are low and people still get hooked; rent the sifting kit and go early. Staff identify finds for free.",
   "rating": 80,
-  "id": "crater-of-diamonds-state-park-murfreesboro"
+  "id": "crater-of-diamonds-state-park-murfreesboro",
+  "state_abbr": "AR",
+  "county_full": "Pike County"
  },
  {
   "name": "World Championship Duck Calling Contest",
@@ -141,6 +151,8 @@
   "unique": "The Super Bowl of duck calling, held in a rice-and-mallard town during the Wings Over the Prairie festival, with a duck gumbo cook-off and a queen.",
   "buzz": "It is exactly as niche and sincere as it sounds; visitors love the cook-off and the calling finals are surprisingly dramatic.",
   "rating": 75,
-  "id": "world-championship-duck-calling-contest-stuttgart"
+  "id": "world-championship-duck-calling-contest-stuttgart",
+  "state_abbr": "AR",
+  "county_full": "Arkansas County"
  }
 ]

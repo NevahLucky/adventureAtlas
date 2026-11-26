@@ -21,7 +21,9 @@
   "unique": "The field of 168 empty bronze chairs, the reflecting pool and the survivor tree, built on the site of the 1995 bombing with a museum that walks minute by minute.",
   "buzz": "People describe it as one of the most powerful memorials in the country; the museum is intense and not for young children. Free grounds.",
   "rating": 89,
-  "id": "oklahoma-city-national-memorial-oklahoma-city"
+  "id": "oklahoma-city-national-memorial-oklahoma-city",
+  "state_abbr": "OK",
+  "county_full": "Oklahoma County"
  },
  {
   "name": "Wichita Mountains Wildlife Refuge",
@@ -45,7 +47,9 @@
   "unique": "Free-roaming bison, longhorn and elk in a granite range that rises out of the plains, with bouldering on 500-million-year-old rock and prairie dog towns.",
   "buzz": "Bison sightings are almost guaranteed and the climbing is world-class; roads are narrow and the heat is real.",
   "rating": 85,
-  "id": "wichita-mountains-wildlife-refuge-lawton"
+  "id": "wichita-mountains-wildlife-refuge-lawton",
+  "state_abbr": "OK",
+  "county_full": "Comanche County"
  },
  {
   "name": "Gathering Place",
@@ -69,7 +73,9 @@
   "unique": "A $465-million private park on the Arkansas River with a suspension bridge, a land bridge, giant slides and a boathouse — free, and better than most municipal parks in America.",
   "buzz": "Parents call it the best free family day in the region; the playground is enormous and the beer garden is a nice touch.",
   "rating": 84,
-  "id": "gathering-place-tulsa"
+  "id": "gathering-place-tulsa",
+  "state_abbr": "OK",
+  "county_full": "Tulsa County"
  },
  {
   "name": "Turner Falls",
@@ -93,7 +99,9 @@
   "unique": "A 77-foot waterfall dropping into a natural swimming hole, with caves behind the falls and a rock slide, in the Arbuckle Mountains.",
   "buzz": "It is a beloved summer spot and gets dangerously crowded; go on a weekday and wear shoes for the rocks. Water levels vary.",
   "rating": 78,
-  "id": "turner-falls-davis"
+  "id": "turner-falls-davis",
+  "state_abbr": "OK",
+  "county_full": "Murray County"
  },
  {
   "name": "Blue Whale of Catoosa",
@@ -117,6 +125,8 @@
   "unique": "A 20-foot smiling blue whale built as an anniversary gift in a roadside pond, now a Route 66 icon with a slide and picnic tables.",
   "buzz": "It is a five-minute stop that makes people absurdly happy; the story of the man who built it is on the plaque.",
   "rating": 70,
-  "id": "blue-whale-of-catoosa-catoosa"
+  "id": "blue-whale-of-catoosa-catoosa",
+  "state_abbr": "OK",
+  "county_full": "Rogers County"
  }
 ]

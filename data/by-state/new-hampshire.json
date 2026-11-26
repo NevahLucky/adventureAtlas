@@ -21,7 +21,9 @@
   "unique": "A roadside cliff in Crawford Notch where frozen seepage forms world-class ice within sight of your car — the classic first ice-climbing venue in the East.",
   "buzz": "Guides are praised for getting total beginners up safely and for honest gear advice. Hands and feet get brutally cold; rent the boots.",
   "rating": 86,
-  "id": "frankenstein-cliff-ice-climbing-north-conway"
+  "id": "frankenstein-cliff-ice-climbing-north-conway",
+  "state_abbr": "NH",
+  "county_full": "Grafton County"
  },
  {
   "name": "Mount Washington Cog Railway",
@@ -45,7 +47,9 @@
   "unique": "The world's first mountain-climbing cog railway still burns coal and pushes you up a 37 percent grade to a summit that advertises the world's worst weather.",
   "buzz": "The coal-fired trains get far better reviews than the biodiesel ones; staff are funny about the weather. Summit time is short and cold, which surprises people.",
   "rating": 85,
-  "id": "mount-washington-cog-railway-bretton-woods"
+  "id": "mount-washington-cog-railway-bretton-woods",
+  "state_abbr": "NH",
+  "county_full": "Coos County"
  },
  {
   "name": "Kancamagus Highway Leaf Run",
@@ -68,7 +72,9 @@
   "unique": "Thirty-four miles of switchbacks, covered bridges and river pull-offs through the White Mountains at peak color — one of the few drives that earns the detour.",
   "buzz": "Locals warn that Columbus Day weekend is a parking lot; mid-week dawn is the move. The Lincoln Woods trailhead is the best leg-stretch.",
   "rating": 82,
-  "id": "kancamagus-highway-leaf-run-lincoln"
+  "id": "kancamagus-highway-leaf-run-lincoln",
+  "state_abbr": "NH",
+  "county_full": "Grafton County"
  },
  {
   "name": "Flume Gorge Boardwalk",
@@ -91,6 +97,8 @@
   "unique": "A wooden walkway threads a 90-foot granite chasm with waterfalls on both walls — the kind of place that makes geology legible in twenty minutes.",
   "buzz": "Reviewers love the accessibility and hate the queue at opening; go at 9am or after 3pm. The 2-mile loop is steeper than the photos suggest.",
   "rating": 80,
-  "id": "flume-gorge-boardwalk-lincoln"
+  "id": "flume-gorge-boardwalk-lincoln",
+  "state_abbr": "NH",
+  "county_full": "Grafton County"
  }
 ]

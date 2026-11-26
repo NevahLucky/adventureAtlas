@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "montana",
   stats: {"count": 5, "counties": 5, "free": 1, "median": 25, "top": 93},
   counties: ["Big Horn", "Flathead", "Gallatin", "Lewis and Clark", "Park"],
-  rows: [{"name": "Glacier National Park Going-to-the-Sun Road", "city": "West Glacier", "county": "Flathead", "state": "Montana", "cats": ["Nature", "Road Trip", "Hiking"], "cost": "$35 vehicle", "cost_num": 35, "dur": "Full day", "dur_h": 7, "dates": "Jun–Sep", "start": "1910", "company": "National Park Service", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "Fifty miles of road cut into a glacial valley wall, with a pass at 6,600 feet, turquoise lakes and mountain goats on the trail.", "buzz": "Everyone says drive it early and stop constantly; the shuttle is the sane option in July. Snow can close the pass into June.", "rating": 93, "id": "glacier-national-park-going-to-the-sun-road-west-glacier"}, {"name": "Beartooth Highway", "city": "Red Lodge", "county": "Park", "state": "Montana", "cats": ["Road Trip", "Nature"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Late May–Oct", "start": "1936", "company": "US Forest Service", "party": "NA", "customer": "Drivers, motorcyclists, photographers", "unique": "Sixty-eight miles of switchbacks over a 10,947-foot pass between Montana and Wyoming, with alpine lakes, snowbanks in July and switchbacks that feel aerobatic.", "buzz": "Drivers call it the most beautiful drive in America and mean it; check the pass report before you go. No guardrails in places.", "rating": 91, "id": "beartooth-highway-red-lodge"}, {"name": "Gallatin River Fly Fishing", "city": "Bozeman", "county": "Gallatin", "state": "Montana", "cats": ["Water", "Nature", "Relaxing"], "cost": "$150–$450 guided", "cost_num": 250, "dur": "Half day", "dur_h": 5, "dates": "May–Oct", "start": "—", "company": "Local fly shops and guides", "party": "2", "customer": "Anglers, couples, beginners", "unique": "The river from A River Runs Through It, with cutthroat and rainbow trout in riffles you can wade, and guides who teach a cast in twenty minutes.", "buzz": "Guides are patient with beginners; the drift boat day is the splurge. Trout don't care about your outfit.", "rating": 86, "id": "gallatin-river-fly-fishing-bozeman"}, {"name": "Little Bighorn Battlefield", "city": "Crow Agency", "county": "Big Horn", "state": "Montana", "cats": ["Historical", "Nature"], "cost": "$25 vehicle", "cost_num": 25, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "1876", "company": "National Park Service", "party": "2–4", "customer": "History buffs, families, road-trippers", "unique": "The grassy ridge where Custer's command died, with white markers where soldiers fell and a newer memorial to the Lakota and Cheyenne who won.", "buzz": "Rangers tell the story from both sides; the audio tour is worth it. The landscape is unmarked and that is the point.", "rating": 85, "id": "little-bighorn-battlefield-crow-agency"}, {"name": "Gates of the Mountains Boat Tour", "city": "Helena", "county": "Lewis and Clark", "state": "Montana", "cats": ["Water", "Nature", "Historical"], "cost": "$20–$30", "cost_num": 25, "dur": "2 hrs", "dur_h": 2, "dates": "Jun–Sep", "start": "1886", "company": "Gates of the Mountains Boat Tours", "party": "2–6", "customer": "Families, retirees, history buffs", "unique": "A tour boat up the Missouri through limestone cliffs that Lewis and Clark named, with bighorn sheep, eagles and a canyon that still looks unchanged.", "buzz": "Relaxed and beautiful; the guides mix geology and expedition history well. Not a thrill ride, and that's the appeal.", "rating": 81, "id": "gates-of-the-mountains-boat-tour-helena"}]
+  rows: [{"name": "Glacier National Park Going-to-the-Sun Road", "city": "West Glacier", "county": "Flathead", "state": "Montana", "cats": ["Nature", "Road Trip", "Hiking"], "cost": "$35 vehicle", "cost_num": 35, "dur": "Full day", "dur_h": 7, "dates": "Jun–Sep", "start": "1910", "company": "National Park Service", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "Fifty miles of road cut into a glacial valley wall, with a pass at 6,600 feet, turquoise lakes and mountain goats on the trail.", "buzz": "Everyone says drive it early and stop constantly; the shuttle is the sane option in July. Snow can close the pass into June.", "rating": 93, "id": "glacier-national-park-going-to-the-sun-road-west-glacier", "state_abbr": "MT", "county_full": "Flathead County"}, {"name": "Beartooth Highway", "city": "Red Lodge", "county": "Park", "state": "Montana", "cats": ["Road Trip", "Nature"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Late May–Oct", "start": "1936", "company": "US Forest Service", "party": "NA", "customer": "Drivers, motorcyclists, photographers", "unique": "Sixty-eight miles of switchbacks over a 10,947-foot pass between Montana and Wyoming, with alpine lakes, snowbanks in July and switchbacks that feel aerobatic.", "buzz": "Drivers call it the most beautiful drive in America and mean it; check the pass report before you go. No guardrails in places.", "rating": 91, "id": "beartooth-highway-red-lodge", "state_abbr": "MT", "county_full": "Park County"}, {"name": "Gallatin River Fly Fishing", "city": "Bozeman", "county": "Gallatin", "state": "Montana", "cats": ["Water", "Nature", "Relaxing"], "cost": "$150–$450 guided", "cost_num": 250, "dur": "Half day", "dur_h": 5, "dates": "May–Oct", "start": "—", "company": "Local fly shops and guides", "party": "2", "customer": "Anglers, couples, beginners", "unique": "The river from A River Runs Through It, with cutthroat and rainbow trout in riffles you can wade, and guides who teach a cast in twenty minutes.", "buzz": "Guides are patient with beginners; the drift boat day is the splurge. Trout don't care about your outfit.", "rating": 86, "id": "gallatin-river-fly-fishing-bozeman", "state_abbr": "MT", "county_full": "Gallatin County"}, {"name": "Little Bighorn Battlefield", "city": "Crow Agency", "county": "Big Horn", "state": "Montana", "cats": ["Historical", "Nature"], "cost": "$25 vehicle", "cost_num": 25, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "1876", "company": "National Park Service", "party": "2–4", "customer": "History buffs, families, road-trippers", "unique": "The grassy ridge where Custer's command died, with white markers where soldiers fell and a newer memorial to the Lakota and Cheyenne who won.", "buzz": "Rangers tell the story from both sides; the audio tour is worth it. The landscape is unmarked and that is the point.", "rating": 85, "id": "little-bighorn-battlefield-crow-agency", "state_abbr": "MT", "county_full": "Big Horn County"}, {"name": "Gates of the Mountains Boat Tour", "city": "Helena", "county": "Lewis and Clark", "state": "Montana", "cats": ["Water", "Nature", "Historical"], "cost": "$20–$30", "cost_num": 25, "dur": "2 hrs", "dur_h": 2, "dates": "Jun–Sep", "start": "1886", "company": "Gates of the Mountains Boat Tours", "party": "2–6", "customer": "Families, retirees, history buffs", "unique": "A tour boat up the Missouri through limestone cliffs that Lewis and Clark named, with bighorn sheep, eagles and a canyon that still looks unchanged.", "buzz": "Relaxed and beautiful; the guides mix geology and expedition history well. Not a thrill ride, and that's the appeal.", "rating": 81, "id": "gates-of-the-mountains-boat-tour-helena", "state_abbr": "MT", "county_full": "Lewis and Clark County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Fort Mill Radius — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip within a four-hour drive of Fort Mill, South Carolina — with routing-based drive times, costs and county filters.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Fort Mill radius</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Within four hours.</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="../index.html#states">&larr; All states</a></span>
+    <span><a class="pager-link" href="https://www.openstreetmap.org/#map=8/35.01/-80.95" target="_blank" rel="noopener">Map of the radius &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">State</span>
+      <select class="input" id="fState"><option value="">All states</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3&ndash;6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3&ndash;6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Drive</span>
+      <div class="drive-chips">
+        <button class="chip drive-chip" data-drive="30">Under 30 min</button>
+        <button class="chip drive-chip" data-drive="60">Under 1 hour</button>
+        <button class="chip drive-chip" data-drive="120">Under 2 hours</button>
+        <button class="chip drive-chip" data-drive="180">Under 3 hours</button>
+        <button class="chip drive-chip" data-drive="240">Under 4 hours</button>
+      </div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, towns, companies, notes&hellip;" style="flex:1 1 320px;min-width:0">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
+      <tbody id="tb"><tr><td colspan="13" class="empty">Loading the atlas&hellip;</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How the radius works</h4><p>Drive times are traffic-free routing estimates from downtown Fort Mill to the town or trailhead in each entry, using OpenStreetMap road data. Add 15&ndash;25% for rush hour, and check the park's own directions for the last mile.</p></div>
+        <div><h4>Why some obvious places are missing</h4><p>The atlas only lists things worth a deliberate trip. A chain restaurant or a generic mall doesn't make it just because it's close. If something local belongs here, it can be added.</p></div>
+        <div><h4>Reading the score</h4><p>0&ndash;100 for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value. Sorted high to low by default.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="../index.html#states">&larr; All states</a></span>
+    <span><a class="pager-link" href="../index.html#shortlist">National shortlist &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Fort Mill radius edition. Drive times are estimates; costs are indicative.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  mode: "region",
+  name: "Fort Mill radius",
+  abbr: "SC",
+  slug: "fort-mill",
+  stats: {{STATS}},
+  states: {{STATES_JSON}},
+  counties: [],
+  rows: {{ROWS}}
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

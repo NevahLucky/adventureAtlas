@@ -21,7 +21,9 @@
   "unique": "Striped eroding buttes, bighorn sheep and the largest protected mixed-grass prairie in the country, with a loop road that puts you inside the formations.",
   "buzz": "Sunrise and sunset turn the rock orange; midday is flat. Watch for bison on the road and rattlesnakes on trails.",
   "rating": 92,
-  "id": "badlands-national-park-wall"
+  "id": "badlands-national-park-wall",
+  "state_abbr": "SD",
+  "county_full": "Pennington County"
  },
  {
   "name": "Custer State Park",
@@ -45,7 +47,9 @@
   "unique": "A 1,300-head bison herd, begging burros, granite spires and the Needles Highway — a road that threads through rock tunnels barely wider than a car.",
   "buzz": "The wildlife loop is the highlight; the Needles Highway is genuinely thrilling. Bison jams can last an hour.",
   "rating": 90,
-  "id": "custer-state-park-custer"
+  "id": "custer-state-park-custer",
+  "state_abbr": "SD",
+  "county_full": "Custer County"
  },
  {
   "name": "Mount Rushmore",
@@ -69,7 +73,9 @@
   "unique": "Four sixty-foot faces blasted into granite over fourteen years, with a night lighting ceremony and a sculptor's studio that shows how it was done.",
   "buzz": "People are surprised how moved they are; the evening lighting is the best time. Parking is the only cost.",
   "rating": 86,
-  "id": "mount-rushmore-keystone"
+  "id": "mount-rushmore-keystone",
+  "state_abbr": "SD",
+  "county_full": "Pennington County"
  },
  {
   "name": "Wind Cave",
@@ -93,7 +99,9 @@
   "unique": "One of the longest caves in the world and the first national park for a cave, famous for boxwork — thin calcite fins that look like honeycomb.",
   "buzz": "The natural entrance tour is the classic; rangers explain the barometric wind that breathes in and out of the cave. Book ahead.",
   "rating": 85,
-  "id": "wind-cave-hot-springs"
+  "id": "wind-cave-hot-springs",
+  "state_abbr": "SD",
+  "county_full": "Custer County"
  },
  {
   "name": "Sturgis Motorcycle Rally",
@@ -117,7 +125,9 @@
   "unique": "Half a million motorcycles take over a town of 7,000 for a week, with concerts, a mile of vendors and the Black Hills as the ride.",
   "buzz": "It is loud, hot and utterly singular; non-riders love the spectacle. Book lodging a year ahead or camp.",
   "rating": 82,
-  "id": "sturgis-motorcycle-rally-sturgis"
+  "id": "sturgis-motorcycle-rally-sturgis",
+  "state_abbr": "SD",
+  "county_full": "Meade County"
  },
  {
   "name": "Crazy Horse Memorial",
@@ -141,7 +151,9 @@
   "unique": "A mountain being carved into a 563-foot horseman since 1948, with a Native American museum, a sculptor's home and a laser show at night.",
   "buzz": "The scale is staggering and the progress is slow; the museum is excellent and the controversy is worth understanding.",
   "rating": 80,
-  "id": "crazy-horse-memorial-crazy-horse"
+  "id": "crazy-horse-memorial-crazy-horse",
+  "state_abbr": "SD",
+  "county_full": "Custer County"
  },
  {
   "name": "Deadwood",
@@ -165,7 +177,9 @@
   "unique": "A gold-rush gulch town where Wild Bill Hickok was shot, with the actual-saloon rebuilds, a cemetery on the hill and legal casino poker in every other storefront.",
   "buzz": "The history is well presented and the town is fun; the casino carpet is part of the charm. Catch the trial reenactment.",
   "rating": 79,
-  "id": "deadwood-deadwood"
+  "id": "deadwood-deadwood",
+  "state_abbr": "SD",
+  "county_full": "Lawrence County"
  },
  {
   "name": "Wall Drug",
@@ -189,7 +203,9 @@
   "unique": "A drugstore that became a 76,000-square-foot roadside empire on the strength of free ice water and a hundred miles of billboards, with a giant jackalope and a chapel.",
   "buzz": "It is a tourist trap that knows it and leans in; the donuts and the free water are the tradition. A perfect Badlands pit stop.",
   "rating": 73,
-  "id": "wall-drug-wall"
+  "id": "wall-drug-wall",
+  "state_abbr": "SD",
+  "county_full": "Pennington County"
  },
  {
   "name": "Corn Palace",
@@ -213,6 +229,8 @@
   "unique": "A 1921 Moorish-style palace whose facade is re-covered every year in murals made of eleven colors of corn and grain.",
   "buzz": "It is free, fast and better than the jokes suggest; the interior is a basketball arena. Worth the I-90 stop.",
   "rating": 72,
-  "id": "corn-palace-mitchell"
+  "id": "corn-palace-mitchell",
+  "state_abbr": "SD",
+  "county_full": "Davison County"
  }
 ]

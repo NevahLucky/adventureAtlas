@@ -21,7 +21,9 @@
   "unique": "A 444-mile two-lane road with no trucks and no billboards, following a pre-Columbian trail through cypress bottoms, Indian mounds and 19th-century inns.",
   "buzz": "Drivers call it the most relaxing road in America; cyclists do it in a week. Gas up before you enter — services are sparse.",
   "rating": 87,
-  "id": "natchez-trace-parkway-natchez"
+  "id": "natchez-trace-parkway-natchez",
+  "state_abbr": "MS",
+  "county_full": "Adams County"
  },
  {
   "name": "B.B. King Museum",
@@ -45,7 +47,9 @@
   "unique": "Built in the cotton gin where King worked, it tells the Delta blues story through his guitars, his tour bus and the sharecropping system that produced him.",
   "buzz": "The integration of the cotton gin building is beautifully done; staff are generous with stories. A serious museum in a small town.",
   "rating": 86,
-  "id": "b-b-king-museum-indianola"
+  "id": "b-b-king-museum-indianola",
+  "state_abbr": "MS",
+  "county_full": "Sunflower County"
  },
  {
   "name": "Ground Zero Blues Club",
@@ -69,7 +73,9 @@
   "unique": "A juke joint co-owned by Morgan Freeman where the walls are covered in signatures, the menu is fried everything and the blues are loud and local.",
   "buzz": "The music is the real thing; food is decent and service is slow by design. Go on a Friday and stay for the second set.",
   "rating": 85,
-  "id": "ground-zero-blues-club-clarksdale"
+  "id": "ground-zero-blues-club-clarksdale",
+  "state_abbr": "MS",
+  "county_full": "Coahoma County"
  },
  {
   "name": "Walter Anderson Museum",
@@ -93,7 +99,9 @@
   "unique": "The murals of a reclusive naturalist who rowed to a barrier island alone for weeks, painted every bird and crab he saw, and decorated his cottage floor to ceiling.",
   "buzz": "Visitors call it a revelation; the community center murals are the reason to come. Small, cheap and quietly profound.",
   "rating": 85,
-  "id": "walter-anderson-museum-ocean-springs"
+  "id": "walter-anderson-museum-ocean-springs",
+  "state_abbr": "MS",
+  "county_full": "Jackson County"
  },
  {
   "name": "Vicksburg National Military Park",
@@ -116,7 +124,9 @@
   "unique": "Sixteen miles of preserved siege lines, 1,300 monuments and the ironclad USS Cairo, pulled from the Yazoo River a century after it sank.",
   "buzz": "The driving loop is excellent and the Cairo is the highlight; the terrain explains the campaign better than any book. Quiet and sobering.",
   "rating": 84,
-  "id": "vicksburg-national-military-park-vicksburg"
+  "id": "vicksburg-national-military-park-vicksburg",
+  "state_abbr": "MS",
+  "county_full": "Warren County"
  },
  {
   "name": "Gulf Islands National Seashore",
@@ -140,7 +150,9 @@
   "unique": "Barrier islands with white sand and Civil War forts, reachable by ferry, with campgrounds on a spit of land you can walk at low tide.",
   "buzz": "The beaches are emptier than Florida's and the forts are a bonus; the ferry to Ship Island is the best day. Summer heat and storms.",
   "rating": 81,
-  "id": "gulf-islands-national-seashore-ocean-springs"
+  "id": "gulf-islands-national-seashore-ocean-springs",
+  "state_abbr": "MS",
+  "county_full": "Harrison County"
  },
  {
   "name": "Elvis Presley Birthplace",
@@ -163,7 +175,9 @@
   "unique": "The two-room shotgun house where Elvis was born, preserved on its original lot with the Assembly of God church he sang in moved next door.",
   "buzz": "Modest and moving, especially the church; less spectacle than Graceland and better for it. The gift shop is exactly what you'd expect.",
   "rating": 78,
-  "id": "elvis-presley-birthplace-tupelo"
+  "id": "elvis-presley-birthplace-tupelo",
+  "state_abbr": "MS",
+  "county_full": "Lee County"
  },
  {
   "name": "Mississippi Petrified Forest",
@@ -187,6 +201,8 @@
   "unique": "A eroded gully full of 36-million-year-old petrified logs, with a small museum and a nature trail that looks like another planet.",
   "buzz": "It is small, cheap and weird in the best way; geologists love it. Worth a stop if you're already on I-55.",
   "rating": 73,
-  "id": "mississippi-petrified-forest-flora"
+  "id": "mississippi-petrified-forest-flora",
+  "state_abbr": "MS",
+  "county_full": "Madison County"
  }
 ]

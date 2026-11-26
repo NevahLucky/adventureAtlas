@@ -21,7 +21,9 @@
   "unique": "Brown bears stand in the lip of a waterfall and catch sockeye salmon mid-air, from a viewing platform a few dozen yards away.",
   "buzz": "The single best bear-watching experience on earth; access is by floatplane and permits are limited. Book a year ahead.",
   "rating": 95,
-  "id": "brooks-falls-brown-bears-king-salmon"
+  "id": "brooks-falls-brown-bears-king-salmon",
+  "state_abbr": "AK",
+  "county_full": "Lake and Peninsula Borough"
  },
  {
   "name": "Denali Flightseeing",
@@ -45,7 +47,9 @@
   "unique": "A bush plane lands on a glacier at 7,000 feet on the flank of North America's tallest mountain, with crevasses and icefall below.",
   "buzz": "The glacier landing is the upgrade everyone remembers; weather cancels often, so book early in your trip.",
   "rating": 94,
-  "id": "denali-flightseeing-talkeetna"
+  "id": "denali-flightseeing-talkeetna",
+  "state_abbr": "AK",
+  "county_full": "Matanuska-Susitna Borough"
  },
  {
   "name": "Kenai Fjords",
@@ -69,7 +73,9 @@
   "unique": "A boat through tidewater glaciers that calve into the sea, with sea otters, puffins, humpbacks and orcas in the same afternoon.",
   "buzz": "The glacier calving is the moment people remember; seasickness is common outside the bay. Take the longer tour.",
   "rating": 93,
-  "id": "kenai-fjords-seward"
+  "id": "kenai-fjords-seward",
+  "state_abbr": "AK",
+  "county_full": "Kenai Peninsula Borough"
  },
  {
   "name": "Alaska Railroad Glacier Discovery",
@@ -93,7 +99,9 @@
   "unique": "A domed train through moose country, across a glacier-fed river and into a canyon where the track clings to the cliff, with a whistle-stop flag service.",
   "buzz": "The dome car is worth it; the ride is long and the scenery nonstop. Book the Coastal Classic for the best single day.",
   "rating": 90,
-  "id": "alaska-railroad-glacier-discovery-anchorage"
+  "id": "alaska-railroad-glacier-discovery-anchorage",
+  "state_abbr": "AK",
+  "county_full": "Anchorage"
  },
  {
   "name": "Mendenhall Glacier Ice Caves",
@@ -117,7 +125,9 @@
   "unique": "Paddle across a glacial lake and walk into caves of blue ice under a retreating glacier, with the cave roof shifting every season.",
   "buzz": "Guides are strict about safety and the caves change yearly; the paddle is calm and the ice is surreal. Book early.",
   "rating": 90,
-  "id": "mendenhall-glacier-ice-caves-juneau"
+  "id": "mendenhall-glacier-ice-caves-juneau",
+  "state_abbr": "AK",
+  "county_full": "Juneau"
  },
  {
   "name": "Knik Glacier Airboat",
@@ -141,7 +151,9 @@
   "unique": "An airboat runs up a glacial river through icebergs to the face of a hanging glacier, with moraine, meltwater and no road in.",
   "buzz": "The ice and scale are startling; the ride is loud and cold. Ask about the ice cave add-on.",
   "rating": 89,
-  "id": "knik-glacier-airboat-palmer"
+  "id": "knik-glacier-airboat-palmer",
+  "state_abbr": "AK",
+  "county_full": "Matanuska-Susitna Borough"
  },
  {
   "name": "Chena Hot Springs",
@@ -165,7 +177,9 @@
   "unique": "Outdoor rock pools at 106 degrees in the boreal forest, with an ice museum, a geothermal power plant and aurora overhead on winter nights.",
   "buzz": "The aurora viewing from the hot springs is the draw; the resort is rustic and the drive is long. Bring a hat.",
   "rating": 87,
-  "id": "chena-hot-springs-fairbanks"
+  "id": "chena-hot-springs-fairbanks",
+  "state_abbr": "AK",
+  "county_full": "Fairbanks North Star Borough"
  },
  {
   "name": "Iditarod Start",
@@ -189,7 +203,9 @@
   "unique": "Seventy dog teams leave downtown Anchorage in a blizzard of barking for a 1,000-mile race to Nome, with handlers, fans and snow machines everywhere.",
   "buzz": "The ceremonial start is free and joyful; the real race start in Willow is quieter. Dress for -20.",
   "rating": 87,
-  "id": "iditarod-start-anchorage"
+  "id": "iditarod-start-anchorage",
+  "state_abbr": "AK",
+  "county_full": "Anchorage"
  },
  {
   "name": "Utqiagvik Polar Plunge",
@@ -213,6 +229,8 @@
   "unique": "Jump into the Arctic Ocean at the northernmost town in the United States, where the sun does not set and the water is barely above freezing.",
   "buzz": "It is a bucket-list bragging right and a genuinely strange place; travel is expensive and logistics are real.",
   "rating": 80,
-  "id": "utqiagvik-polar-plunge-utqiagvik"
+  "id": "utqiagvik-polar-plunge-utqiagvik",
+  "state_abbr": "AK",
+  "county_full": "North Slope Borough"
  }
 ]

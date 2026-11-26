@@ -21,7 +21,9 @@
   "unique": "The longest known cave system on earth, with 400 miles mapped, and a tour that walks you through cathedral-sized chambers and tight crawls by lantern light.",
   "buzz": "Rangers are excellent and the historic tour is the one to book; routes sell out days ahead. Cave is 54 degrees year-round — bring a jacket.",
   "rating": 89,
-  "id": "mammoth-cave-grand-historic-tour-mammoth-cave"
+  "id": "mammoth-cave-grand-historic-tour-mammoth-cave",
+  "state_abbr": "KY",
+  "county_full": "Edmonson County"
  },
  {
   "name": "Bourbon Trail Distillery Day",
@@ -45,7 +47,9 @@
   "unique": "Rickhouses, copper stills and the angel's share in the same county as half the world's bourbon; Heaven Hill and Willett sit minutes apart.",
   "buzz": "Book tours weeks ahead — the good ones fill; the tasting rooms are more flexible. Designate a driver or take a shuttle.",
   "rating": 88,
-  "id": "bourbon-trail-distillery-day-bardstown"
+  "id": "bourbon-trail-distillery-day-bardstown",
+  "state_abbr": "KY",
+  "county_full": "Nelson County"
  },
  {
   "name": "Kentucky Derby",
@@ -69,7 +73,9 @@
   "unique": "The most famous two minutes in American sport, with mint juleps, million-dollar hats and the infield's own ecosystem.",
   "buzz": "The infield is a party and the grandstand is racing; both are expensive and both are worth doing once. Traffic is legendary.",
   "rating": 87,
-  "id": "kentucky-derby-louisville"
+  "id": "kentucky-derby-louisville",
+  "state_abbr": "KY",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Red River Gorge Climbing",
@@ -93,7 +99,9 @@
   "unique": "Hundreds of sandstone routes under natural arches and sandstone fins, with the Corbin sandstone roof climbs that made the Red famous.",
   "buzz": "Climbers rate it the best sport climbing in the East; guides are good for beginners. Trails are unmarked — buy the guidebook.",
   "rating": 87,
-  "id": "red-river-gorge-climbing-slade"
+  "id": "red-river-gorge-climbing-slade",
+  "state_abbr": "KY",
+  "county_full": "Powell County"
  },
  {
   "name": "Keeneland Race Day",
@@ -117,7 +125,9 @@
   "unique": "A working Thoroughbred auction house and racetrack in the bluegrass, where the tailgating is as serious as the racing and the paddock is open to everyone.",
   "buzz": "Locals call it the best day out in Kentucky; bring a cooler and a hat. General admission is cheap and the atmosphere is relaxed.",
   "rating": 85,
-  "id": "keeneland-race-day-lexington"
+  "id": "keeneland-race-day-lexington",
+  "state_abbr": "KY",
+  "county_full": "Fayette County"
  },
  {
   "name": "Cumberland Falls Moonbow",
@@ -140,7 +150,9 @@
   "unique": "One of the only places in the world where a lunar rainbow forms regularly in the mist of a waterfall — visible a few nights a month, by reservation at the overlook.",
   "buzz": "Seeing it is luck and patience; the falls are spectacular regardless. Night programs are well run by park staff.",
   "rating": 84,
-  "id": "cumberland-falls-moonbow-corbin"
+  "id": "cumberland-falls-moonbow-corbin",
+  "state_abbr": "KY",
+  "county_full": "Whitley County"
  },
  {
   "name": "Louisville Slugger Factory Tour",
@@ -164,7 +176,9 @@
   "unique": "You walk the actual factory floor where bats are turned from billets, then hold the bat Babe Ruth used — all under a 120-foot steel bat.",
   "buzz": "The factory tour is short and genuinely interesting; kids get a mini bat. The museum is a nice extra, not the main event.",
   "rating": 82,
-  "id": "louisville-slugger-factory-tour-louisville"
+  "id": "louisville-slugger-factory-tour-louisville",
+  "state_abbr": "KY",
+  "county_full": "Jefferson County"
  },
  {
   "name": "National Corvette Museum",
@@ -187,6 +201,8 @@
   "unique": "Every generation of America's sports car, plus the sinkhole that swallowed eight of them in 2014 — now preserved as a exhibit with the wrecked cars on display.",
   "buzz": "The sinkhole exhibit is the reason non-car-people come; the motorsports park next door offers laps. Worth the detour off I-65.",
   "rating": 80,
-  "id": "national-corvette-museum-bowling-green"
+  "id": "national-corvette-museum-bowling-green",
+  "state_abbr": "KY",
+  "county_full": "Warren County"
  }
 ]

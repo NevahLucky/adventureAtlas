@@ -21,7 +21,9 @@
   "unique": "The largest single-day sporting event in the world: 300,000 people, a brick start-finish line, and a century of tradition from the milk bottle to the snake pit.",
   "buzz": "Even non-fans are converted by the spectacle; bring ear protection and arrive early. The infield is a party, the stands are the racing.",
   "rating": 91,
-  "id": "indy-500-speedway"
+  "id": "indy-500-speedway",
+  "state_abbr": "IN",
+  "county_full": "Marion County"
  },
  {
   "name": "Holiday World",
@@ -45,7 +47,9 @@
   "unique": "The world's first theme park, still family-owned, with free unlimited soda, free sunscreen and two of the best water coasters on earth.",
   "buzz": "Parents rave about the free perks and clean park; the Thanksgiving-themed rides are charming. It is a genuine value.",
   "rating": 87,
-  "id": "holiday-world-santa-claus"
+  "id": "holiday-world-santa-claus",
+  "state_abbr": "IN",
+  "county_full": "Spencer County"
  },
  {
   "name": "Turkey Run State Park",
@@ -69,7 +73,9 @@
   "unique": "Deep sandstone canyons with ladders, a suspension bridge and hemlock gullies, plus a Sugar Creek canoe run that is the best float in the state.",
   "buzz": "Hoosiers call it their favorite park; Trail 3 is the classic. Canoe rentals fill up on summer weekends.",
   "rating": 86,
-  "id": "turkey-run-state-park-marshall"
+  "id": "turkey-run-state-park-marshall",
+  "state_abbr": "IN",
+  "county_full": "Parke County"
  },
  {
   "name": "Indiana Dunes",
@@ -93,7 +99,9 @@
   "unique": "A national park of 15 miles of Lake Michigan beach, 200-foot dunes and black oak savanna, an hour from Chicago.",
   "buzz": "The 3 Dune Challenge is a real workout with a great view; the beach is the cleanest near Chicago. Summer parking fills by 9am.",
   "rating": 82,
-  "id": "indiana-dunes-porter"
+  "id": "indiana-dunes-porter",
+  "state_abbr": "IN",
+  "county_full": "Porter County"
  },
  {
   "name": "Shipshewana Auction and Flea Market",
@@ -117,6 +125,8 @@
   "unique": "An Amish-run livestock auction and a thousand-vendor flea market where you can buy a horse, a pie and a hand-forged tool in the same morning.",
   "buzz": "The auction is the real show; get there at 8am for the horses. The flea market is enormous and the food is excellent.",
   "rating": 80,
-  "id": "shipshewana-auction-and-flea-market-shipshewana"
+  "id": "shipshewana-auction-and-flea-market-shipshewana",
+  "state_abbr": "IN",
+  "county_full": "LaGrange County"
  }
 ]

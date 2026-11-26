@@ -21,7 +21,9 @@
   "unique": "A temporary city of 70,000 in the Black Rock Desert, built around radical self-reliance, giant art, fire and a gift economy, then erased without a trace.",
   "buzz": "People call it life-changing and brutal in the same sentence; dust storms, heat and logistics are serious. Read the survival guide twice.",
   "rating": 96,
-  "id": "burning-man-gerlach"
+  "id": "burning-man-gerlach",
+  "state_abbr": "NV",
+  "county_full": "Pershing County"
  },
  {
   "name": "Great Basin Dark Sky",
@@ -45,7 +47,9 @@
   "unique": "One of the darkest skies in the lower 48, above a glacier-carved mountain and ancient bristlecone pines, with a astronomy program and a cave tour.",
   "buzz": "The Milky Way casts shadows; rangers run excellent telescope programs. It is genuinely remote — fill your tank in Ely.",
   "rating": 91,
-  "id": "great-basin-dark-sky-baker"
+  "id": "great-basin-dark-sky-baker",
+  "state_abbr": "NV",
+  "county_full": "White Pine County"
  },
  {
   "name": "Black Canyon Kayak",
@@ -69,7 +73,9 @@
   "unique": "Paddle the Colorado below Hoover Dam between 900-foot black volcanic walls, with hot springs, emerald water and no road access.",
   "buzz": "The guided kayak and raft trips are the only way in; the scale is humbling and the water is cold. Book early in summer.",
   "rating": 89,
-  "id": "black-canyon-kayak-boulder-city"
+  "id": "black-canyon-kayak-boulder-city",
+  "state_abbr": "NV",
+  "county_full": "Clark County"
  },
  {
   "name": "Omega Mart at Area15",
@@ -93,7 +99,9 @@
   "unique": "A fake supermarket that opens into a surreal corporate conspiracy across four floors, with a story you solve by opening products and following clues.",
   "buzz": "People spend four hours and still miss rooms; the bar inside is a nice pause. Book the first slot of the day.",
   "rating": 89,
-  "id": "omega-mart-at-area15-las-vegas"
+  "id": "omega-mart-at-area15-las-vegas",
+  "state_abbr": "NV",
+  "county_full": "Clark County"
  },
  {
   "name": "Red Rock Canyon",
@@ -117,7 +125,9 @@
   "unique": "A 13-mile scenic loop through red and tan sandstone, with Calico Tanks, petroglyphs and world-class trad climbing twenty minutes from the Strip.",
   "buzz": "The best antidote to Vegas; go at sunrise and take the scenic drive. Timed entry is required in season.",
   "rating": 86,
-  "id": "red-rock-canyon-las-vegas"
+  "id": "red-rock-canyon-las-vegas",
+  "state_abbr": "NV",
+  "county_full": "Clark County"
  },
  {
   "name": "Rhyolite Ghost Town",
@@ -141,6 +151,8 @@
   "unique": "A bank, a school and a bottle house abandoned in the desert, plus an open-air sculpture park of ghostly figures that makes the ruin feel haunted.",
   "buzz": "The sculpture park is the surprise; go at golden hour and watch for heat and rattlesnakes. Combine with Death Valley.",
   "rating": 82,
-  "id": "rhyolite-ghost-town-beatty"
+  "id": "rhyolite-ghost-town-beatty",
+  "state_abbr": "NV",
+  "county_full": "Nye County"
  }
 ]

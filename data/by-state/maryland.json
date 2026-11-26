@@ -21,7 +21,9 @@
   "unique": "Wild horses graze between the dunes and your tent on a barrier island with empty Atlantic beach on one side and calm bay on the other.",
   "buzz": "Campers love it and warn the ponies will eat your food and your cooler; keep 40 feet away. Mosquitoes are legendary in summer.",
   "rating": 85,
-  "id": "assateague-wild-ponies-berlin"
+  "id": "assateague-wild-ponies-berlin",
+  "state_abbr": "MD",
+  "county_full": "Worcester County"
  },
  {
   "name": "Antietam Battlefield",
@@ -44,7 +46,9 @@
   "unique": "The bloodiest single day in American history, preserved as farmland and lanes; the Cornfield and Burnside Bridge are within a short walk of the road.",
   "buzz": "Rangers and the driving tour are highly rated; the visitor center film sets up the geography well. Quiet and sobering.",
   "rating": 84,
-  "id": "antietam-battlefield-sharpsburg"
+  "id": "antietam-battlefield-sharpsburg",
+  "state_abbr": "MD",
+  "county_full": "Washington County"
  },
  {
   "name": "National Aquarium",
@@ -68,7 +72,9 @@
   "unique": "A four-story Atlantic coral reef tank, a rain forest under a glass pyramid and a shark alley you walk beneath, on Baltimore's Inner Harbor.",
   "buzz": "The reef tank and the puffins get consistent praise; it is expensive and crowded on weekends. Timed tickets are mandatory.",
   "rating": 80,
-  "id": "national-aquarium-baltimore"
+  "id": "national-aquarium-baltimore",
+  "state_abbr": "MD",
+  "county_full": "Baltimore City"
  },
  {
   "name": "Preakness Stakes",
@@ -91,6 +97,8 @@
   "unique": "The middle jewel of the Triple Crown, with the infield's own lawless culture, a crab-cake picnic and the oldest trophy in American sport.",
   "buzz": "Infield is a party, grandstand is actual racing; reviews warn about traffic and drink prices. Bring sunscreen.",
   "rating": 79,
-  "id": "preakness-stakes-baltimore"
+  "id": "preakness-stakes-baltimore",
+  "state_abbr": "MD",
+  "county_full": "Baltimore City"
  }
 ]

@@ -21,7 +21,9 @@
   "unique": "The deepest lake in the country, filled by rain and snow alone, so blue it looks artificially saturated, with a cinder cone island in the middle.",
   "buzz": "The Rim Drive is spectacular and the water is freezing; Cleetwood Cove is the only swim and the climb out is steep.",
   "rating": 94,
-  "id": "crater-lake-crater-lake"
+  "id": "crater-lake-crater-lake",
+  "state_abbr": "OR",
+  "county_full": "Klamath County"
  },
  {
   "name": "Smith Rock",
@@ -45,7 +47,9 @@
   "unique": "The birthplace of American sport climbing: welded tuff spires and arêtes above the Crooked River, with 1,800 routes and a Misery Ridge trail that scrambles to a view of the Cascades.",
   "buzz": "Climbers call it a cathedral; the hiking is steep and the grades are stiff. Guides are good for first-timers.",
   "rating": 90,
-  "id": "smith-rock-terrebonne"
+  "id": "smith-rock-terrebonne",
+  "state_abbr": "OR",
+  "county_full": "Deschutes County"
  },
  {
   "name": "Ashland Shakespeare Festival",
@@ -69,7 +73,9 @@
   "unique": "A repertory company doing Shakespeare, new plays and musicals in an Elizabethan outdoor theater and two indoor stages, in a town that takes it seriously.",
   "buzz": "Production quality is consistently excellent; the outdoor theater in summer is magical. Book a package with a talkback.",
   "rating": 88,
-  "id": "ashland-shakespeare-festival-ashland"
+  "id": "ashland-shakespeare-festival-ashland",
+  "state_abbr": "OR",
+  "county_full": "Jackson County"
  },
  {
   "name": "Cannon Beach and Haystack Rock",
@@ -93,7 +99,9 @@
   "unique": "A 235-foot sea stack rising out of the surf, tide pools full of anemones and starfish, and a wide flat beach backed by forest.",
   "buzz": "The tide pools at low tide are the attraction; it is windy and often foggy, which is the mood. Go at sunset.",
   "rating": 88,
-  "id": "cannon-beach-and-haystack-rock-cannon-beach"
+  "id": "cannon-beach-and-haystack-rock-cannon-beach",
+  "state_abbr": "OR",
+  "county_full": "Clatsop County"
  },
  {
   "name": "Yabusame Horseback Archery",
@@ -117,7 +125,9 @@
   "unique": "Japanese mounted archery — a galloping samurai looses an arrow at a wooden target — demonstrated in the Willamette Valley by the first riders to stage it outside Japan.",
   "buzz": "Audiences are startled by the speed and the sound of the arrow; demonstrations are rare and announced locally, so check ahead.",
   "rating": 88,
-  "id": "yabusame-horseback-archery-creswell"
+  "id": "yabusame-horseback-archery-creswell",
+  "state_abbr": "OR",
+  "county_full": "Lane County"
  },
  {
   "name": "Hood River Windsurfing",
@@ -141,7 +151,9 @@
   "unique": "The Columbia River Gorge funnels steady 25-knot wind between basalt cliffs, making it the windsurfing and kiteboarding capital of North America.",
   "buzz": "Schools are good with beginners and the scene is friendly; the current and the wind are humbling. Book a two-day lesson.",
   "rating": 87,
-  "id": "hood-river-windsurfing-hood-river"
+  "id": "hood-river-windsurfing-hood-river",
+  "state_abbr": "OR",
+  "county_full": "Hood River County"
  },
  {
   "name": "Timberline Lodge",
@@ -165,7 +177,9 @@
   "unique": "A WPA-era lodge hand-built by craftsmen on Mount Hood, with the only year-round ski area in North America and a fireplace you can stand in.",
   "buzz": "The lodge is a masterpiece and the summer skiing is a novelty; terrain is moderate. The Ram's Head bar is the apres spot.",
   "rating": 87,
-  "id": "timberline-lodge-government-camp"
+  "id": "timberline-lodge-government-camp",
+  "state_abbr": "OR",
+  "county_full": "Clackamas County"
  },
  {
   "name": "Powell's City of Books",
@@ -189,7 +203,9 @@
   "unique": "A city block of new and used books, color-coded rooms, a rare book room and a map at the door because you will get lost.",
   "buzz": "Book people treat it as a pilgrimage; the used section is the joy. The cafe is a good place to sit with a find.",
   "rating": 86,
-  "id": "powell-s-city-of-books-portland"
+  "id": "powell-s-city-of-books-portland",
+  "state_abbr": "OR",
+  "county_full": "Multnomah County"
  },
  {
   "name": "Willamette Valley Wine Country",
@@ -213,7 +229,9 @@
   "unique": "Rolling hazelnut hills planted with Pinot Noir, with tasting rooms that range from barns to architectural statements and a terroir that beat Burgundy in 1979.",
   "buzz": "Pinot is the specialty and the smaller wineries are the charm; book the famous ones and drive carefully.",
   "rating": 86,
-  "id": "willamette-valley-wine-country-dundee"
+  "id": "willamette-valley-wine-country-dundee",
+  "state_abbr": "OR",
+  "county_full": "Yamhill County"
  },
  {
   "name": "Multnomah Falls",
@@ -236,7 +254,9 @@
   "unique": "A 620-foot two-tier waterfall right off the highway, with a footbridge across the middle and a trail to the top through mossy basalt.",
   "buzz": "It is the most photographed waterfall in Oregon and the parking is a nightmare; go before 8am or take the shuttle.",
   "rating": 85,
-  "id": "multnomah-falls-corbett"
+  "id": "multnomah-falls-corbett",
+  "state_abbr": "OR",
+  "county_full": "Multnomah County"
  },
  {
   "name": "Pendleton Round-Up",
@@ -260,7 +280,9 @@
   "unique": "A century-old rodeo with a grass arena, a teepee village on the edge of town and a parade that shuts the whole city down.",
   "buzz": "The grass arena makes the riding wilder; the Happy Canyon night show is a piece of living history. Book early.",
   "rating": 85,
-  "id": "pendleton-round-up-pendleton"
+  "id": "pendleton-round-up-pendleton",
+  "state_abbr": "OR",
+  "county_full": "Umatilla County"
  },
  {
   "name": "Oregon Dunes Sandboarding",
@@ -284,7 +306,9 @@
   "unique": "The largest coastal sand dunes in North America: 500-foot slopes you can sandboard, slide or ride in a dune buggy down to the ocean.",
   "buzz": "Sandboarding is harder than snowboarding and the rental shops give good tips; go early when the sand is firm.",
   "rating": 82,
-  "id": "oregon-dunes-sandboarding-florence"
+  "id": "oregon-dunes-sandboarding-florence",
+  "state_abbr": "OR",
+  "county_full": "Lane County"
  },
  {
   "name": "Portland Saturday Market",
@@ -308,6 +332,8 @@
   "unique": "The largest continuously operating open-air crafts market in the country, under a bridge on the Willamette, with food stalls and buskers.",
   "buzz": "The crafts are genuinely handmade; the food row is the lunch move. It is crowded by noon.",
   "rating": 79,
-  "id": "portland-saturday-market-portland"
+  "id": "portland-saturday-market-portland",
+  "state_abbr": "OR",
+  "county_full": "Multnomah County"
  }
 ]

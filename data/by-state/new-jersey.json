@@ -21,7 +21,9 @@
   "unique": "Forty-two acres of sculpture gardens built on a former state fairground, with life-size figures staged in unnervingly real tableaux.",
   "buzz": "People are surprised by how much there is; the peacocks wander freely and the restaurant is genuinely good.",
   "rating": 84,
-  "id": "grounds-for-sculpture-hamilton"
+  "id": "grounds-for-sculpture-hamilton",
+  "state_abbr": "NJ",
+  "county_full": "Mercer County"
  },
  {
   "name": "Cape May Whale Watch",
@@ -45,7 +47,9 @@
   "unique": "Victorian painted-lady streets on one side, bottlenose dolphins and humpbacks off the point on the other — a beach town that never modernized.",
   "buzz": "Dolphin sightings are near-guaranteed; the whale part is luck. The town's B&Bs and Cape May Point birding get equal praise.",
   "rating": 82,
-  "id": "cape-may-whale-watch-cape-may"
+  "id": "cape-may-whale-watch-cape-may",
+  "state_abbr": "NJ",
+  "county_full": "Cape May County"
  },
  {
   "name": "Stone Pony",
@@ -69,7 +73,9 @@
   "unique": "The shore bar where Springsteen built his reputation; still a working rock club with a summer stage, sticky floors and no pretension.",
   "buzz": "Sound is hit or miss depending on the bill, but the history and the crowd carry it. Summer outdoor shows are the ones to catch.",
   "rating": 82,
-  "id": "stone-pony-asbury-park"
+  "id": "stone-pony-asbury-park",
+  "state_abbr": "NJ",
+  "county_full": "Monmouth County"
  },
  {
   "name": "Pine Barrens Kayak",
@@ -92,7 +98,9 @@
   "unique": "Tea-colored cedar water under a canopy of pitch pine and rare orchids, in a forest so odd it spawned the Jersey Devil and a hundred ghost stories.",
   "buzz": "Outfitters get good marks for shuttles and beginner patience; the water is shallow enough to be forgiving. Bug spray is non-negotiable.",
   "rating": 80,
-  "id": "pine-barrens-kayak-chatsworth"
+  "id": "pine-barrens-kayak-chatsworth",
+  "state_abbr": "NJ",
+  "county_full": "Burlington County"
  },
  {
   "name": "Six Flags Great Adventure",
@@ -115,7 +123,9 @@
   "unique": "The densest collection of extreme coasters in the Northeast, attached to a drive-through safari where giraffes block the road.",
   "buzz": "Coaster fans rate El Toro among the best woodies in the world; everyone warns about flash pass pricing and summer lines.",
   "rating": 78,
-  "id": "six-flags-great-adventure-jackson"
+  "id": "six-flags-great-adventure-jackson",
+  "state_abbr": "NJ",
+  "county_full": "Ocean County"
  },
  {
   "name": "Atlantic City Boardwalk",
@@ -139,6 +149,8 @@
   "unique": "The world's first boardwalk, four miles of saltwater taffy, rolling chairs and casino towers, with the original Steel Pier and a beach you can walk on.",
   "buzz": "It is gloriously past its prime; reviews say go for the people-watching and skip the casino food. The seedier blocks are real.",
   "rating": 72,
-  "id": "atlantic-city-boardwalk-atlantic-city"
+  "id": "atlantic-city-boardwalk-atlantic-city",
+  "state_abbr": "NJ",
+  "county_full": "Atlantic County"
  }
 ]

@@ -21,7 +21,37 @@
   "unique": "A barrier island with wild horses, empty beaches, live oak tunnels and the ruins of the Carnegie family's mansion, reachable only by ferry and limited to a few hundred people a day.",
   "buzz": "People call it the best-kept secret on the Georgia coast; the ferry sells out and there is no food on island. Carry everything.",
   "rating": 89,
-  "id": "cumberland-island-st-marys"
+  "drive_min": 309,
+  "id": "cumberland-island-st-marys",
+  "state_abbr": "GA",
+  "county_full": "Camden County"
+ },
+ {
+  "name": "Atlanta BeltLine",
+  "city": "Atlanta",
+  "county": "Fulton",
+  "state": "Georgia",
+  "cats": [
+   "Cycling",
+   "Art",
+   "Urban"
+  ],
+  "cost": "Free–$30 rental",
+  "cost_num": 15,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "2008",
+  "company": "Atlanta BeltLine Partnership",
+  "party": "2–6",
+  "customer": "Young adults, families, locals",
+  "unique": "A former rail corridor looping the city, with public art, pocket parks and a trail that connects neighborhoods, breweries and the Krog Street Market.",
+  "buzz": "The Eastside Trail is the busy, people-watching stretch; rent a bike or scooter and stop for food. Parking is the only friction.",
+  "rating": 87,
+  "drive_min": 232,
+  "id": "atlanta-beltline-atlanta",
+  "state_abbr": "GA",
+  "county_full": "Fulton County"
  },
  {
   "name": "Tallulah Gorge",
@@ -45,7 +75,37 @@
   "unique": "A thousand-foot-deep gorge with a suspension bridge over the rim and a permit-limited staircase down to the floor, where you can walk on the rocks below the falls.",
   "buzz": "The floor permit is the prize and sells out; the rim trails are free-ish and still spectacular. Tighten your shoes for the stairs.",
   "rating": 87,
-  "id": "tallulah-gorge-tallulah-falls"
+  "drive_min": 187,
+  "id": "tallulah-gorge-tallulah-falls",
+  "state_abbr": "GA",
+  "county_full": "Rabun County"
+ },
+ {
+  "name": "Amicalola Falls",
+  "city": "Dawsonville",
+  "county": "Dawson",
+  "state": "Georgia",
+  "cats": [
+   "Hiking",
+   "Nature",
+   "Adrenaline"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1940s",
+  "company": "Amicalola Falls State Park",
+  "party": "2–4",
+  "customer": "Hikers, families, photographers",
+  "unique": "Georgia's tallest waterfall at 729 feet, with a staircase climbing alongside it and the southern approach to the Appalachian Trail, including a 600-step approach trail.",
+  "buzz": "The stairs are brutal and the view is worth it; the lodge at the top has the best sunset. The AT approach is a bucket-list day.",
+  "rating": 86,
+  "drive_min": 228,
+  "id": "amicalola-falls-dawsonville",
+  "state_abbr": "GA",
+  "county_full": "Dawson County"
  },
  {
   "name": "Okefenokee Swamp",
@@ -69,7 +129,10 @@
   "unique": "A blackwater swamp the size of Rhode Island, with alligators, carnivorous plants, cypress draped in Spanish moss and a canoe trail that goes days without a road.",
   "buzz": "Boat tours are excellent for gators and birds; paddlers say the wilderness is eerie and beautiful. Bugs are biblical in summer.",
   "rating": 86,
-  "id": "okefenokee-swamp-folkston"
+  "drive_min": 322,
+  "id": "okefenokee-swamp-folkston",
+  "state_abbr": "GA",
+  "county_full": "Charlton County"
  },
  {
   "name": "Georgia Aquarium",
@@ -93,7 +156,91 @@
   "unique": "The largest aquarium in the Western Hemisphere, with whale sharks in a 6.3-million-gallon tank you can walk beneath and a dolphin presentation that is more research than circus.",
   "buzz": "The whale shark gallery is the showstopper; crowds and ticket prices are the complaints. Buy timed entry online and go at opening.",
   "rating": 85,
-  "id": "georgia-aquarium-atlanta"
+  "drive_min": 232,
+  "id": "georgia-aquarium-atlanta",
+  "state_abbr": "GA",
+  "county_full": "Fulton County"
+ },
+ {
+  "name": "Georgia Theatre",
+  "city": "Athens",
+  "county": "Clarke",
+  "state": "Georgia",
+  "cats": [
+   "Music",
+   "Nightlife",
+   "Historical"
+  ],
+  "cost": "$20–$45",
+  "cost_num": 30,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1935",
+  "company": "Georgia Theatre",
+  "party": "2–6",
+  "customer": "Music fans, students, young adults",
+  "unique": "A 1935 movie house turned beloved music venue on top of a restaurant, where Athens' indie scene plays under a painted ceiling and the roof deck looks over downtown.",
+  "buzz": "Sound is excellent for a room this size; the roof bar before the show is the move. Athens is a music town and this is its living room.",
+  "rating": 85,
+  "drive_min": 195,
+  "id": "georgia-theatre-athens",
+  "state_abbr": "GA",
+  "county_full": "Clarke County"
+ },
+ {
+  "name": "Rock City Gardens",
+  "city": "Lookout Mountain",
+  "county": "Walker",
+  "state": "Georgia",
+  "cats": [
+   "Nature",
+   "Quirky",
+   "Family"
+  ],
+  "cost": "$25–$30",
+  "cost_num": 27,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year-round",
+  "start": "1932",
+  "company": "See Rock City",
+  "party": "2–6",
+  "customer": "Families, road-trippers, kids",
+  "unique": "A 4,100-foot walking trail through a rock garden with a swinging bridge, a waterfall you walk behind and a view of seven states, advertised on barn roofs for ninety years.",
+  "buzz": "It is unabashedly old-school and kids love it; the Lover's Leap view is legitimately great. Combine with Ruby Falls and the Incline.",
+  "rating": 85,
+  "drive_min": 339,
+  "id": "rock-city-gardens-lookout-mountain",
+  "state_abbr": "GA",
+  "county_full": "Walker County"
+ },
+ {
+  "name": "Blue Ridge Scenic Railway",
+  "city": "Blue Ridge",
+  "county": "Fannin",
+  "state": "Georgia",
+  "cats": [
+   "Railroad",
+   "Nature",
+   "Family"
+  ],
+  "cost": "$50–$80",
+  "cost_num": 65,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Mar–Dec",
+  "start": "1998",
+  "company": "Blue Ridge Scenic Railway",
+  "party": "2–6",
+  "customer": "Families, retirees, rail fans",
+  "unique": "A four-hour round trip along the Toccoa River in open-air cars, with a stop in a twin river town for barbecue and a walk across the state line.",
+  "buzz": "The open-air car is the one to book; fall color trips sell out. It is relaxed and scenic rather than thrilling.",
+  "rating": 83,
+  "drive_min": 256,
+  "id": "blue-ridge-scenic-railway-blue-ridge",
+  "state_abbr": "GA",
+  "county_full": "Fannin County"
  },
  {
   "name": "Providence Canyon",
@@ -117,7 +264,10 @@
   "unique": "Georgia's Little Grand Canyon: 150-foot gullies of pink, orange and white sediment carved by poor farming in the 1800s, now a maze of hoodoos and narrow trenches.",
   "buzz": "The colors are unreal in photos and real in person; the backcountry trail is muddy and the canyon floor is closed after rain.",
   "rating": 83,
-  "id": "providence-canyon-lumpkin"
+  "drive_min": 223,
+  "id": "providence-canyon-lumpkin",
+  "state_abbr": "GA",
+  "county_full": "Stewart County"
  },
  {
   "name": "Savannah Ghost Tour",
@@ -141,7 +291,10 @@
   "unique": "A walking tour through a city built on its own dead, where the stories are half documented history and half performance, told under live oaks and Spanish moss.",
   "buzz": "Pick a small historian-led tour over a trolley; the good guides are genuinely funny and know the archives. October is a zoo.",
   "rating": 81,
-  "id": "savannah-ghost-tour-savannah"
+  "drive_min": 218,
+  "id": "savannah-ghost-tour-savannah",
+  "state_abbr": "GA",
+  "county_full": "Chatham County"
  },
  {
   "name": "Helen Tubing",
@@ -165,7 +318,10 @@
   "unique": "An Alpine-themed village in the Blue Ridge foothills where you float the Chattahoochee in an inner tube with a cooler, then eat schnitzel.",
   "buzz": "It is deeply silly and genuinely fun; the water is cold and the tube chutes are chaotic on weekends. Go on a weekday.",
   "rating": 76,
-  "id": "helen-tubing-helen"
+  "drive_min": 199,
+  "id": "helen-tubing-helen",
+  "state_abbr": "GA",
+  "county_full": "White County"
  },
  {
   "name": "Stone Mountain",
@@ -189,6 +345,9 @@
   "unique": "The world's largest exposed granite monolith, carved with a Confederate memorial the size of a football field, surrounded by a theme park and a laser show.",
   "buzz": "The hike up is a genuine workout with a great view; the carving is historically fraught and the park is unapologetically kitschy.",
   "rating": 74,
-  "id": "stone-mountain-stone-mountain"
+  "drive_min": 234,
+  "id": "stone-mountain-stone-mountain",
+  "state_abbr": "GA",
+  "county_full": "DeKalb County"
  }
 ]

@@ -67,6 +67,18 @@ def load() -> list[dict]:
         r["id"] = rid
         r.setdefault("cats", [])
         r["county"] = r.get("county") or "—"
+        r["state_abbr"] = ABBR[r["state"]]
+        c, st = r["county"], r["state"]
+        if st == "Louisiana":
+            r["county_full"] = c if c.endswith("Parish") else f"{c} Parish"
+        elif st == "Alaska":
+            r["county_full"] = c if c in ("Anchorage", "Juneau") or c.endswith("Borough") else f"{c} Borough"
+        elif st == "District of Columbia":
+            r["county_full"] = "District of Columbia"
+        elif c.endswith("City") or c.endswith("County") or c == "Statewide":
+            r["county_full"] = c
+        else:
+            r["county_full"] = f"{c} County"
     rows.sort(key=lambda r: (-r["rating"], r["state"], r["name"]))
     return rows
 
@@ -92,7 +104,7 @@ def build_index(rows: list[dict]) -> str:
             "name": name, "abbr": ab, "slug": slugify(name), "count": len(items),
             "counties": cs, "top": top["name"], "topRating": top["rating"],
             "topId": top["id"],
-            "topCounty": top["county"],
+            "topCounty": top["county_full"],
             "avg": round(sum(r["rating"] for r in items) / len(items)),
             "free": sum(1 for r in items if r["cost_num"] == 0),
             "best": max(r["rating"] for r in items),
@@ -110,6 +122,7 @@ def build_index(rows: list[dict]) -> str:
         <div class="hp-foot">{esc(' / '.join(p['cats'][:3]))}</div>
       </aside>"""
 
+    near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
     top = rows[:15]
     top_html = []
     for i, r in enumerate(top, 1):
@@ -118,7 +131,7 @@ def build_index(rows: list[dict]) -> str:
         <span class="lead-num">{i:02d}</span>
         <span class="lead-main">
           <span class="lead-name">{esc(r['name'])}</span>
-          <span class="lead-meta">{esc(r['city'])}, {esc(r['state'])} &middot; {esc(r['county'])} County &middot; {esc(' / '.join(r['cats'][:2]))}</span>
+          <span class="lead-meta">{esc(r['city'])}, {esc(r['state'])} &middot; {esc(r['county_full'])} &middot; {esc(' / '.join(r['cats'][:2]))}</span>
         </span>
         <span class="lead-cost">{esc(r['cost'])}</span>
         <span class="lead-score">{r['rating']}</span>
@@ -138,6 +151,8 @@ def build_index(rows: list[dict]) -> str:
         .replace("{{TOP}}", "".join(top_html))
         .replace("{{CATS}}", cat_html)
         .replace("{{PICK}}", pick)
+        .replace("{{NEARN}}", str(len(near)))
+        .replace("{{NEAR1H}}", str(sum(1 for r in near if r["drive_min"] <= 60)))
         .replace("{{TOPN}}", str(len(top)))
         .replace("{{BUILD}}", __import__("datetime").date.today().strftime("%B %Y"))
     )
@@ -173,19 +188,42 @@ def build_state(rows: list[dict], name: str, all_rows: list[dict]) -> str:
     )
 
 
+def build_region(rows: list[dict]) -> str:
+    near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
+    by_state = Counter(r["state"] for r in near)
+    states = [{"name": k, "count": v} for k, v in sorted(by_state.items(), key=lambda x: (-x[1], x[0]))]
+    costs = [r["cost_num"] for r in near]
+    stats = {
+        "count": len(near), "states": len(by_state),
+        "within60": sum(1 for r in near if r["drive_min"] <= 60),
+        "free": sum(1 for r in near if r["cost_num"] == 0),
+        "median": int(statistics.median(costs)),
+        "top": max(r["rating"] for r in near),
+        "topname": max(near, key=lambda r: r["rating"])["name"],
+    }
+    sub = (f"{len(near)} adventures within a four-hour drive of Fort Mill, across "
+           f"{len(by_state)} states — a 22-minute run to Charlotte, the Blue Ridge in two and a half hours, "
+           f"the coast and the New River Gorge at the edge of the radius. Times are traffic-free routing estimates.")
+    tpl = (ROOT / "templates" / "region.html").read_text()
+    return (tpl.replace("{{STATS}}", json.dumps(stats))
+               .replace("{{STATES_JSON}}", json.dumps(states, ensure_ascii=False))
+               .replace("{{ROWS}}", json.dumps(near, ensure_ascii=False))
+               .replace("{{SUB}}", esc(sub)))
+
+
 def write_csv(rows: list[dict]) -> None:
     cols = [
-        ("name", "Adventure"), ("county", "County"), ("state", "State"), ("city", "City"),
+        ("name", "Adventure"), ("county_full", "County"), ("state", "State"), ("city", "City"),
         ("cats", "Category"), ("cost", "Cost"), ("dur", "Duration"), ("party", "Party Size"),
         ("dates", "Season / Dates"), ("start", "Established"), ("company", "Company / Access"),
         ("customer", "Typical Customer"), ("unique", "Uniqueness"), ("buzz", "Reviews"),
-        ("rating", "Overall Rating"),
+        ("rating", "Overall Rating"), ("drive_min", "Drive from Fort Mill (min)"),
     ]
     with (ROOT / "all-adventures.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow([c[1] for c in cols])
         for r in rows:
-            w.writerow([(" / ".join(r[k]) if k == "cats" else r[k]) for k, _ in cols])
+            w.writerow([(" / ".join(r[k]) if k == "cats" else r.get(k, "")) for k, _ in cols])
 
 
 def main() -> None:
@@ -196,6 +234,9 @@ def main() -> None:
     (ROOT / "data" / "by-state").mkdir(exist_ok=True)
 
     (ROOT / "index.html").write_text(build_index(rows), encoding="utf-8")
+    regions = (ROOT / "regions")
+    regions.mkdir(exist_ok=True)
+    (regions / "fort-mill.html").write_text(build_region(rows), encoding="utf-8")
     for name, _ in STATE_ORDER:
         items = [r for r in rows if r["state"] == name]
         if not items:

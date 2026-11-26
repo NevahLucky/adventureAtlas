@@ -21,7 +21,9 @@
   "unique": "The Wright Flyer, the Spirit of St. Louis, a moon rock you can touch and the actual command module from Apollo 11, all free.",
   "buzz": "The renovated galleries are stunning; timed passes vanish, so reserve at 10am exactly 30 days out.",
   "rating": 91,
-  "id": "national-air-and-space-museum-washington"
+  "id": "national-air-and-space-museum-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  },
  {
   "name": "Library of Congress",
@@ -45,7 +47,9 @@
   "unique": "The Main Reading Room and the Great Hall: mosaics, murals and marble, plus Jefferson's own library and a Gutenberg Bible behind glass.",
   "buzz": "The free timed-entry pass is the easiest win in DC; the reading room overlook is the photo. Don't miss the tunnel to the Capitol.",
   "rating": 88,
-  "id": "library-of-congress-washington"
+  "id": "library-of-congress-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  },
  {
   "name": "Kennedy Center Millennium Stage",
@@ -68,7 +72,9 @@
   "unique": "A free performance every single evening at 6pm, from gospel choirs to chamber music to experimental theater, in a marble hall over the Potomac.",
   "buzz": "Locals treat it as the best free cultural secret in the city; the rooftop terrace at sunset is its own attraction.",
   "rating": 86,
-  "id": "kennedy-center-millennium-stage-washington"
+  "id": "kennedy-center-millennium-stage-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  },
  {
   "name": "Cherry Blossom Festival",
@@ -92,7 +98,9 @@
   "unique": "Three thousand cherry trees gifted by Tokyo in 1912 detonate into a pink ring around the Tidal Basin for ten days, with a parade and kite festival.",
   "buzz": "Peak bloom is unpredictable; locals check the NPS forecast daily and go at dawn. Parking is impossible — take Metro.",
   "rating": 85,
-  "id": "cherry-blossom-festival-washington"
+  "id": "cherry-blossom-festival-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  },
  {
   "name": "National Zoo",
@@ -116,7 +124,9 @@
   "unique": "Giant pandas when the loan agreement allows, a free zoo in Rock Creek Park, and the compact Asia Trail that puts you feet from a sloth bear.",
   "buzz": "Free entry makes it a DC staple; the pandas drive the crowds and the hill is steeper than it looks. Go at opening.",
   "rating": 83,
-  "id": "national-zoo-washington"
+  "id": "national-zoo-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  },
  {
   "name": "International Spy Museum",
@@ -140,6 +150,8 @@
   "unique": "Tradecraft you can touch: a real Enigma, disguise stations, listening devices and the stories of spies who defected, lied and disappeared.",
   "buzz": "The interactive undercover assignment is a hit with teens; adults want more artifacts and less queue. Book a timed slot.",
   "rating": 80,
-  "id": "international-spy-museum-washington"
+  "id": "international-spy-museum-washington",
+  "state_abbr": "DC",
+  "county_full": "District of Columbia"
  }
 ]

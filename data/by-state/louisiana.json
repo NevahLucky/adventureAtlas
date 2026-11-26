@@ -20,7 +20,9 @@
   "unique": "A 200-person room with no air conditioning, no drinks and no amplification, where the oldest generation of New Orleans jazz musicians still plays nightly.",
   "buzz": "The line forms early and the room is a sauna; everyone says it is the best hour in the city. Buy the seated tickets if you can.",
   "rating": 92,
-  "id": "preservation-hall-new-orleans"
+  "id": "preservation-hall-new-orleans",
+  "state_abbr": "LA",
+  "county_full": "Orleans Parish"
  },
  {
   "name": "New Orleans Jazz Fest",
@@ -44,7 +46,9 @@
   "unique": "Twelve stages of jazz, gospel, zydeco and rock, plus a food fair of crawfish monica, cochon de lait and mango freeze that rivals the music.",
   "buzz": "The food is half the reason to go; crowds are enormous and the walk from parking is long. Locals go early and leave before dark.",
   "rating": 91,
-  "id": "new-orleans-jazz-fest-new-orleans"
+  "id": "new-orleans-jazz-fest-new-orleans",
+  "state_abbr": "LA",
+  "county_full": "Orleans Parish"
  },
  {
   "name": "Mardi Gras",
@@ -68,7 +72,9 @@
   "unique": "Weeks of parades built by private krewes, with floats, brass bands, beads and a social order that goes back generations.",
   "buzz": "Go to the uptown parades, not just Bourbon Street; locals are welcoming if you respect the routes. Book lodging months ahead.",
   "rating": 90,
-  "id": "mardi-gras-new-orleans"
+  "id": "mardi-gras-new-orleans",
+  "state_abbr": "LA",
+  "county_full": "Orleans Parish"
  },
  {
   "name": "Crawfish Boil Season",
@@ -92,7 +98,9 @@
   "unique": "A backyard ritual elevated to civic religion: a propane burner, a 100-quart pot, crawfish, corn, potatoes and a table covered in newspaper.",
   "buzz": "The best boils are at someone's house; Breaux Bridge in spring is the fallback. Learn to peel or go hungry.",
   "rating": 88,
-  "id": "crawfish-boil-season-lafayette"
+  "id": "crawfish-boil-season-lafayette",
+  "state_abbr": "LA",
+  "county_full": "Lafayette Parish"
  },
  {
   "name": "Honey Island Swamp Tour",
@@ -116,7 +124,9 @@
   "unique": "A small boat into a cypress swamp with wild alligators, barred owls and a trapper's camp, guided by people who live on the water.",
   "buzz": "Small boats beat the big airboats for wildlife; guides are funny and knowledgeable. Bring bug spray and a zoom lens.",
   "rating": 85,
-  "id": "honey-island-swamp-tour-slidell"
+  "id": "honey-island-swamp-tour-slidell",
+  "state_abbr": "LA",
+  "county_full": "St. Tammany Parish"
  },
  {
   "name": "Angola Prison Rodeo",
@@ -140,7 +150,9 @@
   "unique": "Inmates ride bulls and compete in poker-on-horseback inside a maximum-security prison, with a craft fair of prison-made goods and a crowd of thousands.",
   "buzz": "People call it the most complicated day of their trip — spectacle, exploitation and genuine skill all at once. Tickets sell out.",
   "rating": 84,
-  "id": "angola-prison-rodeo-angola"
+  "id": "angola-prison-rodeo-angola",
+  "state_abbr": "LA",
+  "county_full": "West Feliciana Parish"
  },
  {
   "name": "Oak Alley Plantation",
@@ -164,7 +176,9 @@
   "unique": "A quarter-mile avenue of 300-year-old live oaks leading to a Greek Revival mansion, with the slave quarters and sugar operation interpreted alongside the beauty.",
   "buzz": "The grounds are stunning and the slavery exhibits are more honest than most; the mint julep is a nice touch. Go early for photos.",
   "rating": 83,
-  "id": "oak-alley-plantation-vacherie"
+  "id": "oak-alley-plantation-vacherie",
+  "state_abbr": "LA",
+  "county_full": "St. James Parish"
  },
  {
   "name": "Avery Island Tabasco Tour",
@@ -188,7 +202,9 @@
   "unique": "The pepper sauce aged in white oak barrels on a salt dome, with a museum, a jungle garden of camellias and a walk where you can see the barrels sweating.",
   "buzz": "Cheap, quirky and genuinely interesting; the gardens are a surprise. The tasting room lets you try the family's reserve sauce.",
   "rating": 82,
-  "id": "avery-island-tabasco-tour-avery-island"
+  "id": "avery-island-tabasco-tour-avery-island",
+  "state_abbr": "LA",
+  "county_full": "Iberia Parish"
  },
  {
   "name": "Natchitoches Christmas Lights",
@@ -212,6 +228,8 @@
   "unique": "Three hundred thousand lights along a 33-block historic riverfront, with boat parades, fireworks and meat pies — the oldest holiday light display in the South.",
   "buzz": "It is a genuine small-town spectacle; parking is the challenge. Eat a Natchitoches meat pie while you walk.",
   "rating": 80,
-  "id": "natchitoches-christmas-lights-natchitoches"
+  "id": "natchitoches-christmas-lights-natchitoches",
+  "state_abbr": "LA",
+  "county_full": "Natchitoches Parish"
  }
 ]

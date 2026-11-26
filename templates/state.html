@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>

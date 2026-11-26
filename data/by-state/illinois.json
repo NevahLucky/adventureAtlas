@@ -21,7 +21,9 @@
   "unique": "Ninety minutes up the Chicago River while a docent explains how the city invented the skyscraper, with the river canyon as the classroom.",
   "buzz": "The Architecture Center's tour is the one locals recommend; sunset departures are the best. Book ahead in summer.",
   "rating": 93,
-  "id": "chicago-architecture-boat-tour-chicago"
+  "id": "chicago-architecture-boat-tour-chicago",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
  },
  {
   "name": "Art Institute of Chicago",
@@ -44,7 +46,9 @@
   "unique": "Nighthawks, American Gothic, a room of Thorne miniatures and the best Impressionist collection outside Paris, behind a bronze lion on Michigan Avenue.",
   "buzz": "The miniatures and the modern wing are the sleeper hits; go on a weekday morning and pick two wings.",
   "rating": 92,
-  "id": "art-institute-of-chicago-chicago"
+  "id": "art-institute-of-chicago-chicago",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
  },
  {
   "name": "Second City",
@@ -67,7 +71,9 @@
   "unique": "The cabaret theater that launched Belushi, Fey and Colbert, still running improvised and scripted shows with a live band and a cheap bar.",
   "buzz": "The mainstage shows are consistently sharp; the improv sets are hit or miss and cheaper. Sit close and expect to be teased.",
   "rating": 87,
-  "id": "second-city-chicago"
+  "id": "second-city-chicago",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
  },
  {
   "name": "Cahokia Mounds",
@@ -91,7 +97,9 @@
   "unique": "The largest pre-Columbian city north of Mexico, with 120 mounds including Monks Mound — bigger at its base than the Great Pyramid — and a solar calendar of posts.",
   "buzz": "The museum is excellent and the climb is easy; sunset from Monks Mound is the move. Quiet and under-visited.",
   "rating": 86,
-  "id": "cahokia-mounds-collinsville"
+  "id": "cahokia-mounds-collinsville",
+  "state_abbr": "IL",
+  "county_full": "Madison County"
  },
  {
   "name": "Starved Rock",
@@ -114,7 +122,9 @@
   "unique": "Eighteen sandstone canyons with waterfalls and a lodge on a bluff above the Illinois River, an hour and a half from Chicago.",
   "buzz": "The canyons are beautiful and busy; go at 8am and take Trail 2. Bald eagles winter below the dam.",
   "rating": 83,
-  "id": "starved-rock-oglesby"
+  "id": "starved-rock-oglesby",
+  "state_abbr": "IL",
+  "county_full": "LaSalle County"
  },
  {
   "name": "Garden of the Gods",
@@ -137,7 +147,9 @@
   "unique": "Weird sandstone hoodoos, camel-shaped formations and a slot canyon in the Shawnee Hills, with a trail that threads between the rocks.",
   "buzz": "People call it a mini-Utah in southern Illinois; it is free and rarely crowded. Combine with the wine trail.",
   "rating": 82,
-  "id": "garden-of-the-gods-herod"
+  "id": "garden-of-the-gods-herod",
+  "state_abbr": "IL",
+  "county_full": "Saline County"
  },
  {
   "name": "Illinois State Fair",
@@ -161,6 +173,8 @@
   "unique": "A giant state fair with a butter cow, harness racing, a mile-long midway and the Illinois Pork Producers' pork chop on a stick.",
   "buzz": "It is the platonic state fair; the butter cow is a genuine attraction. Parking and heat are the usual complaints.",
   "rating": 78,
-  "id": "illinois-state-fair-springfield"
+  "id": "illinois-state-fair-springfield",
+  "state_abbr": "IL",
+  "county_full": "Sangamon County"
  }
 ]

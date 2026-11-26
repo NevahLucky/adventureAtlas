@@ -20,7 +20,9 @@
   "unique": "The best place on earth to watch wild wolves hunt in a broad glacial valley, alongside bison herds, pronghorn and the occasional grizzly.",
   "buzz": "Dawn in winter is the consensus best; bring a spotting scope and patience. Wolf watchers share sightings generously.",
   "rating": 95,
-  "id": "yellowstone-lamar-valley-wolves-gardiner"
+  "id": "yellowstone-lamar-valley-wolves-gardiner",
+  "state_abbr": "WY",
+  "county_full": "Park County"
  },
  {
   "name": "Grand Teton and Jenny Lake",
@@ -44,7 +46,9 @@
   "unique": "A twelve-peak granite skyline rising straight out of a lake, with a boat shuttle to hidden falls and a canyon that rewards an early start.",
   "buzz": "The Teton crest is the most photographed range in the country and it earns it; parking at Jenny Lake fills by 8am.",
   "rating": 94,
-  "id": "grand-teton-and-jenny-lake-moose"
+  "id": "grand-teton-and-jenny-lake-moose",
+  "state_abbr": "WY",
+  "county_full": "Teton County"
  },
  {
   "name": "Wind River Range Backpack",
@@ -68,7 +72,9 @@
   "unique": "The most remote alpine range in the lower 48, with Gannett Peak, hundreds of glacial lakes and a Cirque of the Towers that climbers dream about.",
   "buzz": "Backpackers call it the best wilderness in America and warn about mosquitoes, river crossings and sudden storms. Carry a bear canister.",
   "rating": 92,
-  "id": "wind-river-range-backpack-pinedale"
+  "id": "wind-river-range-backpack-pinedale",
+  "state_abbr": "WY",
+  "county_full": "Sublette County"
  },
  {
   "name": "Jackson Hole Corbet's Couloir",
@@ -91,7 +97,9 @@
   "unique": "A 3,000-vertical-foot resort with a legendary couloir you have to jump into from the cornice, and a tram that gets you there in nine minutes.",
   "buzz": "Experts call it the most challenging in-bounds terrain in America; everyone else watches from the tram. Snow is deep and the tram line is real.",
   "rating": 89,
-  "id": "jackson-hole-corbet-s-couloir-teton-village"
+  "id": "jackson-hole-corbet-s-couloir-teton-village",
+  "state_abbr": "WY",
+  "county_full": "Teton County"
  },
  {
   "name": "Devils Tower",
@@ -115,7 +123,9 @@
   "unique": "A 867-foot columnar basalt butte that looks engineered, sacred to Plains tribes and still climbable on traditional routes.",
   "buzz": "The walk around the base is easy and awe-inspiring; climbers need a permit and June closures respect tribal ceremonies.",
   "rating": 88,
-  "id": "devils-tower-devils-tower"
+  "id": "devils-tower-devils-tower",
+  "state_abbr": "WY",
+  "county_full": "Crook County"
  },
  {
   "name": "Cheyenne Frontier Days",
@@ -139,7 +149,9 @@
   "unique": "The world's largest outdoor rodeo, ten days of bull riding, pancake breakfasts, a carnival and country concerts in a town that empties into the stands.",
   "buzz": "The rodeo is top-tier and the pancake breakfast is a civic ritual; book lodging in January. Heat and crowds are real.",
   "rating": 86,
-  "id": "cheyenne-frontier-days-cheyenne"
+  "id": "cheyenne-frontier-days-cheyenne",
+  "state_abbr": "WY",
+  "county_full": "Laramie County"
  },
  {
   "name": "Cody Nite Rodeo",
@@ -163,6 +175,8 @@
   "unique": "A nightly amateur rodeo in the town Buffalo Bill built, with broncs, bull riding and a crowd that knows the difference between a good ride and a lucky one.",
   "buzz": "It is unpolished and genuine; kids love the mutton busting. Pair with the Buffalo Bill Center of the West.",
   "rating": 82,
-  "id": "cody-nite-rodeo-cody"
+  "id": "cody-nite-rodeo-cody",
+  "state_abbr": "WY",
+  "county_full": "Park County"
  }
 ]

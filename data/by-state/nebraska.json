@@ -20,7 +20,9 @@
   "unique": "Half a million sandhill cranes pause on the Platte River at once, filling the air with a sound like a distant crowd and performing dancing courtship displays.",
   "buzz": "Sunrise blinds at Rowe are the way to see it; book months ahead. The noise and numbers are overwhelming in the best way.",
   "rating": 91,
-  "id": "sandhill-crane-migration-kearney"
+  "id": "sandhill-crane-migration-kearney",
+  "state_abbr": "NE",
+  "county_full": "Buffalo County"
  },
  {
   "name": "Henry Doorly Zoo",
@@ -44,7 +46,9 @@
   "unique": "The world's largest indoor desert under a geodesic dome, a walk-through rainforest and an aquarium with a shark tunnel — repeatedly ranked the best zoo in the country.",
   "buzz": "The desert dome is the showstopper; it takes a full day. Go on a weekday and take the skyfari.",
   "rating": 89,
-  "id": "henry-doorly-zoo-omaha"
+  "id": "henry-doorly-zoo-omaha",
+  "state_abbr": "NE",
+  "county_full": "Douglas County"
  },
  {
   "name": "Toadstool Geologic Park",
@@ -68,7 +72,9 @@
   "unique": "Badlands of mushroom-shaped sandstone hoodoos and fossil beds, with a one-mile loop through a landscape that looks like another planet.",
   "buzz": "It is remote, quiet and stunning at sunset; the dirt road is impassable when wet. Bring water.",
   "rating": 82,
-  "id": "toadstool-geologic-park-crawford"
+  "id": "toadstool-geologic-park-crawford",
+  "state_abbr": "NE",
+  "county_full": "Sioux County"
  },
  {
   "name": "Carhenge",
@@ -92,6 +98,8 @@
   "unique": "Thirty-eight vintage cars buried nose-down in a circle to replicate Stonehenge, built by a farmer as a family reunion joke and now a beloved landmark.",
   "buzz": "It is exactly as good as the premise; free and quick. The visitor center explains the replica's solstice alignments.",
   "rating": 74,
-  "id": "carhenge-alliance"
+  "id": "carhenge-alliance",
+  "state_abbr": "NE",
+  "county_full": "Box Butte County"
  }
 ]

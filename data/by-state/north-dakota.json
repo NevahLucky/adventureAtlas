@@ -21,7 +21,9 @@
   "unique": "Painted badlands where bison and wild horses graze among striped cliffs, the landscape that shaped Roosevelt's conservation ethic.",
   "buzz": "People call it a mini Badlands with more wildlife; the loop drive is excellent at dawn. Summer heat and ticks.",
   "rating": 89,
-  "id": "theodore-roosevelt-national-park-medora"
+  "id": "theodore-roosevelt-national-park-medora",
+  "state_abbr": "ND",
+  "county_full": "Billings County"
  },
  {
   "name": "Medora Musical",
@@ -45,7 +47,9 @@
   "unique": "A Broadway-style revue about Roosevelt and the Badlands, staged in an outdoor amphitheater carved into a butte, with a live horse and a fireworks finale.",
   "buzz": "It is earnestly patriotic and surprisingly well produced; the setting is half the experience. Bring a jacket.",
   "rating": 78,
-  "id": "medora-musical-medora"
+  "id": "medora-musical-medora",
+  "state_abbr": "ND",
+  "county_full": "Billings County"
  },
  {
   "name": "Enchanted Highway",
@@ -69,7 +73,9 @@
   "unique": "Thirty-two miles of giant scrap-metal sculptures — a 60-foot tin family, pheasants, a grasshopper — built by a retired schoolteacher to keep his town alive.",
   "buzz": "It is a delightful detour with zero crowds; the sculptures are enormous and the story is better. Start in Regent.",
   "rating": 77,
-  "id": "enchanted-highway-regent"
+  "id": "enchanted-highway-regent",
+  "state_abbr": "ND",
+  "county_full": "Hettinger County"
  },
  {
   "name": "Norsk Hostfest",
@@ -93,6 +99,8 @@
   "unique": "North America's largest Scandinavian festival, with Viking reenactors, lutefisk, wood carving and headline entertainment in a town of 48,000.",
   "buzz": "It is warm, weird and deeply sincere; the food is an adventure and the craft demos are excellent.",
   "rating": 76,
-  "id": "norsk-hostfest-minot"
+  "id": "norsk-hostfest-minot",
+  "state_abbr": "ND",
+  "county_full": "Ward County"
  }
 ]

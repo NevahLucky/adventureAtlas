@@ -1,5 +1,32 @@
 [
  {
+  "name": "Gauley River Rafting",
+  "city": "Lansing",
+  "county": "Fayette",
+  "state": "West Virginia",
+  "cats": [
+   "Water",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$150–$250",
+  "cost_num": 190,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "September releases only",
+  "start": "1980s",
+  "company": "Licensed Gauley River outfitters",
+  "party": "4–8",
+  "customer": "Experienced rafters, adrenaline seekers",
+  "unique": "Twenty-five miles of continuous Class IV–V whitewater fed by controlled dam releases for a few weeks each September — the biggest commercial whitewater in the East.",
+  "buzz": "Guides call it the real thing; the Upper Gauley is not for beginners and swimming is a serious proposition. Book as soon as the schedule drops.",
+  "rating": 92,
+  "drive_min": 239,
+  "id": "gauley-river-rafting-lansing",
+  "state_abbr": "WV",
+  "county_full": "Fayette County"
+ },
+ {
   "name": "New River Gorge Whitewater",
   "city": "Fayetteville",
   "county": "Fayette",
@@ -20,7 +47,10 @@
   "unique": "The Lower New has the biggest consistent whitewater in the East and a gorge lined with hundred-foot cliffs; the Upper New is a gentler float through the same scenery.",
   "buzz": "Outfitters are rated on guide quality, not just the rapids; the full-day Lower New is the consensus classic. Water is cold and the hike out is real.",
   "rating": 92,
-  "id": "new-river-gorge-whitewater-fayetteville"
+  "drive_min": 236,
+  "id": "new-river-gorge-whitewater-fayetteville",
+  "state_abbr": "WV",
+  "county_full": "Fayette County"
  },
  {
   "name": "Bridge Day on the New River Gorge",
@@ -44,7 +74,10 @@
   "unique": "One day a year the 876-foot New River Gorge Bridge closes to cars and opens to base jumpers — hundreds of them, legally, into a national park.",
   "buzz": "Even non-jumpers rate it a spectacle; traffic is a nightmare and the walk out to the catwalk is the best view. Vendors are fairground-grade.",
   "rating": 91,
-  "id": "bridge-day-on-the-new-river-gorge-fayetteville"
+  "drive_min": 236,
+  "id": "bridge-day-on-the-new-river-gorge-fayetteville",
+  "state_abbr": "WV",
+  "county_full": "Fayette County"
  },
  {
   "name": "Dolly Sods Wilderness",
@@ -67,7 +100,10 @@
   "unique": "A high plateau that looks like subarctic tundra — wind-stunted spruce, blueberry heath and boulder fields — hundreds of miles south of where it should be.",
   "buzz": "Hikers call it the strangest landscape in the East and warn about mud, fog and unmarked trails. Wear boots you don't love.",
   "rating": 87,
-  "id": "dolly-sods-wilderness-davis"
+  "drive_min": 395,
+  "id": "dolly-sods-wilderness-davis",
+  "state_abbr": "WV",
+  "county_full": "Tucker County"
  },
  {
   "name": "Harpers Ferry",
@@ -91,7 +127,10 @@
   "unique": "The confluence of the Potomac and Shenandoah, where John Brown raided the arsenal and the Appalachian Trail walks straight through a preserved 19th-century town.",
   "buzz": "The Lower Town is beautifully preserved and the Maryland Heights hike is the payoff; parking is a shuttle ride away.",
   "rating": 87,
-  "id": "harpers-ferry-harpers-ferry"
+  "drive_min": 386,
+  "id": "harpers-ferry-harpers-ferry",
+  "state_abbr": "WV",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Seneca Rocks",
@@ -115,7 +154,10 @@
   "unique": "A 900-foot quartzite fin rising out of the Potomac Highlands, with a knife-edge hiking trail to the summit and multi-pitch trad routes up the face.",
   "buzz": "Climbers call it the best trad venue in the East; the hiking trail is exposed and genuinely scary for some. The via ferrata guide service gets good reviews.",
   "rating": 86,
-  "id": "seneca-rocks-seneca-rocks"
+  "drive_min": 383,
+  "id": "seneca-rocks-seneca-rocks",
+  "state_abbr": "WV",
+  "county_full": "Pendleton County"
  },
  {
   "name": "Greenbrier Bunker Tour",
@@ -139,7 +181,64 @@
   "unique": "A declassified underground bunker built to shelter Congress from nuclear war, hidden behind a resort for thirty years with a fake exhibition hall as its door.",
   "buzz": "The tour is fascinating and slightly eerie; guides are excellent on the secrecy. The resort itself is a time capsule worth a drink at the bar.",
   "rating": 85,
-  "id": "greenbrier-bunker-tour-white-sulphur-springs"
+  "drive_min": 262,
+  "id": "greenbrier-bunker-tour-white-sulphur-springs",
+  "state_abbr": "WV",
+  "county_full": "Greenbrier County"
+ },
+ {
+  "name": "Babcock State Park Grist Mill",
+  "city": "Clifftop",
+  "county": "Fayette",
+  "state": "West Virginia",
+  "cats": [
+   "Historical",
+   "Nature",
+   "Photography"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 7,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1838",
+  "company": "West Virginia State Parks",
+  "party": "NA",
+  "customer": "Photographers, families, retirees",
+  "unique": "A working water-powered grist mill with a red roof over a mossy creek, surrounded by rhododendron and the New River Gorge — the most photographed mill in the state.",
+  "buzz": "Photographers queue at dawn for the mill and the creek; the park cabins are a quiet base for gorge hiking. Autumn is the peak.",
+  "rating": 84,
+  "drive_min": 261,
+  "id": "babcock-state-park-grist-mill-clifftop",
+  "state_abbr": "WV",
+  "county_full": "Fayette County"
+ },
+ {
+  "name": "Beckley Exhibition Coal Mine",
+  "city": "Beckley",
+  "county": "Raleigh",
+  "state": "West Virginia",
+  "cats": [
+   "Historical",
+   "Dark Tourism",
+   "Museum"
+  ],
+  "cost": "$15–$20",
+  "cost_num": 17,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Apr–Nov",
+  "start": "1962",
+  "company": "City of Beckley",
+  "party": "2–6",
+  "customer": "Families, history buffs, retirees",
+  "unique": "Ride a mantrip cart into a real worked coal seam with a former miner as your guide, then walk a recreated company town of shacks, church and school.",
+  "buzz": "The miner guides are the whole experience — funny, blunt and full of detail. The tour is cool underground even in August.",
+  "rating": 84,
+  "drive_min": 214,
+  "id": "beckley-exhibition-coal-mine-beckley",
+  "state_abbr": "WV",
+  "county_full": "Raleigh County"
  },
  {
   "name": "Cass Scenic Railroad",
@@ -163,7 +262,10 @@
   "unique": "Shay geared steam locomotives haul you up a logging railroad to Bald Knob, the third-highest point in the state, through a company town frozen in 1900.",
   "buzz": "Rail fans love the sound of the Shays; the ride is long and slow, which is the point. Bring a jacket — the summit is cold.",
   "rating": 84,
-  "id": "cass-scenic-railroad-cass"
+  "drive_min": 349,
+  "id": "cass-scenic-railroad-cass",
+  "state_abbr": "WV",
+  "county_full": "Pocahontas County"
  },
  {
   "name": "Trans-Allegheny Lunatic Asylum",
@@ -187,7 +289,37 @@
   "unique": "A vast Gothic Revival asylum built on the Kirkbride plan, with a preserved ECT room, patient art and overnight ghost hunts in the wards.",
   "buzz": "The historical day tour is stronger than the ghost stuff; guides tell unvarnished stories of institutional abuse. The building is enormous.",
   "rating": 82,
-  "id": "trans-allegheny-lunatic-asylum-weston"
+  "drive_min": 326,
+  "id": "trans-allegheny-lunatic-asylum-weston",
+  "state_abbr": "WV",
+  "county_full": "Lewis County"
+ },
+ {
+  "name": "Lost World Caverns",
+  "city": "Lewisburg",
+  "county": "Greenbrier",
+  "state": "West Virginia",
+  "cats": [
+   "Cave",
+   "Science",
+   "Family"
+  ],
+  "cost": "$12–$15",
+  "cost_num": 13,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1942",
+  "company": "Lost World Caverns",
+  "party": "2–6",
+  "customer": "Families, cave nerds, road-trippers",
+  "unique": "A self-guided walk through a huge single chamber with a 45-foot stalagmite called the War Club, plus a wild-cave tour that crawls and gets muddy.",
+  "buzz": "The self-guided format lets you linger; the wild tour is the adventure. Small, cheap and genuinely impressive.",
+  "rating": 79,
+  "drive_min": 252,
+  "id": "lost-world-caverns-lewisburg",
+  "state_abbr": "WV",
+  "county_full": "Greenbrier County"
  },
  {
   "name": "Mothman Festival",
@@ -211,6 +343,9 @@
   "unique": "A town leans into its own cryptid: a museum, a metal statue, guest speakers, a 5K and vendors selling moth-shaped everything, all in the shadow of the Silver Bridge disaster.",
   "buzz": "It is sincere, cheap and surprisingly wholesome; visitors love the museum and the parade. Parking is easier than you'd think.",
   "rating": 79,
-  "id": "mothman-festival-point-pleasant"
+  "drive_min": 316,
+  "id": "mothman-festival-point-pleasant",
+  "state_abbr": "WV",
+  "county_full": "Mason County"
  }
 ]

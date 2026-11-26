@@ -21,7 +21,9 @@
   "unique": "Frank Lloyd Wright's house cantilevered over a waterfall, with the stream running through the living room and the furniture built into the architecture.",
   "buzz": "The guided tour is excellent and strictly timed; photography inside is banned. Book weeks ahead in fall.",
   "rating": 91,
-  "id": "fallingwater-mill-run"
+  "id": "fallingwater-mill-run",
+  "state_abbr": "PA",
+  "county_full": "Fayette County"
  },
  {
   "name": "Ricketts Glen Falls Trail",
@@ -44,7 +46,9 @@
   "unique": "Twenty-two named waterfalls in a single seven-mile loop down and back up a hemlock gorge — the highest concentration of falls on one trail in the East.",
   "buzz": "Hikers call it the best waterfall hike in Pennsylvania and warn the rocks are slick; the falls trail closes in ice.",
   "rating": 89,
-  "id": "ricketts-glen-falls-trail-benton"
+  "id": "ricketts-glen-falls-trail-benton",
+  "state_abbr": "PA",
+  "county_full": "Luzerne County"
  },
  {
   "name": "Eastern State Penitentiary",
@@ -68,7 +72,9 @@
   "unique": "The world's first true penitentiary, now a stabilized ruin where Al Capone's cell is restored and the corridors still carry the acoustic isolation the Quakers designed.",
   "buzz": "The audio tour narrated by Steve Buscemi is a highlight; Terror Behind the Walls is one of the best haunts in the country.",
   "rating": 88,
-  "id": "eastern-state-penitentiary-philadelphia"
+  "id": "eastern-state-penitentiary-philadelphia",
+  "state_abbr": "PA",
+  "county_full": "Philadelphia County"
  },
  {
   "name": "Longwood Gardens",
@@ -92,7 +98,9 @@
   "unique": "A du Pont estate of 1,100 acres with a conservatory the size of a cathedral, an organ with 10,000 pipes, and fountain shows after dark.",
   "buzz": "Winter is the secret season for the conservatory; summer fountain shows are crowded but worth staying for.",
   "rating": 87,
-  "id": "longwood-gardens-kennett-square"
+  "id": "longwood-gardens-kennett-square",
+  "state_abbr": "PA",
+  "county_full": "Chester County"
  },
  {
   "name": "Gettysburg Battlefield",
@@ -115,7 +123,9 @@
   "unique": "Twenty-five square miles of preserved battle line — Little Round Top, the Wheatfield, Pickett's Charge — best seen by bike or with a licensed guide in your car.",
   "buzz": "Licensed guides are worth every dollar; the auto tour alone misses the story. The cyclorama is dated but moving.",
   "rating": 86,
-  "id": "gettysburg-battlefield-gettysburg"
+  "id": "gettysburg-battlefield-gettysburg",
+  "state_abbr": "PA",
+  "county_full": "Adams County"
  },
  {
   "name": "Ohiopyle Whitewater",
@@ -138,7 +148,9 @@
   "unique": "The Lower Yough packs Class III–IV rapids into a gorge with natural waterslides and swimming holes, an hour from Fallingwater.",
   "buzz": "Outfitters are praised for safety and river knowledge; the guided Lower Yough is the right first trip. Water is cold even in August.",
   "rating": 86,
-  "id": "ohiopyle-whitewater-ohiopyle"
+  "id": "ohiopyle-whitewater-ohiopyle",
+  "state_abbr": "PA",
+  "county_full": "Fayette County"
  },
  {
   "name": "Reading Terminal Market",
@@ -162,7 +174,9 @@
   "unique": "An 1893 train shed turned food hall: Amish butchers, a century-old pretzel bakery, a Pennsylvania Dutch diner and the best cheesesteak argument in the city.",
   "buzz": "Go hungry and wander; DiNic's roast pork is the local pick over the cheesesteak. Seating is a blood sport at noon.",
   "rating": 85,
-  "id": "reading-terminal-market-philadelphia"
+  "id": "reading-terminal-market-philadelphia",
+  "state_abbr": "PA",
+  "county_full": "Philadelphia County"
  },
  {
   "name": "Mutter Museum",
@@ -186,7 +200,9 @@
   "unique": "A Victorian cabinet of medical oddities: the Hyrtl skull collection, wax casts of disease, Einstein's brain slices and a giant colon named after its owner.",
   "buzz": "People either find it fascinating or leave early; reviewers praise the respectful framing of human remains. Not for young kids.",
   "rating": 84,
-  "id": "mutter-museum-philadelphia"
+  "id": "mutter-museum-philadelphia",
+  "state_abbr": "PA",
+  "county_full": "Philadelphia County"
  },
  {
   "name": "Punxsutawney Groundhog Day",
@@ -210,6 +226,8 @@
   "unique": "A town of 6,000 hosts tens of thousands at 3am on a frozen hill to watch a groundhog named Phil be consulted about spring by men in top hats.",
   "buzz": "People describe it as the most American thing they've ever done; the cold is brutal and the actual prognostication lasts seconds.",
   "rating": 74,
-  "id": "punxsutawney-groundhog-day-punxsutawney"
+  "id": "punxsutawney-groundhog-day-punxsutawney",
+  "state_abbr": "PA",
+  "county_full": "Jefferson County"
  }
 ]

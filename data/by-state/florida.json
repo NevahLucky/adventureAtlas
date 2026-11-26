@@ -21,7 +21,9 @@
   "unique": "Watch a rocket leave the pad across the Indian River, then stand under an actual Saturn V — the only place you can do both in one day.",
   "buzz": "Launch days are transcendent and traffic is apocalyptic; the visitor complex alone is a full day. Buy launch-viewing tickets the day they drop.",
   "rating": 93,
-  "id": "kennedy-space-center-launch-cape-canaveral"
+  "id": "kennedy-space-center-launch-cape-canaveral",
+  "state_abbr": "FL",
+  "county_full": "Brevard County"
  },
  {
   "name": "Swim with Manatees",
@@ -45,7 +47,9 @@
   "unique": "In winter, hundreds of West Indian manatees crowd the warm springs, and you can snorkel beside them in clear water while they sleep, eat lettuce and ignore you.",
   "buzz": "Operators are strictly regulated and good ones brief you on no-touch rules; visibility depends on the tide. Book the earliest boat.",
   "rating": 92,
-  "id": "swim-with-manatees-crystal-river"
+  "id": "swim-with-manatees-crystal-river",
+  "state_abbr": "FL",
+  "county_full": "Citrus County"
  },
  {
   "name": "Dry Tortugas and Fort Jefferson",
@@ -69,7 +73,9 @@
   "unique": "A hexagonal brick fort on a tiny island 70 miles from Key West, surrounded by clear water and coral, reachable only by boat or seaplane.",
   "buzz": "People call it the best day trip in Florida; the ferry is long and expensive and the snorkeling is the reward. Book weeks ahead.",
   "rating": 90,
-  "id": "dry-tortugas-and-fort-jefferson-key-west"
+  "id": "dry-tortugas-and-fort-jefferson-key-west",
+  "state_abbr": "FL",
+  "county_full": "Monroe County"
  },
  {
   "name": "Blue Spring Manatees",
@@ -93,7 +99,9 @@
   "unique": "A first-magnitude spring that becomes a winter refuge for hundreds of manatees, viewable from a boardwalk in water so clear you can count the scars on their backs.",
   "buzz": "On a cold January morning there can be 300 manatees; arrive at opening because the park fills by 9am. Swimming is closed in manatee season.",
   "rating": 88,
-  "id": "blue-spring-manatees-orange-city"
+  "id": "blue-spring-manatees-orange-city",
+  "state_abbr": "FL",
+  "county_full": "Volusia County"
  },
  {
   "name": "Star Wars: Galaxy's Edge",
@@ -117,7 +125,9 @@
   "unique": "A full-scale Star Wars outpost where the cast never breaks character, you can build a lightsaber in a secret workshop and fly the Millennium Falcon with five strangers.",
   "buzz": "Rise of the Resistance is the best ride in America by acclimation; the lines and the upcharges are the cost. Rope-drop or buy the lightning lane.",
   "rating": 88,
-  "id": "star-wars-galaxy-s-edge-orlando"
+  "id": "star-wars-galaxy-s-edge-orlando",
+  "state_abbr": "FL",
+  "county_full": "Orange County"
  },
  {
   "name": "Wynwood Walls",
@@ -141,7 +151,9 @@
   "unique": "A warehouse district turned open-air mural museum, with monumental pieces by Shepard Fairey, OSGEMEOS and friends, surrounded by galleries, breweries and a decade of gentrification.",
   "buzz": "Worth the ticket for the curated courtyard; the surrounding streets are free and just as good. Go before noon for photos and fewer crowds.",
   "rating": 88,
-  "id": "wynwood-walls-miami"
+  "id": "wynwood-walls-miami",
+  "state_abbr": "FL",
+  "county_full": "Miami-Dade County"
  },
  {
   "name": "Salvador Dali Museum",
@@ -165,7 +177,9 @@
   "unique": "The most comprehensive Dali collection outside Spain, in a hurricane-proof glass bubble on the waterfront, with massive canvases that reward standing close.",
   "buzz": "The building and the collection are both stunning; the free audio guide is genuinely good. Go Thursday evening for the smaller crowd.",
   "rating": 87,
-  "id": "salvador-dali-museum-st-petersburg"
+  "id": "salvador-dali-museum-st-petersburg",
+  "state_abbr": "FL",
+  "county_full": "Pinellas County"
  },
  {
   "name": "Devil's Den Prehistoric Spring",
@@ -189,7 +203,9 @@
   "unique": "A karst window into a 54-foot-deep spring under a collapsed roof, with fossil beds in the walls, sunbeams through a hole in the ceiling and 72-degree water.",
   "buzz": "Snorkelers love the cathedral light; it is small and gets crowded, so book a morning slot. Not for claustrophobic swimmers.",
   "rating": 86,
-  "id": "devil-s-den-prehistoric-spring-williston"
+  "id": "devil-s-den-prehistoric-spring-williston",
+  "state_abbr": "FL",
+  "county_full": "Levy County"
  },
  {
   "name": "Ringling Museum",
@@ -213,7 +229,9 @@
   "unique": "A circus magnate's Venetian Gothic mansion, a 21-gallery art museum and a circus museum with the actual train car and wardrobe of the greatest show on earth.",
   "buzz": "The circus museum is the surprise hit with kids; the house tour and grounds are gorgeous at sunset. Ticket bundles are worth it.",
   "rating": 86,
-  "id": "ringling-museum-sarasota"
+  "id": "ringling-museum-sarasota",
+  "state_abbr": "FL",
+  "county_full": "Sarasota County"
  },
  {
   "name": "Skydive Zephyrhills",
@@ -236,7 +254,9 @@
   "unique": "One of the largest drop zones in the world, with a 14,000-foot tandem jump over flat Florida farmland and the Gulf beyond — no mountains, just the horizon.",
   "buzz": "Tandem instructors get consistent praise for calming nerves; video packages are worth it. Weather delays are common in summer.",
   "rating": 85,
-  "id": "skydive-zephyrhills-zephyrhills"
+  "id": "skydive-zephyrhills-zephyrhills",
+  "state_abbr": "FL",
+  "county_full": "Pasco County"
  },
  {
   "name": "Castillo de San Marcos",
@@ -259,7 +279,9 @@
   "unique": "The oldest masonry fort in the continental United States, built from coquina shell stone that absorbed cannonballs, on the oldest continuously occupied European street grid in the country.",
   "buzz": "Rangers fire cannons on weekends; the walls are fun to climb and the history is brutal and well told. Combine with the old town at dusk.",
   "rating": 84,
-  "id": "castillo-de-san-marcos-st-augustine"
+  "id": "castillo-de-san-marcos-st-augustine",
+  "state_abbr": "FL",
+  "county_full": "St. Johns County"
  },
  {
   "name": "Everglades Airboat",
@@ -283,7 +305,9 @@
   "unique": "A flat-bottomed fan boat skims a sawgrass river at 40mph, stopping for alligators, herons and the strange silence of the actual swamp.",
   "buzz": "Coopertown is the oldest operator and gets praise for real guides; the souvenir-photo upsell is universal. Bring ear protection for kids.",
   "rating": 84,
-  "id": "everglades-airboat-miami"
+  "id": "everglades-airboat-miami",
+  "state_abbr": "FL",
+  "county_full": "Miami-Dade County"
  },
  {
   "name": "Everglades Hovercraft",
@@ -307,7 +331,9 @@
   "unique": "A hovercraft glides over sawgrass, mud and shallow water where no boat can go, into mangrove tunnels and abandoned clam camps at the edge of the Ten Thousand Islands.",
   "buzz": "The ride is smoother and louder than an airboat; reviews say the small-group trips beat the big-tour buses. Bring sunscreen and earplugs.",
   "rating": 83,
-  "id": "everglades-hovercraft-everglades-city"
+  "id": "everglades-hovercraft-everglades-city",
+  "state_abbr": "FL",
+  "county_full": "Collier County"
  },
  {
   "name": "Mallory Square Sunset",
@@ -331,7 +357,9 @@
   "unique": "A nightly street festival that exists only to watch the sun go down: buskers, sword swallowers, cats on tightropes and a crowd that applauds the horizon.",
   "buzz": "It is touristy and completely charming; locals avoid it and visitors remember it. Get there an hour before sunset for a seat on the pier.",
   "rating": 82,
-  "id": "mallory-square-sunset-key-west"
+  "id": "mallory-square-sunset-key-west",
+  "state_abbr": "FL",
+  "county_full": "Monroe County"
  },
  {
   "name": "Weeki Wachee Mermaid Show",
@@ -355,7 +383,9 @@
   "unique": "Women in mermaid tails perform underwater ballet in a natural spring theater, breathing through hoses, since 1947 — the last of a vanished genre of roadside attraction.",
   "buzz": "It is gloriously retro and the performers are genuinely athletic; the park's river cruise is a nice add. Kids are mesmerized.",
   "rating": 82,
-  "id": "weeki-wachee-mermaid-show-spring-hill"
+  "id": "weeki-wachee-mermaid-show-spring-hill",
+  "state_abbr": "FL",
+  "county_full": "Hernando County"
  },
  {
   "name": "Gatorland",
@@ -379,7 +409,9 @@
   "unique": "A 110-acre alligator park that predates Disney, with a breeding marsh, a boardwalk over thousands of gators and a screaming zipline directly above them.",
   "buzz": "It is old Florida and proud of it; the gator wrestling show is a relic and the swamp walk is genuinely good. Cheaper and less crowded than the theme parks.",
   "rating": 79,
-  "id": "gatorland-orlando"
+  "id": "gatorland-orlando",
+  "state_abbr": "FL",
+  "county_full": "Orange County"
  },
  {
   "name": "Coral Castle",
@@ -403,7 +435,9 @@
   "unique": "A Latvian immigrant single-handedly quarried and moved 1,100 tons of coral rock to build a castle, a rocking chair that weighs tons and a table shaped like Florida — nobody knows how.",
   "buzz": "People come for the mystery and leave talking about the loneliness of it; the audio tour tells the story well. Small and strange.",
   "rating": 78,
-  "id": "coral-castle-homestead"
+  "id": "coral-castle-homestead",
+  "state_abbr": "FL",
+  "county_full": "Miami-Dade County"
  },
  {
   "name": "Tarpon Springs Sponge Docks",
@@ -427,7 +461,9 @@
   "unique": "A Greek-American sponge-diving town with working boats, a cathedral, bakeries selling baklava and a museum of the divers who died harvesting the bay.",
   "buzz": "The food is the draw — get Greek salad and grilled octopus on the docks; the boat tours are short and touristy.",
   "rating": 77,
-  "id": "tarpon-springs-sponge-docks-tarpon-springs"
+  "id": "tarpon-springs-sponge-docks-tarpon-springs",
+  "state_abbr": "FL",
+  "county_full": "Pinellas County"
  },
  {
   "name": "Cassadaga Spiritualist Camp",
@@ -451,7 +487,9 @@
   "unique": "A Victorian camp of mediums and healers in the pine scrub, with a bookstore, a hotel and readings you can book like a haircut.",
   "buzz": "Skeptics and believers both enjoy the earnest weirdness; readings vary wildly in quality. Walk the lake at dusk.",
   "rating": 74,
-  "id": "cassadaga-spiritualist-camp-cassadaga"
+  "id": "cassadaga-spiritualist-camp-cassadaga",
+  "state_abbr": "FL",
+  "county_full": "Volusia County"
  },
  {
   "name": "Iguanaland and Iguana Fest",
@@ -475,6 +513,8 @@
   "unique": "A reptile park devoted to iguanas and their relatives, with an annual Iguana Fest of animal encounters and vendors — a niche so specific it becomes a destination.",
   "buzz": "Small and earnest; keepers are generous with handling opportunities. The festival is a local street-party vibe rather than a convention.",
   "rating": 72,
-  "id": "iguanaland-and-iguana-fest-punta-gorda"
+  "id": "iguanaland-and-iguana-fest-punta-gorda",
+  "state_abbr": "FL",
+  "county_full": "Charlotte County"
  }
 ]

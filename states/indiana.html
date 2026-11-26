@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "indiana",
   stats: {"count": 5, "counties": 5, "free": 1, "median": 10, "top": 91},
   counties: ["LaGrange", "Marion", "Parke", "Porter", "Spencer"],
-  rows: [{"name": "Indy 500", "city": "Speedway", "county": "Marion", "state": "Indiana", "cats": ["Motorsport", "Festival", "Historical"], "cost": "$40–$150", "cost_num": 80, "dur": "Full day", "dur_h": 9, "dates": "Memorial Day weekend", "start": "1911", "company": "Indianapolis Motor Speedway", "party": "4–10", "customer": "Everyone, racing fans, families", "unique": "The largest single-day sporting event in the world: 300,000 people, a brick start-finish line, and a century of tradition from the milk bottle to the snake pit.", "buzz": "Even non-fans are converted by the spectacle; bring ear protection and arrive early. The infield is a party, the stands are the racing.", "rating": 91, "id": "indy-500-speedway"}, {"name": "Holiday World", "city": "Santa Claus", "county": "Spencer", "state": "Indiana", "cats": ["Adrenaline", "Family", "Water"], "cost": "$50–$70", "cost_num": 60, "dur": "Full day", "dur_h": 7, "dates": "May–Sep", "start": "1946", "company": "Holiday World and Splashin' Safari", "party": "2–6", "customer": "Families, kids, coaster fans", "unique": "The world's first theme park, still family-owned, with free unlimited soda, free sunscreen and two of the best water coasters on earth.", "buzz": "Parents rave about the free perks and clean park; the Thanksgiving-themed rides are charming. It is a genuine value.", "rating": 87, "id": "holiday-world-santa-claus"}, {"name": "Turkey Run State Park", "city": "Marshall", "county": "Parke", "state": "Indiana", "cats": ["Hiking", "Nature", "Water"], "cost": "$7–$10", "cost_num": 9, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1916", "company": "Indiana State Parks", "party": "2–4", "customer": "Families, hikers, paddlers", "unique": "Deep sandstone canyons with ladders, a suspension bridge and hemlock gullies, plus a Sugar Creek canoe run that is the best float in the state.", "buzz": "Hoosiers call it their favorite park; Trail 3 is the classic. Canoe rentals fill up on summer weekends.", "rating": 86, "id": "turkey-run-state-park-marshall"}, {"name": "Indiana Dunes", "city": "Porter", "county": "Porter", "state": "Indiana", "cats": ["Nature", "Hiking", "Water"], "cost": "Free–$25", "cost_num": 10, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "2019", "company": "National Park Service", "party": "2–6", "customer": "Families, hikers, beach people", "unique": "A national park of 15 miles of Lake Michigan beach, 200-foot dunes and black oak savanna, an hour from Chicago.", "buzz": "The 3 Dune Challenge is a real workout with a great view; the beach is the cleanest near Chicago. Summer parking fills by 9am.", "rating": 82, "id": "indiana-dunes-porter"}, {"name": "Shipshewana Auction and Flea Market", "city": "Shipshewana", "county": "LaGrange", "state": "Indiana", "cats": ["Market", "Community", "Food & Drink"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Tue–Wed, May–Oct", "start": "1922", "company": "Shipshewana Auction", "party": "2–6", "customer": "Families, antique hunters, retirees", "unique": "An Amish-run livestock auction and a thousand-vendor flea market where you can buy a horse, a pie and a hand-forged tool in the same morning.", "buzz": "The auction is the real show; get there at 8am for the horses. The flea market is enormous and the food is excellent.", "rating": 80, "id": "shipshewana-auction-and-flea-market-shipshewana"}]
+  rows: [{"name": "Indy 500", "city": "Speedway", "county": "Marion", "state": "Indiana", "cats": ["Motorsport", "Festival", "Historical"], "cost": "$40–$150", "cost_num": 80, "dur": "Full day", "dur_h": 9, "dates": "Memorial Day weekend", "start": "1911", "company": "Indianapolis Motor Speedway", "party": "4–10", "customer": "Everyone, racing fans, families", "unique": "The largest single-day sporting event in the world: 300,000 people, a brick start-finish line, and a century of tradition from the milk bottle to the snake pit.", "buzz": "Even non-fans are converted by the spectacle; bring ear protection and arrive early. The infield is a party, the stands are the racing.", "rating": 91, "id": "indy-500-speedway", "state_abbr": "IN", "county_full": "Marion County"}, {"name": "Holiday World", "city": "Santa Claus", "county": "Spencer", "state": "Indiana", "cats": ["Adrenaline", "Family", "Water"], "cost": "$50–$70", "cost_num": 60, "dur": "Full day", "dur_h": 7, "dates": "May–Sep", "start": "1946", "company": "Holiday World and Splashin' Safari", "party": "2–6", "customer": "Families, kids, coaster fans", "unique": "The world's first theme park, still family-owned, with free unlimited soda, free sunscreen and two of the best water coasters on earth.", "buzz": "Parents rave about the free perks and clean park; the Thanksgiving-themed rides are charming. It is a genuine value.", "rating": 87, "id": "holiday-world-santa-claus", "state_abbr": "IN", "county_full": "Spencer County"}, {"name": "Turkey Run State Park", "city": "Marshall", "county": "Parke", "state": "Indiana", "cats": ["Hiking", "Nature", "Water"], "cost": "$7–$10", "cost_num": 9, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1916", "company": "Indiana State Parks", "party": "2–4", "customer": "Families, hikers, paddlers", "unique": "Deep sandstone canyons with ladders, a suspension bridge and hemlock gullies, plus a Sugar Creek canoe run that is the best float in the state.", "buzz": "Hoosiers call it their favorite park; Trail 3 is the classic. Canoe rentals fill up on summer weekends.", "rating": 86, "id": "turkey-run-state-park-marshall", "state_abbr": "IN", "county_full": "Parke County"}, {"name": "Indiana Dunes", "city": "Porter", "county": "Porter", "state": "Indiana", "cats": ["Nature", "Hiking", "Water"], "cost": "Free–$25", "cost_num": 10, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "2019", "company": "National Park Service", "party": "2–6", "customer": "Families, hikers, beach people", "unique": "A national park of 15 miles of Lake Michigan beach, 200-foot dunes and black oak savanna, an hour from Chicago.", "buzz": "The 3 Dune Challenge is a real workout with a great view; the beach is the cleanest near Chicago. Summer parking fills by 9am.", "rating": 82, "id": "indiana-dunes-porter", "state_abbr": "IN", "county_full": "Porter County"}, {"name": "Shipshewana Auction and Flea Market", "city": "Shipshewana", "county": "LaGrange", "state": "Indiana", "cats": ["Market", "Community", "Food & Drink"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Tue–Wed, May–Oct", "start": "1922", "company": "Shipshewana Auction", "party": "2–6", "customer": "Families, antique hunters, retirees", "unique": "An Amish-run livestock auction and a thousand-vendor flea market where you can buy a horse, a pie and a hand-forged tool in the same morning.", "buzz": "The auction is the real show; get there at 8am for the horses. The flea market is enormous and the food is excellent.", "rating": 80, "id": "shipshewana-auction-and-flea-market-shipshewana", "state_abbr": "IN", "county_full": "LaGrange County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

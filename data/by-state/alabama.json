@@ -21,7 +21,9 @@
   "unique": "The world's largest motorcycle collection — 1,600 machines in a five-story glass-and-steel building beside a racetrack — with everything from board trackers to a Britten.",
   "buzz": "Even non-riders are floored by the building and the presentation; the track hosts events most weekends. Allow more time than you think.",
   "rating": 89,
-  "id": "barber-vintage-motorsports-museum-birmingham"
+  "id": "barber-vintage-motorsports-museum-birmingham",
+  "state_abbr": "AL",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Muscle Shoals Sound Studio Tour",
@@ -44,7 +46,9 @@
   "unique": "The cinderblock studio where the Stones, Aretha and Paul Simon recorded, preserved almost exactly as it was, with the original Swampers' instruments still in the room.",
   "buzz": "Tours are led by people who were there or grew up with it; music people call it a pilgrimage. The Shoals area has three studios worth a day.",
   "rating": 88,
-  "id": "muscle-shoals-sound-studio-tour-sheffield"
+  "id": "muscle-shoals-sound-studio-tour-sheffield",
+  "state_abbr": "AL",
+  "county_full": "Colbert County"
  },
  {
   "name": "USS Alabama Battleship",
@@ -67,7 +71,9 @@
   "unique": "A WWII battleship you can climb through from engine room to gun turret, plus a submarine and a hangar of aircraft, all on Mobile Bay.",
   "buzz": "Kids love the ladders and tight passages; veterans are often aboard telling stories. It is hot below deck in summer.",
   "rating": 83,
-  "id": "uss-alabama-battleship-mobile"
+  "id": "uss-alabama-battleship-mobile",
+  "state_abbr": "AL",
+  "county_full": "Mobile County"
  },
  {
   "name": "Cathedral Caverns",
@@ -90,7 +96,9 @@
   "unique": "A 126-foot-wide cave mouth billed as the largest in the world, with a 45-foot stalagmite called Goliath and a walkable, paved route through enormous chambers.",
   "buzz": "Guides are funny and the scale is genuinely impressive; it is less commercial than Luray. Watch for bats.",
   "rating": 82,
-  "id": "cathedral-caverns-grant"
+  "id": "cathedral-caverns-grant",
+  "state_abbr": "AL",
+  "county_full": "Marshall County"
  },
  {
   "name": "Sloss Furnaces",
@@ -114,7 +122,9 @@
   "unique": "A rusted pig-iron furnace complex preserved as industrial archaeology, now a concert venue and the setting for a thousand ghost stories about men who died in the heat.",
   "buzz": "The self-guided walk is eerie and free; locals report unexplained sounds and the place has a genuine reputation. Bring closed shoes.",
   "rating": 81,
-  "id": "sloss-furnaces-birmingham"
+  "id": "sloss-furnaces-birmingham",
+  "state_abbr": "AL",
+  "county_full": "Jefferson County"
  },
  {
   "name": "Hangout Music Festival",
@@ -138,7 +148,9 @@
   "unique": "A beach festival where you watch national acts with your feet in the Gulf sand, between swims and a Ferris wheel on the shore.",
   "buzz": "The setting is the selling point; reviews complain about heat, expensive drinks and the walk between stages. Book a condo early.",
   "rating": 79,
-  "id": "hangout-music-festival-gulf-shores"
+  "id": "hangout-music-festival-gulf-shores",
+  "state_abbr": "AL",
+  "county_full": "Baldwin County"
  },
  {
   "name": "Coon Dog Cemetery",
@@ -161,6 +173,8 @@
   "unique": "A one-acre hillside cemetery for hunting dogs only, with hand-painted headstones, toy fire hydrants and a Labor Day gathering that has run for eighty years.",
   "buzz": "People stop for ten minutes and leave moved; it is free and deeply Southern. Combine with Muscle Shoals for a strange and excellent day.",
   "rating": 76,
-  "id": "coon-dog-cemetery-cherokee"
+  "id": "coon-dog-cemetery-cherokee",
+  "state_abbr": "AL",
+  "county_full": "Colbert County"
  }
 ]

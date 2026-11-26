@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "north-dakota",
   stats: {"count": 4, "counties": 3, "free": 1, "median": 35, "top": 89},
   counties: ["Billings", "Hettinger", "Ward"],
-  rows: [{"name": "Theodore Roosevelt National Park", "city": "Medora", "county": "Billings", "state": "North Dakota", "cats": ["Nature", "Wildlife", "Hiking"], "cost": "$30 vehicle", "cost_num": 30, "dur": "Full day", "dur_h": 7, "dates": "May–Oct", "start": "1947", "company": "National Park Service", "party": "2–4", "customer": "Hikers, wildlife people, road-trippers", "unique": "Painted badlands where bison and wild horses graze among striped cliffs, the landscape that shaped Roosevelt's conservation ethic.", "buzz": "People call it a mini Badlands with more wildlife; the loop drive is excellent at dawn. Summer heat and ticks.", "rating": 89, "id": "theodore-roosevelt-national-park-medora"}, {"name": "Medora Musical", "city": "Medora", "county": "Billings", "state": "North Dakota", "cats": ["Performance", "Historical", "Family"], "cost": "$35–$55", "cost_num": 45, "dur": "2 hrs", "dur_h": 2, "dates": "Jun–Sep", "start": "1965", "company": "Burning Hills Amphitheatre", "party": "2–6", "customer": "Families, retirees, tourists", "unique": "A Broadway-style revue about Roosevelt and the Badlands, staged in an outdoor amphitheater carved into a butte, with a live horse and a fireworks finale.", "buzz": "It is earnestly patriotic and surprisingly well produced; the setting is half the experience. Bring a jacket.", "rating": 78, "id": "medora-musical-medora"}, {"name": "Enchanted Highway", "city": "Regent", "county": "Hettinger", "state": "North Dakota", "cats": ["Art", "Road Trip", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1989", "company": "Self-guided", "party": "NA", "customer": "Road-trippers, families", "unique": "Thirty-two miles of giant scrap-metal sculptures — a 60-foot tin family, pheasants, a grasshopper — built by a retired schoolteacher to keep his town alive.", "buzz": "It is a delightful detour with zero crowds; the sculptures are enormous and the story is better. Start in Regent.", "rating": 77, "id": "enchanted-highway-regent"}, {"name": "Norsk Hostfest", "city": "Minot", "county": "Ward", "state": "North Dakota", "cats": ["Festival", "Food & Drink", "Community"], "cost": "$30–$60", "cost_num": 40, "dur": "2 days", "dur_h": 16, "dates": "Late Sep–early Oct", "start": "1978", "company": "Norsk Hostfest", "party": "2–8", "customer": "Families, retirees, Scandinavian descendants", "unique": "North America's largest Scandinavian festival, with Viking reenactors, lutefisk, wood carving and headline entertainment in a town of 48,000.", "buzz": "It is warm, weird and deeply sincere; the food is an adventure and the craft demos are excellent.", "rating": 76, "id": "norsk-hostfest-minot"}]
+  rows: [{"name": "Theodore Roosevelt National Park", "city": "Medora", "county": "Billings", "state": "North Dakota", "cats": ["Nature", "Wildlife", "Hiking"], "cost": "$30 vehicle", "cost_num": 30, "dur": "Full day", "dur_h": 7, "dates": "May–Oct", "start": "1947", "company": "National Park Service", "party": "2–4", "customer": "Hikers, wildlife people, road-trippers", "unique": "Painted badlands where bison and wild horses graze among striped cliffs, the landscape that shaped Roosevelt's conservation ethic.", "buzz": "People call it a mini Badlands with more wildlife; the loop drive is excellent at dawn. Summer heat and ticks.", "rating": 89, "id": "theodore-roosevelt-national-park-medora", "state_abbr": "ND", "county_full": "Billings County"}, {"name": "Medora Musical", "city": "Medora", "county": "Billings", "state": "North Dakota", "cats": ["Performance", "Historical", "Family"], "cost": "$35–$55", "cost_num": 45, "dur": "2 hrs", "dur_h": 2, "dates": "Jun–Sep", "start": "1965", "company": "Burning Hills Amphitheatre", "party": "2–6", "customer": "Families, retirees, tourists", "unique": "A Broadway-style revue about Roosevelt and the Badlands, staged in an outdoor amphitheater carved into a butte, with a live horse and a fireworks finale.", "buzz": "It is earnestly patriotic and surprisingly well produced; the setting is half the experience. Bring a jacket.", "rating": 78, "id": "medora-musical-medora", "state_abbr": "ND", "county_full": "Billings County"}, {"name": "Enchanted Highway", "city": "Regent", "county": "Hettinger", "state": "North Dakota", "cats": ["Art", "Road Trip", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1989", "company": "Self-guided", "party": "NA", "customer": "Road-trippers, families", "unique": "Thirty-two miles of giant scrap-metal sculptures — a 60-foot tin family, pheasants, a grasshopper — built by a retired schoolteacher to keep his town alive.", "buzz": "It is a delightful detour with zero crowds; the sculptures are enormous and the story is better. Start in Regent.", "rating": 77, "id": "enchanted-highway-regent", "state_abbr": "ND", "county_full": "Hettinger County"}, {"name": "Norsk Hostfest", "city": "Minot", "county": "Ward", "state": "North Dakota", "cats": ["Festival", "Food & Drink", "Community"], "cost": "$30–$60", "cost_num": 40, "dur": "2 days", "dur_h": 16, "dates": "Late Sep–early Oct", "start": "1978", "company": "Norsk Hostfest", "party": "2–8", "customer": "Families, retirees, Scandinavian descendants", "unique": "North America's largest Scandinavian festival, with Viking reenactors, lutefisk, wood carving and headline entertainment in a town of 48,000.", "buzz": "It is warm, weird and deeply sincere; the food is an adventure and the craft demos are excellent.", "rating": 76, "id": "norsk-hostfest-minot", "state_abbr": "ND", "county_full": "Ward County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

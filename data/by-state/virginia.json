@@ -1,5 +1,32 @@
 [
  {
+  "name": "Grayson Highlands",
+  "city": "Mouth of Wilson",
+  "county": "Grayson",
+  "state": "Virginia",
+  "cats": [
+   "Hiking",
+   "Wildlife",
+   "Nature"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 7,
+  "dur": "Full day",
+  "dur_h": 6,
+  "dates": "May–Oct",
+  "start": "1960s",
+  "company": "Grayson Highlands State Park",
+  "party": "2–4",
+  "customer": "Hikers, photographers, families",
+  "unique": "Open highland balds at 5,000 feet with wild ponies grazing among granite outcrops, and the Appalachian Trail crossing Mount Rogers, Virginia's highest point.",
+  "buzz": "The ponies are habituated and will investigate your lunch; the Wilburn Ridge loop is the classic. Weather changes fast and the wind is constant.",
+  "rating": 91,
+  "drive_min": 147,
+  "id": "grayson-highlands-mouth-of-wilson",
+  "state_abbr": "VA",
+  "county_full": "Grayson County"
+ },
+ {
   "name": "Floyd Country Store Friday Night",
   "city": "Floyd",
   "county": "Floyd",
@@ -21,7 +48,10 @@
   "unique": "A 1910 general store with a potbelly stove where a live old-time band plays and anyone can join the flatfooting and two-step on the worn wooden floor.",
   "buzz": "Locals and visitors agree it is the most welcoming room in Appalachia; get there early for a seat and expect to be pulled into a dance.",
   "rating": 89,
-  "id": "floyd-country-store-friday-night-floyd"
+  "drive_min": 161,
+  "id": "floyd-country-store-friday-night-floyd",
+  "state_abbr": "VA",
+  "county_full": "Floyd County"
  },
  {
   "name": "Monticello",
@@ -45,7 +75,10 @@
   "unique": "Jefferson's mountaintop house with its dumbwaiters, alcove beds and clock-driven calendar, plus the reconstructed slave quarters that complicate the postcard.",
   "buzz": "The slavery exhibits get strong praise for honesty; the house tour is timed and the grounds need another hour. Book the first slot.",
   "rating": 88,
-  "id": "monticello-charlottesville"
+  "drive_min": 288,
+  "id": "monticello-charlottesville",
+  "state_abbr": "VA",
+  "county_full": "Albemarle County"
  },
  {
   "name": "Luray Caverns and the Great Stalacpipe Organ",
@@ -69,7 +102,10 @@
   "unique": "A vast limestone cavern where a lithophone built into the stalactites plays music through the rock itself — the world's largest musical instrument, and it actually works.",
   "buzz": "Visitors are surprised by how good the organ recital is; the cavern is commercial but genuinely spectacular. The garden maze next door is a decent add-on.",
   "rating": 86,
-  "id": "luray-caverns-and-the-great-stalacpipe-organ-luray"
+  "drive_min": 321,
+  "id": "luray-caverns-and-the-great-stalacpipe-organ-luray",
+  "state_abbr": "VA",
+  "county_full": "Page County"
  },
  {
   "name": "Devil's Bathtub",
@@ -93,7 +129,10 @@
   "unique": "A series of natural plunge pools carved into sandstone at the end of a creek-wading and boulder-hopping route through Jefferson National Forest.",
   "buzz": "People love it and warn the route is unmarked, slippery and not for flip-flops. Go early; it is a locals' secret that leaked.",
   "rating": 85,
-  "id": "devil-s-bathtub-duffield"
+  "drive_min": 231,
+  "id": "devil-s-bathtub-duffield",
+  "state_abbr": "VA",
+  "county_full": "Scott County"
  },
  {
   "name": "Chincoteague Pony Swim",
@@ -117,7 +156,37 @@
   "unique": "Saltwater cowboys herd wild ponies across the channel at slack tide, then auction the foals to keep the herd small — a 100-year-old ritual on a barrier island.",
   "buzz": "It is genuinely crowded and hot, and people still call it unforgettable. Watch from the water or a boat, not the packed shore.",
   "rating": 84,
-  "id": "chincoteague-pony-swim-chincoteague"
+  "drive_min": 449,
+  "id": "chincoteague-pony-swim-chincoteague",
+  "state_abbr": "VA",
+  "county_full": "Accomack County"
+ },
+ {
+  "name": "Maymont",
+  "city": "Richmond",
+  "county": "Richmond City",
+  "state": "Virginia",
+  "cats": [
+   "Nature",
+   "Historical",
+   "Wildlife"
+  ],
+  "cost": "Free–$12",
+  "cost_num": 6,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1893",
+  "company": "Maymont Foundation",
+  "party": "2–6",
+  "customer": "Families, couples, history buffs",
+  "unique": "A 100-acre Gilded Age estate with a Romanesque mansion, Japanese and Italian gardens, and a Virginia wildlife exhibit with otters, bobcats and black bears.",
+  "buzz": "Free grounds and a small mansion fee; the gardens are gorgeous in spring and the wildlife exhibits are better than expected for kids.",
+  "rating": 84,
+  "drive_min": 288,
+  "id": "maymont-richmond",
+  "state_abbr": "VA",
+  "county_full": "Richmond City"
  },
  {
   "name": "Colonial Williamsburg",
@@ -141,7 +210,10 @@
   "unique": "Eighty-eight original and reconstructed buildings on the actual 18th-century capital, with tradespeople who blacksmith, bind books and argue politics in character.",
   "buzz": "The ticket price draws complaints, but the trades and the evening programs are rated excellent. Go in spring or fall; summer heat is brutal in wool.",
   "rating": 83,
-  "id": "colonial-williamsburg-williamsburg"
+  "drive_min": 325,
+  "id": "colonial-williamsburg-williamsburg",
+  "state_abbr": "VA",
+  "county_full": "Williamsburg City"
  },
  {
   "name": "Great Falls Park",
@@ -164,7 +236,37 @@
   "unique": "The Potomac compresses into a quarter-mile of Class V rapids twenty minutes from the capital, with cliff-top overlooks and a boulder-strewn gorge.",
   "buzz": "Locals call it the best quick nature fix near DC; the River Trail scramble is the fun part. Parking fills by 10am on weekends.",
   "rating": 82,
-  "id": "great-falls-park-mclean"
+  "drive_min": 407,
+  "id": "great-falls-park-mclean",
+  "state_abbr": "VA",
+  "county_full": "Fairfax County"
+ },
+ {
+  "name": "Mabry Mill",
+  "city": "Meadows of Dan",
+  "county": "Floyd",
+  "state": "Virginia",
+  "cats": [
+   "Historical",
+   "Nature",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "May–Oct",
+  "start": "1910",
+  "company": "National Park Service",
+  "party": "NA",
+  "customer": "Road-trippers, photographers, retirees",
+  "unique": "A water-powered gristmill, sawmill and blacksmith shop on the Blue Ridge Parkway, with a millpond that reflects the whole thing and a weekend craft demonstration.",
+  "buzz": "The most photographed spot on the Parkway and it earns it at dawn; the restaurant's buckwheat pancakes are a tradition.",
+  "rating": 81,
+  "drive_min": 145,
+  "id": "mabry-mill-meadows-of-dan",
+  "state_abbr": "VA",
+  "county_full": "Floyd County"
  },
  {
   "name": "Natural Bridge",
@@ -187,6 +289,9 @@
   "unique": "A 215-foot limestone arch that Jefferson called a wonder of the world, with a lost river, a saltpeter cave and a nightly illumination show.",
   "buzz": "People stop for an hour and stay for three; the evening light show is kitsch but charming. The walk is paved and easy.",
   "rating": 78,
-  "id": "natural-bridge-natural-bridge"
+  "drive_min": 225,
+  "id": "natural-bridge-natural-bridge",
+  "state_abbr": "VA",
+  "county_full": "Rockbridge County"
  }
 ]

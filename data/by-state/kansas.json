@@ -21,7 +21,9 @@
   "unique": "A world-class space museum in a Kansas wheat town, with the actual Apollo 13 command module, a V-2 rocket and a Russian space program collection.",
   "buzz": "People are stunned by the collection; the planetarium and Dr. Goddard's lab are good for kids. Worth the drive.",
   "rating": 88,
-  "id": "cosmosphere-hutchinson"
+  "id": "cosmosphere-hutchinson",
+  "state_abbr": "KS",
+  "county_full": "Reno County"
  },
  {
   "name": "Flint Hills Tallgrass Prairie",
@@ -45,7 +47,9 @@
   "unique": "The last large expanse of tallgrass prairie in North America, with bison, prairie chickens and a horizon that does not stop.",
   "buzz": "People call it the most underrated landscape in the Midwest; spring wildflowers are extraordinary. Watch for ticks.",
   "rating": 84,
-  "id": "flint-hills-tallgrass-prairie-cottonwood-falls"
+  "id": "flint-hills-tallgrass-prairie-cottonwood-falls",
+  "state_abbr": "KS",
+  "county_full": "Chase County"
  },
  {
   "name": "Monument Rocks",
@@ -69,7 +73,9 @@
   "unique": "Chalk pyramids and arches left by an ancient sea, rising out of the shortgrass prairie in the middle of nowhere.",
   "buzz": "It is a genuine surprise and completely free; the dirt road is rough after rain. Best at sunset.",
   "rating": 80,
-  "id": "monument-rocks-oakley"
+  "id": "monument-rocks-oakley",
+  "state_abbr": "KS",
+  "county_full": "Gove County"
  },
  {
   "name": "Boot Hill Museum",
@@ -93,6 +99,8 @@
   "unique": "A recreated 1870s cowtown at the edge of the actual Boot Hill cemetery, with a saloon, a jail, a newspaper office and nightly gunfight reenactments.",
   "buzz": "The gunfight show is corny and fun; the museum is better than the show. Combine with the Santa Fe Trail sites.",
   "rating": 76,
-  "id": "boot-hill-museum-dodge-city"
+  "id": "boot-hill-museum-dodge-city",
+  "state_abbr": "KS",
+  "county_full": "Ford County"
  }
 ]

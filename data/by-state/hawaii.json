@@ -21,7 +21,9 @@
   "unique": "Seventeen miles of fluted green cliffs dropping into the Pacific, with sea caves, dolphins and a beach landing at Kalalau.",
   "buzz": "It is a serious paddle with open-ocean crossings; guides are excellent and the scenery is unmatched. Not for beginners.",
   "rating": 94,
-  "id": "na-pali-coast-kayak-hanalei"
+  "id": "na-pali-coast-kayak-hanalei",
+  "state_abbr": "HI",
+  "county_full": "Kauai County"
  },
  {
   "name": "Hawaii Volcanoes National Park",
@@ -45,7 +47,9 @@
   "unique": "An active volcano you can drive around, with steam vents, a lava tube and, when the eruption is on, glowing lava entering the sea.",
   "buzz": "Check the eruption status before you go; the crater rim drive is excellent regardless. Bring rain gear.",
   "rating": 93,
-  "id": "hawaii-volcanoes-national-park-volcano"
+  "id": "hawaii-volcanoes-national-park-volcano",
+  "state_abbr": "HI",
+  "county_full": "Hawaii County"
  },
  {
   "name": "Mauna Kea Stargazing",
@@ -69,7 +73,9 @@
   "unique": "A 13,796-foot summit above a third of the atmosphere, with observatories, sunset above the clouds and a sky that reveals the Milky Way's dust lanes.",
   "buzz": "Altitude sickness is real and tours handle the acclimatization; the summit at sunset is cold and unforgettable. Book a tour with parkas.",
   "rating": 93,
-  "id": "mauna-kea-stargazing-waimea"
+  "id": "mauna-kea-stargazing-waimea",
+  "state_abbr": "HI",
+  "county_full": "Hawaii County"
  },
  {
   "name": "Manta Ray Night Snorkel",
@@ -93,7 +99,9 @@
   "unique": "Giant manta rays with 12-foot wingspans loop within inches of your mask at night, feeding on plankton in the beam of a surfboard light.",
   "buzz": "People call it the best wildlife encounter in Hawaii; the water is calm and the mantas are habituated. Book a small boat.",
   "rating": 92,
-  "id": "manta-ray-night-snorkel-kailua-kona"
+  "id": "manta-ray-night-snorkel-kailua-kona",
+  "state_abbr": "HI",
+  "county_full": "Hawaii County"
  },
  {
   "name": "Haleakala Sunrise",
@@ -117,7 +125,9 @@
   "unique": "Watch the sun rise above the clouds from a 10,023-foot volcanic summit, then bike or hike down through a crater that looks like the moon.",
   "buzz": "The 3am alarm and the cold are real; reservations are required and sell out. The crater hike is better than the sunrise for some.",
   "rating": 91,
-  "id": "haleakala-sunrise-kula"
+  "id": "haleakala-sunrise-kula",
+  "state_abbr": "HI",
+  "county_full": "Maui County"
  },
  {
   "name": "Kalaupapa Mule Ride",
@@ -141,7 +151,9 @@
   "unique": "Ride a mule down 1,700 feet of sea cliffs on a switchback trail into the isolated peninsula where Hansen's disease patients were exiled for a century.",
   "buzz": "The history is devastating and the ride is genuinely thrilling; the settlement tour is led by residents. Book far ahead.",
   "rating": 91,
-  "id": "kalaupapa-mule-ride-kalaupapa"
+  "id": "kalaupapa-mule-ride-kalaupapa",
+  "state_abbr": "HI",
+  "county_full": "Kalawao County"
  },
  {
   "name": "Waimea Canyon",
@@ -165,7 +177,9 @@
   "unique": "The Grand Canyon of the Pacific: a ten-mile gorge of red and green, with lookouts, goats on the cliffs and a trail into the kalalau valley.",
   "buzz": "The colors are unreal after rain; the drive up is steep and the clouds roll in by noon. Go early.",
   "rating": 91,
-  "id": "waimea-canyon-waimea"
+  "id": "waimea-canyon-waimea",
+  "state_abbr": "HI",
+  "county_full": "Kauai County"
  },
  {
   "name": "Pearl Harbor",
@@ -189,7 +203,9 @@
   "unique": "The USS Arizona Memorial floats above the sunken battleship, with oil still seeping from the hull, plus the Missouri and a submarine you can board.",
   "buzz": "The Arizona is free but timed and somber; the aviation museum and the Missouri are the add-ons. Book the free tickets early.",
   "rating": 90,
-  "id": "pearl-harbor-honolulu"
+  "id": "pearl-harbor-honolulu",
+  "state_abbr": "HI",
+  "county_full": "Honolulu County"
  },
  {
   "name": "North Shore Surf",
@@ -213,7 +229,9 @@
   "unique": "The Seven Mile Miracle: Pipeline, Sunset and Waimea in a row, where the world's best surfers ride waves that can close out the bay.",
   "buzz": "Watch from the beach in winter and surf the gentler breaks in summer; respect the locals and the reef.",
   "rating": 89,
-  "id": "north-shore-surf-haleiwa"
+  "id": "north-shore-surf-haleiwa",
+  "state_abbr": "HI",
+  "county_full": "Honolulu County"
  },
  {
   "name": "Road to Hana",
@@ -237,7 +255,9 @@
   "unique": "Six hundred curves and fifty-nine one-lane bridges through rainforest, waterfalls and black-sand beaches, with banana bread stands and no hurry.",
   "buzz": "Start before 6am, drive one way and swim at the stops; the back road is rough and rental agreements may forbid it.",
   "rating": 89,
-  "id": "road-to-hana-hana"
+  "id": "road-to-hana-hana",
+  "state_abbr": "HI",
+  "county_full": "Maui County"
  },
  {
   "name": "Molokini Snorkel",
@@ -261,7 +281,9 @@
   "unique": "A partially submerged volcanic crater with 150-foot visibility, a coral reef inside the curve and turtles on the outside.",
   "buzz": "Morning trips beat the wind and the crowds; the crater is protected and the fish are tame. Seasickness is possible.",
   "rating": 87,
-  "id": "molokini-snorkel-kihei"
+  "id": "molokini-snorkel-kihei",
+  "state_abbr": "HI",
+  "county_full": "Maui County"
  },
  {
   "name": "Hanauma Bay",
@@ -285,6 +307,8 @@
   "unique": "A flooded volcanic crater with a coral reef and tame reef fish, a short bus ride from Waikiki, with a marine education center and strict capacity limits.",
   "buzz": "Reservations open two days ahead and vanish; go at opening for clear water. The reef is recovering and the rules matter.",
   "rating": 85,
-  "id": "hanauma-bay-honolulu"
+  "id": "hanauma-bay-honolulu",
+  "state_abbr": "HI",
+  "county_full": "Honolulu County"
  }
 ]

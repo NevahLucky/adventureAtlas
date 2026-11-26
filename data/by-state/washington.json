@@ -20,7 +20,9 @@
   "unique": "A 14,410-foot glaciated volcano with wildflower meadows at 6,000 feet, and a loop trail that puts Rainier, the Tatoosh Range and a waterfall in one frame.",
   "buzz": "The wildflowers in late July are legendary; the trail is crowded and the altitude is real. Start early for parking.",
   "rating": 93,
-  "id": "mount-rainier-skyline-trail-paradise"
+  "id": "mount-rainier-skyline-trail-paradise",
+  "state_abbr": "WA",
+  "county_full": "Pierce County"
  },
  {
   "name": "Hoh Rainforest",
@@ -44,7 +46,9 @@
   "unique": "A temperate rainforest of moss-draped maples and Sitka spruce, with the Hall of Mosses and a river the color of green glass.",
   "buzz": "People whisper in the Hall of Mosses; it is genuinely otherworldly. Rain is likely and part of the experience.",
   "rating": 92,
-  "id": "hoh-rainforest-forks"
+  "id": "hoh-rainforest-forks",
+  "state_abbr": "WA",
+  "county_full": "Jefferson County"
  },
  {
   "name": "North Cascades",
@@ -68,7 +72,9 @@
   "unique": "Jagged peaks, turquoise glacial lakes and more glaciers than any other park in the lower 48, with a highway that crosses three dams and a pass.",
   "buzz": "People call it the American Alps and note how empty it is; the trails are steep and the weather changes fast.",
   "rating": 92,
-  "id": "north-cascades-marblemount"
+  "id": "north-cascades-marblemount",
+  "state_abbr": "WA",
+  "county_full": "Whatcom County"
  },
  {
   "name": "San Juan Islands Orca Kayak",
@@ -92,7 +98,9 @@
   "unique": "Paddle the Salish Sea among the San Juan islands, with resident orcas, humpbacks, porpoises and bald eagles — and no guarantee of any of them.",
   "buzz": "Guides are excellent on whale-watch rules; the kayak is quieter and closer than a boat. Sightings are luck, so book two days.",
   "rating": 89,
-  "id": "san-juan-islands-orca-kayak-friday-harbor"
+  "id": "san-juan-islands-orca-kayak-friday-harbor",
+  "state_abbr": "WA",
+  "county_full": "San Juan County"
  },
  {
   "name": "Mount St. Helens",
@@ -116,7 +124,9 @@
   "unique": "The volcano that blew its top in 1980, with a crater, a lava dome, a buried forest and a visitor center that shows the blast minute by minute.",
   "buzz": "The Johnston Ridge view is extraordinary on a clear day; clouds can erase everything. Check the webcam before driving.",
   "rating": 86,
-  "id": "mount-st-helens-castle-rock"
+  "id": "mount-st-helens-castle-rock",
+  "state_abbr": "WA",
+  "county_full": "Cowlitz County"
  },
  {
   "name": "Pike Place Market",
@@ -140,7 +150,9 @@
   "unique": "A century-old public market on a bluff above the sound: fish throwing, the original Starbucks, a gum wall and a maze of levels that rewards wandering.",
   "buzz": "Go at 8am before the crowds and eat at a counter; the fish throw is a photo op, the produce is the real thing.",
   "rating": 86,
-  "id": "pike-place-market-seattle"
+  "id": "pike-place-market-seattle",
+  "state_abbr": "WA",
+  "county_full": "King County"
  },
  {
   "name": "Palouse",
@@ -164,7 +176,9 @@
   "unique": "Rolling loess hills planted in wheat, lentils and canola, forming green and gold waves that look like a painting from the ridge roads.",
   "buzz": "Photographers plan around harvest and sunrise; the back roads are gravel and the towns are tiny. Steptoe Butte is the viewpoint.",
   "rating": 85,
-  "id": "palouse-pullman"
+  "id": "palouse-pullman",
+  "state_abbr": "WA",
+  "county_full": "Whitman County"
  },
  {
   "name": "Deception Pass",
@@ -188,7 +202,9 @@
   "unique": "A bridge 180 feet above a churning tidal channel between two islands, with cliffs, old-growth forest and sea lions below.",
   "buzz": "The bridge walk is free and thrilling; the currents are dangerous for swimming. Sunset from the bridge is the shot.",
   "rating": 84,
-  "id": "deception-pass-oak-harbor"
+  "id": "deception-pass-oak-harbor",
+  "state_abbr": "WA",
+  "county_full": "Island County"
  },
  {
   "name": "Leavenworth",
@@ -212,6 +228,8 @@
   "unique": "A failing logging town remade itself as a Bavarian village, with nutcrackers, bratwurst, accordion music and the Cascades as a backdrop.",
   "buzz": "It is kitsch executed with real commitment; Oktoberfest is a mob and the Christmas lights are genuinely charming.",
   "rating": 78,
-  "id": "leavenworth-leavenworth"
+  "id": "leavenworth-leavenworth",
+  "state_abbr": "WA",
+  "county_full": "Chelan County"
  }
 ]

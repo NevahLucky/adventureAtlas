@@ -21,7 +21,9 @@
   "unique": "Five hundred balloons launch at dawn from a single field, with the Dawn Patrol lighting up like lanterns and a sky that turns into a moving mosaic.",
   "buzz": "The 5am alarm is non-negotiable and worth it; dress in layers and take the park-and-ride. The evening glow is a different show.",
   "rating": 95,
-  "id": "albuquerque-international-balloon-fiesta-albuquerque"
+  "id": "albuquerque-international-balloon-fiesta-albuquerque",
+  "state_abbr": "NM",
+  "county_full": "Bernalillo County"
  },
  {
   "name": "Chaco Culture",
@@ -45,7 +47,9 @@
   "unique": "A thousand-year-old ceremonial city of monumental masonry, aligned to the sun and moon, with roads and signal stations across a hundred miles of desert.",
   "buzz": "People call it the American Machu Picchu; the dirt road in is rough and the silence is the point. Stay for the night sky program.",
   "rating": 93,
-  "id": "chaco-culture-nageezi"
+  "id": "chaco-culture-nageezi",
+  "state_abbr": "NM",
+  "county_full": "San Juan County"
  },
  {
   "name": "White Sands",
@@ -69,7 +73,9 @@
   "unique": "275 square miles of gypsum dunes as white as snow, where you can sled down in January and watch the sunset turn them pink and blue.",
   "buzz": "Bring a plastic sled and wax; the dunes are otherworldly at golden hour. The missile range occasionally closes the road.",
   "rating": 93,
-  "id": "white-sands-alamogordo"
+  "id": "white-sands-alamogordo",
+  "state_abbr": "NM",
+  "county_full": "Otero County"
  },
  {
   "name": "Carlsbad Caverns",
@@ -93,7 +99,9 @@
   "unique": "A 750-foot descent into a limestone chamber the size of a cathedral, with a natural entrance that swallows you and a bat flight out at dusk in summer.",
   "buzz": "The self-guided Big Room walk is stunning and the ranger tours go deeper; the elevator is unreliable, so be ready to walk.",
   "rating": 92,
-  "id": "carlsbad-caverns-carlsbad"
+  "id": "carlsbad-caverns-carlsbad",
+  "state_abbr": "NM",
+  "county_full": "Eddy County"
  },
  {
   "name": "Meow Wolf Santa Fe",
@@ -117,7 +125,9 @@
   "unique": "The original House of Eternal Return: a Victorian house that opens into a multidimensional narrative maze inside a former bowling alley, built with Game of Thrones money.",
   "buzz": "The original is still the best of the Meow Wolf locations; the story is denser and the sense of discovery stronger. Book ahead.",
   "rating": 91,
-  "id": "meow-wolf-santa-fe-santa-fe"
+  "id": "meow-wolf-santa-fe-santa-fe",
+  "state_abbr": "NM",
+  "county_full": "Santa Fe County"
  },
  {
   "name": "Bosque del Apache Crane Festival",
@@ -141,7 +151,9 @@
   "unique": "Tens of thousands of sandhill cranes and snow geese lift off the Rio Grande wetlands at dawn in a wall of wings and noise, with the Chupadera Mesa behind.",
   "buzz": "Dawn at the flight deck is the classic; photographers line up before light. Book the festival workshops early.",
   "rating": 90,
-  "id": "bosque-del-apache-crane-festival-san-antonio"
+  "id": "bosque-del-apache-crane-festival-san-antonio",
+  "state_abbr": "NM",
+  "county_full": "Socorro County"
  },
  {
   "name": "Taos Pueblo",
@@ -165,7 +177,9 @@
   "unique": "A thousand-year-old adobe pueblo still lived in without electricity or running water, with a mission church, hornos and artisans selling from their doors.",
   "buzz": "The tour is worth taking and the rules matter — ask before photographing anyone. It is a home, not a set.",
   "rating": 90,
-  "id": "taos-pueblo-taos"
+  "id": "taos-pueblo-taos",
+  "state_abbr": "NM",
+  "county_full": "Taos County"
  },
  {
   "name": "Sandia Peak Tramway",
@@ -189,7 +203,9 @@
   "unique": "The longest aerial tram in the Americas: 2.7 miles up a sandstone cliff to a 10,378-foot summit with a restaurant and trails in the spruce forest.",
   "buzz": "The ride is smooth and the view is enormous; sunset is the best slot. The restaurant is convenient, not a destination.",
   "rating": 84,
-  "id": "sandia-peak-tramway-albuquerque"
+  "id": "sandia-peak-tramway-albuquerque",
+  "state_abbr": "NM",
+  "county_full": "Bernalillo County"
  },
  {
   "name": "Roswell UFO Museum",
@@ -213,6 +229,8 @@
   "unique": "A former movie theater filled with affidavits, newspaper clippings, dioramas and a very serious research library about the 1947 crash that the government says was a weather balloon.",
   "buzz": "It is cheesy and sincere and the gift shop is excellent; the alien-themed town is half the fun.",
   "rating": 74,
-  "id": "roswell-ufo-museum-roswell"
+  "id": "roswell-ufo-museum-roswell",
+  "state_abbr": "NM",
+  "county_full": "Chaves County"
  }
 ]

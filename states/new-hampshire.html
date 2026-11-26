@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "new-hampshire",
   stats: {"count": 4, "counties": 2, "free": 1, "median": 50, "top": 86},
   counties: ["Coos", "Grafton"],
-  rows: [{"name": "Frankenstein Cliff Ice Climbing", "city": "North Conway", "county": "Grafton", "state": "New Hampshire", "cats": ["Climbing", "Snow", "Adrenaline"], "cost": "$150–$250 guided", "cost_num": 200, "dur": "Full day", "dur_h": 7, "dates": "Dec–Mar", "start": "1970s", "company": "Local guide services", "party": "2–4", "customer": "Athletic beginners, young adults", "unique": "A roadside cliff in Crawford Notch where frozen seepage forms world-class ice within sight of your car — the classic first ice-climbing venue in the East.", "buzz": "Guides are praised for getting total beginners up safely and for honest gear advice. Hands and feet get brutally cold; rent the boots.", "rating": 86, "id": "frankenstein-cliff-ice-climbing-north-conway"}, {"name": "Mount Washington Cog Railway", "city": "Bretton Woods", "county": "Coos", "state": "New Hampshire", "cats": ["Railroad", "Nature", "Historical"], "cost": "$55–$90", "cost_num": 75, "dur": "3 hrs", "dur_h": 3, "dates": "Late Apr–Nov", "start": "1869", "company": "Mount Washington Cog Railway", "party": "2–6", "customer": "Families, rail fans, retirees", "unique": "The world's first mountain-climbing cog railway still burns coal and pushes you up a 37 percent grade to a summit that advertises the world's worst weather.", "buzz": "The coal-fired trains get far better reviews than the biodiesel ones; staff are funny about the weather. Summit time is short and cold, which surprises people.", "rating": 85, "id": "mount-washington-cog-railway-bretton-woods"}, {"name": "Kancamagus Highway Leaf Run", "city": "Lincoln", "county": "Grafton", "state": "New Hampshire", "cats": ["Nature", "Road Trip"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 5, "dates": "Late Sep–mid Oct", "start": "1959", "company": "White Mountain National Forest (self-drive)", "party": "NA", "customer": "Leaf peepers, photographers, families", "unique": "Thirty-four miles of switchbacks, covered bridges and river pull-offs through the White Mountains at peak color — one of the few drives that earns the detour.", "buzz": "Locals warn that Columbus Day weekend is a parking lot; mid-week dawn is the move. The Lincoln Woods trailhead is the best leg-stretch.", "rating": 82, "id": "kancamagus-highway-leaf-run-lincoln"}, {"name": "Flume Gorge Boardwalk", "city": "Lincoln", "county": "Grafton", "state": "New Hampshire", "cats": ["Nature", "Hiking"], "cost": "$25", "cost_num": 25, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "May–Oct", "start": "1808", "company": "Franconia Notch State Park", "party": "2–4", "customer": "Families, retirees, casual hikers", "unique": "A wooden walkway threads a 90-foot granite chasm with waterfalls on both walls — the kind of place that makes geology legible in twenty minutes.", "buzz": "Reviewers love the accessibility and hate the queue at opening; go at 9am or after 3pm. The 2-mile loop is steeper than the photos suggest.", "rating": 80, "id": "flume-gorge-boardwalk-lincoln"}]
+  rows: [{"name": "Frankenstein Cliff Ice Climbing", "city": "North Conway", "county": "Grafton", "state": "New Hampshire", "cats": ["Climbing", "Snow", "Adrenaline"], "cost": "$150–$250 guided", "cost_num": 200, "dur": "Full day", "dur_h": 7, "dates": "Dec–Mar", "start": "1970s", "company": "Local guide services", "party": "2–4", "customer": "Athletic beginners, young adults", "unique": "A roadside cliff in Crawford Notch where frozen seepage forms world-class ice within sight of your car — the classic first ice-climbing venue in the East.", "buzz": "Guides are praised for getting total beginners up safely and for honest gear advice. Hands and feet get brutally cold; rent the boots.", "rating": 86, "id": "frankenstein-cliff-ice-climbing-north-conway", "state_abbr": "NH", "county_full": "Grafton County"}, {"name": "Mount Washington Cog Railway", "city": "Bretton Woods", "county": "Coos", "state": "New Hampshire", "cats": ["Railroad", "Nature", "Historical"], "cost": "$55–$90", "cost_num": 75, "dur": "3 hrs", "dur_h": 3, "dates": "Late Apr–Nov", "start": "1869", "company": "Mount Washington Cog Railway", "party": "2–6", "customer": "Families, rail fans, retirees", "unique": "The world's first mountain-climbing cog railway still burns coal and pushes you up a 37 percent grade to a summit that advertises the world's worst weather.", "buzz": "The coal-fired trains get far better reviews than the biodiesel ones; staff are funny about the weather. Summit time is short and cold, which surprises people.", "rating": 85, "id": "mount-washington-cog-railway-bretton-woods", "state_abbr": "NH", "county_full": "Coos County"}, {"name": "Kancamagus Highway Leaf Run", "city": "Lincoln", "county": "Grafton", "state": "New Hampshire", "cats": ["Nature", "Road Trip"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 5, "dates": "Late Sep–mid Oct", "start": "1959", "company": "White Mountain National Forest (self-drive)", "party": "NA", "customer": "Leaf peepers, photographers, families", "unique": "Thirty-four miles of switchbacks, covered bridges and river pull-offs through the White Mountains at peak color — one of the few drives that earns the detour.", "buzz": "Locals warn that Columbus Day weekend is a parking lot; mid-week dawn is the move. The Lincoln Woods trailhead is the best leg-stretch.", "rating": 82, "id": "kancamagus-highway-leaf-run-lincoln", "state_abbr": "NH", "county_full": "Grafton County"}, {"name": "Flume Gorge Boardwalk", "city": "Lincoln", "county": "Grafton", "state": "New Hampshire", "cats": ["Nature", "Hiking"], "cost": "$25", "cost_num": 25, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "May–Oct", "start": "1808", "company": "Franconia Notch State Park", "party": "2–4", "customer": "Families, retirees, casual hikers", "unique": "A wooden walkway threads a 90-foot granite chasm with waterfalls on both walls — the kind of place that makes geology legible in twenty minutes.", "buzz": "Reviewers love the accessibility and hate the queue at opening; go at 9am or after 3pm. The 2-mile loop is steeper than the photos suggest.", "rating": 80, "id": "flume-gorge-boardwalk-lincoln", "state_abbr": "NH", "county_full": "Grafton County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

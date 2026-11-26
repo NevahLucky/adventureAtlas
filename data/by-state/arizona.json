@@ -21,7 +21,9 @@
   "unique": "Turquoise waterfalls in a side canyon of the Grand Canyon, reachable only by a ten-mile hike or a helicopter, on tribal land with a village of 200 people.",
   "buzz": "Permits are a lottery and people plan a year out; the hike out in heat is the hard part. Pack light and pay for the mule.",
   "rating": 97,
-  "id": "havasupai-falls-supai"
+  "id": "havasupai-falls-supai",
+  "state_abbr": "AZ",
+  "county_full": "Coconino County"
  },
  {
   "name": "Grand Canyon Mule Ride",
@@ -45,7 +47,9 @@
   "rating": 93,
   "party": "2–4",
   "customer": "Families with older kids, couples",
-  "id": "grand-canyon-mule-ride-grand-canyon"
+  "id": "grand-canyon-mule-ride-grand-canyon",
+  "state_abbr": "AZ",
+  "county_full": "Coconino County"
  },
  {
   "name": "Antelope Canyon",
@@ -69,7 +73,9 @@
   "unique": "A slot canyon carved into swirling sandstone, where a shaft of light hits the floor at midday and the walls glow orange, pink and purple.",
   "buzz": "The photography tour is worth the extra; the standard tour is rushed. Book months ahead and respect Navajo rules.",
   "rating": 92,
-  "id": "antelope-canyon-page"
+  "id": "antelope-canyon-page",
+  "state_abbr": "AZ",
+  "county_full": "Coconino County"
  },
  {
   "name": "Monument Valley",
@@ -93,7 +99,9 @@
   "unique": "The red sandstone buttes and mesas that defined the Western film, on Navajo land, with a 17-mile dirt loop and guided tours to areas you cannot drive.",
   "buzz": "The loop drive is spectacular and the guided tour goes deeper; the light at dawn and dusk is the reason photographers come.",
   "rating": 92,
-  "id": "monument-valley-kayenta"
+  "id": "monument-valley-kayenta",
+  "state_abbr": "AZ",
+  "county_full": "San Juan County"
  },
  {
   "name": "Canyon de Chelly",
@@ -117,7 +125,9 @@
   "unique": "A red sandstone canyon still farmed and lived in by Navajo families, with 1,000-year-old cliff dwellings and a white house ruin you can hike to without a guide.",
   "buzz": "The rim drives are free and stunning; the canyon floor requires a Navajo guide and is worth it. Fewer crowds than the Grand Canyon.",
   "rating": 91,
-  "id": "canyon-de-chelly-chinle"
+  "id": "canyon-de-chelly-chinle",
+  "state_abbr": "AZ",
+  "county_full": "Apache County"
  },
  {
   "name": "Arizona Sonora Desert Museum",
@@ -141,7 +151,9 @@
   "unique": "Part zoo, part botanical garden, part natural history museum, with hummingbirds landing on your hand and a cave you walk through in the dark.",
   "buzz": "People call it the best desert museum in the world; go at opening in summer and take the hummingbird aviary.",
   "rating": 90,
-  "id": "arizona-sonora-desert-museum-tucson"
+  "id": "arizona-sonora-desert-museum-tucson",
+  "state_abbr": "AZ",
+  "county_full": "Pima County"
  },
  {
   "name": "Sedona Vortex Hike",
@@ -165,7 +177,9 @@
   "unique": "Red sandstone spires and juniper forests at sites believed to concentrate energy, with hikes to Cathedral Rock and Airport Mesa that are gorgeous regardless of your metaphysics.",
   "buzz": "Believers and skeptics both love the landscape; sunrise at Cathedral Rock is crowded. Parking passes are required.",
   "rating": 88,
-  "id": "sedona-vortex-hike-sedona"
+  "id": "sedona-vortex-hike-sedona",
+  "state_abbr": "AZ",
+  "county_full": "Yavapai County"
  },
  {
   "name": "Kartchner Caverns",
@@ -189,7 +203,9 @@
   "unique": "A living cave discovered in 1974 and developed with airlocks and misters to protect it, with a 58-foot column and straws that are still growing.",
   "buzz": "The conservation story is as good as the formations; tours are timed and photography is limited. Book ahead.",
   "rating": 86,
-  "id": "kartchner-caverns-benson"
+  "id": "kartchner-caverns-benson",
+  "state_abbr": "AZ",
+  "county_full": "Cochise County"
  },
  {
   "name": "Biosphere 2",
@@ -213,7 +229,9 @@
   "unique": "A 3.1-acre sealed glass ecosystem where eight people lived for two years, now a research facility with an ocean, a rainforest and a savanna under glass.",
   "buzz": "The human experiment story is fascinating and the building is a monument to 1990s hubris; tours are well led.",
   "rating": 85,
-  "id": "biosphere-2-oracle"
+  "id": "biosphere-2-oracle",
+  "state_abbr": "AZ",
+  "county_full": "Pinal County"
  },
  {
   "name": "Meteor Crater",
@@ -237,7 +255,9 @@
   "unique": "A one-mile-wide impact crater left by a 150-foot asteroid 50,000 years ago, with an Apollo training site and a guided rim tour.",
   "buzz": "It is more impressive than photos suggest; the museum is good and the wind is constant. A classic Route 66 stop.",
   "rating": 81,
-  "id": "meteor-crater-winslow"
+  "id": "meteor-crater-winslow",
+  "state_abbr": "AZ",
+  "county_full": "Coconino County"
  },
  {
   "name": "Tombstone Gunfight",
@@ -261,6 +281,8 @@
   "unique": "The actual O.K. Corral site, with daily reenactments of the 30-second gunfight that killed three men, plus the Bird Cage Theatre and Boot Hill.",
   "buzz": "The reenactment is corny and fun; the historians are better than the show. The town is unapologetically a tourist trap and owns it.",
   "rating": 76,
-  "id": "tombstone-gunfight-tombstone"
+  "id": "tombstone-gunfight-tombstone",
+  "state_abbr": "AZ",
+  "county_full": "Cochise County"
  }
 ]

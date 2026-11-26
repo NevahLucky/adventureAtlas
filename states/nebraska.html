@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "nebraska",
   stats: {"count": 4, "counties": 4, "free": 0, "median": 16, "top": 91},
   counties: ["Box Butte", "Buffalo", "Douglas", "Sioux"],
-  rows: [{"name": "Sandhill Crane Migration", "city": "Kearney", "county": "Buffalo", "state": "Nebraska", "cats": ["Wildlife", "Nature"], "cost": "$25–$100", "cost_num": 40, "dur": "Half day", "dur_h": 4, "dates": "Mid-March–early April", "start": "1974", "company": "Rowe Sanctuary / Audubon", "party": "2–4", "customer": "Birders, photographers, families", "unique": "Half a million sandhill cranes pause on the Platte River at once, filling the air with a sound like a distant crowd and performing dancing courtship displays.", "buzz": "Sunrise blinds at Rowe are the way to see it; book months ahead. The noise and numbers are overwhelming in the best way.", "rating": 91, "id": "sandhill-crane-migration-kearney"}, {"name": "Henry Doorly Zoo", "city": "Omaha", "county": "Douglas", "state": "Nebraska", "cats": ["Wildlife", "Family", "Science"], "cost": "$25–$30", "cost_num": 27, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1894", "company": "Omaha's Henry Doorly Zoo", "party": "2–6", "customer": "Families, kids, animal people", "unique": "The world's largest indoor desert under a geodesic dome, a walk-through rainforest and an aquarium with a shark tunnel — repeatedly ranked the best zoo in the country.", "buzz": "The desert dome is the showstopper; it takes a full day. Go on a weekday and take the skyfari.", "rating": 89, "id": "henry-doorly-zoo-omaha"}, {"name": "Toadstool Geologic Park", "city": "Crawford", "county": "Sioux", "state": "Nebraska", "cats": ["Nature", "Hiking", "Quirky"], "cost": "$5", "cost_num": 5, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "—", "company": "Nebraska National Forests", "party": "2–4", "customer": "Photographers, geology nerds, road-trippers", "unique": "Badlands of mushroom-shaped sandstone hoodoos and fossil beds, with a one-mile loop through a landscape that looks like another planet.", "buzz": "It is remote, quiet and stunning at sunset; the dirt road is impassable when wet. Bring water.", "rating": 82, "id": "toadstool-geologic-park-crawford"}, {"name": "Carhenge", "city": "Alliance", "county": "Box Butte", "state": "Nebraska", "cats": ["Quirky", "Art", "Road Trip"], "cost": "Free–$10", "cost_num": 5, "dur": "45 min", "dur_h": 0.75, "dates": "Year-round", "start": "1987", "company": "Friends of Carhenge", "party": "NA", "customer": "Road-trippers, families", "unique": "Thirty-eight vintage cars buried nose-down in a circle to replicate Stonehenge, built by a farmer as a family reunion joke and now a beloved landmark.", "buzz": "It is exactly as good as the premise; free and quick. The visitor center explains the replica's solstice alignments.", "rating": 74, "id": "carhenge-alliance"}]
+  rows: [{"name": "Sandhill Crane Migration", "city": "Kearney", "county": "Buffalo", "state": "Nebraska", "cats": ["Wildlife", "Nature"], "cost": "$25–$100", "cost_num": 40, "dur": "Half day", "dur_h": 4, "dates": "Mid-March–early April", "start": "1974", "company": "Rowe Sanctuary / Audubon", "party": "2–4", "customer": "Birders, photographers, families", "unique": "Half a million sandhill cranes pause on the Platte River at once, filling the air with a sound like a distant crowd and performing dancing courtship displays.", "buzz": "Sunrise blinds at Rowe are the way to see it; book months ahead. The noise and numbers are overwhelming in the best way.", "rating": 91, "id": "sandhill-crane-migration-kearney", "state_abbr": "NE", "county_full": "Buffalo County"}, {"name": "Henry Doorly Zoo", "city": "Omaha", "county": "Douglas", "state": "Nebraska", "cats": ["Wildlife", "Family", "Science"], "cost": "$25–$30", "cost_num": 27, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1894", "company": "Omaha's Henry Doorly Zoo", "party": "2–6", "customer": "Families, kids, animal people", "unique": "The world's largest indoor desert under a geodesic dome, a walk-through rainforest and an aquarium with a shark tunnel — repeatedly ranked the best zoo in the country.", "buzz": "The desert dome is the showstopper; it takes a full day. Go on a weekday and take the skyfari.", "rating": 89, "id": "henry-doorly-zoo-omaha", "state_abbr": "NE", "county_full": "Douglas County"}, {"name": "Toadstool Geologic Park", "city": "Crawford", "county": "Sioux", "state": "Nebraska", "cats": ["Nature", "Hiking", "Quirky"], "cost": "$5", "cost_num": 5, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "—", "company": "Nebraska National Forests", "party": "2–4", "customer": "Photographers, geology nerds, road-trippers", "unique": "Badlands of mushroom-shaped sandstone hoodoos and fossil beds, with a one-mile loop through a landscape that looks like another planet.", "buzz": "It is remote, quiet and stunning at sunset; the dirt road is impassable when wet. Bring water.", "rating": 82, "id": "toadstool-geologic-park-crawford", "state_abbr": "NE", "county_full": "Sioux County"}, {"name": "Carhenge", "city": "Alliance", "county": "Box Butte", "state": "Nebraska", "cats": ["Quirky", "Art", "Road Trip"], "cost": "Free–$10", "cost_num": 5, "dur": "45 min", "dur_h": 0.75, "dates": "Year-round", "start": "1987", "company": "Friends of Carhenge", "party": "NA", "customer": "Road-trippers, families", "unique": "Thirty-eight vintage cars buried nose-down in a circle to replicate Stonehenge, built by a farmer as a family reunion joke and now a beloved landmark.", "buzz": "It is exactly as good as the premise; free and quick. The visitor center explains the replica's solstice alignments.", "rating": 74, "id": "carhenge-alliance", "state_abbr": "NE", "county_full": "Box Butte County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

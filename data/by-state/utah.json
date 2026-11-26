@@ -21,7 +21,9 @@
   "unique": "A hike up the Virgin River between canyon walls a thousand feet high and sometimes twenty feet apart, with water at your waist and no trail at all.",
   "buzz": "Rent the canyoneering shoes and a walking stick; flash floods are lethal and rangers close it. Start early and go upstream.",
   "rating": 96,
-  "id": "zion-narrows-springdale"
+  "id": "zion-narrows-springdale",
+  "state_abbr": "UT",
+  "county_full": "Washington County"
  },
  {
   "name": "Angels Landing",
@@ -45,7 +47,9 @@
   "unique": "A knife-edge ridge with chains bolted into the rock and 1,000-foot drops on both sides, ending on a summit that feels like the top of the world.",
   "buzz": "The permit lottery is the hard part; people with a fear of heights turn around at the first chain section and that is fine. Go at dawn.",
   "rating": 94,
-  "id": "angels-landing-springdale"
+  "id": "angels-landing-springdale",
+  "state_abbr": "UT",
+  "county_full": "Washington County"
  },
  {
   "name": "Arches National Park",
@@ -69,7 +73,9 @@
   "unique": "Two thousand natural stone arches, including Delicate Arch standing alone above a bowl of slickrock, in a landscape of fins, balanced rocks and red desert.",
   "buzz": "Timed entry in summer and parking is a fight; Delicate Arch at sunset is worth the crowd. Carry more water than you think.",
   "rating": 94,
-  "id": "arches-national-park-moab"
+  "id": "arches-national-park-moab",
+  "state_abbr": "UT",
+  "county_full": "Grand County"
  },
  {
   "name": "Bryce Canyon",
@@ -93,7 +99,9 @@
   "unique": "Hundreds of orange hoodoos packed into a natural amphitheater, best seen from Sunrise Point at dawn or from the Queen's Garden trail down among them.",
   "buzz": "The amphitheater at sunrise is one of the great American views; the rim is easy and the trails drop fast. It is cold at 8,000 feet.",
   "rating": 93,
-  "id": "bryce-canyon-bryce-canyon-city"
+  "id": "bryce-canyon-bryce-canyon-city",
+  "state_abbr": "UT",
+  "county_full": "Garfield County"
  },
  {
   "name": "Park City Skiing",
@@ -117,7 +125,9 @@
   "unique": "The largest ski resort in the United States, with 7,300 acres, a historic mining main street and the Greatest Snow on Earth.",
   "buzz": "Terrain suits everyone from beginners to experts; the town is walkable and the ski-in access is rare. Book rentals early.",
   "rating": 90,
-  "id": "park-city-skiing-park-city"
+  "id": "park-city-skiing-park-city",
+  "state_abbr": "UT",
+  "county_full": "Summit County"
  },
  {
   "name": "Goblin Valley",
@@ -141,7 +151,9 @@
   "unique": "A valley of thousands of mushroom-shaped hoodoos you can wander among freely, with no trails and no barriers — a natural playground.",
   "buzz": "People call it the most fun park in Utah; kids climb everything and the light at sunset is unreal. It is remote.",
   "rating": 88,
-  "id": "goblin-valley-green-river"
+  "id": "goblin-valley-green-river",
+  "state_abbr": "UT",
+  "county_full": "Emery County"
  },
  {
   "name": "Bonneville Salt Flats",
@@ -165,7 +177,9 @@
   "unique": "A 30,000-acre sheet of white salt so flat it looks like water, where land-speed records were set and the horizon bends.",
   "buzz": "Go at sunset and walk out until the cars disappear; the salt eats shoes and the glare is brutal. Check conditions after rain.",
   "rating": 87,
-  "id": "bonneville-salt-flats-wendover"
+  "id": "bonneville-salt-flats-wendover",
+  "state_abbr": "UT",
+  "county_full": "Tooele County"
  },
  {
   "name": "Hell's Revenge 4x4",
@@ -189,7 +203,9 @@
   "unique": "A slickrock trail over fins and ledges so steep the car seems to fall forward, with a guide who has done it ten thousand times.",
   "buzz": "People scream the whole way and book again; driving yourself is allowed but the guided tour is the sane intro. Not for bad backs.",
   "rating": 87,
-  "id": "hell-s-revenge-4x4-moab"
+  "id": "hell-s-revenge-4x4-moab",
+  "state_abbr": "UT",
+  "county_full": "Grand County"
  },
  {
   "name": "Sundance Film Festival",
@@ -213,7 +229,9 @@
   "unique": "Independent cinema's biggest stage in a ski town, with premieres, Q&As and a Main Street that turns into a deal-making circus in the snow.",
   "buzz": "Locals volunteer for free access; tickets are a lottery and the waitlist lines are part of the experience. Book lodging months ahead.",
   "rating": 86,
-  "id": "sundance-film-festival-park-city"
+  "id": "sundance-film-festival-park-city",
+  "state_abbr": "UT",
+  "county_full": "Summit County"
  },
  {
   "name": "Antelope Island Bison",
@@ -237,6 +255,8 @@
   "unique": "A island in the Great Salt Lake with a free-roaming bison herd, bighorn sheep and water so salty you float without trying.",
   "buzz": "The bison are everywhere and the lake views are strange and beautiful; bring bug spray in spring. Few crowds.",
   "rating": 83,
-  "id": "antelope-island-bison-syracuse"
+  "id": "antelope-island-bison-syracuse",
+  "state_abbr": "UT",
+  "county_full": "Davis County"
  }
 ]

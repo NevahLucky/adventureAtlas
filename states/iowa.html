@@ -85,47 +85,15 @@
       <span class="counter" id="counter"></span>
     </div>
     <div class="tb-row">
-      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1 1 320px;min-width:0">
       <span class="counter" id="sortedBy" style="margin-left:0"></span>
     </div>
   </div>
 
   <div class="table-shell" id="table">
     <table class="atlas" id="atlas">
-      <colgroup>
-        <col style="width:22px">
-        <col style="width:188px">
-        <col style="width:94px">
-        <col style="width:104px">
-        <col style="width:82px">
-        <col style="width:74px">
-        <col style="width:58px">
-        <col style="width:98px">
-        <col style="width:56px">
-        <col style="width:118px">
-        <col style="width:92px">
-        <col style="width:176px">
-        <col style="width:166px">
-        <col style="width:78px">
-      </colgroup>
-      <thead id="head">
-        <tr>
-          <th data-k="star" title="Your shortlist">&#9733;</th>
-          <th data-k="name">Adventure</th>
-          <th data-k="county">County</th>
-          <th data-k="cats">Category</th>
-          <th data-k="cost_num">Cost</th>
-          <th data-k="dur_h">Duration</th>
-          <th data-k="party">Party</th>
-          <th data-k="dates">Season</th>
-          <th data-k="start">Est.</th>
-          <th data-k="company">Access</th>
-          <th data-k="customer">Customer</th>
-          <th data-k="unique">Why it's unique</th>
-          <th data-k="buzz">Reviews</th>
-          <th data-k="rating">Overall</th>
-        </tr>
-      </thead>
+      <colgroup id="cols"></colgroup>
+      <thead id="head"></thead>
       <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
     </table>
   </div>
@@ -160,7 +128,7 @@ window.STATE = {
   slug: "iowa",
   stats: {"count": 6, "counties": 6, "free": 2, "median": 9, "top": 88},
   counties: ["Dubuque", "Jackson", "Madison", "Palo Alto", "Polk", "Statewide"],
-  rows: [{"name": "RAGBRAI", "city": "Statewide", "county": "Statewide", "state": "Iowa", "cats": ["Cycling", "Festival", "Community"], "cost": "$175–$250", "cost_num": 200, "dur": "7 days", "dur_h": 84, "dates": "Last full week of July", "start": "1973", "company": "Des Moines Register", "party": "2–8", "customer": "Cyclists, young adults, retirees", "unique": "Thirty thousand riders cross Iowa in seven days, eating pie in church basements and sleeping in host towns that compete to throw the best party.", "buzz": "It is a rolling festival more than a race; training matters and the heat is real. Register early or join a charter.", "rating": 88, "id": "ragbrai-statewide"}, {"name": "Iowa State Fair", "city": "Des Moines", "county": "Polk", "state": "Iowa", "cats": ["Festival", "Food & Drink", "Family"], "cost": "$10–$15", "cost_num": 12, "dur": "Full day", "dur_h": 8, "dates": "Early–mid August", "start": "1854", "company": "Iowa State Fair", "party": "4–8", "customer": "Families, food people, retirees", "unique": "The fair that invented the corn dog, with a butter cow, the largest livestock show in the country and a pork chop on a stick that draws pilgrims.", "buzz": "People plan vacations around it; the food is the attraction. Parking is easier than at most fairs.", "rating": 85, "id": "iowa-state-fair-des-moines"}, {"name": "Maquoketa Caves", "city": "Maquoketa", "county": "Jackson", "state": "Iowa", "cats": ["Cave", "Hiking", "Adventure"], "cost": "Free–$10", "cost_num": 8, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Apr–Oct", "start": "1933", "company": "Iowa State Parks", "party": "2–4", "customer": "Families, scouts, cave nerds", "unique": "Six miles of trails connecting caves you can actually enter, including one with a 17-foot ceiling and a natural bridge, in the middle of Iowa farmland.", "buzz": "Bring a headlamp and clothes you don't mind ruining; the caves are unpaved and genuinely dark. Mud is part of the deal.", "rating": 82, "id": "maquoketa-caves-maquoketa"}, {"name": "Field of Dreams", "city": "Dyersville", "county": "Dubuque", "state": "Iowa", "cats": ["Sports", "Historical", "Quirky"], "cost": "Free–$20", "cost_num": 10, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1989", "company": "Go the Distance Baseball", "party": "2–6", "customer": "Baseball fans, families, movie lovers", "unique": "The actual cornfield and farmhouse from the film, with a maintained diamond where anyone can hit and ghosts of a century of baseball lore.", "buzz": "People arrive cynical and leave misty-eyed; the movie site is free and the souvenir shop is reasonable. Combine with Dubuque.", "rating": 81, "id": "field-of-dreams-dyersville"}, {"name": "Grotto of the Redemption", "city": "West Bend", "county": "Palo Alto", "state": "Iowa", "cats": ["Art", "Spiritual", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "1 hr", "dur_h": 1, "dates": "Year-round", "start": "1912", "company": "Grotto of the Redemption", "party": "NA", "customer": "Road-trippers, religious pilgrims, art people", "unique": "A priest spent forty years building a nine-grotto monument out of petrified wood, geodes, agate and malachite — a folk-art cathedral in a cornfield.", "buzz": "It is free, sincere and stranger than photos suggest; the mineral collection is genuinely impressive.", "rating": 78, "id": "grotto-of-the-redemption-west-bend"}, {"name": "Bridges of Madison County", "city": "Winterset", "county": "Madison", "state": "Iowa", "cats": ["Historical", "Road Trip", "Architecture"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1880s", "company": "Self-guided", "unique": "Six covered wooden bridges from the 1880s, still standing on gravel roads, made famous by a novel and a film and still the best reason to drive rural Iowa.", "buzz": "The bridges are lovely and the driving is the point; the annual festival in October draws crowds. Stop at a small-town cafe.", "rating": 77, "party": "2–6", "customer": "Families, couples, photographers", "id": "bridges-of-madison-county-winterset"}]
+  rows: [{"name": "RAGBRAI", "city": "Statewide", "county": "Statewide", "state": "Iowa", "cats": ["Cycling", "Festival", "Community"], "cost": "$175–$250", "cost_num": 200, "dur": "7 days", "dur_h": 84, "dates": "Last full week of July", "start": "1973", "company": "Des Moines Register", "party": "2–8", "customer": "Cyclists, young adults, retirees", "unique": "Thirty thousand riders cross Iowa in seven days, eating pie in church basements and sleeping in host towns that compete to throw the best party.", "buzz": "It is a rolling festival more than a race; training matters and the heat is real. Register early or join a charter.", "rating": 88, "id": "ragbrai-statewide", "state_abbr": "IA", "county_full": "Statewide"}, {"name": "Iowa State Fair", "city": "Des Moines", "county": "Polk", "state": "Iowa", "cats": ["Festival", "Food & Drink", "Family"], "cost": "$10–$15", "cost_num": 12, "dur": "Full day", "dur_h": 8, "dates": "Early–mid August", "start": "1854", "company": "Iowa State Fair", "party": "4–8", "customer": "Families, food people, retirees", "unique": "The fair that invented the corn dog, with a butter cow, the largest livestock show in the country and a pork chop on a stick that draws pilgrims.", "buzz": "People plan vacations around it; the food is the attraction. Parking is easier than at most fairs.", "rating": 85, "id": "iowa-state-fair-des-moines", "state_abbr": "IA", "county_full": "Polk County"}, {"name": "Maquoketa Caves", "city": "Maquoketa", "county": "Jackson", "state": "Iowa", "cats": ["Cave", "Hiking", "Adventure"], "cost": "Free–$10", "cost_num": 8, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Apr–Oct", "start": "1933", "company": "Iowa State Parks", "party": "2–4", "customer": "Families, scouts, cave nerds", "unique": "Six miles of trails connecting caves you can actually enter, including one with a 17-foot ceiling and a natural bridge, in the middle of Iowa farmland.", "buzz": "Bring a headlamp and clothes you don't mind ruining; the caves are unpaved and genuinely dark. Mud is part of the deal.", "rating": 82, "id": "maquoketa-caves-maquoketa", "state_abbr": "IA", "county_full": "Jackson County"}, {"name": "Field of Dreams", "city": "Dyersville", "county": "Dubuque", "state": "Iowa", "cats": ["Sports", "Historical", "Quirky"], "cost": "Free–$20", "cost_num": 10, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1989", "company": "Go the Distance Baseball", "party": "2–6", "customer": "Baseball fans, families, movie lovers", "unique": "The actual cornfield and farmhouse from the film, with a maintained diamond where anyone can hit and ghosts of a century of baseball lore.", "buzz": "People arrive cynical and leave misty-eyed; the movie site is free and the souvenir shop is reasonable. Combine with Dubuque.", "rating": 81, "id": "field-of-dreams-dyersville", "state_abbr": "IA", "county_full": "Dubuque County"}, {"name": "Grotto of the Redemption", "city": "West Bend", "county": "Palo Alto", "state": "Iowa", "cats": ["Art", "Spiritual", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "1 hr", "dur_h": 1, "dates": "Year-round", "start": "1912", "company": "Grotto of the Redemption", "party": "NA", "customer": "Road-trippers, religious pilgrims, art people", "unique": "A priest spent forty years building a nine-grotto monument out of petrified wood, geodes, agate and malachite — a folk-art cathedral in a cornfield.", "buzz": "It is free, sincere and stranger than photos suggest; the mineral collection is genuinely impressive.", "rating": 78, "id": "grotto-of-the-redemption-west-bend", "state_abbr": "IA", "county_full": "Palo Alto County"}, {"name": "Bridges of Madison County", "city": "Winterset", "county": "Madison", "state": "Iowa", "cats": ["Historical", "Road Trip", "Architecture"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1880s", "company": "Self-guided", "unique": "Six covered wooden bridges from the 1880s, still standing on gravel roads, made famous by a novel and a film and still the best reason to drive rural Iowa.", "buzz": "The bridges are lovely and the driving is the point; the annual festival in October draws crowds. Stop at a small-town cafe.", "rating": 77, "party": "2–6", "customer": "Families, couples, photographers", "id": "bridges-of-madison-county-winterset", "state_abbr": "IA", "county_full": "Madison County"}]
 };
 </script>
 <script src="../assets/atlas.js"></script>

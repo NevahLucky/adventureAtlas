@@ -21,7 +21,9 @@
   "unique": "A million acres of desert, river canyon and Chisos Mountains on the Mexican border, with the darkest skies in the lower 48 and hot springs at the river's edge.",
   "buzz": "People call it the most underrated park in America; distances are huge and summer is lethal. Book the Chisos cabins months ahead.",
   "rating": 94,
-  "id": "big-bend-national-park-terlingua"
+  "id": "big-bend-national-park-terlingua",
+  "state_abbr": "TX",
+  "county_full": "Brewster County"
  },
  {
   "name": "Chinati Foundation and Marfa",
@@ -45,7 +47,9 @@
   "unique": "Donald Judd's minimalist concrete sculptures in former army barracks, plus a town of 1,800 with a hotel, a bookstore and a mystery light on the horizon.",
   "buzz": "The Judd installations are extraordinary and require a guided tour; the Marfa Lights are a pleasant excuse to sit in the desert at night.",
   "rating": 90,
-  "id": "chinati-foundation-and-marfa-marfa"
+  "id": "chinati-foundation-and-marfa-marfa",
+  "state_abbr": "TX",
+  "county_full": "Presidio County"
  },
  {
   "name": "Franklin Barbecue",
@@ -67,7 +71,9 @@
   "unique": "The brisket that made Austin a barbecue destination, sold until it runs out, with a line that starts before dawn and a communal picnic-table culture.",
   "buzz": "The brisket is still transcendent; the line is a social event and the wait can be four hours. Order fatty brisket and the tips.",
   "rating": 89,
-  "id": "franklin-barbecue-austin"
+  "id": "franklin-barbecue-austin",
+  "state_abbr": "TX",
+  "county_full": "Travis County"
  },
  {
   "name": "Gruene Hall",
@@ -91,7 +97,9 @@
   "unique": "The oldest dance hall in Texas, a wooden barn with no air conditioning where George Strait and Lyle Lovett cut their teeth and the swing dancing is serious.",
   "buzz": "The sound is great and the room is a time machine; get there early for a spot near the stage. Dance floor etiquette is real.",
   "rating": 88,
-  "id": "gruene-hall-new-braunfels"
+  "id": "gruene-hall-new-braunfels",
+  "state_abbr": "TX",
+  "county_full": "Comal County"
  },
  {
   "name": "Barton Springs Pool",
@@ -115,7 +123,9 @@
   "unique": "A three-acre spring-fed pool at a constant 68 degrees, with a grassy slope for sunbathing and a deep end that has hosted generations of Austin weirdness.",
   "buzz": "Locals treat it as a civic institution; it is cold, crowded and magical. Go at dawn or after 6pm for the locals' shift.",
   "rating": 87,
-  "id": "barton-springs-pool-austin"
+  "id": "barton-springs-pool-austin",
+  "state_abbr": "TX",
+  "county_full": "Travis County"
  },
  {
   "name": "NASA Johnson Space Center",
@@ -139,7 +149,9 @@
   "unique": "The actual Mission Control room from Apollo 13, a Saturn V laid out horizontally in a hangar, and a tram tour through the working astronaut training facility.",
   "buzz": "The tram tour is the reason to go; the museum is excellent for kids. Book the first tram of the day.",
   "rating": 87,
-  "id": "nasa-johnson-space-center-houston"
+  "id": "nasa-johnson-space-center-houston",
+  "state_abbr": "TX",
+  "county_full": "Harris County"
  },
  {
   "name": "Hamilton Pool",
@@ -162,7 +174,9 @@
   "unique": "A collapsed grotto with a 50-foot waterfall dropping into a jade pool, surrounded by limestone ledges and stalactites.",
   "buzz": "Reservations vanish at 8am and the pool closes after rain; people who get in call it the best swim in Texas.",
   "rating": 86,
-  "id": "hamilton-pool-dripping-springs"
+  "id": "hamilton-pool-dripping-springs",
+  "state_abbr": "TX",
+  "county_full": "Travis County"
  },
  {
   "name": "Palo Duro Canyon",
@@ -186,7 +200,9 @@
   "unique": "The second-largest canyon in the country, 120 miles long and 800 feet deep, with hoodoos, a cowboy cabin and a musical drama under the stars in summer.",
   "buzz": "The drive down into the canyon is a stunner; summer heat is brutal and the canyon floor floods. Go in spring.",
   "rating": 86,
-  "id": "palo-duro-canyon-canyon"
+  "id": "palo-duro-canyon-canyon",
+  "state_abbr": "TX",
+  "county_full": "Randall County"
  },
  {
   "name": "Enchanted Rock",
@@ -210,7 +226,9 @@
   "unique": "A 425-foot pink granite dome you can walk up, with a summit view over the Hill Country and caves, cracks and bouldering on the flanks.",
   "buzz": "The climb is short and steep and the view is the reward; reservations are required on busy weekends. Go at sunrise.",
   "rating": 85,
-  "id": "enchanted-rock-fredericksburg"
+  "id": "enchanted-rock-fredericksburg",
+  "state_abbr": "TX",
+  "county_full": "Gillespie County"
  },
  {
   "name": "Congress Avenue Bat Flight",
@@ -234,7 +252,9 @@
   "unique": "The largest urban bat colony in North America — 1.5 million Mexican free-tailed bats pour out from under a downtown bridge at dusk in a spiral that lasts twenty minutes.",
   "buzz": "It is free and genuinely spectacular; the bat observation center is small but the bridge lawn is the spot. Bring a blanket.",
   "rating": 84,
-  "id": "congress-avenue-bat-flight-austin"
+  "id": "congress-avenue-bat-flight-austin",
+  "state_abbr": "TX",
+  "county_full": "Travis County"
  },
  {
   "name": "Schlitterbahn New Braunfels",
@@ -258,7 +278,9 @@
   "unique": "A water park built into the Comal River, with spring-fed chutes, uphill water coasters and a wave river that uses the actual current.",
   "buzz": "The original park is still the best; reviews warn about crowds and tube rental logistics. Bring water shoes and a waterproof bag.",
   "rating": 84,
-  "id": "schlitterbahn-new-braunfels-new-braunfels"
+  "id": "schlitterbahn-new-braunfels-new-braunfels",
+  "state_abbr": "TX",
+  "county_full": "Comal County"
  },
  {
   "name": "State Fair of Texas",
@@ -282,7 +304,9 @@
   "unique": "Big Tex, Fletcher's corn dogs, a 55-foot Ferris wheel and an annual fried-food arms race that produced fried butter and fried beer.",
   "buzz": "The food is the point and the rides are secondary; go on a weekday and split everything. Parking is a hike.",
   "rating": 83,
-  "id": "state-fair-of-texas-dallas"
+  "id": "state-fair-of-texas-dallas",
+  "state_abbr": "TX",
+  "county_full": "Dallas County"
  },
  {
   "name": "Terlingua Chili Cookoff",
@@ -306,7 +330,9 @@
   "unique": "The original chili cookoff in a ghost town at the edge of Big Bend, where serious competitors, campsite parties and a cemetery of chili legends collide.",
   "buzz": "It is as much a camping festival as a cookoff; the chili is variable and the atmosphere is unmatched. Book lodging a year out.",
   "rating": 83,
-  "id": "terlingua-chili-cookoff-terlingua"
+  "id": "terlingua-chili-cookoff-terlingua",
+  "state_abbr": "TX",
+  "county_full": "Brewster County"
  },
  {
   "name": "San Antonio River Walk and the Alamo",
@@ -330,7 +356,9 @@
   "unique": "A cypress-lined canal below street level, packed with Tex-Mex, mariachi and tour boats, two blocks from the mission where the Texas revolution began.",
   "buzz": "The River Walk is touristy and still lovely at night; the Alamo is smaller than people expect. Eat off the main loop for better food.",
   "rating": 82,
-  "id": "san-antonio-river-walk-and-the-alamo-san-antonio"
+  "id": "san-antonio-river-walk-and-the-alamo-san-antonio",
+  "state_abbr": "TX",
+  "county_full": "Bexar County"
  },
  {
   "name": "Natural Bridge Caverns",
@@ -354,7 +382,9 @@
   "unique": "The largest commercial caverns in Texas, with a discovery tour through cathedral rooms and an adventure tour that crawls through undeveloped passages.",
   "buzz": "The adventure tour is the one for adults; the main tour is impressive but crowded. Wear shoes with grip.",
   "rating": 81,
-  "id": "natural-bridge-caverns-san-antonio"
+  "id": "natural-bridge-caverns-san-antonio",
+  "state_abbr": "TX",
+  "county_full": "Comal County"
  },
  {
   "name": "Fort Worth Stockyards",
@@ -378,7 +408,9 @@
   "unique": "A longhorn cattle drive twice a day down Exchange Avenue, a rodeo every weekend, and a maze of stockyards, saloons and boot shops.",
   "buzz": "It is touristy and still fun; the rodeo is a real rodeo and the cattle drive takes ninety seconds. Go for the evening rodeo.",
   "rating": 79,
-  "id": "fort-worth-stockyards-fort-worth"
+  "id": "fort-worth-stockyards-fort-worth",
+  "state_abbr": "TX",
+  "county_full": "Tarrant County"
  },
  {
   "name": "Cadillac Ranch",
@@ -402,7 +434,9 @@
   "unique": "Ten Cadillacs buried nose-first in a wheat field, spray-painted by every visitor since 1974, in the middle of a Panhandle nothing.",
   "buzz": "Bring your own spray paint; it is free, fast and exactly as good as you make it. Combine with the Big Texan steak challenge.",
   "rating": 76,
-  "id": "cadillac-ranch-amarillo"
+  "id": "cadillac-ranch-amarillo",
+  "state_abbr": "TX",
+  "county_full": "Potter County"
  },
  {
   "name": "Iguana Fest",
@@ -426,6 +460,8 @@
   "unique": "A free Gulf Coast street dance named for the iguanas that sun on the seawall, with food trucks, cover bands and a small-town crowd that stays out late.",
   "buzz": "It is small, free and full of local character; out-of-towners are treated well. Combine with fishing on Matagorda Bay.",
   "rating": 73,
-  "id": "iguana-fest-port-lavaca"
+  "id": "iguana-fest-port-lavaca",
+  "state_abbr": "TX",
+  "county_full": "Calhoun County"
  }
 ]
