@@ -206,31 +206,6 @@
   "county_full": "Lee County"
  },
  {
-  "name": "Viking Cooking School",
-  "city": "Ridgeland",
-  "county": "Madison",
-  "state": "Mississippi",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$75–$150",
-  "cost_num": 100,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2000s",
-  "company": "Viking Cooking School",
-  "party": "2–6",
-  "customer": "Couples, families, groups",
-  "unique": "A cooking school attached to a kitchen showroom where classes range from Delta tamales to steakhouse basics, with stations for each pair of cooks.",
-  "buzz": "The equipment is excellent and the classes are relaxed; a good date night in a state people underestimate.",
-  "rating": 78,
-  "id": "viking-cooking-school-ridgeland",
-  "state_abbr": "MS",
-  "county_full": "Madison County"
- },
- {
   "name": "Mississippi Petrified Forest",
   "city": "Flora",
   "county": "Madison",

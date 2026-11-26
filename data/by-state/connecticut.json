@@ -76,31 +76,6 @@
   "county_full": "New London County"
  },
  {
-  "name": "Fleishers Craft Butchery",
-  "city": "Greenwich",
-  "county": "Fairfield",
-  "state": "Connecticut",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$100–$250",
-  "cost_num": 150,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2004",
-  "company": "Fleishers",
-  "party": "1–4",
-  "customer": "Food people, cooks, couples",
-  "unique": "A whole animal butcher shop that teaches breaking down a chicken, a lamb or a pig, with classes that send you home with the cuts you made.",
-  "buzz": "The instructors are skilled and the ethics of the shop are part of the lesson; the chicken class is the beginner friendly one.",
-  "rating": 82,
-  "id": "fleishers-craft-butchery-greenwich",
-  "state_abbr": "CT",
-  "county_full": "Fairfield County"
- },
- {
   "name": "Submarine Force Museum and USS Nautilus",
   "city": "Groton",
   "county": "New London",

@@ -105,7 +105,7 @@
  },
  {
   "name": "Sky Combat Ace",
-  "city": "Las Vegas",
+  "city": "Henderson",
   "county": "Clark",
   "state": "Nevada",
   "cats": [
@@ -124,7 +124,7 @@
   "unique": "You fly the plane in a mock dogfight over the desert, with an instructor handling takeoff and landing while you pull Gs and chase another aircraft.",
   "buzz": "It is as close to fighter pilot as a civilian can get and the instructors keep it safe; the video package is worth it.",
   "rating": 89,
-  "id": "sky-combat-ace-las-vegas",
+  "id": "sky-combat-ace-henderson",
   "state_abbr": "NV",
   "county_full": "Clark County"
  },

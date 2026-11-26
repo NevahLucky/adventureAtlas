@@ -18312,30 +18312,6 @@
   "rating": 82
  },
  {
-  "name": "Charleston Cooks",
-  "city": "Charleston",
-  "county": "Charleston",
-  "state": "South Carolina",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$75–$150",
-  "cost_num": 110,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2000s",
-  "company": "Charleston Cooks",
-  "party": "2–6",
-  "customer": "Couples, families, visitors",
-  "unique": "A hands on cooking school where you make shrimp and grits, she crab soup and benne wafers, then eat what you cooked with wine.",
-  "buzz": "The classes are relaxed and the recipes are actually repeatable at home; book the lowcountry classics session.",
-  "rating": 83,
-  "drive_min": 178,
-  "drive_min_clemson": 228
- },
- {
   "name": "Callie's Hot Little Biscuit",
   "city": "Charleston",
   "county": "Charleston",
@@ -18448,28 +18424,6 @@
   "rating": 84
  },
  {
-  "name": "Viking Cooking School",
-  "city": "Ridgeland",
-  "county": "Madison",
-  "state": "Mississippi",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$75–$150",
-  "cost_num": 100,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2000s",
-  "company": "Viking Cooking School",
-  "party": "2–6",
-  "customer": "Couples, families, groups",
-  "unique": "A cooking school attached to a kitchen showroom where classes range from Delta tamales to steakhouse basics, with stations for each pair of cooks.",
-  "buzz": "The equipment is excellent and the classes are relaxed; a good date night in a state people underestimate.",
-  "rating": 78
- },
- {
   "name": "Murray's Cheese",
   "city": "New York",
   "county": "New York",
@@ -18514,26 +18468,26 @@
   "rating": 86
  },
  {
-  "name": "Aftelier Perfumes",
+  "name": "Aftel Archive of Curious Scents",
   "city": "Berkeley",
   "county": "Alameda",
   "state": "California",
   "cats": [
-   "Maker",
-   "Art",
-   "Date Night"
+   "Museum",
+   "Quirky",
+   "Science"
   ],
-  "cost": "$150–$300",
-  "cost_num": 200,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "By booking",
-  "start": "2000s",
-  "company": "Aftelier",
+  "cost": "$25",
+  "cost_num": 25,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Saturdays, 10am to 6pm",
+  "start": "—",
+  "company": "Aftel Archive of Curious Scents",
   "party": "2–4",
   "customer": "Couples, design people, scent nerds",
-  "unique": "A perfumer's studio where you smell raw materials and blend your own fragrance in a small workshop, then take home a bottle of something nobody else owns.",
-  "buzz": "It is intimate and intensely sensory and the instructor explains the chemistry without jargon; a genuinely unusual gift.",
+  "unique": "A one room museum of scent in a Berkeley cottage, with antique perfume organs, ambergris, civet and hundreds of raw materials you can smell, assembled by a perfumer over decades.",
+  "buzz": "It is small, strange and fascinating, and the self guided visit takes an hour; the owner's books are for sale and the collection is the real thing. Open Saturdays only.",
   "rating": 84
  },
  {
@@ -18546,40 +18500,18 @@
    "Quirky",
    "Art"
   ],
-  "cost": "$150–$350",
-  "cost_num": 220,
-  "dur": "4 hrs",
-  "dur_h": 4,
+  "cost": "$400–$900",
+  "cost_num": 600,
+  "dur": "1–2 days",
+  "dur_h": 12,
   "dates": "Classes by booking",
   "start": "2010s",
   "company": "Prey Taxidermy",
   "party": "1–2",
   "customer": "Curious people, artists, couples",
   "unique": "A working taxidermy studio that teaches small classes in mouse and bird taxidermy, with a focus on craft and natural history rather than shock.",
-  "buzz": "People arrive squeamish and leave proud; the instruction is respectful and the results are surprisingly beautiful.",
+  "buzz": "Classes are small and expensive because they are real instruction, not a novelty. Check the calendar for beginner sessions before booking.",
   "rating": 83
- },
- {
-  "name": "Fleishers Craft Butchery",
-  "city": "Greenwich",
-  "county": "Fairfield",
-  "state": "Connecticut",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$100–$250",
-  "cost_num": 150,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2004",
-  "company": "Fleishers",
-  "party": "1–4",
-  "customer": "Food people, cooks, couples",
-  "unique": "A whole animal butcher shop that teaches breaking down a chicken, a lamb or a pig, with classes that send you home with the cuts you made.",
-  "buzz": "The instructors are skilled and the ethics of the shop are part of the lesson; the chicken class is the beginner friendly one.",
-  "rating": 82
  },
  {
   "name": "Brooklyn Brainery",
@@ -18652,7 +18584,7 @@
  },
  {
   "name": "Sky Combat Ace",
-  "city": "Las Vegas",
+  "city": "Henderson",
   "county": "Clark",
   "state": "Nevada",
   "cats": [

@@ -947,33 +947,6 @@
   "county_full": "York County"
  },
  {
-  "name": "Charleston Cooks",
-  "city": "Charleston",
-  "county": "Charleston",
-  "state": "South Carolina",
-  "cats": [
-   "Food & Drink",
-   "Maker"
-  ],
-  "cost": "$75–$150",
-  "cost_num": 110,
-  "dur": "3 hrs",
-  "dur_h": 3,
-  "dates": "Year round",
-  "start": "2000s",
-  "company": "Charleston Cooks",
-  "party": "2–6",
-  "customer": "Couples, families, visitors",
-  "unique": "A hands on cooking school where you make shrimp and grits, she crab soup and benne wafers, then eat what you cooked with wine.",
-  "buzz": "The classes are relaxed and the recipes are actually repeatable at home; book the lowcountry classics session.",
-  "rating": 83,
-  "drive_min": 178,
-  "drive_min_clemson": 228,
-  "id": "charleston-cooks-charleston",
-  "state_abbr": "SC",
-  "county_full": "Charleston County"
- },
- {
   "name": "Gulches Off Road Park",
   "city": "Laurens",
   "county": "Laurens",
