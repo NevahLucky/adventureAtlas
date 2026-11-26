@@ -138,8 +138,8 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 469 of 3,143 counties covered. South Carolina is 46 of 46. Georgia is 20 of 159.
-300 counties nationally still have a single entry, and those are the backlog.
+Current picture: 490 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+290 counties nationally still have a single entry, and those are the backlog.
 
 ## The radius tool
 
@@ -152,10 +152,10 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,012 entries
+## Where it stands, 1,079 entries
 
-South Carolina is done for this pass: 220 entries across all 46 counties, minimum three per county,
-zero single-entry counties. That makes it the model for the other states.
+South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
+county, and all but Marlboro at five or more. It is the model for the other states.
 
 Georgia now has 164 entries in 40 of 159 counties, and every county touched is at three or more.
 Fulton alone has 16, DeKalb 12, and the Atlanta ring (Cobb, Gwinnett, Clayton, Henry, Fayette,
@@ -164,7 +164,7 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
-| South Carolina | 220 | 46 | | New Mexico | 10 | 8 |
+| South Carolina | 287 | 46 | | New Mexico | 10 | 8 |
 | North Carolina | 83 | 38 | | Nevada | 10 | 5 |
 | Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
@@ -207,6 +207,8 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 
 - Check that every operator still exists before adding it. A 2026 audit found three closures and
   removed them: Charleston Cooks, the Viking Cooking School in Ridgeland, and Fleishers in Cos Cob.
+  Removals go in `data/removed.json`. The merge script skips that list, because otherwise an older
+  region file will quietly bring a closed business back on the next merge. It happened once.
 - The UFO Welcome Center in Bowman was demolished and is not in the atlas. Do not add places from
   old listicles without checking that they still exist.
 - Mars Bluff is a roadside marker, not a crater you can walk into. Say so.

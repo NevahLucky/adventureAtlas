@@ -30,7 +30,7 @@ def main() -> None:
         rows.append({
             "state": state, "entries": entries, "total": len(official),
             "covered": len(covered), "one": one, "two": two, "three": three,
-            "unknown": sorted(got - official),
+            "unknown": sorted(got - official - {"Statewide"}),
         })
     rows.sort(key=lambda r: (r["covered"] / max(1, r["total"]), -r["entries"]))
 

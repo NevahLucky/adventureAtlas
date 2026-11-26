@@ -86,7 +86,7 @@
  {
   "name": "Monument Valley",
   "city": "Kayenta",
-  "county": "San Juan",
+  "county": "Navajo",
   "state": "Arizona",
   "cats": [
    "Nature",
@@ -109,7 +109,7 @@
   "state_abbr": "AZ",
   "lat": 36.7218463,
   "lon": -110.253872,
-  "county_full": "San Juan County"
+  "county_full": "Navajo County"
  },
  {
   "name": "Canyon de Chelly",

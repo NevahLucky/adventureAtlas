@@ -4449,5 +4449,77 @@
   "drive_mi": 179,
   "drive_min_clemson": 74,
   "drive_mi_clemson": 49
+ },
+ "Chesterfield|South Carolina": {
+  "lat": 34.6500578,
+  "lon": -80.1417843,
+  "name": "Chesterfield County, South Carolina, United States",
+  "drive_min": 101,
+  "drive_mi": 71,
+  "drive_min_clemson": 249,
+  "drive_mi_clemson": 191
+ },
+ "Clover|South Carolina": {
+  "lat": 35.1112478,
+  "lon": -81.2264646,
+  "name": "Clover, York County, South Carolina, United States",
+  "drive_min": 37,
+  "drive_mi": 22,
+  "drive_min_clemson": 142,
+  "drive_mi_clemson": 111
+ },
+ "Denmark|South Carolina": {
+  "lat": 33.3226546,
+  "lon": -81.1423236,
+  "name": "Denmark, Bamberg County, South Carolina, 29042, United States",
+  "drive_min": 150,
+  "drive_mi": 126,
+  "drive_min_clemson": 211,
+  "drive_mi_clemson": 177
+ },
+ "Huger|South Carolina": {
+  "lat": 33.0965591,
+  "lon": -79.803412,
+  "name": "Huger, Berkeley County, South Carolina, United States",
+  "drive_min": 224,
+  "drive_mi": 173,
+  "drive_min_clemson": 299,
+  "drive_mi_clemson": 251
+ },
+ "Little River|South Carolina": {
+  "lat": 33.878817,
+  "lon": -78.6327192,
+  "name": "Little River, Horry County, South Carolina, 29566, United States",
+  "drive_min": 244,
+  "drive_mi": 186,
+  "drive_min_clemson": 353,
+  "drive_mi_clemson": 291
+ },
+ "Myrtle Beach|South Carolina": {
+  "lat": 33.6956461,
+  "lon": -78.8900409,
+  "name": "Myrtle Beach, Horry County, South Carolina, United States",
+  "drive_min": 232,
+  "drive_mi": 176,
+  "drive_min_clemson": 335,
+  "drive_mi_clemson": 275
+ },
+ "Port Royal|South Carolina": {
+  "lat": 32.3790843,
+  "lon": -80.6926069,
+  "name": "Port Royal, Beaufort County, South Carolina, United States",
+  "drive_min": 249,
+  "drive_mi": 217,
+  "drive_min_clemson": 311,
+  "drive_mi_clemson": 266
+ },
+ "Sullivan's Island|South Carolina": {
+  "lat": 32.7616052,
+  "lon": -79.8365159,
+  "name": "Sullivan's Island, Charleston County, South Carolina, 29482, United States",
+  "drive_min": 227,
+  "drive_mi": 198,
+  "drive_min_clemson": 288,
+  "drive_mi_clemson": 247
  }
 }
