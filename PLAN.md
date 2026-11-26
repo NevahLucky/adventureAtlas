@@ -81,6 +81,9 @@ Use this as a checklist for every state. A state is not covered until most lanes
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
 - At least one entry per county where a real one exists. South Carolina is the pilot at 44 of 46.
+- There is no per county cap. The current max is 15 entries in Greenville County, South Carolina.
+  331 of 468 counties have only one entry, and those are underbuilt, not finished. When a county has
+  more real places, add them.
 - Only after the United States is at target should another country be started.
 
 ## Where it stands, 787 entries
