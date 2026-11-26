@@ -23,6 +23,8 @@
   "rating": 86,
   "id": "peters-valley-school-of-craft-layton",
   "state_abbr": "NJ",
+  "lat": 41.2197665,
+  "lon": -74.827267,
   "county_full": "Sussex County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 85,
   "id": "lakota-wolf-preserve-columbia",
   "state_abbr": "NJ",
+  "lat": 40.9257935,
+  "lon": -75.0941913,
   "county_full": "Warren County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 84,
   "id": "grounds-for-sculpture-hamilton",
   "state_abbr": "NJ",
+  "lat": 40.2552939,
+  "lon": -74.7038183,
   "county_full": "Mercer County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 82,
   "id": "cape-may-whale-watch-cape-may",
   "state_abbr": "NJ",
+  "lat": 39.1765386,
+  "lon": -74.8012119,
   "county_full": "Cape May County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 82,
   "id": "stone-pony-asbury-park",
   "state_abbr": "NJ",
+  "lat": 40.2203907,
+  "lon": -74.0120817,
   "county_full": "Monmouth County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 80,
   "id": "pine-barrens-kayak-chatsworth",
   "state_abbr": "NJ",
+  "lat": 39.8176178,
+  "lon": -74.5348749,
   "county_full": "Burlington County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 78,
   "id": "six-flags-great-adventure-jackson",
   "state_abbr": "NJ",
+  "lat": 39.7765048,
+  "lon": -74.8623849,
   "county_full": "Ocean County"
  },
  {
@@ -203,6 +217,8 @@
   "rating": 77,
   "id": "lucy-the-elephant-margate",
   "state_abbr": "NJ",
+  "lat": 39.327894,
+  "lon": -74.5034858,
   "county_full": "Atlantic County"
  },
  {
@@ -229,6 +245,8 @@
   "rating": 72,
   "id": "atlantic-city-boardwalk-atlantic-city",
   "state_abbr": "NJ",
+  "lat": 39.3642852,
+  "lon": -74.4229351,
   "county_full": "Atlantic County"
  }
 ]

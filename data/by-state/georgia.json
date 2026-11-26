@@ -25,6 +25,8 @@
   "drive_min": 354,
   "id": "lookout-mountain-flight-park-rising-fawn",
   "state_abbr": "GA",
+  "lat": 34.7600791,
+  "lon": -85.531076,
   "county_full": "Walker County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min_clemson": 355,
   "id": "cumberland-island-st-marys",
   "state_abbr": "GA",
+  "lat": 30.7203759,
+  "lon": -81.5485714,
   "county_full": "Camden County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min_clemson": 120,
   "id": "atlanta-beltline-atlanta",
   "state_abbr": "GA",
+  "lat": 33.7544657,
+  "lon": -84.3898151,
   "county_full": "Fulton County"
  },
  {
@@ -109,6 +115,8 @@
   "drive_min_clemson": 63,
   "id": "tallulah-gorge-tallulah-falls",
   "state_abbr": "GA",
+  "lat": 34.7306498,
+  "lon": -83.3943316,
   "county_full": "Rabun County"
  },
  {
@@ -137,6 +145,8 @@
   "drive_min_clemson": 114,
   "id": "amicalola-falls-dawsonville",
   "state_abbr": "GA",
+  "lat": 34.4212053,
+  "lon": -84.1190804,
   "county_full": "Dawson County"
  },
  {
@@ -165,6 +175,8 @@
   "drive_min_clemson": 332,
   "id": "okefenokee-swamp-folkston",
   "state_abbr": "GA",
+  "lat": 30.8305818,
+  "lon": -82.0097846,
   "county_full": "Charlton County"
  },
  {
@@ -193,6 +205,8 @@
   "drive_min_clemson": 268,
   "id": "wormsloe-state-historic-site-savannah",
   "state_abbr": "GA",
+  "lat": 32.0790074,
+  "lon": -81.0921335,
   "county_full": "Chatham County"
  },
  {
@@ -221,6 +235,8 @@
   "drive_min_clemson": 120,
   "id": "georgia-aquarium-atlanta",
   "state_abbr": "GA",
+  "lat": 33.7544657,
+  "lon": -84.3898151,
   "county_full": "Fulton County"
  },
  {
@@ -249,6 +265,8 @@
   "drive_min_clemson": 82,
   "id": "georgia-theatre-athens",
   "state_abbr": "GA",
+  "lat": 33.9597677,
+  "lon": -83.376398,
   "county_full": "Clarke County"
  },
  {
@@ -277,6 +295,8 @@
   "drive_min_clemson": 343,
   "id": "jekyll-island-sea-turtle-center-jekyll-island",
   "state_abbr": "GA",
+  "lat": 31.0655864,
+  "lon": -81.4140495,
   "county_full": "Glynn County"
  },
  {
@@ -305,6 +325,8 @@
   "drive_min_clemson": 121,
   "id": "netherworld-haunted-house-stone-mountain",
   "state_abbr": "GA",
+  "lat": 33.8062166,
+  "lon": -84.1457505,
   "county_full": "DeKalb County"
  },
  {
@@ -333,6 +355,8 @@
   "drive_min_clemson": 176,
   "id": "ocmulgee-mounds-macon",
   "state_abbr": "GA",
+  "lat": 32.8406946,
+  "lon": -83.6324022,
   "county_full": "Bibb County"
  },
  {
@@ -361,6 +385,8 @@
   "drive_min_clemson": 210,
   "id": "rock-city-gardens-lookout-mountain",
   "state_abbr": "GA",
+  "lat": 34.9775758,
+  "lon": -85.3577363,
   "county_full": "Walker County"
  },
  {
@@ -389,6 +415,8 @@
   "drive_min_clemson": 130,
   "id": "durhamtown-off-road-resort-union-point",
   "state_abbr": "GA",
+  "lat": 33.6156831,
+  "lon": -83.0745969,
   "county_full": "Greene County"
  },
  {
@@ -417,6 +445,8 @@
   "drive_min_clemson": 120,
   "id": "529-atlanta",
   "state_abbr": "GA",
+  "lat": 33.7544657,
+  "lon": -84.3898151,
   "county_full": "DeKalb County"
  },
  {
@@ -445,6 +475,8 @@
   "drive_min_clemson": 176,
   "id": "allman-brothers-band-museum-macon",
   "state_abbr": "GA",
+  "lat": 32.8406946,
+  "lon": -83.6324022,
   "county_full": "Bibb County"
  },
  {
@@ -472,6 +504,8 @@
   "drive_min_clemson": 114,
   "id": "atlanta-motorsports-park-dawsonville",
   "state_abbr": "GA",
+  "lat": 34.4212053,
+  "lon": -84.1190804,
   "county_full": "Dawson County"
  },
  {
@@ -500,6 +534,8 @@
   "drive_min_clemson": 120,
   "id": "blue-ridge-scenic-railway-blue-ridge",
   "state_abbr": "GA",
+  "lat": 34.863972,
+  "lon": -84.324087,
   "county_full": "Fannin County"
  },
  {
@@ -528,6 +564,8 @@
   "drive_min_clemson": 102,
   "id": "providence-canyon-lumpkin",
   "state_abbr": "GA",
+  "lat": 34.5546076,
+  "lon": -83.9926806,
   "county_full": "Stewart County"
  },
  {
@@ -556,6 +594,8 @@
   "drive_min_clemson": 286,
   "id": "white-oak-pastures-bluffton",
   "state_abbr": "GA",
+  "lat": 31.5229496,
+  "lon": -84.8677008,
   "county_full": "Clay County"
  },
  {
@@ -584,6 +624,8 @@
   "drive_min_clemson": 219,
   "id": "columbus-whitewater-columbus",
   "state_abbr": "GA",
+  "lat": 32.4610708,
+  "lon": -84.9880449,
   "county_full": "Muscogee County"
  },
  {
@@ -612,6 +654,8 @@
   "drive_min_clemson": 120,
   "id": "caffeine-and-octane-atlanta",
   "state_abbr": "GA",
+  "lat": 33.7544657,
+  "lon": -84.3898151,
   "county_full": "DeKalb County"
  },
  {
@@ -640,6 +684,8 @@
   "drive_min_clemson": 98,
   "id": "consolidated-gold-mine-dahlonega",
   "state_abbr": "GA",
+  "lat": 34.5328484,
+  "lon": -83.9845723,
   "county_full": "Lumpkin County"
  },
  {
@@ -668,6 +714,8 @@
   "drive_min_clemson": 268,
   "id": "savannah-ghost-tour-savannah",
   "state_abbr": "GA",
+  "lat": 32.0790074,
+  "lon": -81.0921335,
   "county_full": "Chatham County"
  },
  {
@@ -696,6 +744,8 @@
   "drive_min_clemson": 268,
   "id": "savannah-bee-company-savannah",
   "state_abbr": "GA",
+  "lat": 32.0790074,
+  "lon": -81.0921335,
   "county_full": "Chatham County"
  },
  {
@@ -724,6 +774,8 @@
   "drive_min_clemson": 60,
   "id": "dillard-house-dillard",
   "state_abbr": "GA",
+  "lat": 34.9700911,
+  "lon": -83.3871006,
   "county_full": "Rabun County"
  },
  {
@@ -752,6 +804,8 @@
   "drive_min": 136,
   "id": "augusta-canal-augusta",
   "state_abbr": "GA",
+  "lat": 33.4709714,
+  "lon": -81.9748429,
   "county_full": "Richmond County"
  },
  {
@@ -780,6 +834,8 @@
   "drive_min_clemson": 76,
   "id": "helen-tubing-helen",
   "state_abbr": "GA",
+  "lat": 34.7009043,
+  "lon": -83.7294546,
   "county_full": "White County"
  },
  {
@@ -808,6 +864,8 @@
   "drive_min_clemson": 121,
   "id": "stone-mountain-stone-mountain",
   "state_abbr": "GA",
+  "lat": 33.8062166,
+  "lon": -84.1457505,
   "county_full": "DeKalb County"
  }
 ]

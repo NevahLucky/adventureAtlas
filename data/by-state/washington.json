@@ -22,6 +22,8 @@
   "rating": 93,
   "id": "mount-rainier-skyline-trail-paradise",
   "state_abbr": "WA",
+  "lat": 46.7863468,
+  "lon": -121.7360372,
   "county_full": "Pierce County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 92,
   "id": "hoh-rainforest-forks",
   "state_abbr": "WA",
+  "lat": 47.950222,
+  "lon": -124.386165,
   "county_full": "Jefferson County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 92,
   "id": "north-cascades-marblemount",
   "state_abbr": "WA",
+  "lat": 48.534909,
+  "lon": -121.4350657,
   "county_full": "Whatcom County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 91,
   "id": "dirtfish-rally-school-snoqualmie",
   "state_abbr": "WA",
+  "lat": 47.5289527,
+  "lon": -121.827093,
   "county_full": "King County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 89,
   "id": "san-juan-islands-orca-kayak-friday-harbor",
   "state_abbr": "WA",
+  "lat": 48.5342662,
+  "lon": -123.017124,
   "county_full": "San Juan County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 86,
   "id": "mount-st-helens-castle-rock",
   "state_abbr": "WA",
+  "lat": 46.2739907,
+  "lon": -122.904918,
   "county_full": "Cowlitz County"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 86,
   "id": "pike-place-market-seattle",
   "state_abbr": "WA",
+  "lat": 47.6038321,
+  "lon": -122.330062,
   "county_full": "King County"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 85,
   "id": "palouse-pullman",
   "state_abbr": "WA",
+  "lat": 46.7295818,
+  "lon": -117.1799363,
   "county_full": "Whitman County"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 84,
   "id": "deception-pass-oak-harbor",
   "state_abbr": "WA",
+  "lat": 48.2931559,
+  "lon": -122.643224,
   "county_full": "Island County"
  },
  {
@@ -255,6 +273,8 @@
   "rating": 82,
   "id": "seattle-glassblowing-studio-seattle",
   "state_abbr": "WA",
+  "lat": 47.6038321,
+  "lon": -122.330062,
   "county_full": "King County"
  },
  {
@@ -281,6 +301,8 @@
   "rating": 79,
   "id": "ye-olde-curiosity-shop-seattle",
   "state_abbr": "WA",
+  "lat": 47.6038321,
+  "lon": -122.330062,
   "county_full": "King County"
  },
  {
@@ -307,6 +329,8 @@
   "rating": 78,
   "id": "leavenworth-leavenworth",
   "state_abbr": "WA",
+  "lat": 47.5969138,
+  "lon": -120.661081,
   "county_full": "Chelan County"
  }
 ]

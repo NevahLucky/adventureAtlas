@@ -23,6 +23,8 @@
   "rating": 94,
   "id": "na-pali-coast-kayak-hanalei",
   "state_abbr": "HI",
+  "lat": 22.2029937,
+  "lon": -159.4956949,
   "county_full": "Kauai County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 93,
   "id": "hawaii-volcanoes-national-park-volcano",
   "state_abbr": "HI",
+  "lat": 19.4297676,
+  "lon": -155.233984,
   "county_full": "Hawaii County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 93,
   "id": "mauna-kea-stargazing-waimea",
   "state_abbr": "HI",
+  "lat": 20.021702,
+  "lon": -155.6685878,
   "county_full": "Hawaii County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 92,
   "id": "manta-ray-night-snorkel-kailua-kona",
   "state_abbr": "HI",
+  "lat": 19.641941,
+  "lon": -155.996933,
   "county_full": "Hawaii County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 91,
   "id": "haleakala-sunrise-kula",
   "state_abbr": "HI",
+  "lat": 20.792026,
+  "lon": -156.3237119,
   "county_full": "Maui County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 91,
   "id": "kalaupapa-mule-ride-kalaupapa",
   "state_abbr": "HI",
+  "lat": 21.1902316,
+  "lon": -156.9827646,
   "county_full": "Kalawao County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 91,
   "id": "waimea-canyon-waimea",
   "state_abbr": "HI",
+  "lat": 20.021702,
+  "lon": -155.6685878,
   "county_full": "Kauai County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 90,
   "id": "pearl-harbor-honolulu",
   "state_abbr": "HI",
+  "lat": 21.304547,
+  "lon": -157.855676,
   "county_full": "Honolulu County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 89,
   "id": "north-shore-surf-haleiwa",
   "state_abbr": "HI",
+  "lat": 21.5935975,
+  "lon": -158.1044697,
   "county_full": "Honolulu County"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 89,
   "id": "road-to-hana-hana",
   "state_abbr": "HI",
+  "lat": 20.7671042,
+  "lon": -155.990752,
   "county_full": "Maui County"
  },
  {
@@ -283,6 +303,8 @@
   "rating": 87,
   "id": "molokini-snorkel-kihei",
   "state_abbr": "HI",
+  "lat": 20.7476261,
+  "lon": -156.4549898,
   "county_full": "Maui County"
  },
  {
@@ -309,6 +331,8 @@
   "rating": 85,
   "id": "hanauma-bay-honolulu",
   "state_abbr": "HI",
+  "lat": 21.304547,
+  "lon": -157.855676,
   "county_full": "Honolulu County"
  },
  {
@@ -335,6 +359,8 @@
   "rating": 73,
   "id": "dole-plantation-maze-wahiawa",
   "state_abbr": "HI",
+  "lat": 21.5006241,
+  "lon": -158.016672,
   "county_full": "Honolulu County"
  }
 ]

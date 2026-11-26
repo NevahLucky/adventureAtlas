@@ -23,6 +23,8 @@
   "rating": 93,
   "id": "kennedy-space-center-launch-cape-canaveral",
   "state_abbr": "FL",
+  "lat": 28.4513556,
+  "lon": -80.5283059,
   "county_full": "Brevard County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 92,
   "id": "swim-with-manatees-crystal-river",
   "state_abbr": "FL",
+  "lat": 28.902479,
+  "lon": -82.5926012,
   "county_full": "Citrus County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 90,
   "id": "dry-tortugas-and-fort-jefferson-key-west",
   "state_abbr": "FL",
+  "lat": 24.5548262,
+  "lon": -81.8020722,
   "county_full": "Monroe County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 88,
   "id": "blue-spring-manatees-orange-city",
   "state_abbr": "FL",
+  "lat": 28.9488761,
+  "lon": -81.2986741,
   "county_full": "Volusia County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 88,
   "id": "star-wars-galaxy-s-edge-orlando",
   "state_abbr": "FL",
+  "lat": 28.5421218,
+  "lon": -81.379045,
   "county_full": "Orange County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 88,
   "id": "wynwood-walls-miami",
   "state_abbr": "FL",
+  "lat": 25.7741566,
+  "lon": -80.1935973,
   "county_full": "Miami-Dade County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 87,
   "id": "salvador-dali-museum-st-petersburg",
   "state_abbr": "FL",
+  "lat": 27.7712264,
+  "lon": -82.6340259,
   "county_full": "Pinellas County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 86,
   "id": "devil-s-den-prehistoric-spring-williston",
   "state_abbr": "FL",
+  "lat": 29.3880028,
+  "lon": -82.4481694,
   "county_full": "Levy County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 86,
   "id": "ringling-museum-sarasota",
   "state_abbr": "FL",
+  "lat": 27.3365805,
+  "lon": -82.5308545,
   "county_full": "Sarasota County"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 85,
   "id": "skydive-zephyrhills-zephyrhills",
   "state_abbr": "FL",
+  "lat": 28.2336196,
+  "lon": -82.1811947,
   "county_full": "Pasco County"
  },
  {
@@ -281,6 +301,8 @@
   "rating": 84,
   "id": "castillo-de-san-marcos-st-augustine",
   "state_abbr": "FL",
+  "lat": 29.8946952,
+  "lon": -81.3145395,
   "county_full": "St. Johns County"
  },
  {
@@ -307,6 +329,8 @@
   "rating": 84,
   "id": "everglades-airboat-miami",
   "state_abbr": "FL",
+  "lat": 25.7741566,
+  "lon": -80.1935973,
   "county_full": "Miami-Dade County"
  },
  {
@@ -333,6 +357,8 @@
   "rating": 83,
   "id": "everglades-hovercraft-everglades-city",
   "state_abbr": "FL",
+  "lat": 25.8574788,
+  "lon": -81.384961,
   "county_full": "Collier County"
  },
  {
@@ -359,6 +385,8 @@
   "rating": 83,
   "id": "solomon-s-castle-ona",
   "state_abbr": "FL",
+  "lat": 27.4819836,
+  "lon": -81.9189734,
   "county_full": "Hardee County"
  },
  {
@@ -385,6 +413,8 @@
   "rating": 82,
   "id": "mallory-square-sunset-key-west",
   "state_abbr": "FL",
+  "lat": 24.5548262,
+  "lon": -81.8020722,
   "county_full": "Monroe County"
  },
  {
@@ -411,6 +441,8 @@
   "rating": 82,
   "id": "weeki-wachee-mermaid-show-spring-hill",
   "state_abbr": "FL",
+  "lat": 28.4635266,
+  "lon": -82.5363557,
   "county_full": "Hernando County"
  },
  {
@@ -437,6 +469,8 @@
   "rating": 80,
   "id": "robert-is-here-homestead",
   "state_abbr": "FL",
+  "lat": 25.4718946,
+  "lon": -80.4759905,
   "county_full": "Miami-Dade County"
  },
  {
@@ -463,6 +497,8 @@
   "rating": 80,
   "id": "st-augustine-lighthouse-st-augustine",
   "state_abbr": "FL",
+  "lat": 29.8946952,
+  "lon": -81.3145395,
   "county_full": "St. Johns County"
  },
  {
@@ -488,6 +524,8 @@
   "rating": 80,
   "id": "superblue-miami-miami",
   "state_abbr": "FL",
+  "lat": 25.7741566,
+  "lon": -80.1935973,
   "county_full": "Miami-Dade County"
  },
  {
@@ -514,6 +552,8 @@
   "rating": 79,
   "id": "gatorland-orlando",
   "state_abbr": "FL",
+  "lat": 28.5421218,
+  "lon": -81.379045,
   "county_full": "Orange County"
  },
  {
@@ -540,6 +580,8 @@
   "rating": 78,
   "id": "coral-castle-homestead",
   "state_abbr": "FL",
+  "lat": 25.4718946,
+  "lon": -80.4759905,
   "county_full": "Miami-Dade County"
  },
  {
@@ -566,6 +608,8 @@
   "rating": 77,
   "id": "tarpon-springs-sponge-docks-tarpon-springs",
   "state_abbr": "FL",
+  "lat": 28.1470965,
+  "lon": -82.756367,
   "county_full": "Pinellas County"
  },
  {
@@ -592,6 +636,8 @@
   "rating": 74,
   "id": "cassadaga-spiritualist-camp-cassadaga",
   "state_abbr": "FL",
+  "lat": 28.9663755,
+  "lon": -81.235894,
   "county_full": "Volusia County"
  },
  {
@@ -618,6 +664,8 @@
   "rating": 72,
   "id": "iguanaland-and-iguana-fest-punta-gorda",
   "state_abbr": "FL",
+  "lat": 26.9351529,
+  "lon": -82.0512058,
   "county_full": "Charlotte County"
  },
  {
@@ -644,6 +692,8 @@
   "rating": 68,
   "id": "spook-hill-lake-wales",
   "state_abbr": "FL",
+  "lat": 27.9014133,
+  "lon": -81.5859099,
   "county_full": "Polk County"
  }
 ]

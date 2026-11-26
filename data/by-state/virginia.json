@@ -25,6 +25,8 @@
   "drive_min_clemson": 237,
   "id": "grayson-highlands-mouth-of-wilson",
   "state_abbr": "VA",
+  "lat": 36.5895679,
+  "lon": -81.3364889,
   "county_full": "Grayson County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min_clemson": 266,
   "id": "floyd-country-store-friday-night-floyd",
   "state_abbr": "VA",
+  "lat": 36.9157056,
+  "lon": -80.3876889,
   "county_full": "Floyd County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min_clemson": 395,
   "id": "monticello-charlottesville",
   "state_abbr": "VA",
+  "lat": 38.029306,
+  "lon": -78.4766781,
   "county_full": "Albemarle County"
  },
  {
@@ -109,6 +115,8 @@
   "drive_min_clemson": 426,
   "id": "luray-caverns-and-the-great-stalacpipe-organ-luray",
   "state_abbr": "VA",
+  "lat": 38.6654653,
+  "lon": -78.4600202,
   "county_full": "Page County"
  },
  {
@@ -137,6 +145,8 @@
   "drive_min_clemson": 198,
   "id": "devil-s-bathtub-duffield",
   "state_abbr": "VA",
+  "lat": 36.711763,
+  "lon": -82.793294,
   "county_full": "Scott County"
  },
  {
@@ -165,6 +175,8 @@
   "drive_min_clemson": 376,
   "id": "american-shakespeare-center-staunton",
   "state_abbr": "VA",
+  "lat": 38.1495947,
+  "lon": -79.072557,
   "county_full": "Staunton City"
  },
  {
@@ -193,6 +205,8 @@
   "drive_min_clemson": 555,
   "id": "chincoteague-pony-swim-chincoteague",
   "state_abbr": "VA",
+  "lat": 37.9331799,
+  "lon": -75.3788141,
   "county_full": "Accomack County"
  },
  {
@@ -221,6 +235,8 @@
   "drive_min_clemson": 394,
   "id": "maymont-richmond",
   "state_abbr": "VA",
+  "lat": 37.5385087,
+  "lon": -77.43428,
   "county_full": "Richmond City"
  },
  {
@@ -249,6 +265,8 @@
   "drive_min_clemson": 432,
   "id": "colonial-williamsburg-williamsburg",
   "state_abbr": "VA",
+  "lat": 37.2712497,
+  "lon": -76.700035,
   "county_full": "Williamsburg City"
  },
  {
@@ -277,6 +295,8 @@
   "drive_min_clemson": 200,
   "id": "barter-theatre-abingdon",
   "state_abbr": "VA",
+  "lat": 36.7104018,
+  "lon": -81.975249,
   "county_full": "Washington County"
  },
  {
@@ -304,6 +324,8 @@
   "drive_min_clemson": 512,
   "id": "great-falls-park-mclean",
   "state_abbr": "VA",
+  "lat": 38.9366852,
+  "lon": -77.185843,
   "county_full": "Fairfax County"
  },
  {
@@ -332,6 +354,8 @@
   "drive_min_clemson": 330,
   "id": "virginia-safari-park-natural-bridge",
   "state_abbr": "VA",
+  "lat": 37.6301932,
+  "lon": -79.5431919,
   "county_full": "Rockbridge County"
  },
  {
@@ -360,6 +384,8 @@
   "drive_min_clemson": 250,
   "id": "mabry-mill-meadows-of-dan",
   "state_abbr": "VA",
+  "lat": 36.7392585,
+  "lon": -80.3979573,
   "county_full": "Floyd County"
  },
  {
@@ -388,6 +414,8 @@
   "drive_min_clemson": 307,
   "id": "roanoke-pinball-museum-roanoke",
   "state_abbr": "VA",
+  "lat": 37.270973,
+  "lon": -79.9414313,
   "county_full": "Roanoke City"
  },
  {
@@ -416,6 +444,8 @@
   "drive_min_clemson": 394,
   "id": "agecroft-hall-richmond",
   "state_abbr": "VA",
+  "lat": 37.5385087,
+  "lon": -77.43428,
   "county_full": "Richmond City"
  },
  {
@@ -443,6 +473,8 @@
   "drive_min_clemson": 330,
   "id": "natural-bridge-natural-bridge",
   "state_abbr": "VA",
+  "lat": 37.6301932,
+  "lon": -79.5431919,
   "county_full": "Rockbridge County"
  }
 ]

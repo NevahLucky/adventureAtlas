@@ -25,6 +25,8 @@
   "drive_min_clemson": 165,
   "id": "cades-cove-loop-townsend",
   "state_abbr": "TN",
+  "lat": 35.6753657,
+  "lon": -83.7557282,
   "county_full": "Sevier County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min_clemson": 140,
   "id": "arrowmont-school-of-arts-and-crafts-gatlinburg",
   "state_abbr": "TN",
+  "lat": 35.714259,
+  "lon": -83.5101638,
   "county_full": "Sevier County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min_clemson": 222,
   "id": "windrock-park-oliver-springs",
   "state_abbr": "TN",
+  "lat": 36.0462576,
+  "lon": -84.3432971,
   "county_full": "Anderson County"
  },
  {
@@ -108,6 +114,8 @@
   "drive_min_clemson": 159,
   "id": "ocoee-river-rafting-ocoee",
   "state_abbr": "TN",
+  "lat": 35.1222972,
+  "lon": -84.7188272,
   "county_full": "Polk County"
  },
  {
@@ -136,6 +144,8 @@
   "drive_min_clemson": 322,
   "id": "the-station-inn-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -164,6 +174,8 @@
   "drive_min_clemson": 149,
   "id": "dollywood-pigeon-forge",
   "state_abbr": "TN",
+  "lat": 35.7884241,
+  "lon": -83.5543329,
   "county_full": "Sevier County"
  },
  {
@@ -192,6 +204,8 @@
   "drive_min_clemson": 322,
   "id": "robert-s-western-world-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -220,6 +234,8 @@
   "drive_min_clemson": 322,
   "id": "ryman-auditorium-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -248,6 +264,8 @@
   "drive_min_clemson": 467,
   "id": "sun-studio-memphis",
   "state_abbr": "TN",
+  "lat": 35.146026,
+  "lon": -90.0517786,
   "county_full": "Shelby County"
  },
  {
@@ -276,6 +294,8 @@
   "drive_min": 243,
   "id": "tail-of-the-dragon-deals-gap",
   "state_abbr": "TN",
+  "lat": 35.4739548,
+  "lon": -83.9208181,
   "county_full": "Blount County"
  },
  {
@@ -304,6 +324,8 @@
   "drive_min_clemson": 467,
   "id": "beale-street-memphis",
   "state_abbr": "TN",
+  "lat": 35.146026,
+  "lon": -90.0517786,
   "county_full": "Shelby County"
  },
  {
@@ -331,6 +353,8 @@
   "drive_min_clemson": 322,
   "id": "prince-s-hot-chicken-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -359,6 +383,8 @@
   "drive_min_clemson": 202,
   "id": "tennessee-aquarium-chattanooga",
   "state_abbr": "TN",
+  "lat": 35.0457219,
+  "lon": -85.3094883,
   "county_full": "Hamilton County"
  },
  {
@@ -387,6 +413,8 @@
   "drive_min_clemson": 265,
   "id": "bonnaroo-manchester",
   "state_abbr": "TN",
+  "lat": 35.4832001,
+  "lon": -86.0887296,
   "county_full": "Coffee County"
  },
  {
@@ -415,6 +443,8 @@
   "drive_min_clemson": 140,
   "id": "elkmont-ghost-town-gatlinburg",
   "state_abbr": "TN",
+  "lat": 35.714259,
+  "lon": -83.5101638,
   "county_full": "Sevier County"
  },
  {
@@ -443,6 +473,8 @@
   "drive_min_clemson": 467,
   "id": "graceland-memphis",
   "state_abbr": "TN",
+  "lat": 35.146026,
+  "lon": -90.0517786,
   "county_full": "Shelby County"
  },
  {
@@ -470,6 +502,8 @@
   "drive_min_clemson": 467,
   "id": "gus-s-world-famous-fried-chicken-memphis",
   "state_abbr": "TN",
+  "lat": 35.146026,
+  "lon": -90.0517786,
   "county_full": "Shelby County"
  },
  {
@@ -498,6 +532,8 @@
   "drive_min_clemson": 322,
   "id": "hatch-show-print-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -526,6 +562,8 @@
   "drive_min_clemson": 158,
   "id": "international-storytelling-center-jonesborough",
   "state_abbr": "TN",
+  "lat": 36.2944928,
+  "lon": -82.4734089,
   "county_full": "Washington County"
  },
  {
@@ -554,6 +592,8 @@
   "drive_min_clemson": 294,
   "id": "jack-daniel-s-distillery-lynchburg",
   "state_abbr": "TN",
+  "lat": 35.2826099,
+  "lon": -86.3735477,
   "county_full": "Moore County"
  },
  {
@@ -582,6 +622,8 @@
   "drive_min_clemson": 322,
   "id": "lower-broadway-honky-tonks-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -610,6 +652,8 @@
   "drive_min_clemson": 322,
   "id": "rca-studio-b-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -638,6 +682,8 @@
   "drive_min_clemson": 202,
   "id": "lookout-mountain-incline-railway-chattanooga",
   "state_abbr": "TN",
+  "lat": 35.0457219,
+  "lon": -85.3094883,
   "county_full": "Hamilton County"
  },
  {
@@ -665,6 +711,8 @@
   "drive_min_clemson": 322,
   "id": "the-escape-game-nashville",
   "state_abbr": "TN",
+  "lat": 36.1622767,
+  "lon": -86.7742984,
   "county_full": "Davidson County"
  },
  {
@@ -693,6 +741,8 @@
   "drive_min_clemson": 140,
   "id": "anakeesta-gatlinburg",
   "state_abbr": "TN",
+  "lat": 35.714259,
+  "lon": -83.5101638,
   "county_full": "Sevier County"
  },
  {
@@ -721,6 +771,8 @@
   "drive_min": 229,
   "id": "sunsphere-and-market-square-knoxville",
   "state_abbr": "TN",
+  "lat": 35.9603948,
+  "lon": -83.9210261,
   "county_full": "Knox County"
  },
  {
@@ -749,6 +801,8 @@
   "drive_min_clemson": 190,
   "id": "mayfield-dairy-farms-athens",
   "state_abbr": "TN",
+  "lat": 35.4428864,
+  "lon": -84.5930113,
   "county_full": "McMinn County"
  },
  {
@@ -777,6 +831,8 @@
   "drive_min_clemson": 202,
   "id": "ruby-falls-chattanooga",
   "state_abbr": "TN",
+  "lat": 35.0457219,
+  "lon": -85.3094883,
   "county_full": "Hamilton County"
  },
  {
@@ -805,6 +861,8 @@
   "drive_min_clemson": 140,
   "id": "salt-and-pepper-shaker-museum-gatlinburg",
   "state_abbr": "TN",
+  "lat": 35.714259,
+  "lon": -83.5101638,
   "county_full": "Sevier County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 96,
   "id": "zion-narrows-springdale",
   "state_abbr": "UT",
+  "lat": 37.1888714,
+  "lon": -112.998551,
   "county_full": "Washington County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 94,
   "id": "angels-landing-springdale",
   "state_abbr": "UT",
+  "lat": 37.1888714,
+  "lon": -112.998551,
   "county_full": "Washington County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 94,
   "id": "arches-national-park-moab",
   "state_abbr": "UT",
+  "lat": 38.5738096,
+  "lon": -109.546214,
   "county_full": "Grand County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 93,
   "id": "bryce-canyon-bryce-canyon-city",
   "state_abbr": "UT",
+  "lat": 37.6741095,
+  "lon": -112.1565,
   "county_full": "Garfield County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 90,
   "id": "bonneville-speed-week-wendover",
   "state_abbr": "UT",
+  "lat": 40.7375965,
+  "lon": -114.0314197,
   "county_full": "Tooele County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 90,
   "id": "park-city-skiing-park-city",
   "state_abbr": "UT",
+  "lat": 40.6460921,
+  "lon": -111.4979963,
   "county_full": "Summit County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 88,
   "id": "goblin-valley-green-river",
   "state_abbr": "UT",
+  "lat": 40.050762,
+  "lon": -109.7329488,
   "county_full": "Emery County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 88,
   "id": "point-of-the-mountain-paragliding-draper",
   "state_abbr": "UT",
+  "lat": 40.5247777,
+  "lon": -111.8627989,
   "county_full": "Salt Lake County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 87,
   "id": "bonneville-salt-flats-wendover",
   "state_abbr": "UT",
+  "lat": 40.7375965,
+  "lon": -114.0314197,
   "county_full": "Tooele County"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 87,
   "id": "hell-s-revenge-4x4-moab",
   "state_abbr": "UT",
+  "lat": 38.5738096,
+  "lon": -109.546214,
   "county_full": "Grand County"
  },
  {
@@ -283,6 +303,8 @@
   "rating": 86,
   "id": "sundance-film-festival-park-city",
   "state_abbr": "UT",
+  "lat": 40.6460921,
+  "lon": -111.4979963,
   "county_full": "Summit County"
  },
  {
@@ -309,6 +331,8 @@
   "rating": 83,
   "id": "antelope-island-bison-syracuse",
   "state_abbr": "UT",
+  "lat": 41.0895938,
+  "lon": -112.0638903,
   "county_full": "Davis County"
  },
  {
@@ -335,6 +359,8 @@
   "rating": 81,
   "id": "gilgal-sculpture-garden-salt-lake-city",
   "state_abbr": "UT",
+  "lat": 40.7596198,
+  "lon": -111.886797,
   "county_full": "Salt Lake County"
  }
 ]

@@ -25,6 +25,8 @@
   "drive_min_clemson": 344,
   "id": "gauley-river-rafting-lansing",
   "state_abbr": "WV",
+  "lat": 38.073444,
+  "lon": -81.0656566,
   "county_full": "Fayette County"
  },
  {
@@ -52,6 +54,8 @@
   "drive_min_clemson": 341,
   "id": "new-river-gorge-whitewater-fayetteville",
   "state_abbr": "WV",
+  "lat": 38.0531294,
+  "lon": -81.1039858,
   "county_full": "Fayette County"
  },
  {
@@ -80,6 +84,8 @@
   "drive_min_clemson": 341,
   "id": "bridge-day-on-the-new-river-gorge-fayetteville",
   "state_abbr": "WV",
+  "lat": 38.0531294,
+  "lon": -81.1039858,
   "county_full": "Fayette County"
  },
  {
@@ -108,6 +114,8 @@
   "drive_min_clemson": 332,
   "id": "hatfield-mccoy-trails-gilbert",
   "state_abbr": "WV",
+  "lat": 37.6142758,
+  "lon": -81.8665068,
   "county_full": "Mingo County"
  },
  {
@@ -135,6 +143,8 @@
   "drive_min_clemson": 500,
   "id": "dolly-sods-wilderness-davis",
   "state_abbr": "WV",
+  "lat": 39.1287273,
+  "lon": -79.4647632,
   "county_full": "Tucker County"
  },
  {
@@ -163,6 +173,8 @@
   "drive_min_clemson": 491,
   "id": "harpers-ferry-harpers-ferry",
   "state_abbr": "WV",
+  "lat": 39.323418,
+  "lon": -77.7319766,
   "county_full": "Jefferson County"
  },
  {
@@ -190,6 +202,8 @@
   "drive_min_clemson": 510,
   "id": "moundsville-state-penitentiary-moundsville",
   "state_abbr": "WV",
+  "lat": 39.920425,
+  "lon": -80.7432124,
   "county_full": "Marshall County"
  },
  {
@@ -218,6 +232,8 @@
   "drive_min_clemson": 488,
   "id": "seneca-rocks-seneca-rocks",
   "state_abbr": "WV",
+  "lat": 38.8347145,
+  "lon": -79.3661474,
   "county_full": "Pendleton County"
  },
  {
@@ -246,6 +262,8 @@
   "drive_min_clemson": 367,
   "id": "greenbrier-bunker-tour-white-sulphur-springs",
   "state_abbr": "WV",
+  "lat": 37.7965149,
+  "lon": -80.2975734,
   "county_full": "Greenbrier County"
  },
  {
@@ -274,6 +292,8 @@
   "drive_min_clemson": 366,
   "id": "babcock-state-park-grist-mill-clifftop",
   "state_abbr": "WV",
+  "lat": 38.0042804,
+  "lon": -80.9439848,
   "county_full": "Fayette County"
  },
  {
@@ -302,6 +322,8 @@
   "drive_min_clemson": 319,
   "id": "beckley-exhibition-coal-mine-beckley",
   "state_abbr": "WV",
+  "lat": 37.7781702,
+  "lon": -81.1881557,
   "county_full": "Raleigh County"
  },
  {
@@ -330,6 +352,8 @@
   "drive_min_clemson": 454,
   "id": "cass-scenic-railroad-cass",
   "state_abbr": "WV",
+  "lat": 38.398184,
+  "lon": -79.9228207,
   "county_full": "Pocahontas County"
  },
  {
@@ -358,6 +382,8 @@
   "drive_min_clemson": 431,
   "id": "trans-allegheny-lunatic-asylum-weston",
   "state_abbr": "WV",
+  "lat": 39.0384274,
+  "lon": -80.467313,
   "county_full": "Lewis County"
  },
  {
@@ -386,6 +412,8 @@
   "drive_min_clemson": 379,
   "id": "keith-albee-theater-huntington",
   "state_abbr": "WV",
+  "lat": 38.4192496,
+  "lon": -82.445154,
   "county_full": "Cabell County"
  },
  {
@@ -414,6 +442,8 @@
   "drive_min_clemson": 357,
   "id": "lost-world-caverns-lewisburg",
   "state_abbr": "WV",
+  "lat": 37.8017879,
+  "lon": -80.4456303,
   "county_full": "Greenbrier County"
  },
  {
@@ -442,6 +472,8 @@
   "drive_min_clemson": 421,
   "id": "mothman-festival-point-pleasant",
   "state_abbr": "WV",
+  "lat": 38.8445251,
+  "lon": -82.1370889,
   "county_full": "Mason County"
  },
  {
@@ -470,6 +502,8 @@
   "drive_min_clemson": 522,
   "id": "oglebay-wheeling",
   "state_abbr": "WV",
+  "lat": 40.0639616,
+  "lon": -80.7209149,
   "county_full": "Ohio County"
  },
  {
@@ -498,6 +532,8 @@
   "drive_min_clemson": 370,
   "id": "taylor-books-charleston",
   "state_abbr": "WV",
+  "lat": 38.3505995,
+  "lon": -81.6332812,
   "county_full": "Kanawha County"
  }
 ]

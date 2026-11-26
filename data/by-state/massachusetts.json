@@ -22,6 +22,8 @@
   "rating": 91,
   "id": "provincetown-whale-watch-provincetown",
   "state_abbr": "MA",
+  "lat": 42.0525612,
+  "lon": -70.1858639,
   "county_full": "Barnstable County"
  },
  {
@@ -47,6 +49,8 @@
   "rating": 87,
   "id": "tanglewood-lawn-concert-lenox",
   "state_abbr": "MA",
+  "lat": 42.3568223,
+  "lon": -73.2850851,
   "county_full": "Berkshire County"
  },
  {
@@ -73,6 +77,8 @@
   "rating": 85,
   "id": "artisan-s-asylum-somerville",
   "state_abbr": "MA",
+  "lat": 42.3875968,
+  "lon": -71.0994968,
   "county_full": "Middlesex County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 85,
   "id": "mapparium-boston",
   "state_abbr": "MA",
+  "lat": 42.3588336,
+  "lon": -71.0578303,
   "county_full": "Suffolk County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 85,
   "id": "nantucket-by-bike-nantucket",
   "state_abbr": "MA",
+  "lat": 41.2844408,
+  "lon": -70.09842,
   "county_full": "Nantucket County"
  },
  {
@@ -150,6 +160,8 @@
   "rating": 85,
   "id": "snow-farm-williamsburg",
   "state_abbr": "MA",
+  "lat": 42.3926274,
+  "lon": -72.7302473,
   "county_full": "Hampshire County"
  },
  {
@@ -175,6 +187,8 @@
   "rating": 84,
   "id": "freedom-trail-boston",
   "state_abbr": "MA",
+  "lat": 42.3588336,
+  "lon": -71.0578303,
   "county_full": "Suffolk County"
  },
  {
@@ -200,6 +214,8 @@
   "rating": 83,
   "id": "fenway-park-tour-boston",
   "state_abbr": "MA",
+  "lat": 42.3588336,
+  "lon": -71.0578303,
   "county_full": "Suffolk County"
  },
  {
@@ -225,6 +241,8 @@
   "rating": 82,
   "id": "plimoth-patuxet-plymouth",
   "state_abbr": "MA",
+  "lat": 41.9426657,
+  "lon": -70.7618592,
   "county_full": "Plymouth County"
  },
  {
@@ -250,6 +268,8 @@
   "rating": 79,
   "id": "salem-witch-trials-walk-salem",
   "state_abbr": "MA",
+  "lat": 42.5214439,
+  "lon": -70.8956743,
   "county_full": "Essex County"
  }
 ]

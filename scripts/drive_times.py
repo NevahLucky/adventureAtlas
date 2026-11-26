@@ -77,23 +77,29 @@ def main() -> None:
         time.sleep(1.05)
         print(f"  geocoded {city}, {state}")
 
-    added = 0
+    CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1))
+
+    added = failed = 0
     for row in rows:
         key = f"{row['city']}|{row['state']}"
         place = cache.get(key)
-        if not place:
+        if not place or place.get("lat") is None:
             continue
         for o in origins:
             if place.get(o["field"]) is None:
-                place[o["field"]], place[o["field"].replace("min", "mi")] = route(o, place)
-                added += 1
+                try:
+                    place[o["field"]], place[o["field"].replace("min", "mi")] = route(o, place)
+                    added += 1
+                except Exception as exc:
+                    failed += 1
+                    print(f"  route failed {row['city']}: {exc}")
         for o in origins:
             if place.get(o["field"]) is not None:
                 row[o["field"]] = place[o["field"]]
 
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1))
     DATA.write_text(json.dumps(rows, ensure_ascii=False, indent=1))
-    print(f"routed {added} new pairs across {len(rows)} entries")
+    print(f"routed {added} new pairs across {len(rows)} entries, {failed} failures")
 
 
 if __name__ == "__main__":

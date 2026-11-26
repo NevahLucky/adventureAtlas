@@ -23,6 +23,8 @@
   "rating": 88,
   "id": "buffalo-national-river-float-ponca",
   "state_abbr": "AR",
+  "lat": 36.0242433,
+  "lon": -93.3646264,
   "county_full": "Newton County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 88,
   "id": "crystal-bridges-bentonville",
   "state_abbr": "AR",
+  "lat": 36.3728608,
+  "lon": -94.208787,
   "county_full": "Benton County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 83,
   "id": "crescent-hotel-eureka-springs",
   "state_abbr": "AR",
+  "lat": 36.4000796,
+  "lon": -93.7392419,
   "county_full": "Carroll County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 83,
   "id": "ozark-folk-center-mountain-view",
   "state_abbr": "AR",
+  "lat": 35.8684075,
+  "lon": -92.1176521,
   "county_full": "Stone County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 82,
   "id": "hot-springs-bathhouse-row-hot-springs",
   "state_abbr": "AR",
+  "lat": 34.5038393,
+  "lon": -93.0552437,
   "county_full": "Garland County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 80,
   "id": "crater-of-diamonds-state-park-murfreesboro",
   "state_abbr": "AR",
+  "lat": 34.0623308,
+  "lon": -93.6899049,
   "county_full": "Pike County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 80,
   "id": "esse-purse-museum-little-rock",
   "state_abbr": "AR",
+  "lat": 34.7465071,
+  "lon": -92.2896267,
   "county_full": "Pulaski County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 78,
   "id": "mammoth-spring-state-park-mammoth-spring",
   "state_abbr": "AR",
+  "lat": 36.4946025,
+  "lon": -91.5428211,
   "county_full": "Fulton County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 75,
   "id": "world-championship-duck-calling-contest-stuttgart",
   "state_abbr": "AR",
+  "lat": 34.5003748,
+  "lon": -91.5526281,
   "county_full": "Arkansas County"
  }
 ]

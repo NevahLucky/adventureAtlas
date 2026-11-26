@@ -23,6 +23,8 @@
   "rating": 95,
   "id": "half-dome-yosemite",
   "state_abbr": "CA",
+  "lat": 37.8393004,
+  "lon": -119.5164635,
   "county_full": "Mariposa County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 93,
   "id": "big-sur-highway-1-big-sur",
   "state_abbr": "CA",
+  "lat": 36.1437044,
+  "lon": -121.564593,
   "county_full": "Monterey County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 92,
   "id": "death-valley-furnace-creek",
   "state_abbr": "CA",
+  "lat": 36.43435,
+  "lon": -116.8628356,
   "county_full": "Inyo County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 92,
   "id": "joshua-tree-night-sky-twentynine-palms",
   "state_abbr": "CA",
+  "lat": 34.1356915,
+  "lon": -116.0543506,
   "county_full": "San Bernardino County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 91,
   "id": "alcatraz-night-tour-san-francisco",
   "state_abbr": "CA",
+  "lat": 37.7879363,
+  "lon": -122.4075201,
   "county_full": "San Francisco County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 91,
   "id": "monterey-bay-aquarium-monterey",
   "state_abbr": "CA",
+  "lat": 36.2231079,
+  "lon": -121.387742,
   "county_full": "Monterey County"
  },
  {
@@ -176,6 +188,8 @@
   "rating": 90,
   "id": "king-of-the-hammers-johnson-valley",
   "state_abbr": "CA",
+  "lat": 34.3606833,
+  "lon": -116.5334778,
   "county_full": "San Bernardino County"
  },
  {
@@ -202,6 +216,8 @@
   "rating": 90,
   "id": "museum-of-jurassic-technology-los-angeles",
   "state_abbr": "CA",
+  "lat": 34.0536923,
+  "lon": -118.2427676,
   "county_full": "Los Angeles County"
  },
  {
@@ -227,6 +243,8 @@
   "rating": 89,
   "id": "avenue-of-the-giants-redcrest",
   "state_abbr": "CA",
+  "lat": 40.3989695,
+  "lon": -123.9462221,
   "county_full": "Humboldt County"
  },
  {
@@ -253,6 +271,8 @@
   "rating": 89,
   "id": "magic-castle-los-angeles",
   "state_abbr": "CA",
+  "lat": 34.0536923,
+  "lon": -118.2427676,
   "county_full": "Los Angeles County"
  },
  {
@@ -279,6 +299,8 @@
   "rating": 89,
   "id": "mammoth-mountain-mammoth-lakes",
   "state_abbr": "CA",
+  "lat": 37.6432525,
+  "lon": -118.9668509,
   "county_full": "Mono County"
  },
  {
@@ -304,6 +326,8 @@
   "rating": 88,
   "id": "burney-falls-burney",
   "state_abbr": "CA",
+  "lat": 40.8884145,
+  "lon": -121.6727826,
   "county_full": "Shasta County"
  },
  {
@@ -330,6 +354,8 @@
   "rating": 88,
   "id": "getty-center-los-angeles",
   "state_abbr": "CA",
+  "lat": 34.0536923,
+  "lon": -118.2427676,
   "county_full": "Los Angeles County"
  },
  {
@@ -356,6 +382,8 @@
   "rating": 88,
   "id": "the-crucible-oakland",
   "state_abbr": "CA",
+  "lat": 37.8044557,
+  "lon": -122.271356,
   "county_full": "Alameda County"
  },
  {
@@ -382,6 +410,8 @@
   "rating": 87,
   "id": "disneyland-anaheim",
   "state_abbr": "CA",
+  "lat": 33.8347516,
+  "lon": -117.911732,
   "county_full": "Orange County"
  },
  {
@@ -408,6 +438,8 @@
   "rating": 86,
   "id": "museum-of-neon-art-glendale",
   "state_abbr": "CA",
+  "lat": 34.1469416,
+  "lon": -118.2478471,
   "county_full": "Los Angeles County"
  },
  {
@@ -434,6 +466,8 @@
   "rating": 86,
   "id": "sky-falconry-alpine",
   "state_abbr": "CA",
+  "lat": 38.5893934,
+  "lon": -119.8345013,
   "county_full": "San Diego County"
  },
  {
@@ -460,6 +494,8 @@
   "rating": 85,
   "id": "safari-west-santa-rosa",
   "state_abbr": "CA",
+  "lat": 38.4404925,
+  "lon": -122.7141049,
   "county_full": "Sonoma County"
  },
  {
@@ -486,6 +522,8 @@
   "rating": 85,
   "id": "trestles-surf-san-clemente",
   "state_abbr": "CA",
+  "lat": 33.4270275,
+  "lon": -117.6124179,
   "county_full": "Orange County"
  },
  {
@@ -512,6 +550,36 @@
   "rating": 84,
   "id": "aftel-archive-of-curious-scents-berkeley",
   "state_abbr": "CA",
+  "lat": 37.8708393,
+  "lon": -122.272863,
+  "county_full": "Alameda County"
+ },
+ {
+  "name": "Aftelier Perfumes",
+  "city": "Berkeley",
+  "county": "Alameda",
+  "state": "California",
+  "cats": [
+   "Maker",
+   "Art",
+   "Date Night"
+  ],
+  "cost": "$150–$300",
+  "cost_num": 200,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "By booking",
+  "start": "2000s",
+  "company": "Aftelier",
+  "party": "2–4",
+  "customer": "Couples, design people, scent nerds",
+  "unique": "A perfumer's studio where you smell raw materials and blend your own fragrance in a small workshop, then take home a bottle of something nobody else owns.",
+  "buzz": "It is intimate and intensely sensory and the instructor explains the chemistry without jargon; a genuinely unusual gift.",
+  "rating": 84,
+  "id": "aftelier-perfumes-berkeley",
+  "state_abbr": "CA",
+  "lat": 37.8708393,
+  "lon": -122.272863,
   "county_full": "Alameda County"
  },
  {
@@ -538,6 +606,8 @@
   "rating": 84,
   "id": "coachella-indio",
   "state_abbr": "CA",
+  "lat": 33.7192808,
+  "lon": -116.2188054,
   "county_full": "Riverside County"
  },
  {
@@ -564,6 +634,8 @@
   "rating": 84,
   "id": "salvation-mountain-niland",
   "state_abbr": "CA",
+  "lat": 33.2380623,
+  "lon": -115.5135487,
   "county_full": "Imperial County"
  },
  {
@@ -589,6 +661,8 @@
   "rating": 84,
   "id": "the-gourmandise-school-santa-monica",
   "state_abbr": "CA",
+  "lat": 34.0194704,
+  "lon": -118.491227,
   "county_full": "Los Angeles County"
  },
  {
@@ -615,6 +689,8 @@
   "rating": 83,
   "id": "prey-taxidermy-los-angeles",
   "state_abbr": "CA",
+  "lat": 34.0536923,
+  "lon": -118.2427676,
   "county_full": "Los Angeles County"
  },
  {
@@ -641,6 +717,8 @@
   "rating": 82,
   "id": "queen-mary-long-beach",
   "state_abbr": "CA",
+  "lat": 33.7690164,
+  "lon": -118.191604,
   "county_full": "Los Angeles County"
  },
  {
@@ -667,6 +745,8 @@
   "rating": 82,
   "id": "santa-cruz-beach-boardwalk-santa-cruz",
   "state_abbr": "CA",
+  "lat": 37.050096,
+  "lon": -121.99059,
   "county_full": "Santa Cruz County"
  },
  {
@@ -692,6 +772,8 @@
   "rating": 79,
   "id": "whaley-house-san-diego",
   "state_abbr": "CA",
+  "lat": 32.7157062,
+  "lon": -117.1638284,
   "county_full": "San Diego County"
  },
  {
@@ -718,6 +800,8 @@
   "rating": 78,
   "id": "glass-beach-fort-bragg",
   "state_abbr": "CA",
+  "lat": 39.4436579,
+  "lon": -123.8057607,
   "county_full": "Mendocino County"
  },
  {
@@ -744,6 +828,8 @@
   "rating": 76,
   "id": "winchester-mystery-house-san-jose",
   "state_abbr": "CA",
+  "lat": 37.3361663,
+  "lon": -121.890591,
   "county_full": "Santa Clara County"
  }
 ]

@@ -22,6 +22,8 @@
   "rating": 95,
   "id": "yellowstone-lamar-valley-wolves-gardiner",
   "state_abbr": "WY",
+  "lat": 44.9790735,
+  "lon": -110.6996225,
   "county_full": "Park County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 94,
   "id": "grand-teton-and-jenny-lake-moose",
   "state_abbr": "WY",
+  "lat": 43.6559315,
+  "lon": -110.7164398,
   "county_full": "Teton County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 92,
   "id": "wind-river-range-backpack-pinedale",
   "state_abbr": "WY",
+  "lat": 42.8671325,
+  "lon": -109.8609808,
   "county_full": "Sublette County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 89,
   "id": "jackson-hole-corbet-s-couloir-teton-village",
   "state_abbr": "WY",
+  "lat": 43.587984,
+  "lon": -110.827989,
   "county_full": "Teton County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 88,
   "id": "devils-tower-devils-tower",
   "state_abbr": "WY",
+  "lat": 44.5906122,
+  "lon": -104.715103,
   "county_full": "Crook County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 86,
   "id": "cheyenne-frontier-days-cheyenne",
   "state_abbr": "WY",
+  "lat": 41.139981,
+  "lon": -104.820246,
   "county_full": "Laramie County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 82,
   "id": "cody-nite-rodeo-cody",
   "state_abbr": "WY",
+  "lat": 44.5263107,
+  "lon": -109.056392,
   "county_full": "Park County"
  },
  {
@@ -203,6 +217,8 @@
   "rating": 78,
   "id": "wyoming-frontier-prison-rawlins",
   "state_abbr": "WY",
+  "lat": 41.7907878,
+  "lon": -107.239176,
   "county_full": "Carbon County"
  }
 ]

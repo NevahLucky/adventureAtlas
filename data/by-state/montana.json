@@ -23,6 +23,8 @@
   "rating": 93,
   "id": "glacier-national-park-going-to-the-sun-road-west-glacier",
   "state_abbr": "MT",
+  "lat": 48.4963369,
+  "lon": -113.982443,
   "county_full": "Flathead County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 91,
   "id": "beartooth-highway-red-lodge",
   "state_abbr": "MT",
+  "lat": 45.1859038,
+  "lon": -109.2470622,
   "county_full": "Park County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 86,
   "id": "gallatin-river-fly-fishing-bozeman",
   "state_abbr": "MT",
+  "lat": 45.6794293,
+  "lon": -111.044047,
   "county_full": "Gallatin County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 85,
   "id": "little-bighorn-battlefield-crow-agency",
   "state_abbr": "MT",
+  "lat": 45.6014832,
+  "lon": -107.4611372,
   "county_full": "Big Horn County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 81,
   "id": "gates-of-the-mountains-boat-tour-helena",
   "state_abbr": "MT",
+  "lat": 46.5927425,
+  "lon": -112.036277,
   "county_full": "Lewis and Clark County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 77,
   "id": "berkeley-pit-butte",
   "state_abbr": "MT",
+  "lat": 46.0131505,
+  "lon": -112.536508,
   "county_full": "Silver Bow County"
  }
 ]

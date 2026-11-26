@@ -23,6 +23,8 @@
   "rating": 89,
   "id": "theodore-roosevelt-national-park-medora",
   "state_abbr": "ND",
+  "lat": 46.9139028,
+  "lon": -103.5243536,
   "county_full": "Billings County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 78,
   "id": "medora-musical-medora",
   "state_abbr": "ND",
+  "lat": 46.9139028,
+  "lon": -103.5243536,
   "county_full": "Billings County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 77,
   "id": "bonanzaville-west-fargo",
   "state_abbr": "ND",
+  "lat": 46.874967,
+  "lon": -96.900362,
   "county_full": "Cass County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 77,
   "id": "enchanted-highway-regent",
   "state_abbr": "ND",
+  "lat": 46.4216712,
+  "lon": -102.555719,
   "county_full": "Hettinger County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 76,
   "id": "norsk-hostfest-minot",
   "state_abbr": "ND",
+  "lat": 48.23251,
+  "lon": -101.296273,
   "county_full": "Ward County"
  }
 ]

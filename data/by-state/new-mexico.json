@@ -23,6 +23,8 @@
   "rating": 95,
   "id": "albuquerque-international-balloon-fiesta-albuquerque",
   "state_abbr": "NM",
+  "lat": 35.0841034,
+  "lon": -106.650985,
   "county_full": "Bernalillo County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 93,
   "id": "chaco-culture-nageezi",
   "state_abbr": "NM",
+  "lat": 36.2667656,
+  "lon": -107.745577,
   "county_full": "San Juan County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 93,
   "id": "white-sands-alamogordo",
   "state_abbr": "NM",
+  "lat": 32.8998822,
+  "lon": -105.9602081,
   "county_full": "Otero County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 92,
   "id": "carlsbad-caverns-carlsbad",
   "state_abbr": "NM",
+  "lat": 32.4257456,
+  "lon": -104.237612,
   "county_full": "Eddy County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 91,
   "id": "meow-wolf-santa-fe-santa-fe",
   "state_abbr": "NM",
+  "lat": 35.6876096,
+  "lon": -105.938456,
   "county_full": "Santa Fe County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 90,
   "id": "bosque-del-apache-crane-festival-san-antonio",
   "state_abbr": "NM",
+  "lat": 33.9170337,
+  "lon": -106.8671807,
   "county_full": "Socorro County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 90,
   "id": "taos-pueblo-taos",
   "state_abbr": "NM",
+  "lat": 36.4072377,
+  "lon": -105.573284,
   "county_full": "Taos County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 84,
   "id": "sandia-peak-tramway-albuquerque",
   "state_abbr": "NM",
+  "lat": 35.0841034,
+  "lon": -106.650985,
   "county_full": "Bernalillo County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 84,
   "id": "tinkertown-museum-sandia-park",
   "state_abbr": "NM",
+  "lat": 35.1679513,
+  "lon": -106.365385,
   "county_full": "Bernalillo County"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 74,
   "id": "roswell-ufo-museum-roswell",
   "state_abbr": "NM",
+  "lat": 33.3943282,
+  "lon": -104.5229518,
   "county_full": "Chaves County"
  }
 ]

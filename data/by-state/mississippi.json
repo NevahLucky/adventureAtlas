@@ -23,6 +23,8 @@
   "rating": 87,
   "id": "natchez-trace-parkway-natchez",
   "state_abbr": "MS",
+  "lat": 31.5604076,
+  "lon": -91.403171,
   "county_full": "Adams County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 86,
   "id": "b-b-king-museum-indianola",
   "state_abbr": "MS",
+  "lat": 33.4509513,
+  "lon": -90.6550917,
   "county_full": "Sunflower County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 85,
   "id": "ground-zero-blues-club-clarksdale",
   "state_abbr": "MS",
+  "lat": 34.2006479,
+  "lon": -90.5702071,
   "county_full": "Coahoma County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 85,
   "id": "walter-anderson-museum-ocean-springs",
   "state_abbr": "MS",
+  "lat": 30.4112904,
+  "lon": -88.8279165,
   "county_full": "Jackson County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 84,
   "id": "vicksburg-national-military-park-vicksburg",
   "state_abbr": "MS",
+  "lat": 32.3528055,
+  "lon": -90.8777342,
   "county_full": "Warren County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 82,
   "id": "the-shed-bbq-ocean-springs",
   "state_abbr": "MS",
+  "lat": 30.4112904,
+  "lon": -88.8279165,
   "county_full": "Jackson County"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 81,
   "id": "gulf-islands-national-seashore-ocean-springs",
   "state_abbr": "MS",
+  "lat": 30.4112904,
+  "lon": -88.8279165,
   "county_full": "Harrison County"
  },
  {
@@ -203,7 +217,36 @@
   "rating": 78,
   "id": "elvis-presley-birthplace-tupelo",
   "state_abbr": "MS",
+  "lat": 34.2576067,
+  "lon": -88.7033859,
   "county_full": "Lee County"
+ },
+ {
+  "name": "Viking Cooking School",
+  "city": "Ridgeland",
+  "county": "Madison",
+  "state": "Mississippi",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$75–$150",
+  "cost_num": 100,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "Viking Cooking School",
+  "party": "2–6",
+  "customer": "Couples, families, groups",
+  "unique": "A cooking school attached to a kitchen showroom where classes range from Delta tamales to steakhouse basics, with stations for each pair of cooks.",
+  "buzz": "The equipment is excellent and the classes are relaxed; a good date night in a state people underestimate.",
+  "rating": 78,
+  "id": "viking-cooking-school-ridgeland",
+  "state_abbr": "MS",
+  "lat": 32.4284761,
+  "lon": -90.1323087,
+  "county_full": "Madison County"
  },
  {
   "name": "Mississippi Petrified Forest",
@@ -229,6 +272,8 @@
   "rating": 73,
   "id": "mississippi-petrified-forest-flora",
   "state_abbr": "MS",
+  "lat": 32.5432591,
+  "lon": -90.3094672,
   "county_full": "Madison County"
  }
 ]

@@ -22,6 +22,8 @@
   "rating": 92,
   "id": "preservation-hall-new-orleans",
   "state_abbr": "LA",
+  "lat": 29.9574657,
+  "lon": -90.0629493,
   "county_full": "Orleans Parish"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 91,
   "id": "new-orleans-jazz-fest-new-orleans",
   "state_abbr": "LA",
+  "lat": 29.9574657,
+  "lon": -90.0629493,
   "county_full": "Orleans Parish"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 90,
   "id": "mardi-gras-new-orleans",
   "state_abbr": "LA",
+  "lat": 29.9574657,
+  "lon": -90.0629493,
   "county_full": "Orleans Parish"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 88,
   "id": "13th-gate-escape-baton-rouge",
   "state_abbr": "LA",
+  "lat": 30.4494155,
+  "lon": -91.1869659,
   "county_full": "East Baton Rouge Parish"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 88,
   "id": "crawfish-boil-season-lafayette",
   "state_abbr": "LA",
+  "lat": 30.2262187,
+  "lon": -92.0178202,
   "county_full": "Lafayette Parish"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 87,
   "id": "13th-gate-haunted-house-baton-rouge",
   "state_abbr": "LA",
+  "lat": 30.4494155,
+  "lon": -91.1869659,
   "county_full": "East Baton Rouge Parish"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 85,
   "id": "honey-island-swamp-tour-slidell",
   "state_abbr": "LA",
+  "lat": 30.2751945,
+  "lon": -89.7811745,
   "county_full": "St. Tammany Parish"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 85,
   "id": "the-myrtles-st-francisville",
   "state_abbr": "LA",
+  "lat": 30.7807244,
+  "lon": -91.3763353,
   "county_full": "West Feliciana Parish"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 84,
   "id": "angola-prison-rodeo-angola",
   "state_abbr": "LA",
+  "lat": 30.9598118,
+  "lon": -91.6071326,
   "county_full": "West Feliciana Parish"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 83,
   "id": "oak-alley-plantation-vacherie",
   "state_abbr": "LA",
+  "lat": 30.0110358,
+  "lon": -90.7195356,
   "county_full": "St. James Parish"
  },
  {
@@ -282,6 +302,8 @@
   "rating": 82,
   "id": "avery-island-tabasco-tour-avery-island",
   "state_abbr": "LA",
+  "lat": 29.8985393,
+  "lon": -91.9062311,
   "county_full": "Iberia Parish"
  },
  {
@@ -308,6 +330,8 @@
   "rating": 81,
   "id": "middendorf-s-manchac",
   "state_abbr": "LA",
+  "lat": 30.2915851,
+  "lon": -90.4020293,
   "county_full": "Tangipahoa Parish"
  },
  {
@@ -334,6 +358,8 @@
   "rating": 80,
   "id": "natchitoches-christmas-lights-natchitoches",
   "state_abbr": "LA",
+  "lat": 31.7606732,
+  "lon": -93.0860209,
   "county_full": "Natchitoches Parish"
  },
  {
@@ -359,6 +385,8 @@
   "rating": 79,
   "id": "abita-brewing-abita-springs",
   "state_abbr": "LA",
+  "lat": 30.4785257,
+  "lon": -90.0375755,
   "county_full": "St. Tammany Parish"
  }
 ]

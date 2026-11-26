@@ -23,6 +23,8 @@
   "rating": 90,
   "id": "city-museum-st-louis",
   "state_abbr": "MO",
+  "lat": 38.6254063,
+  "lon": -90.190009,
   "county_full": "St. Louis City"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 90,
   "id": "kansas-city-barbecue-crawl-kansas-city",
   "state_abbr": "MO",
+  "lat": 39.100105,
+  "lon": -94.5781416,
   "county_full": "Jackson County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 86,
   "id": "st-louis-zoo-st-louis",
   "state_abbr": "MO",
+  "lat": 38.6254063,
+  "lon": -90.190009,
   "county_full": "St. Louis City"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 85,
   "id": "silver-dollar-city-branson",
   "state_abbr": "MO",
+  "lat": 36.6440772,
+  "lon": -93.2169256,
   "county_full": "Stone County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 84,
   "id": "ha-ha-tonka-camdenton",
   "state_abbr": "MO",
+  "lat": 38.008141,
+  "lon": -92.7443403,
   "county_full": "Camden County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 83,
   "id": "gateway-arch-st-louis",
   "state_abbr": "MO",
+  "lat": 38.6254063,
+  "lon": -90.190009,
   "county_full": "St. Louis City"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 83,
   "id": "ozark-float-trip-rolla",
   "state_abbr": "MO",
+  "lat": 37.9509324,
+  "lon": -91.7708076,
   "county_full": "Pulaski County"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 82,
   "id": "lemp-mansion-st-louis",
   "state_abbr": "MO",
+  "lat": 38.6254063,
+  "lon": -90.190009,
   "county_full": "St. Louis City"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 80,
   "id": "crown-candy-kitchen-st-louis",
   "state_abbr": "MO",
+  "lat": 38.6254063,
+  "lon": -90.190009,
   "county_full": "St. Louis City"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 75,
   "id": "meramec-caverns-stanton",
   "state_abbr": "MO",
+  "lat": 38.2745914,
+  "lon": -91.105567,
   "county_full": "Franklin County"
  }
 ]

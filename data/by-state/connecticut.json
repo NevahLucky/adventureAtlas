@@ -22,6 +22,8 @@
   "rating": 85,
   "id": "new-haven-apizza-crawl-new-haven",
   "state_abbr": "CT",
+  "lat": 41.3082138,
+  "lon": -72.9250518,
   "county_full": "New Haven County"
  },
  {
@@ -47,6 +49,8 @@
   "rating": 84,
   "id": "dragon-s-breath-forge-wolcott",
   "state_abbr": "CT",
+  "lat": 41.6023196,
+  "lon": -72.9867718,
   "county_full": "New Haven County"
  },
  {
@@ -73,7 +77,36 @@
   "rating": 83,
   "id": "mystic-seaport-mystic",
   "state_abbr": "CT",
+  "lat": 41.3560375,
+  "lon": -71.9573331,
   "county_full": "New London County"
+ },
+ {
+  "name": "Fleishers Craft Butchery",
+  "city": "Greenwich",
+  "county": "Fairfield",
+  "state": "Connecticut",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$100–$250",
+  "cost_num": 150,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2004",
+  "company": "Fleishers",
+  "party": "1–4",
+  "customer": "Food people, cooks, couples",
+  "unique": "A whole animal butcher shop that teaches breaking down a chicken, a lamb or a pig, with classes that send you home with the cuts you made.",
+  "buzz": "The instructors are skilled and the ethics of the shop are part of the lesson; the chicken class is the beginner friendly one.",
+  "rating": 82,
+  "id": "fleishers-craft-butchery-greenwich",
+  "state_abbr": "CT",
+  "lat": 41.0264862,
+  "lon": -73.6284598,
+  "county_full": "Fairfield County"
  },
  {
   "name": "Submarine Force Museum and USS Nautilus",
@@ -98,6 +131,8 @@
   "rating": 82,
   "id": "submarine-force-museum-and-uss-nautilus-groton",
   "state_abbr": "CT",
+  "lat": 41.34655,
+  "lon": -72.0388786,
   "county_full": "New London County"
  },
  {
@@ -124,6 +159,8 @@
   "rating": 81,
   "id": "lake-compounce-bristol",
   "state_abbr": "CT",
+  "lat": 41.6711752,
+  "lon": -72.9430128,
   "county_full": "Hartford County"
  },
  {
@@ -150,6 +187,8 @@
   "rating": 80,
   "id": "mark-twain-house-hartford",
   "state_abbr": "CT",
+  "lat": 41.7661621,
+  "lon": -72.6732726,
   "county_full": "Hartford County"
  },
  {
@@ -176,6 +215,8 @@
   "rating": 76,
   "id": "gillette-castle-east-haddam",
   "state_abbr": "CT",
+  "lat": 41.4528584,
+  "lon": -72.4613331,
   "county_full": "Middlesex County"
  },
  {
@@ -202,6 +243,8 @@
   "rating": 76,
   "id": "stew-leonard-s-norwalk",
   "state_abbr": "CT",
+  "lat": 41.1175966,
+  "lon": -73.4078968,
   "county_full": "Fairfield County"
  },
  {
@@ -228,6 +271,8 @@
   "rating": 71,
   "id": "pez-visitor-center-orange",
   "state_abbr": "CT",
+  "lat": 41.2784304,
+  "lon": -73.0256609,
   "county_full": "New Haven County"
  }
 ]

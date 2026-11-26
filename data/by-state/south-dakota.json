@@ -23,6 +23,8 @@
   "rating": 92,
   "id": "badlands-national-park-wall",
   "state_abbr": "SD",
+  "lat": 43.992421,
+  "lon": -102.239981,
   "county_full": "Pennington County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 90,
   "id": "custer-state-park-custer",
   "state_abbr": "SD",
+  "lat": 43.6726477,
+  "lon": -103.5101597,
   "county_full": "Custer County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 86,
   "id": "mount-rushmore-keystone",
   "state_abbr": "SD",
+  "lat": 43.8928746,
+  "lon": -103.4257231,
   "county_full": "Pennington County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 85,
   "id": "wind-cave-hot-springs",
   "state_abbr": "SD",
+  "lat": 43.431646,
+  "lon": -103.474363,
   "county_full": "Custer County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 82,
   "id": "sturgis-motorcycle-rally-sturgis",
   "state_abbr": "SD",
+  "lat": 44.414477,
+  "lon": -103.509139,
   "county_full": "Meade County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 80,
   "id": "crazy-horse-memorial-crazy-horse",
   "state_abbr": "SD",
+  "lat": 42.8688893,
+  "lon": -97.6029939,
   "county_full": "Custer County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 79,
   "id": "deadwood-deadwood",
   "state_abbr": "SD",
+  "lat": 44.3743812,
+  "lon": -103.7290723,
   "county_full": "Lawrence County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 73,
   "id": "wall-drug-wall",
   "state_abbr": "SD",
+  "lat": 43.992421,
+  "lon": -102.239981,
   "county_full": "Pennington County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 72,
   "id": "corn-palace-mitchell",
   "state_abbr": "SD",
+  "lat": 43.70953,
+  "lon": -98.025379,
   "county_full": "Davison County"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 69,
   "id": "cosmos-mystery-area-rapid-city",
   "state_abbr": "SD",
+  "lat": 44.0806041,
+  "lon": -103.228023,
   "county_full": "Pennington County"
  }
 ]

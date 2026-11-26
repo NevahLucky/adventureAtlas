@@ -23,6 +23,8 @@
   "rating": 88,
   "id": "cosmosphere-hutchinson",
   "state_abbr": "KS",
+  "lat": 38.0608444,
+  "lon": -97.9297743,
   "county_full": "Reno County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 84,
   "id": "flint-hills-tallgrass-prairie-cottonwood-falls",
   "state_abbr": "KS",
+  "lat": 38.3722364,
+  "lon": -96.5427845,
   "county_full": "Chase County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 80,
   "id": "monument-rocks-oakley",
   "state_abbr": "KS",
+  "lat": 39.126385,
+  "lon": -100.855611,
   "county_full": "Gove County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 78,
   "id": "sallie-house-atchison",
   "state_abbr": "KS",
+  "lat": 39.545816,
+  "lon": -95.3326052,
   "county_full": "Atchison County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 76,
   "id": "boot-hill-museum-dodge-city",
   "state_abbr": "KS",
+  "lat": 37.7527982,
+  "lon": -100.0170787,
   "county_full": "Ford County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 70,
   "id": "world-s-largest-ball-of-twine-cawker-city",
   "state_abbr": "KS",
+  "lat": 39.51251,
+  "lon": -98.433672,
   "county_full": "Mitchell County"
  }
 ]

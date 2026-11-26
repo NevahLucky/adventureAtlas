@@ -16,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data" / "adventures.json"
+CACHE = ROOT / "data" / "drive-times.json"
 STATES = ROOT / "states"
 
 STATE_ORDER = [
@@ -56,6 +57,7 @@ def money(n: int) -> str:
 
 def load() -> list[dict]:
     rows = json.loads(DATA.read_text())
+    cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     seen = set()
     for r in rows:
         assert r["state"] in ABBR, f"unknown state: {r['state']}"
@@ -68,6 +70,9 @@ def load() -> list[dict]:
         r.setdefault("cats", [])
         r["county"] = r.get("county") or "—"
         r["state_abbr"] = ABBR[r["state"]]
+        place = cache.get(f"{r['city']}|{r['state']}") or {}
+        r["lat"] = place.get("lat")
+        r["lon"] = place.get("lon")
         c, st = r["county"], r["state"]
         if st == "Louisiana":
             r["county_full"] = c if c.endswith("Parish") else f"{c} Parish"
@@ -242,6 +247,44 @@ def build_region(rows: list[dict], *, field: str, slug: str, name: str, h1: str,
                .replace("{{ROWS}}", json.dumps(out, ensure_ascii=False)))
 
 
+def build_explore(rows: list[dict]) -> str:
+    """The 'start from any county' tool. Times are estimated client side from coordinates."""
+    grouped: dict[tuple[str, str], dict[str, dict]] = {}
+    for r in rows:
+        if r.get("lat") is None or r.get("lon") is None:
+            continue
+        cities = grouped.setdefault((r["state"], r["county"]), {})
+        c = cities.setdefault(r["city"], {"n": 0, "lat": r["lat"], "lon": r["lon"]})
+        c["n"] = int(c["n"]) + 1
+        c["lat"], c["lon"] = r["lat"], r["lon"]
+
+    counties = []
+    for (state, county), city_map in sorted(grouped.items()):
+        cities = [{"name": n, "n": int(v["n"]), "lat": v["lat"], "lon": v["lon"]}
+                  for n, v in city_map.items()]
+        cities.sort(key=lambda x: (-x["n"], x["name"]))
+        full = next((r["county_full"] for r in rows
+                     if r["state"] == state and r["county"] == county), county)
+        counties.append({
+            "state": state, "county": county, "county_full": full,
+            "cities": cities, "n": sum(c["n"] for c in cities),
+        })
+
+    keep = ("id", "name", "city", "county", "county_full", "state", "state_abbr", "lat", "lon",
+            "cats", "cost", "cost_num", "dur", "dur_h", "party", "rating")
+    slim = []
+    for r in rows:
+        if r.get("lat") is None:
+            continue
+        e = {k: r.get(k) for k in keep}
+        e["st"] = r["state_abbr"]
+        slim.append(e)
+
+    tpl = (ROOT / "templates" / "explore.html").read_text()
+    return (tpl.replace("{{DATA}}", json.dumps({"entries": slim, "counties": counties}, ensure_ascii=False))
+               .replace("{{BUILD}}", __import__("datetime").date.today().strftime("%B %Y")))
+
+
 def write_csv(rows: list[dict]) -> None:
     cols = [
         ("name", "Adventure"), ("county_full", "County"), ("state", "State"), ("city", "City"),
@@ -267,6 +310,7 @@ def main() -> None:
     (ROOT / "data" / "by-state").mkdir(exist_ok=True)
 
     (ROOT / "index.html").write_text(build_index(rows), encoding="utf-8")
+    (ROOT / "explore.html").write_text(build_explore(rows), encoding="utf-8")
     regions = (ROOT / "regions")
     regions.mkdir(exist_ok=True)
     (regions / "fort-mill.html").write_text(build_region(

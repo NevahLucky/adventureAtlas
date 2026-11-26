@@ -10,6 +10,47 @@ can hold their interest, but only if they hear about them. The failure mode is o
 inclusion. When in doubt, add it and rate it honestly. It is easier to remove an entry later than to
 miss a place someone would have loved.
 
+## Research by county, not by state
+
+This is the central rule. States are a navigation layer. Counties are the unit of research.
+
+The test for a county is the one visit test:
+
+> If the user visits this county once in their life, and never comes back, what would they regret
+> not doing? List all of it, then rate it.
+
+If a county has one entry, that is not a finding about the county. It is a sign the research stopped
+early. Almost every county in America has a courthouse square, a state park, a river access, a
+family restaurant that has lasted forty years, a fairground, a speedway, a museum run by volunteers,
+a church cookbook, a roadside oddity or a festival. Most have several.
+
+A county page with one entry is a research failure. Go back.
+
+### The method for one county
+
+1. Find the county seat and the two or three other towns people actually live in.
+2. Look for these in order: county museum or historical society, state park or wildlife refuge,
+   river or lake access, fairground and annual festival, speedway or dirt track, historic district,
+   the oldest restaurant or bakery, a maker or farm that takes visitors, a roadside landmark.
+3. Search local sources, not listicles: county chambers, historical societies, state parks,
+   recreation departments, local newspapers, festival pages.
+4. Write five to eight entries for a rural county and ten to twenty for a metro county. No cap.
+5. Apply the one visit test to each. If it is only a bench, cut it. If it is a bench with a story
+   nobody else has, keep it and rate it in the low 70s.
+
+### The state sweep
+
+Do the county work first. Only at the end of a state, sweep for true duplicates.
+
+Drop one entry only when all three are true:
+
+- same category,
+- nearly the same quality,
+- within an hour of each other.
+
+Otherwise keep both. Two music festivals in one state are not redundant if they are two hours
+apart, and a second county fair is not redundant if it is the only thing in that county.
+
 ## What counts as an adventure
 
 Side quests are the core of the product, not a side category.
@@ -49,7 +90,8 @@ interesting is often local.
 
 ## Diversity lanes
 
-Use this as a checklist for every state. A state is not covered until most lanes are represented.
+Use this as a checklist for every county, not just every state. A county is not covered until it has
+several lanes or a good reason it cannot.
 
 - Adrenaline: skydiving, via ferrata, bungee, hang gliding, paragliding, aerobatics.
 - Air: gliders, balloons, flightseeing, dogfights, blimps.
@@ -80,17 +122,32 @@ Use this as a checklist for every state. A state is not covered until most lanes
 
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
-- At least one entry per county where a real one exists. South Carolina is the pilot at 44 of 46.
-- There is no per county cap. The current max is 15 entries in Greenville County, South Carolina.
-  331 of 468 counties have only one entry, and those are underbuilt, not finished. When a county has
-  more real places, add them.
+- At least five entries per county where the county has five real things. No county is done at one.
+- No per county cap. Greenville County, SC is the current high at 15.
 - Only after the United States is at target should another country be started.
 
-## Where it stands, 787 entries
+## The radius tool
+
+`explore.html` lets the user pick a state, a county, and a town, then set a drive time in hours and
+minutes. There is no four hour ceiling. Results sort by closest, best rated or cheapest, and filter
+by category and price.
+
+Drive times are estimated in the browser from coordinates: `minutes = 16 + 1.16 * straight line
+miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within about ten minutes
+of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
+routed times for those two origins.
+
+## Where it stands, 853 entries
+
+South Carolina is the pilot for county first research: 196 entries across all 46 counties. Aiken now
+has the training track, Hitchcock Woods, Sunday polo and Hopelands. Barnwell has Healing Springs.
+Lee has the state park and the county museum. Saluda has the Alamo diorama. Allendale has its African
+American cultural center. No South Carolina county has fewer than one entry, and most have three or
+four.
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
-| South Carolina | 133 | 44 | | New Mexico | 10 | 8 |
+| South Carolina | 196 | 46 | | New Mexico | 10 | 8 |
 | North Carolina | 83 | 38 | | Nevada | 10 | 5 |
 | California | 29 | 18 | | Massachusetts | 10 | 8 |
 | Georgia | 29 | 19 | | Connecticut | 9 | 5 |
@@ -117,22 +174,25 @@ Use this as a checklist for every state. A state is not covered until most lanes
 | Missouri | 10 | 6 | | North Dakota | 5 | 4 |
 | South Dakota | 10 | 5 | | | | |
 
-Known South Carolina gaps: Saluda and Allendale.
+## Queue, county by county
 
-## Queue
-
-1. Georgia and Tennessee to 50 each. Both have anchors, so this is county level filling.
-2. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana to 35.
-3. Bottom twenty states to 15 each, starting with Nebraska, North Dakota, Indiana, Kansas, Montana,
-   Idaho, New Hampshire, Vermont, Delaware and Oklahoma.
-4. Close the two South Carolina gaps.
-5. Metro audit: Charlotte, Atlanta, Nashville, Birmingham, Jackson, Little Rock, New Orleans.
+1. Georgia, county by county. Start with the 19 counties already touched, then the rest of the 159.
+   Clayton, Bibb, Chatham, Muscogee, Lowndes, Dougherty, Floyd, Clarke, Richmond and Glynn first.
+2. Tennessee, county by county. Start with the 12 present, then Davidson, Knox, Hamilton, Shelby,
+   Sevier, Blount, Sullivan, Washington and the rural counties around them.
+3. North Carolina, county by county. It has 83 entries in 38 of 100 counties, so 62 counties are
+   still blank.
+4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
+5. The remaining states, thinnest first.
 6. Then a third country, using the same rules.
 
 ## Verification
 
 - Check that every operator still exists before adding it. A 2026 audit found three closures and
   removed them: Charleston Cooks, the Viking Cooking School in Ridgeland, and Fleishers in Cos Cob.
+- The UFO Welcome Center in Bowman was demolished and is not in the atlas. Do not add places from
+  old listicles without checking that they still exist.
+- Mars Bluff is a roadside marker, not a crater you can walk into. Say so.
 - For haunted places, write "reported" and "said to", and lead with the documented history.
 - Costs are indicative per person ranges. Dates are windows. Start is a documented year, a decade,
   or `—`. Never invent a year.
@@ -150,15 +210,19 @@ Known South Carolina gaps: Saluda and Allendale.
 ## Workflow
 
 ```bash
-# 1. Add entries to data/regions/<batch>.json using the same schema
+# 1. Add entries to data/regions/<county-batch>.json using the same schema
 python3 scripts/merge_regions.py
 python3 scripts/drive_times.py \
   --states "Georgia,Tennessee" \
   --origin "Fort Mill,SC,35.0074,-80.9451,drive_min" \
   --origin "Clemson,SC,34.6851,-82.8364,drive_min_clemson"
 python3 build.py
-# 2. Check a state page at 1440px and 420px, confirm the row count, then commit
+# 2. Open explore.html and a state page at 1440px and 420px, confirm the row counts, then commit
 ```
+
+If the Valhalla router is slow, use OSRM directly:
+`https://router.project-osrm.org/route/v1/driving/{lon},{lat};{lon},{lat}?overview=false`
+and convert seconds to minutes and meters to miles.
 
 Keep batches to 20 or 30 entries so each commit is easy to review.
 
@@ -170,8 +234,8 @@ current folder. See `DEPLOY.md`.
 ## First moves in a fresh session
 
 1. Read `PLAN.md`, then `README.md`.
-2. Run `python3 build.py` and open `index.html`.
-3. Pick the next state from the queue.
-4. Add 20 to 30 entries in a new `data/regions/<state>-<batch>.json`.
-5. Merge, route, build, verify, commit.
-6. Repeat.
+2. Run `python3 build.py` and open `explore.html` and one state page.
+3. Pick one county, not one state. Georgia is the current queue head.
+4. List what the county actually has, then write five to eight entries.
+5. Merge, route, build, check both widths, commit.
+6. Repeat for the next county. Only sweep a state for duplicates after all its counties are done.

@@ -23,6 +23,8 @@
   "rating": 92,
   "id": "national-museum-of-the-us-air-force-dayton",
   "state_abbr": "OH",
+  "lat": 39.7589478,
+  "lon": -84.1916069,
   "county_full": "Montgomery County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 90,
   "id": "cedar-point-sandusky",
   "state_abbr": "OH",
+  "lat": 41.2951563,
+  "lon": -83.1555438,
   "county_full": "Erie County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 89,
   "id": "hocking-hills-logan",
   "state_abbr": "OH",
+  "lat": 40.4430521,
+  "lon": -83.7414465,
   "county_full": "Hocking County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 88,
   "id": "ohio-state-reformatory-mansfield",
   "state_abbr": "OH",
+  "lat": 40.75839,
+  "lon": -82.5154471,
   "county_full": "Richland County"
  },
  {
@@ -124,6 +132,8 @@
   "rating": 85,
   "id": "otherworld-columbus",
   "state_abbr": "OH",
+  "lat": 39.9622601,
+  "lon": -83.0007065,
   "county_full": "Franklin County"
  },
  {
@@ -150,6 +160,8 @@
   "rating": 85,
   "id": "serpent-mound-peebles",
   "state_abbr": "OH",
+  "lat": 38.9489593,
+  "lon": -83.4056828,
   "county_full": "Adams County"
  },
  {
@@ -176,6 +188,8 @@
   "rating": 84,
   "id": "american-sign-museum-cincinnati",
   "state_abbr": "OH",
+  "lat": 39.1012809,
+  "lon": -84.5127405,
   "county_full": "Hamilton County"
  },
  {
@@ -202,6 +216,8 @@
   "rating": 84,
   "id": "rock-and-roll-hall-of-fame-cleveland",
   "state_abbr": "OH",
+  "lat": 41.4996574,
+  "lon": -81.6936772,
   "county_full": "Cuyahoga County"
  },
  {
@@ -227,6 +243,8 @@
   "rating": 82,
   "id": "kings-island-mason",
   "state_abbr": "OH",
+  "lat": 39.3600586,
+  "lon": -84.309939,
   "county_full": "Warren County"
  },
  {
@@ -253,6 +271,8 @@
   "rating": 80,
   "id": "amish-country-berlin",
   "state_abbr": "OH",
+  "lat": 40.561178,
+  "lon": -81.7943353,
   "county_full": "Holmes County"
  },
  {
@@ -279,6 +299,8 @@
   "rating": 78,
   "id": "put-in-bay-put-in-bay",
   "state_abbr": "OH",
+  "lat": 41.6518884,
+  "lon": -82.8186814,
   "county_full": "Ottawa County"
  },
  {
@@ -305,6 +327,8 @@
   "rating": 74,
   "id": "loveland-castle-loveland",
   "state_abbr": "OH",
+  "lat": 39.2689476,
+  "lon": -84.263826,
   "county_full": "Clermont County"
  }
 ]

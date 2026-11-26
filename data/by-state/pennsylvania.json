@@ -23,6 +23,8 @@
   "rating": 91,
   "id": "fallingwater-mill-run",
   "state_abbr": "PA",
+  "lat": 39.9511859,
+  "lon": -79.454481,
   "county_full": "Fayette County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 89,
   "id": "ricketts-glen-falls-trail-benton",
   "state_abbr": "PA",
+  "lat": 41.1950837,
+  "lon": -76.3835528,
   "county_full": "Luzerne County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 88,
   "id": "eastern-state-penitentiary-philadelphia",
   "state_abbr": "PA",
+  "lat": 39.9527237,
+  "lon": -75.1635262,
   "county_full": "Philadelphia County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 88,
   "id": "mahoning-drive-in-theater-lehighton",
   "state_abbr": "PA",
+  "lat": 40.8339907,
+  "lon": -75.7135568,
   "county_full": "Carbon County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 87,
   "id": "longwood-gardens-kennett-square",
   "state_abbr": "PA",
+  "lat": 39.8467414,
+  "lon": -75.7116997,
   "county_full": "Chester County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 86,
   "id": "gettysburg-battlefield-gettysburg",
   "state_abbr": "PA",
+  "lat": 39.8308973,
+  "lon": -77.231012,
   "county_full": "Adams County"
  },
  {
@@ -176,6 +188,8 @@
   "rating": 86,
   "id": "ohiopyle-whitewater-ohiopyle",
   "state_abbr": "PA",
+  "lat": 39.8699324,
+  "lon": -79.4929336,
   "county_full": "Fayette County"
  },
  {
@@ -201,6 +215,8 @@
   "rating": 85,
   "id": "pittsburgh-glass-center-pittsburgh",
   "state_abbr": "PA",
+  "lat": 40.4406968,
+  "lon": -80.0025666,
   "county_full": "Allegheny County"
  },
  {
@@ -227,6 +243,8 @@
   "rating": 85,
   "id": "reading-terminal-market-philadelphia",
   "state_abbr": "PA",
+  "lat": 39.9527237,
+  "lon": -75.1635262,
   "county_full": "Philadelphia County"
  },
  {
@@ -253,6 +271,8 @@
   "rating": 84,
   "id": "mutter-museum-philadelphia",
   "state_abbr": "PA",
+  "lat": 39.9527237,
+  "lon": -75.1635262,
   "county_full": "Philadelphia County"
  },
  {
@@ -279,6 +299,8 @@
   "rating": 84,
   "id": "touchstone-center-for-crafts-farmington",
   "state_abbr": "PA",
+  "lat": 39.8071471,
+  "lon": -79.5655338,
   "county_full": "Fayette County"
  },
  {
@@ -305,6 +327,8 @@
   "rating": 81,
   "id": "field-of-screams-mountville",
   "state_abbr": "PA",
+  "lat": 40.0392642,
+  "lon": -76.4307964,
   "county_full": "Lancaster County"
  },
  {
@@ -329,6 +353,8 @@
   "rating": 81,
   "id": "pennhurst-asylum-spring-city",
   "state_abbr": "PA",
+  "lat": 40.1778276,
+  "lon": -75.5456439,
   "county_full": "Chester County"
  },
  {
@@ -355,6 +381,8 @@
   "rating": 76,
   "id": "roadside-america-shartlesville",
   "state_abbr": "PA",
+  "lat": 40.5130092,
+  "lon": -76.104772,
   "county_full": "Berks County"
  },
  {
@@ -381,6 +409,8 @@
   "rating": 74,
   "id": "centralia-centralia",
   "state_abbr": "PA",
+  "lat": 40.8042311,
+  "lon": -76.3408766,
   "county_full": "Columbia County"
  },
  {
@@ -407,6 +437,8 @@
   "rating": 74,
   "id": "punxsutawney-groundhog-day-punxsutawney",
   "state_abbr": "PA",
+  "lat": 40.9436303,
+  "lon": -78.971078,
   "county_full": "Jefferson County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 88,
   "id": "ragbrai-statewide",
   "state_abbr": "IA",
+  "lat": null,
+  "lon": null,
   "county_full": "Statewide"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 85,
   "id": "iowa-state-fair-des-moines",
   "state_abbr": "IA",
+  "lat": 41.5868654,
+  "lon": -93.6249494,
   "county_full": "Polk County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 82,
   "id": "maquoketa-caves-maquoketa",
   "state_abbr": "IA",
+  "lat": 42.0690915,
+  "lon": -90.6654748,
   "county_full": "Jackson County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 81,
   "id": "field-of-dreams-dyersville",
   "state_abbr": "IA",
+  "lat": 42.4844602,
+  "lon": -91.1211058,
   "county_full": "Dubuque County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 78,
   "id": "grotto-of-the-redemption-west-bend",
   "state_abbr": "IA",
+  "lat": 42.9577623,
+  "lon": -94.4450174,
   "county_full": "Palo Alto County"
  },
  {
@@ -153,6 +163,8 @@
   "customer": "Families, couples, photographers",
   "id": "bridges-of-madison-county-winterset",
   "state_abbr": "IA",
+  "lat": 41.3347631,
+  "lon": -94.0135687,
   "county_full": "Madison County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 75,
   "id": "villisca-axe-murder-house-villisca",
   "state_abbr": "IA",
+  "lat": 40.9293163,
+  "lon": -94.9769054,
   "county_full": "Montgomery County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 92,
   "id": "pictured-rocks-munising",
   "state_abbr": "MI",
+  "lat": 46.4100035,
+  "lon": -86.6494698,
   "county_full": "Alger County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 91,
   "id": "sleeping-bear-dunes-empire",
   "state_abbr": "MI",
+  "lat": 44.811108,
+  "lon": -86.060093,
   "county_full": "Leelanau County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 88,
   "id": "mackinac-island-mackinac-island",
   "state_abbr": "MI",
+  "lat": 45.8657607,
+  "lon": -84.6305313,
   "county_full": "Mackinac County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 86,
   "id": "movement-detroit-detroit",
   "state_abbr": "MI",
+  "lat": 42.3315509,
+  "lon": -83.0466403,
   "county_full": "Wayne County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 84,
   "id": "tahquamenon-falls-paradise",
   "state_abbr": "MI",
+  "lat": 46.6275215,
+  "lon": -85.0375869,
   "county_full": "Chippewa County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 83,
   "id": "artprize-grand-rapids",
   "state_abbr": "MI",
+  "lat": 42.9632425,
+  "lon": -85.6678639,
   "county_full": "Kent County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 82,
   "id": "kitch-iti-kipi-manistique",
   "state_abbr": "MI",
+  "lat": 45.95779,
+  "lon": -86.246419,
   "county_full": "Schoolcraft County"
  },
  {
@@ -203,6 +217,8 @@
   "rating": 81,
   "id": "traverse-city-cherry-festival-traverse-city",
   "state_abbr": "MI",
+  "lat": 44.7606481,
+  "lon": -85.6165976,
   "county_full": "Grand Traverse County"
  },
  {
@@ -229,6 +245,8 @@
   "rating": 80,
   "id": "heidelberg-project-detroit",
   "state_abbr": "MI",
+  "lat": 42.3315509,
+  "lon": -83.0466403,
   "county_full": "Wayne County"
  },
  {
@@ -255,6 +273,8 @@
   "rating": 73,
   "id": "bronner-s-christmas-wonderland-frankenmuth",
   "state_abbr": "MI",
+  "lat": 43.3323684,
+  "lon": -83.7392288,
   "county_full": "Saginaw County"
  }
 ]

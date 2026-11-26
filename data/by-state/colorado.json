@@ -23,6 +23,8 @@
   "rating": 94,
   "id": "red-rocks-amphitheatre-morrison",
   "state_abbr": "CO",
+  "lat": 39.6535988,
+  "lon": -105.191099,
   "county_full": "Jefferson County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 93,
   "id": "great-sand-dunes-mosca",
   "state_abbr": "CO",
+  "lat": 37.651236,
+  "lon": -105.8711855,
   "county_full": "Saguache County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 92,
   "id": "mesa-verde-cliff-dwellings-cortez",
   "state_abbr": "CO",
+  "lat": 37.3494528,
+  "lon": -108.584073,
   "county_full": "Montezuma County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 90,
   "id": "meow-wolf-convergence-station-denver",
   "state_abbr": "CO",
+  "lat": 39.7392364,
+  "lon": -104.984862,
   "county_full": "Denver County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 90,
   "id": "telluride-via-ferrata-telluride",
   "state_abbr": "CO",
+  "lat": 37.9374939,
+  "lon": -107.812285,
   "county_full": "San Miguel County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 89,
   "id": "browns-canyon-rafting-buena-vista",
   "state_abbr": "CO",
+  "lat": 38.8422178,
+  "lon": -106.1311288,
   "county_full": "Chaffee County"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 89,
   "id": "durango-and-silverton-narrow-gauge-durango",
   "state_abbr": "CO",
+  "lat": 37.2769484,
+  "lon": -107.8766,
   "county_full": "La Plata County"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 89,
   "id": "pikes-peak-international-hill-climb-colorado-springs",
   "state_abbr": "CO",
+  "lat": 38.8339578,
+  "lon": -104.825348,
   "county_full": "El Paso County"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 88,
   "id": "garden-of-the-gods-colorado-springs",
   "state_abbr": "CO",
+  "lat": 38.8339578,
+  "lon": -104.825348,
   "county_full": "El Paso County"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 88,
   "id": "ouray-ice-park-ouray",
   "state_abbr": "CO",
+  "lat": 38.146044,
+  "lon": -107.7414887,
   "county_full": "Ouray County"
  },
  {
@@ -281,6 +301,8 @@
   "rating": 87,
   "id": "rocky-mountain-elk-rut-estes-park",
   "state_abbr": "CO",
+  "lat": 40.3771926,
+  "lon": -105.523216,
   "county_full": "Larimer County"
  },
  {
@@ -307,6 +329,8 @@
   "rating": 84,
   "id": "the-stanley-hotel-estes-park",
   "state_abbr": "CO",
+  "lat": 40.3771926,
+  "lon": -105.523216,
   "county_full": "Larimer County"
  },
  {
@@ -333,6 +357,8 @@
   "rating": 82,
   "id": "bishop-castle-rye",
   "state_abbr": "CO",
+  "lat": 37.9236194,
+  "lon": -104.9302662,
   "county_full": "Pueblo County"
  },
  {
@@ -358,6 +384,8 @@
   "rating": 82,
   "id": "cook-street-school-of-culinary-arts-denver",
   "state_abbr": "CO",
+  "lat": 39.7392364,
+  "lon": -104.984862,
   "county_full": "Denver County"
  }
 ]

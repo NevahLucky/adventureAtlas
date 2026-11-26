@@ -23,6 +23,8 @@
   "rating": 91,
   "id": "national-air-and-space-museum-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 88,
   "id": "library-of-congress-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 86,
   "id": "kennedy-center-millennium-stage-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 85,
   "id": "cherry-blossom-festival-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 83,
   "id": "national-zoo-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 80,
   "id": "international-spy-museum-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 78,
   "id": "artechouse-washington",
   "state_abbr": "DC",
+  "lat": 38.8950982,
+  "lon": -77.0363849,
   "county_full": "District of Columbia"
  }
 ]

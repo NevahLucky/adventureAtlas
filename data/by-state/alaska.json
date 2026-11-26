@@ -23,6 +23,8 @@
   "rating": 95,
   "id": "brooks-falls-brown-bears-king-salmon",
   "state_abbr": "AK",
+  "lat": 58.7505385,
+  "lon": -156.5218277,
   "county_full": "Lake and Peninsula Borough"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 94,
   "id": "denali-flightseeing-talkeetna",
   "state_abbr": "AK",
+  "lat": 62.267644,
+  "lon": -150.0295288,
   "county_full": "Matanuska-Susitna Borough"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 93,
   "id": "kenai-fjords-seward",
   "state_abbr": "AK",
+  "lat": 60.1013952,
+  "lon": -149.4404281,
   "county_full": "Kenai Peninsula Borough"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 90,
   "id": "alaska-railroad-glacier-discovery-anchorage",
   "state_abbr": "AK",
+  "lat": 61.2163129,
+  "lon": -149.894852,
   "county_full": "Anchorage"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 90,
   "id": "mendenhall-glacier-ice-caves-juneau",
   "state_abbr": "AK",
+  "lat": 58.3019613,
+  "lon": -134.4196751,
   "county_full": "Juneau"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 89,
   "id": "knik-glacier-airboat-palmer",
   "state_abbr": "AK",
+  "lat": 61.5995703,
+  "lon": -149.11109,
   "county_full": "Matanuska-Susitna Borough"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 87,
   "id": "chena-hot-springs-fairbanks",
   "state_abbr": "AK",
+  "lat": 64.837845,
+  "lon": -147.716675,
   "county_full": "Fairbanks North Star Borough"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 87,
   "id": "iditarod-start-anchorage",
   "state_abbr": "AK",
+  "lat": 61.2163129,
+  "lon": -149.894852,
   "county_full": "Anchorage"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 85,
   "id": "alaska-wildlife-conservation-center-portage",
   "state_abbr": "AK",
+  "lat": 61.669634,
+  "lon": -150.0871409,
   "county_full": "Kenai Peninsula Borough"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 84,
   "id": "musk-ox-farm-palmer",
   "state_abbr": "AK",
+  "lat": 61.5995703,
+  "lon": -149.11109,
   "county_full": "Matanuska-Susitna Borough"
  },
  {
@@ -283,6 +303,8 @@
   "rating": 80,
   "id": "utqiagvik-polar-plunge-utqiagvik",
   "state_abbr": "AK",
+  "lat": 71.2905366,
+  "lon": -156.78844,
   "county_full": "North Slope Borough"
  }
 ]

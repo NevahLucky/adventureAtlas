@@ -23,6 +23,8 @@
   "rating": 88,
   "id": "shelburne-museum-shelburne",
   "state_abbr": "VT",
+  "lat": 44.3784953,
+  "lon": -73.228535,
   "county_full": "Chittenden County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 85,
   "id": "bread-and-puppet-theater-glover",
   "state_abbr": "VT",
+  "lat": 44.7070889,
+  "lon": -72.1870049,
   "county_full": "Orleans County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 81,
   "id": "dog-mountain-and-the-dog-chapel-st-johnsbury",
   "state_abbr": "VT",
+  "lat": 44.419494,
+  "lon": -72.0156532,
   "county_full": "Caledonia County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 74,
   "id": "vermont-country-store-weston",
   "state_abbr": "VT",
+  "lat": 43.2917153,
+  "lon": -72.7932204,
   "county_full": "Windsor County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 74,
   "id": "vermont-maple-festival-st-albans",
   "state_abbr": "VT",
+  "lat": 44.8107911,
+  "lon": -73.0833607,
   "county_full": "Franklin County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 72,
   "id": "ben-and-jerry-s-factory-tour-waterbury",
   "state_abbr": "VT",
+  "lat": 44.3379214,
+  "lon": -72.7563801,
   "county_full": "Washington County"
  }
 ]

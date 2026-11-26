@@ -23,6 +23,8 @@
   "rating": 94,
   "id": "big-bend-national-park-terlingua",
   "state_abbr": "TX",
+  "lat": 29.321586,
+  "lon": -103.616019,
   "county_full": "Brewster County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 90,
   "id": "chinati-foundation-and-marfa-marfa",
   "state_abbr": "TX",
+  "lat": 30.3117621,
+  "lon": -104.023146,
   "county_full": "Presidio County"
  },
  {
@@ -73,6 +77,8 @@
   "rating": 89,
   "id": "franklin-barbecue-austin",
   "state_abbr": "TX",
+  "lat": 30.2649261,
+  "lon": -97.7474086,
   "county_full": "Travis County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 88,
   "id": "gruene-hall-new-braunfels",
   "state_abbr": "TX",
+  "lat": 29.7028266,
+  "lon": -98.1257348,
   "county_full": "Comal County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 87,
   "id": "barton-springs-pool-austin",
   "state_abbr": "TX",
+  "lat": 30.2649261,
+  "lon": -97.7474086,
   "county_full": "Travis County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 87,
   "id": "broken-spoke-austin",
   "state_abbr": "TX",
+  "lat": 30.2649261,
+  "lon": -97.7474086,
   "county_full": "Travis County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 87,
   "id": "nasa-johnson-space-center-houston",
   "state_abbr": "TX",
+  "lat": 29.7589382,
+  "lon": -95.3676974,
   "county_full": "Harris County"
  },
  {
@@ -202,6 +216,8 @@
   "rating": 86,
   "id": "hamilton-pool-dripping-springs",
   "state_abbr": "TX",
+  "lat": 30.1902067,
+  "lon": -98.0866781,
   "county_full": "Travis County"
  },
  {
@@ -228,6 +244,8 @@
   "rating": 86,
   "id": "palo-duro-canyon-canyon",
   "state_abbr": "TX",
+  "lat": 34.9789849,
+  "lon": -101.9281915,
   "county_full": "Randall County"
  },
  {
@@ -254,6 +272,8 @@
   "rating": 85,
   "id": "enchanted-rock-fredericksburg",
   "state_abbr": "TX",
+  "lat": 30.2752011,
+  "lon": -98.8719843,
   "county_full": "Gillespie County"
  },
  {
@@ -280,6 +300,8 @@
   "rating": 84,
   "id": "congress-avenue-bat-flight-austin",
   "state_abbr": "TX",
+  "lat": 30.2649261,
+  "lon": -97.7474086,
   "county_full": "Travis County"
  },
  {
@@ -306,6 +328,8 @@
   "rating": 84,
   "id": "schlitterbahn-new-braunfels-new-braunfels",
   "state_abbr": "TX",
+  "lat": 29.7028266,
+  "lon": -98.1257348,
   "county_full": "Comal County"
  },
  {
@@ -332,6 +356,8 @@
   "rating": 83,
   "id": "state-fair-of-texas-dallas",
   "state_abbr": "TX",
+  "lat": 32.7762719,
+  "lon": -96.7968559,
   "county_full": "Dallas County"
  },
  {
@@ -358,6 +384,8 @@
   "rating": 83,
   "id": "terlingua-chili-cookoff-terlingua",
   "state_abbr": "TX",
+  "lat": 29.321586,
+  "lon": -103.616019,
   "county_full": "Brewster County"
  },
  {
@@ -384,6 +412,8 @@
   "rating": 82,
   "id": "san-antonio-river-walk-and-the-alamo-san-antonio",
   "state_abbr": "TX",
+  "lat": 29.4246002,
+  "lon": -98.4951405,
   "county_full": "Bexar County"
  },
  {
@@ -410,6 +440,8 @@
   "rating": 81,
   "id": "natural-bridge-caverns-san-antonio",
   "state_abbr": "TX",
+  "lat": 29.4246002,
+  "lon": -98.4951405,
   "county_full": "Comal County"
  },
  {
@@ -436,6 +468,8 @@
   "rating": 79,
   "id": "fort-worth-stockyards-fort-worth",
   "state_abbr": "TX",
+  "lat": 32.753177,
+  "lon": -97.3327459,
   "county_full": "Tarrant County"
  },
  {
@@ -462,6 +496,8 @@
   "rating": 76,
   "id": "cadillac-ranch-amarillo",
   "state_abbr": "TX",
+  "lat": 35.20729,
+  "lon": -101.8371192,
   "county_full": "Potter County"
  },
  {
@@ -488,6 +524,8 @@
   "rating": 76,
   "id": "snake-farm-new-braunfels",
   "state_abbr": "TX",
+  "lat": 29.7028266,
+  "lon": -98.1257348,
   "county_full": "Comal County"
  },
  {
@@ -514,6 +552,8 @@
   "rating": 74,
   "id": "the-big-texan-steak-ranch-amarillo",
   "state_abbr": "TX",
+  "lat": 35.20729,
+  "lon": -101.8371192,
   "county_full": "Potter County"
  },
  {
@@ -540,6 +580,8 @@
   "rating": 73,
   "id": "iguana-fest-port-lavaca",
   "state_abbr": "TX",
+  "lat": 28.6149968,
+  "lon": -96.6260892,
   "county_full": "Calhoun County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 93,
   "id": "metropolitan-museum-of-art-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 90,
   "id": "tenement-museum-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 89,
   "id": "comedy-cellar-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 89,
   "id": "corning-museum-of-glass-corning",
   "state_abbr": "NY",
+  "lat": 42.1435257,
+  "lon": -77.0543408,
   "county_full": "Steuben County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 89,
   "id": "storm-king-art-center-new-windsor",
   "state_abbr": "NY",
+  "lat": 41.4767605,
+  "lon": -74.0237519,
   "county_full": "Orange County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 88,
   "id": "letchworth-state-park-castile",
   "state_abbr": "NY",
+  "lat": 42.6289515,
+  "lon": -78.0544514,
   "county_full": "Wyoming County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 87,
   "id": "high-line-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -202,6 +216,8 @@
   "rating": 87,
   "id": "maid-of-the-mist-niagara-falls",
   "state_abbr": "NY",
+  "lat": 43.084841,
+  "lon": -79.0701786,
   "county_full": "Niagara County"
  },
  {
@@ -228,6 +244,8 @@
   "rating": 86,
   "id": "dia-beacon-beacon",
   "state_abbr": "NY",
+  "lat": 41.5048402,
+  "lon": -73.9695409,
   "county_full": "Dutchess County"
  },
  {
@@ -253,6 +271,8 @@
   "rating": 86,
   "id": "katz-s-delicatessen-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -278,6 +298,8 @@
   "rating": 86,
   "id": "watkins-glen-gorge-trail-watkins-glen",
   "state_abbr": "NY",
+  "lat": 42.3810555,
+  "lon": -76.8705777,
   "county_full": "Schuyler County"
  },
  {
@@ -303,6 +325,8 @@
   "rating": 85,
   "id": "institute-of-culinary-education-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -329,6 +353,8 @@
   "rating": 85,
   "id": "lake-placid-olympic-sites-lake-placid",
   "state_abbr": "NY",
+  "lat": 44.2831194,
+  "lon": -73.9828318,
   "county_full": "Essex County"
  },
  {
@@ -353,6 +379,8 @@
   "rating": 85,
   "id": "murray-s-cheese-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -379,6 +407,8 @@
   "rating": 84,
   "id": "national-baseball-hall-of-fame-cooperstown",
   "state_abbr": "NY",
+  "lat": 42.7006303,
+  "lon": -74.924321,
   "county_full": "Otsego County"
  },
  {
@@ -405,6 +435,8 @@
   "rating": 84,
   "id": "sporting-clays-golf-with-a-shotgun-millbrook",
   "state_abbr": "NY",
+  "lat": 41.7865038,
+  "lon": -73.6921867,
   "county_full": "Dutchess County"
  },
  {
@@ -431,6 +463,8 @@
   "rating": 83,
   "id": "brooklyn-brainery-brooklyn",
   "state_abbr": "NY",
+  "lat": 40.6526006,
+  "lon": -73.9497211,
   "county_full": "Kings County"
  },
  {
@@ -457,6 +491,8 @@
   "rating": 83,
   "id": "brooklyn-glass-brooklyn",
   "state_abbr": "NY",
+  "lat": 40.6526006,
+  "lon": -73.9497211,
   "county_full": "Kings County"
  },
  {
@@ -483,6 +519,8 @@
   "rating": 83,
   "id": "coney-island-cyclone-brooklyn",
   "state_abbr": "NY",
+  "lat": 40.6526006,
+  "lon": -73.9497211,
   "county_full": "Kings County"
  },
  {
@@ -509,6 +547,8 @@
   "rating": 83,
   "id": "house-of-yes-brooklyn",
   "state_abbr": "NY",
+  "lat": 40.6526006,
+  "lon": -73.9497211,
   "county_full": "Kings County"
  },
  {
@@ -535,6 +575,8 @@
   "rating": 82,
   "id": "city-reliquary-brooklyn",
   "state_abbr": "NY",
+  "lat": 40.6526006,
+  "lon": -73.9497211,
   "county_full": "Kings County"
  },
  {
@@ -561,6 +603,8 @@
   "rating": 82,
   "id": "sleepy-hollow-halloween-sleepy-hollow",
   "state_abbr": "NY",
+  "lat": 41.085652,
+  "lon": -73.8584684,
   "county_full": "Westchester County"
  },
  {
@@ -586,6 +630,8 @@
   "rating": 82,
   "id": "the-slipper-room-new-york",
   "state_abbr": "NY",
+  "lat": 40.7127281,
+  "lon": -74.0060152,
   "county_full": "New York County"
  },
  {
@@ -611,6 +657,8 @@
   "rating": 81,
   "id": "bethel-woods-bethel",
   "state_abbr": "NY",
+  "lat": 41.6834224,
+  "lon": -74.8712753,
   "county_full": "Sullivan County"
  }
 ]

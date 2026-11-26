@@ -25,6 +25,8 @@
   "drive_min_clemson": 148,
   "id": "penland-school-of-craft-penland",
   "state_abbr": "NC",
+  "lat": 35.9301208,
+  "lon": -82.1120638,
   "county_full": "Mitchell County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min_clemson": 250,
   "id": "carolina-tiger-rescue-pittsboro",
   "state_abbr": "NC",
+  "lat": 35.7201229,
+  "lon": -79.1771539,
   "county_full": "Chatham County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min_clemson": 84,
   "id": "dupont-state-forest-cedar-mountain",
   "state_abbr": "NC",
+  "lat": 35.2320593,
+  "lon": -82.3256723,
   "county_full": "Transylvania County"
  },
  {
@@ -109,6 +115,8 @@
   "drive_min_clemson": 132,
   "id": "u-s-national-whitewater-center-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -137,6 +145,8 @@
   "drive_min_clemson": 104,
   "id": "cataloochee-elk-valley-waynesville",
   "state_abbr": "NC",
+  "lat": 35.4887476,
+  "lon": -82.9888725,
   "county_full": "Haywood County"
  },
  {
@@ -165,6 +175,8 @@
   "drive_min_clemson": 168,
   "id": "grandfather-mountain-linville",
   "state_abbr": "NC",
+  "lat": 36.0710389,
+  "lon": -81.8717145,
   "county_full": "Avery County"
  },
  {
@@ -193,6 +205,8 @@
   "drive_min_clemson": 213,
   "id": "international-civil-rights-center-and-museum-greensboro",
   "state_abbr": "NC",
+  "lat": 36.0726355,
+  "lon": -79.7919754,
   "county_full": "Guilford County"
  },
  {
@@ -221,6 +235,8 @@
   "drive_min_clemson": 213,
   "id": "elsewhere-museum-greensboro",
   "state_abbr": "NC",
+  "lat": 36.0726355,
+  "lon": -79.7919754,
   "county_full": "Guilford County"
  },
  {
@@ -249,6 +265,8 @@
   "drive_min": 240,
   "id": "john-c-campbell-folk-school-brasstown",
   "state_abbr": "NC",
+  "lat": 35.039895,
+  "lon": -83.9573948,
   "county_full": "Clay County"
  },
  {
@@ -277,6 +295,8 @@
   "drive_min_clemson": 210,
   "id": "north-carolina-zoo-asheboro",
   "state_abbr": "NC",
+  "lat": 35.7079146,
+  "lon": -79.8136446,
   "county_full": "Randolph County"
  },
  {
@@ -305,6 +325,8 @@
   "drive_min_clemson": 132,
   "id": "the-milestone-club-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -333,6 +355,8 @@
   "drive_min_clemson": 154,
   "id": "zmax-dragway-concord",
   "state_abbr": "NC",
+  "lat": 35.4094178,
+  "lon": -80.5800049,
   "county_full": "Cabarrus County"
  },
  {
@@ -361,6 +385,8 @@
   "drive_min_clemson": 257,
   "id": "duke-lemur-center-durham",
   "state_abbr": "NC",
+  "lat": 35.996653,
+  "lon": -78.9018053,
   "county_full": "Durham County"
  },
  {
@@ -389,6 +415,8 @@
   "drive_min_clemson": 87,
   "id": "jackson-county-green-energy-park-dillsboro",
   "state_abbr": "NC",
+  "lat": 35.3700615,
+  "lon": -83.2506638,
   "county_full": "Jackson County"
  },
  {
@@ -417,6 +445,8 @@
   "drive_min_clemson": 158,
   "id": "linville-gorge-linville-falls",
   "state_abbr": "NC",
+  "lat": 35.9497177,
+  "lon": -81.9269129,
   "county_full": "Burke County"
  },
  {
@@ -445,6 +475,8 @@
   "drive_min_clemson": 197,
   "id": "merlefest-wilkesboro",
   "state_abbr": "NC",
+  "lat": 36.1483916,
+  "lon": -81.1517636,
   "county_full": "Wilkes County"
  },
  {
@@ -473,6 +505,8 @@
   "drive_min_clemson": 100,
   "id": "moog-factory-tour-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -501,6 +535,8 @@
   "drive_min_clemson": 154,
   "id": "mooresville-dragway-test-and-tune-mooresville",
   "state_abbr": "NC",
+  "lat": 35.5848596,
+  "lon": -80.8100724,
   "county_full": "Iredell County"
  },
  {
@@ -529,6 +565,8 @@
   "drive_min_clemson": 216,
   "id": "seagrove-pottery-trail-seagrove",
   "state_abbr": "NC",
+  "lat": 35.5408425,
+  "lon": -79.7778859,
   "county_full": "Randolph County"
  },
  {
@@ -557,6 +595,8 @@
   "drive_min_clemson": 100,
   "id": "asheville-pinball-museum-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -585,6 +625,8 @@
   "drive_min_clemson": 100,
   "id": "biltmore-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -613,6 +655,8 @@
   "drive_min_clemson": 132,
   "id": "charlotte-roller-derby-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -640,6 +684,8 @@
   "drive_min": 187,
   "id": "dry-falls-highlands",
   "state_abbr": "NC",
+  "lat": 35.0525909,
+  "lon": -83.1968173,
   "county_full": "Macon County"
  },
  {
@@ -668,6 +714,8 @@
   "drive_min_clemson": 132,
   "id": "hot-glass-alley-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -695,6 +743,8 @@
   "drive_min_clemson": 181,
   "id": "lexington-barbecue-trail-lexington",
   "state_abbr": "NC",
+  "lat": 35.8240265,
+  "lon": -80.2533838,
   "county_full": "Davidson County"
  },
  {
@@ -723,6 +773,8 @@
   "drive_min_clemson": 619,
   "id": "ocracoke-island-ocracoke",
   "state_abbr": "NC",
+  "lat": 35.1301988,
+  "lon": -75.9167097,
   "county_full": "Hyde County"
  },
  {
@@ -751,6 +803,8 @@
   "drive_min_clemson": 370,
   "id": "sylvan-heights-bird-park-scotland-neck",
   "state_abbr": "NC",
+  "lat": 36.1296002,
+  "lon": -77.4202475,
   "county_full": "Halifax County"
  },
  {
@@ -779,6 +833,8 @@
   "drive_min_clemson": 164,
   "id": "carolina-balloonfest-statesville",
   "state_abbr": "NC",
+  "lat": 35.7827676,
+  "lon": -80.8873574,
   "county_full": "Iredell County"
  },
  {
@@ -807,6 +863,8 @@
   "drive_min": 225,
   "id": "cherohala-skyway-robbinsville",
   "state_abbr": "NC",
+  "lat": 35.3227597,
+  "lon": -83.8069988,
   "county_full": "Graham County"
  },
  {
@@ -834,6 +892,8 @@
   "drive_min_clemson": 154,
   "id": "gopro-motorplex-mooresville",
   "state_abbr": "NC",
+  "lat": 35.5848596,
+  "lon": -80.8100724,
   "county_full": "Iredell County"
  },
  {
@@ -862,6 +922,8 @@
   "drive_min_clemson": 104,
   "id": "great-smoky-mountain-railroad-bryson-city",
   "state_abbr": "NC",
+  "lat": 35.4309291,
+  "lon": -83.447381,
   "county_full": "Swain County"
  },
  {
@@ -890,6 +952,8 @@
   "drive_min_clemson": 136,
   "id": "hot-springs-soaking-tubs-hot-springs",
   "state_abbr": "NC",
+  "lat": 35.8923253,
+  "lon": -82.8290318,
   "county_full": "Madison County"
  },
  {
@@ -918,6 +982,8 @@
   "drive_min_clemson": 115,
   "id": "museum-of-the-cherokee-indian-cherokee",
   "state_abbr": "NC",
+  "lat": 35.1184149,
+  "lon": -84.0886181,
   "county_full": "Swain County"
  },
  {
@@ -945,6 +1011,8 @@
   "drive_min_clemson": 104,
   "id": "nantahala-gorge-rafting-bryson-city",
   "state_abbr": "NC",
+  "lat": 35.4309291,
+  "lon": -83.447381,
   "county_full": "Swain County"
  },
  {
@@ -973,6 +1041,8 @@
   "drive_min_clemson": 199,
   "id": "old-salem-winston-salem",
   "state_abbr": "NC",
+  "lat": 36.0998131,
+  "lon": -80.2440518,
   "county_full": "Forsyth County"
  },
  {
@@ -1000,6 +1070,8 @@
   "drive_min_clemson": 67,
   "id": "whitewater-falls-sapphire",
   "state_abbr": "NC",
+  "lat": 35.1070099,
+  "lon": -83.0026687,
   "county_full": "Jackson County"
  },
  {
@@ -1028,6 +1100,8 @@
   "drive_min_clemson": 112,
   "id": "chimney-rock-chimney-rock",
   "state_abbr": "NC",
+  "lat": 35.4512241,
+  "lon": -82.2616865,
   "county_full": "Rutherford County"
  },
  {
@@ -1056,6 +1130,8 @@
   "drive_min_clemson": 105,
   "id": "crowders-mountain-kings-mountain",
   "state_abbr": "NC",
+  "lat": 35.2450607,
+  "lon": -81.3410516,
   "county_full": "Gaston County"
  },
  {
@@ -1084,6 +1160,8 @@
   "drive_min_clemson": 100,
   "id": "grey-eagle-contra-dance-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -1112,6 +1190,8 @@
   "drive_min_clemson": 242,
   "id": "haw-river-ballroom-saxapahaw",
   "state_abbr": "NC",
+  "lat": 35.947868,
+  "lon": -79.3207363,
   "county_full": "Alamance County"
  },
  {
@@ -1139,6 +1219,8 @@
   "drive_min_clemson": 132,
   "id": "price-s-chicken-coop-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -1167,6 +1249,8 @@
   "drive_min_clemson": 214,
   "id": "starworks-star",
   "state_abbr": "NC",
+  "lat": 35.4020838,
+  "lon": -79.7842049,
   "county_full": "Montgomery County"
  },
  {
@@ -1194,6 +1278,8 @@
   "drive_min": 105,
   "id": "the-gorge-zipline-saluda",
   "state_abbr": "NC",
+  "lat": 35.2362264,
+  "lon": -82.3492839,
   "county_full": "Polk County"
  },
  {
@@ -1222,6 +1308,8 @@
   "drive_min": 95,
   "id": "tryon-international-equestrian-center-mill-spring",
   "state_abbr": "NC",
+  "lat": 35.2976655,
+  "lon": -82.1610172,
   "county_full": "Polk County"
  },
  {
@@ -1250,6 +1338,8 @@
   "drive_min_clemson": 313,
   "id": "uss-north-carolina-wilmington",
   "state_abbr": "NC",
+  "lat": 34.2352853,
+  "lon": -77.9487284,
   "county_full": "New Hanover County"
  },
  {
@@ -1277,6 +1367,8 @@
   "drive_min_clemson": 473,
   "id": "wright-brothers-memorial-kill-devil-hills",
   "state_abbr": "NC",
+  "lat": 36.0321186,
+  "lon": -75.6776147,
   "county_full": "Dare County"
  },
  {
@@ -1305,6 +1397,8 @@
   "drive_min_clemson": 138,
   "id": "carolina-raptor-center-huntersville",
   "state_abbr": "NC",
+  "lat": 35.4108278,
+  "lon": -80.8429304,
   "county_full": "Mecklenburg County"
  },
  {
@@ -1333,6 +1427,8 @@
   "drive_min_clemson": 154,
   "id": "lazy-5-ranch-mooresville",
   "state_abbr": "NC",
+  "lat": 35.5848596,
+  "lon": -80.8100724,
   "county_full": "Iredell County"
  },
  {
@@ -1361,6 +1457,8 @@
   "drive_min_clemson": 171,
   "id": "north-carolina-transportation-museum-spencer",
   "state_abbr": "NC",
+  "lat": 35.6920144,
+  "lon": -80.4347596,
   "county_full": "Rowan County"
  },
  {
@@ -1389,6 +1487,8 @@
   "drive_min_clemson": 72,
   "id": "sliding-rock-pisgah-forest",
   "state_abbr": "NC",
+  "lat": 35.2723358,
+  "lon": -82.7062357,
   "county_full": "Transylvania County"
  },
  {
@@ -1417,6 +1517,8 @@
   "drive_min": 202,
   "id": "wayah-bald-franklin",
   "state_abbr": "NC",
+  "lat": 36.1028596,
+  "lon": -78.2787229,
   "county_full": "Macon County"
  },
  {
@@ -1445,6 +1547,8 @@
   "drive_min_clemson": 54,
   "id": "whiteside-mountain-cashiers",
   "state_abbr": "NC",
+  "lat": 35.1122495,
+  "lon": -83.0987781,
   "county_full": "Jackson County"
  },
  {
@@ -1473,6 +1577,8 @@
   "drive_min_clemson": 313,
   "id": "airlie-gardens-wilmington",
   "state_abbr": "NC",
+  "lat": 34.2352853,
+  "lon": -77.9487284,
   "county_full": "New Hanover County"
  },
  {
@@ -1501,6 +1607,8 @@
   "drive_min_clemson": 105,
   "id": "earl-scruggs-center-shelby",
   "state_abbr": "NC",
+  "lat": 35.2923513,
+  "lon": -81.5356463,
   "county_full": "Cleveland County"
  },
  {
@@ -1529,6 +1637,8 @@
   "drive_min": 187,
   "id": "highlands-highlands",
   "state_abbr": "NC",
+  "lat": 35.0525909,
+  "lon": -83.1968173,
   "county_full": "Macon County"
  },
  {
@@ -1557,6 +1667,8 @@
   "drive_min_clemson": 207,
   "id": "korner-s-folly-kernersville",
   "state_abbr": "NC",
+  "lat": 36.1198589,
+  "lon": -80.0736533,
   "county_full": "Forsyth County"
  },
  {
@@ -1585,6 +1697,8 @@
   "drive_min_clemson": 72,
   "id": "looking-glass-falls-pisgah-forest",
   "state_abbr": "NC",
+  "lat": 35.2723358,
+  "lon": -82.7062357,
   "county_full": "Transylvania County"
  },
  {
@@ -1613,6 +1727,8 @@
   "drive_min_clemson": 161,
   "id": "reed-gold-mine-midland",
   "state_abbr": "NC",
+  "lat": 35.2273656,
+  "lon": -80.5006219,
   "county_full": "Cabarrus County"
  },
  {
@@ -1641,6 +1757,8 @@
   "drive_min_clemson": 203,
   "id": "uwharrie-ohv-trails-troy",
   "state_abbr": "NC",
+  "lat": 35.3584743,
+  "lon": -79.8944901,
   "county_full": "Montgomery County"
  },
  {
@@ -1669,6 +1787,8 @@
   "drive_min_clemson": 132,
   "id": "nascar-hall-of-fame-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -1697,6 +1817,8 @@
   "drive_min_clemson": 246,
   "id": "occoneechee-speedway-trail-hillsborough",
   "state_abbr": "NC",
+  "lat": 36.075382,
+  "lon": -79.0993958,
   "county_full": "Orange County"
  },
  {
@@ -1724,6 +1846,8 @@
   "drive_min_clemson": 243,
   "id": "rockingham-dragway-rockingham",
   "state_abbr": "NC",
+  "lat": 36.3926798,
+  "lon": -79.744144,
   "county_full": "Richmond County"
  },
  {
@@ -1752,6 +1876,8 @@
   "drive_min_clemson": 396,
   "id": "tryon-palace-new-bern",
   "state_abbr": "NC",
+  "lat": 35.1068428,
+  "lon": -77.0398762,
   "county_full": "Craven County"
  },
  {
@@ -1780,6 +1906,8 @@
   "drive_min_clemson": 100,
   "id": "asheville-drum-circle-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -1808,6 +1936,8 @@
   "drive_min_clemson": 132,
   "id": "camp-north-end-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -1836,6 +1966,8 @@
   "drive_min_clemson": 120,
   "id": "daniel-stowe-botanical-garden-belmont",
   "state_abbr": "NC",
+  "lat": 35.2438272,
+  "lon": -81.0377322,
   "county_full": "Gaston County"
  },
  {
@@ -1864,6 +1996,8 @@
   "drive_min": 114,
   "id": "flat-rock-playhouse-flat-rock",
   "state_abbr": "NC",
+  "lat": 35.271228,
+  "lon": -82.441508,
   "county_full": "Henderson County"
  },
  {
@@ -1892,6 +2026,8 @@
   "drive_min_clemson": 147,
   "id": "henry-river-mill-village-hildebran",
   "state_abbr": "NC",
+  "lat": 35.7140208,
+  "lon": -81.4220334,
   "county_full": "Burke County"
  },
  {
@@ -1920,6 +2056,8 @@
   "drive_min_clemson": 158,
   "id": "lake-norman-state-park-troutman",
   "state_abbr": "NC",
+  "lat": 35.7005832,
+  "lon": -80.8882314,
   "county_full": "Iredell County"
  },
  {
@@ -1948,6 +2086,8 @@
   "drive_min_clemson": 100,
   "id": "lexington-glassworks-asheville",
   "state_abbr": "NC",
+  "lat": 35.595363,
+  "lon": -82.5508407,
   "county_full": "Buncombe County"
  },
  {
@@ -1975,6 +2115,8 @@
   "drive_min": 103,
   "id": "pearson-s-falls-tryon",
   "state_abbr": "NC",
+  "lat": 35.2081695,
+  "lon": -82.2384479,
   "county_full": "Polk County"
  },
  {
@@ -2003,6 +2145,8 @@
   "drive_min_clemson": 257,
   "id": "the-pinhook-durham",
   "state_abbr": "NC",
+  "lat": 35.996653,
+  "lon": -78.9018053,
   "county_full": "Durham County"
  },
  {
@@ -2031,6 +2175,8 @@
   "drive_min_clemson": 147,
   "id": "murray-s-mill-catawba",
   "state_abbr": "NC",
+  "lat": 35.6740563,
+  "lon": -81.2107215,
   "county_full": "Catawba County"
  },
  {
@@ -2059,6 +2205,8 @@
   "drive_min_clemson": 132,
   "id": "optimist-hall-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -2087,6 +2235,8 @@
   "drive_min_clemson": 112,
   "id": "schiele-museum-of-natural-history-gastonia",
   "state_abbr": "NC",
+  "lat": 35.2622654,
+  "lon": -81.1838186,
   "county_full": "Gaston County"
  },
  {
@@ -2115,6 +2265,8 @@
   "drive_min_clemson": 72,
   "id": "cradle-of-forestry-pisgah-forest",
   "state_abbr": "NC",
+  "lat": 35.2723358,
+  "lon": -82.7062357,
   "county_full": "Transylvania County"
  },
  {
@@ -2143,6 +2295,8 @@
   "drive_min": 116,
   "id": "hendersonville-apple-orchards-hendersonville",
   "state_abbr": "NC",
+  "lat": 35.3187279,
+  "lon": -82.4609528,
   "county_full": "Henderson County"
  },
  {
@@ -2171,6 +2325,8 @@
   "drive_min": 202,
   "id": "franklin-gem-mining-franklin",
   "state_abbr": "NC",
+  "lat": 36.1028596,
+  "lon": -78.2787229,
   "county_full": "Macon County"
  },
  {
@@ -2199,6 +2355,8 @@
   "drive_min_clemson": 154,
   "id": "memory-lane-motorsports-museum-mooresville",
   "state_abbr": "NC",
+  "lat": 35.5848596,
+  "lon": -80.8100724,
   "county_full": "Iredell County"
  },
  {
@@ -2227,6 +2385,8 @@
   "drive_min_clemson": 199,
   "id": "krankies-coffee-winston-salem",
   "state_abbr": "NC",
+  "lat": 36.0998131,
+  "lon": -80.2440518,
   "county_full": "Forsyth County"
  },
  {
@@ -2255,6 +2415,8 @@
   "drive_min_clemson": 132,
   "id": "amelie-s-french-bakery-charlotte",
   "state_abbr": "NC",
+  "lat": 35.2272086,
+  "lon": -80.8430827,
   "county_full": "Mecklenburg County"
  },
  {
@@ -2283,6 +2445,8 @@
   "drive_min_clemson": 396,
   "id": "pepsi-birthplace-new-bern",
   "state_abbr": "NC",
+  "lat": 35.1068428,
+  "lon": -77.0398762,
   "county_full": "Craven County"
  },
  {
@@ -2311,6 +2475,8 @@
   "drive_min_clemson": 204,
   "id": "world-s-largest-chest-of-drawers-high-point",
   "state_abbr": "NC",
+  "lat": 35.9556924,
+  "lon": -80.0053176,
   "county_full": "Guilford County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 97,
   "id": "havasupai-falls-supai",
   "state_abbr": "AZ",
+  "lat": 36.223782,
+  "lon": -112.6929268,
   "county_full": "Coconino County"
  },
  {
@@ -49,6 +51,8 @@
   "customer": "Families with older kids, couples",
   "id": "grand-canyon-mule-ride-grand-canyon",
   "state_abbr": "AZ",
+  "lat": 36.0980405,
+  "lon": -112.0962787,
   "county_full": "Coconino County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 92,
   "id": "antelope-canyon-page",
   "state_abbr": "AZ",
+  "lat": 36.9148305,
+  "lon": -111.457294,
   "county_full": "Coconino County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 92,
   "id": "monument-valley-kayenta",
   "state_abbr": "AZ",
+  "lat": 36.7218463,
+  "lon": -110.253872,
   "county_full": "San Juan County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 91,
   "id": "canyon-de-chelly-chinle",
   "state_abbr": "AZ",
+  "lat": 36.1501434,
+  "lon": -109.5670685,
   "county_full": "Apache County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 90,
   "id": "arizona-sonora-desert-museum-tucson",
   "state_abbr": "AZ",
+  "lat": 32.2228765,
+  "lon": -110.974847,
   "county_full": "Pima County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 88,
   "id": "sedona-vortex-hike-sedona",
   "state_abbr": "AZ",
+  "lat": 34.8688613,
+  "lon": -111.7614394,
   "county_full": "Yavapai County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 86,
   "id": "kartchner-caverns-benson",
   "state_abbr": "AZ",
+  "lat": 31.9679895,
+  "lon": -110.2943314,
   "county_full": "Cochise County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 85,
   "id": "biosphere-2-oracle",
   "state_abbr": "AZ",
+  "lat": 32.6099702,
+  "lon": -110.7651843,
   "county_full": "Pinal County"
  },
  {
@@ -257,6 +275,8 @@
   "rating": 82,
   "id": "bearizona-williams",
   "state_abbr": "AZ",
+  "lat": 35.2508504,
+  "lon": -112.187294,
   "county_full": "Coconino County"
  },
  {
@@ -283,6 +303,8 @@
   "rating": 81,
   "id": "meteor-crater-winslow",
   "state_abbr": "AZ",
+  "lat": 35.0241984,
+  "lon": -110.6973463,
   "county_full": "Coconino County"
  },
  {
@@ -309,6 +331,8 @@
   "rating": 78,
   "id": "mystery-castle-phoenix",
   "state_abbr": "AZ",
+  "lat": 33.4484367,
+  "lon": -112.074141,
   "county_full": "Maricopa County"
  },
  {
@@ -335,6 +359,8 @@
   "rating": 77,
   "id": "rooster-cogburn-ostrich-ranch-picacho",
   "state_abbr": "AZ",
+  "lat": 32.716176,
+  "lon": -111.4953971,
   "county_full": "Pinal County"
  },
  {
@@ -361,6 +387,8 @@
   "rating": 76,
   "id": "tombstone-gunfight-tombstone",
   "state_abbr": "AZ",
+  "lat": 31.714229,
+  "lon": -110.0652028,
   "county_full": "Cochise County"
  }
 ]

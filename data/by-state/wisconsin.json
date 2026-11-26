@@ -23,6 +23,8 @@
   "rating": 90,
   "id": "apostle-islands-ice-caves-bayfield",
   "state_abbr": "WI",
+  "lat": 46.4710241,
+  "lon": -91.1983175,
   "county_full": "Bayfield County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 89,
   "id": "eaa-airventure-oshkosh",
   "state_abbr": "WI",
+  "lat": 44.0206919,
+  "lon": -88.5408574,
   "county_full": "Winnebago County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 87,
   "id": "house-on-the-rock-spring-green",
   "state_abbr": "WI",
+  "lat": 43.1769367,
+  "lon": -90.0680478,
   "county_full": "Iowa County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 86,
   "id": "devil-s-lake-baraboo",
   "state_abbr": "WI",
+  "lat": 43.4704014,
+  "lon": -89.7437844,
   "county_full": "Sauk County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 85,
   "id": "door-county-fish-creek",
   "state_abbr": "WI",
+  "lat": 45.1277686,
+  "lon": -87.2467256,
   "county_full": "Door County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 85,
   "id": "taliesin-spring-green",
   "state_abbr": "WI",
+  "lat": 43.1769367,
+  "lon": -90.0680478,
   "county_full": "Iowa County"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 84,
   "id": "lambeau-field-green-bay",
   "state_abbr": "WI",
+  "lat": 44.5126379,
+  "lon": -88.0125794,
   "county_full": "Brown County"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 84,
   "id": "summerfest-milwaukee",
   "state_abbr": "WI",
+  "lat": 43.0386475,
+  "lon": -87.9090751,
   "county_full": "Milwaukee County"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 83,
   "id": "forevertron-north-freedom",
   "state_abbr": "WI",
+  "lat": 43.4602946,
+  "lon": -89.866476,
   "county_full": "Sauk County"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 82,
   "id": "harley-davidson-museum-milwaukee",
   "state_abbr": "WI",
+  "lat": 43.0386475,
+  "lon": -87.9090751,
   "county_full": "Milwaukee County"
  },
  {
@@ -282,6 +302,8 @@
   "rating": 76,
   "id": "wisconsin-dells-duck-boats-wisconsin-dells",
   "state_abbr": "WI",
+  "lat": 43.6256168,
+  "lon": -89.7715646,
   "county_full": "Columbia County"
  }
 ]

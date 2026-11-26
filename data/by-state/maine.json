@@ -22,6 +22,8 @@
   "rating": 94,
   "id": "cadillac-mountain-sunrise-bar-harbor",
   "state_abbr": "ME",
+  "lat": 44.3876378,
+  "lon": -68.2043361,
   "county_full": "Hancock County"
  },
  {
@@ -47,6 +49,8 @@
   "rating": 92,
   "id": "katahdin-via-the-knife-edge-millinocket",
   "state_abbr": "ME",
+  "lat": 45.6487248,
+  "lon": -68.6849429,
   "county_full": "Piscataquis County"
  },
  {
@@ -73,6 +77,8 @@
   "rating": 91,
   "id": "haystack-mountain-school-of-crafts-deer-isle",
   "state_abbr": "ME",
+  "lat": 44.224044,
+  "lon": -68.677597,
   "county_full": "Hancock County"
  },
  {
@@ -98,6 +104,8 @@
   "rating": 86,
   "id": "schooner-sail-on-penobscot-bay-camden",
   "state_abbr": "ME",
+  "lat": 44.2154945,
+  "lon": -69.0851729,
   "county_full": "Knox County"
  },
  {
@@ -124,6 +132,8 @@
   "rating": 84,
   "id": "common-ground-country-fair-unity",
   "state_abbr": "ME",
+  "lat": 44.6112692,
+  "lon": -69.3344247,
   "county_full": "Waldo County"
  },
  {
@@ -149,6 +159,8 @@
   "rating": 83,
   "id": "lobster-boat-and-trap-haul-portland",
   "state_abbr": "ME",
+  "lat": 43.6573605,
+  "lon": -70.2586618,
   "county_full": "Cumberland County"
  },
  {
@@ -175,6 +187,8 @@
   "rating": 78,
   "id": "maine-state-prison-store-thomaston",
   "state_abbr": "ME",
+  "lat": 44.0789631,
+  "lon": -69.1831887,
   "county_full": "Knox County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 93,
   "id": "chicago-architecture-boat-tour-chicago",
   "state_abbr": "IL",
+  "lat": 41.8755616,
+  "lon": -87.6244212,
   "county_full": "Cook County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 92,
   "id": "art-institute-of-chicago-chicago",
   "state_abbr": "IL",
+  "lat": 41.8755616,
+  "lon": -87.6244212,
   "county_full": "Cook County"
  },
  {
@@ -73,6 +77,8 @@
   "rating": 87,
   "id": "second-city-chicago",
   "state_abbr": "IL",
+  "lat": 41.8755616,
+  "lon": -87.6244212,
   "county_full": "Cook County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 86,
   "id": "cahokia-mounds-collinsville",
   "state_abbr": "IL",
+  "lat": 38.6703267,
+  "lon": -89.9845476,
   "county_full": "Madison County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 86,
   "id": "galloping-ghost-arcade-brookfield",
   "state_abbr": "IL",
+  "lat": 41.8228378,
+  "lon": -87.848085,
   "county_full": "Cook County"
  },
  {
@@ -150,6 +160,8 @@
   "rating": 83,
   "id": "starved-rock-oglesby",
   "state_abbr": "IL",
+  "lat": 41.2953127,
+  "lon": -89.0595266,
   "county_full": "LaSalle County"
  },
  {
@@ -175,6 +187,8 @@
   "rating": 82,
   "id": "garden-of-the-gods-herod",
   "state_abbr": "IL",
+  "lat": 37.5803268,
+  "lon": -88.4361547,
   "county_full": "Saline County"
  },
  {
@@ -200,6 +214,8 @@
   "rating": 82,
   "id": "the-chopping-block-chicago",
   "state_abbr": "IL",
+  "lat": 41.8755616,
+  "lon": -87.6244212,
   "county_full": "Cook County"
  },
  {
@@ -226,6 +242,8 @@
   "rating": 79,
   "id": "superdawg-chicago",
   "state_abbr": "IL",
+  "lat": 41.8755616,
+  "lon": -87.6244212,
   "county_full": "Cook County"
  },
  {
@@ -252,6 +270,8 @@
   "rating": 78,
   "id": "illinois-state-fair-springfield",
   "state_abbr": "IL",
+  "lat": 39.7990175,
+  "lon": -89.6439575,
   "county_full": "Sangamon County"
  }
 ]

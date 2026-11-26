@@ -25,6 +25,8 @@
   "drive_min": 364,
   "id": "barber-vintage-motorsports-museum-birmingham",
   "state_abbr": "AL",
+  "lat": 33.5206824,
+  "lon": -86.8024326,
   "county_full": "Jefferson County"
  },
  {
@@ -52,6 +54,8 @@
   "drive_min": 467,
   "id": "muscle-shoals-sound-studio-tour-sheffield",
   "state_abbr": "AL",
+  "lat": 34.7608701,
+  "lon": -87.6975945,
   "county_full": "Colbert County"
  },
  {
@@ -79,6 +83,8 @@
   "drive_min": 521,
   "id": "uss-alabama-battleship-mobile",
   "state_abbr": "AL",
+  "lat": 30.6913462,
+  "lon": -88.0437509,
   "county_full": "Mobile County"
  },
  {
@@ -106,6 +112,8 @@
   "drive_min": 395,
   "id": "cathedral-caverns-grant",
   "state_abbr": "AL",
+  "lat": 34.5271354,
+  "lon": -86.2529755,
   "county_full": "Marshall County"
  },
  {
@@ -134,6 +142,8 @@
   "drive_min": 364,
   "id": "sloss-furnaces-birmingham",
   "state_abbr": "AL",
+  "lat": 33.5206824,
+  "lon": -86.8024326,
   "county_full": "Jefferson County"
  },
  {
@@ -162,6 +172,8 @@
   "drive_min": 552,
   "id": "hangout-music-festival-gulf-shores",
   "state_abbr": "AL",
+  "lat": 30.2711224,
+  "lon": -87.6893826,
   "county_full": "Baldwin County"
  },
  {
@@ -190,6 +202,8 @@
   "drive_min_clemson": 251,
   "id": "vulcan-park-birmingham",
   "state_abbr": "AL",
+  "lat": 33.5206824,
+  "lon": -86.8024326,
   "county_full": "Jefferson County"
  },
  {
@@ -217,6 +231,8 @@
   "drive_min": 322,
   "id": "coon-dog-cemetery-cherokee",
   "state_abbr": "AL",
+  "lat": 34.1142554,
+  "lon": -85.6004514,
   "county_full": "Colbert County"
  },
  {
@@ -245,6 +261,8 @@
   "drive_min_clemson": 220,
   "id": "toomer-s-drugs-auburn",
   "state_abbr": "AL",
+  "lat": 32.6098566,
+  "lon": -85.4807825,
   "county_full": "Lee County"
  }
 ]

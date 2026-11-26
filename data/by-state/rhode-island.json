@@ -23,6 +23,8 @@
   "rating": 89,
   "id": "waterfire-providence-providence",
   "state_abbr": "RI",
+  "lat": 41.8239891,
+  "lon": -71.4128343,
   "county_full": "Providence County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 88,
   "id": "newport-cliff-walk-newport",
   "state_abbr": "RI",
+  "lat": 41.4899827,
+  "lon": -71.3137707,
   "county_full": "Newport County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 86,
   "id": "newport-folk-festival-newport",
   "state_abbr": "RI",
+  "lat": 41.4899827,
+  "lon": -71.3137707,
   "county_full": "Newport County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 84,
   "id": "block-island-bluffs-new-shoreham",
   "state_abbr": "RI",
+  "lat": 41.1722089,
+  "lon": -71.5573011,
   "county_full": "Washington County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 82,
   "id": "the-steel-yard-providence",
   "state_abbr": "RI",
+  "lat": 41.8239891,
+  "lon": -71.4128343,
   "county_full": "Providence County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 80,
   "id": "international-tennis-hall-of-fame-newport",
   "state_abbr": "RI",
+  "lat": 41.4899827,
+  "lon": -71.3137707,
   "county_full": "Newport County"
  },
  {
@@ -177,6 +189,8 @@
   "rating": 78,
   "id": "federal-hill-food-crawl-providence",
   "state_abbr": "RI",
+  "lat": 41.8239891,
+  "lon": -71.4128343,
   "county_full": "Providence County"
  }
 ]

@@ -25,6 +25,8 @@
   "drive_min": 177,
   "id": "chattooga-river-rafting-long-creek",
   "state_abbr": "SC",
+  "lat": 34.7734263,
+  "lon": -83.2590482,
   "county_full": "Oconee County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min": 140,
   "id": "clemson-memorial-stadium-game-day-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min": 163,
   "id": "lake-jocassee-and-devils-fork-salem",
   "state_abbr": "SC",
+  "lat": 34.8898161,
+  "lon": -82.9765364,
   "county_full": "Oconee County"
  },
  {
@@ -109,6 +115,8 @@
   "drive_min_clemson": 173,
   "id": "24-hours-of-lemons-kershaw",
   "state_abbr": "SC",
+  "lat": 34.3334398,
+  "lon": -80.5669895,
   "county_full": "Kershaw County"
  },
  {
@@ -137,6 +145,8 @@
   "drive_min_clemson": 265,
   "id": "botany-bay-edisto-island",
   "state_abbr": "SC",
+  "lat": 32.5593516,
+  "lon": -80.2950995,
   "county_full": "Charleston County"
  },
  {
@@ -165,6 +175,8 @@
   "drive_min": 124,
   "id": "pretty-place-chapel-cleveland",
   "state_abbr": "SC",
+  "lat": 35.0723394,
+  "lon": -82.5273456,
   "county_full": "Greenville County"
  },
  {
@@ -193,6 +205,8 @@
   "drive_min_clemson": 228,
   "id": "bowens-island-restaurant-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
  },
  {
@@ -220,6 +234,8 @@
   "drive_min_clemson": 173,
   "id": "carolina-motorsports-park-track-day-kershaw",
   "state_abbr": "SC",
+  "lat": 34.3334398,
+  "lon": -80.5669895,
   "county_full": "Kershaw County"
  },
  {
@@ -248,7 +264,39 @@
   "drive_min_clemson": 228,
   "id": "middleton-place-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
+ },
+ {
+  "name": "Aiken Polo Club Sunday Polo",
+  "city": "Aiken",
+  "county": "Aiken",
+  "state": "South Carolina",
+  "cats": [
+   "Sports",
+   "Animals",
+   "Community"
+  ],
+  "cost": "$5–$15",
+  "cost_num": 10,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Sundays, Sep–Nov and spring",
+  "start": "1882",
+  "company": "Aiken Polo Club",
+  "party": "2–8",
+  "customer": "Families, couples, groups",
+  "unique": "Sunday polo on grass at one of the oldest clubs in the country, where you park on the rail, bring a chair and watch four chukkers with a drink.",
+  "buzz": "Cheap, relaxed and genuinely social. People bring picnics and dogs, and first timers are told to walk the field at halftime to stomp divots.",
+  "rating": 86,
+  "drive_min": 128,
+  "drive_min_clemson": 153,
+  "id": "aiken-polo-club-sunday-polo-aiken",
+  "state_abbr": "SC",
+  "lat": 33.5723191,
+  "lon": -81.6182086,
+  "county_full": "Aiken County"
  },
  {
   "name": "BMW Performance Center",
@@ -275,6 +323,8 @@
   "drive_min_clemson": 58,
   "id": "bmw-performance-center-greer",
   "state_abbr": "SC",
+  "lat": 34.9381361,
+  "lon": -82.2272119,
   "county_full": "Spartanburg County"
  },
  {
@@ -303,6 +353,8 @@
   "drive_min_clemson": 141,
   "id": "carolina-adventure-world-winnsboro",
   "state_abbr": "SC",
+  "lat": 34.3807012,
+  "lon": -81.0864776,
   "county_full": "Fairfield County"
  },
  {
@@ -331,6 +383,8 @@
   "drive_min_clemson": 228,
   "id": "charleston-rainbow-row-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
  },
  {
@@ -358,6 +412,8 @@
   "drive_min_clemson": 228,
   "id": "drayton-hall-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
  },
  {
@@ -386,6 +442,38 @@
   "drive_min_clemson": 289,
   "id": "hunting-island-lighthouse-hunting-island",
   "state_abbr": "SC",
+  "lat": 32.3663052,
+  "lon": -80.4445497,
+  "county_full": "Beaufort County"
+ },
+ {
+  "name": "Penn Center",
+  "city": "St. Helena Island",
+  "county": "Beaufort",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Museum",
+   "Community"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 8,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Mon–Sat",
+  "start": "1862",
+  "company": "Penn Center",
+  "party": "1–4",
+  "customer": "History people, families, students",
+  "unique": "The campus of one of the first schools for freed enslaved people, later a retreat where Martin Luther King Jr. wrote and rested, with a museum of Gullah Geechee life.",
+  "buzz": "The museum is small and the story is enormous. Docents who grew up on the island make the visit, and the sea island setting is part of the lesson.",
+  "rating": 86,
+  "drive_min": 261,
+  "drive_min_clemson": 322,
+  "id": "penn-center-st-helena-island",
+  "state_abbr": "SC",
+  "lat": 32.3868607,
+  "lon": -80.5606622,
   "county_full": "Beaufort County"
  },
  {
@@ -414,6 +502,8 @@
   "drive_min_clemson": 34,
   "id": "swamp-rabbit-trail-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -442,6 +532,8 @@
   "drive_min_clemson": 289,
   "id": "atalaya-castle-murrells-inlet",
   "state_abbr": "SC",
+  "lat": 33.5499183,
+  "lon": -79.0430329,
   "county_full": "Georgetown County"
  },
  {
@@ -470,6 +562,8 @@
   "drive_min_clemson": 208,
   "id": "darlington-raceway-darlington",
   "state_abbr": "SC",
+  "lat": 34.3609331,
+  "lon": -79.9438572,
   "county_full": "Darlington County"
  },
  {
@@ -498,7 +592,69 @@
   "drive_min_clemson": 34,
   "id": "falls-park-on-the-reedy-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
+ },
+ {
+  "name": "Hobcaw Barony",
+  "city": "Georgetown",
+  "county": "Georgetown",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Nature",
+   "Tour"
+  ],
+  "cost": "$25–$40",
+  "cost_num": 32,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Weekday tours by reservation",
+  "start": "1718",
+  "company": "Hobcaw Barony",
+  "party": "1–6",
+  "customer": "History people, birders, couples",
+  "unique": "A 16,000 acre former rice and hunting estate on Winyah Bay, with a 1930s mansion, slave cabins, a salt marsh and a research reserve that keeps the whole peninsula undeveloped.",
+  "buzz": "The tour is the only way in and it is worth booking ahead. People come for the Baruch family story and stay for the eagles and the untouched marsh.",
+  "rating": 85,
+  "drive_min": 227,
+  "drive_min_clemson": 321,
+  "id": "hobcaw-barony-georgetown",
+  "state_abbr": "SC",
+  "lat": 33.4392245,
+  "lon": -79.3343041,
+  "county_full": "Georgetown County"
+ },
+ {
+  "name": "Mepkin Abbey",
+  "city": "Moncks Corner",
+  "county": "Berkeley",
+  "state": "South Carolina",
+  "cats": [
+   "Spiritual",
+   "Garden",
+   "History"
+  ],
+  "cost": "Free–$10",
+  "cost_num": 5,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun, closed some feast days",
+  "start": "1949",
+  "company": "Mepkin Abbey",
+  "party": "1–4",
+  "customer": "Quiet seekers, gardeners, history people",
+  "unique": "A Trappist monastery on the Cooper River with formal gardens, a church by Clare Boothe Luce and a small cemetery, where monks still keep the hours of prayer.",
+  "buzz": "Visitors are asked to respect the silence and dress modestly. The gardens and the river walk are the draw, and the gift shop sells mushrooms grown on the abbey farm.",
+  "rating": 85,
+  "drive_min": 175,
+  "drive_min_clemson": 225,
+  "id": "mepkin-abbey-moncks-corner",
+  "state_abbr": "SC",
+  "lat": 33.1960027,
+  "lon": -80.0131374,
+  "county_full": "Berkeley County"
  },
  {
   "name": "Table Rock Trail",
@@ -525,6 +681,8 @@
   "drive_min_clemson": 26,
   "id": "table-rock-trail-pickens",
   "state_abbr": "SC",
+  "lat": 34.8882592,
+  "lon": -82.7193824,
   "county_full": "Pickens County"
  },
  {
@@ -553,7 +711,69 @@
   "drive_min_clemson": 24,
   "id": "wendell-s-country-dance-hall-anderson",
   "state_abbr": "SC",
+  "lat": 34.5258335,
+  "lon": -82.652962,
   "county_full": "Anderson County"
+ },
+ {
+  "name": "ACE Basin",
+  "city": "Edisto Island",
+  "county": "Colleton",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Water",
+   "Wildlife"
+  ],
+  "cost": "Free–$50",
+  "cost_num": 20,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "—",
+  "company": "ACE Basin NERR",
+  "party": "1–6",
+  "customer": "Paddlers, birders, photographers",
+  "unique": "One of the largest undeveloped estuaries on the Atlantic coast, where the Ashepoo, Combahee and Edisto rivers braid through marsh and cypress, and dolphins and eagles are routine.",
+  "buzz": "Launch at Bennett's Point or Edisto and follow the marked paddling trail. There is no visitor center at the heart of it, which is why it stays quiet.",
+  "rating": 84,
+  "drive_min": 216,
+  "drive_min_clemson": 265,
+  "id": "ace-basin-edisto-island",
+  "state_abbr": "SC",
+  "lat": 32.5593516,
+  "lon": -80.2950995,
+  "county_full": "Colleton County"
+ },
+ {
+  "name": "Aiken Training Track",
+  "city": "Aiken",
+  "county": "Aiken",
+  "state": "South Carolina",
+  "cats": [
+   "Animals",
+   "Sports",
+   "Morning"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Oct–May, early mornings",
+  "start": "1941",
+  "company": "Aiken Training Track",
+  "party": "1–4",
+  "customer": "Horse people, photographers, early risers",
+  "unique": "A working thoroughbred training track where you can watch young horses gallop at dawn from the rail, on a track that has prepared winners for decades.",
+  "buzz": "Go before eight and stay quiet; trainers are working, not performing. Photographers love the fog and the light, and there is no admission.",
+  "rating": 84,
+  "drive_min": 128,
+  "drive_min_clemson": 153,
+  "id": "aiken-training-track-aiken",
+  "state_abbr": "SC",
+  "lat": 33.5723191,
+  "lon": -81.6182086,
+  "county_full": "Aiken County"
  },
  {
   "name": "Brookgreen Gardens",
@@ -581,6 +801,8 @@
   "drive_min_clemson": 289,
   "id": "brookgreen-gardens-murrells-inlet",
   "state_abbr": "SC",
+  "lat": 33.5499183,
+  "lon": -79.0430329,
   "county_full": "Georgetown County"
  },
  {
@@ -609,6 +831,8 @@
   "drive_min_clemson": 52,
   "id": "caesars-head-state-park-cleveland",
   "state_abbr": "SC",
+  "lat": 35.0723394,
+  "lon": -82.5273456,
   "county_full": "Greenville County"
  },
  {
@@ -637,6 +861,8 @@
   "drive_min_clemson": 252,
   "id": "charleston-tea-garden-wadmalaw-island",
   "state_abbr": "SC",
+  "lat": 32.6735131,
+  "lon": -80.17843,
   "county_full": "Charleston County"
  },
  {
@@ -665,7 +891,39 @@
   "drive_min_clemson": 149,
   "id": "congaree-national-park-hopkins",
   "state_abbr": "SC",
+  "lat": 33.9043212,
+  "lon": -80.8770342,
   "county_full": "Richland County"
+ },
+ {
+  "name": "Edisto Beach State Park",
+  "city": "Edisto Island",
+  "county": "Colleton",
+  "state": "South Carolina",
+  "cats": [
+   "Beach",
+   "Nature",
+   "Camping"
+  ],
+  "cost": "$5–$8",
+  "cost_num": 6,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1935",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Families, campers, beach people",
+  "unique": "A beach park with maritime forest trails, a boneyard beach of fallen trees and a campground under live oaks, plus an environmental learning center.",
+  "buzz": "The beach is quieter than the resort islands and the forest trail is a real hike. Loggerhead turtles nest in summer, and the rangers run night walks.",
+  "rating": 84,
+  "drive_min": 216,
+  "drive_min_clemson": 265,
+  "id": "edisto-beach-state-park-edisto-island",
+  "state_abbr": "SC",
+  "lat": 32.5593516,
+  "lon": -80.2950995,
+  "county_full": "Colleton County"
  },
  {
   "name": "Giordana Velodrome",
@@ -693,6 +951,8 @@
   "drive_min_clemson": 131,
   "id": "giordana-velodrome-rock-hill",
   "state_abbr": "SC",
+  "lat": 34.9248667,
+  "lon": -81.0250784,
   "county_full": "York County"
  },
  {
@@ -721,6 +981,8 @@
   "drive_min_clemson": 26,
   "id": "hagood-mill-pickens",
   "state_abbr": "SC",
+  "lat": 34.8882592,
+  "lon": -82.7193824,
   "county_full": "Pickens County"
  },
  {
@@ -749,6 +1011,8 @@
   "drive_min_clemson": 153,
   "id": "hitchcock-woods-aiken",
   "state_abbr": "SC",
+  "lat": 33.5723191,
+  "lon": -81.6182086,
   "county_full": "Aiken County"
  },
  {
@@ -777,6 +1041,8 @@
   "drive_min": 124,
   "id": "jones-gap-and-rainbow-falls-cleveland",
   "state_abbr": "SC",
+  "lat": 35.0723394,
+  "lon": -82.5273456,
   "county_full": "Greenville County"
  },
  {
@@ -805,6 +1071,8 @@
   "drive_min_clemson": 144,
   "id": "landsford-canal-state-park-catawba",
   "state_abbr": "SC",
+  "lat": 34.8529233,
+  "lon": -80.9111862,
   "county_full": "Lancaster County"
  },
  {
@@ -832,6 +1100,8 @@
   "drive_min_clemson": 228,
   "id": "old-charleston-jail-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
  },
  {
@@ -860,6 +1130,8 @@
   "drive_min_clemson": 231,
   "id": "patriots-point-mount-pleasant",
   "state_abbr": "SC",
+  "lat": 32.7927956,
+  "lon": -79.8678322,
   "county_full": "Charleston County"
  },
  {
@@ -888,6 +1160,8 @@
   "drive_min_clemson": 129,
   "id": "riverbanks-zoo-and-garden-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -916,6 +1190,8 @@
   "drive_min_clemson": 252,
   "id": "angel-oak-johns-island",
   "state_abbr": "SC",
+  "lat": 32.7024009,
+  "lon": -80.0481488,
   "county_full": "Charleston County"
  },
  {
@@ -944,7 +1220,68 @@
   "drive_min_clemson": 141,
   "id": "anne-springs-close-greenway-fort-mill",
   "state_abbr": "SC",
+  "lat": 35.0073697,
+  "lon": -80.9450759,
   "county_full": "York County"
+ },
+ {
+  "name": "Charleston Cooks",
+  "city": "Charleston",
+  "county": "Charleston",
+  "state": "South Carolina",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$75–$150",
+  "cost_num": 110,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "Charleston Cooks",
+  "party": "2–6",
+  "customer": "Couples, families, visitors",
+  "unique": "A hands on cooking school where you make shrimp and grits, she crab soup and benne wafers, then eat what you cooked with wine.",
+  "buzz": "The classes are relaxed and the recipes are actually repeatable at home; book the lowcountry classics session.",
+  "rating": 83,
+  "drive_min": 178,
+  "drive_min_clemson": 228,
+  "id": "charleston-cooks-charleston",
+  "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
+  "county_full": "Charleston County"
+ },
+ {
+  "name": "Cypress Gardens",
+  "city": "Moncks Corner",
+  "county": "Berkeley",
+  "state": "South Carolina",
+  "cats": [
+   "Garden",
+   "Water",
+   "Nature"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1932",
+  "company": "Berkeley County",
+  "party": "2–6",
+  "customer": "Families, couples, photographers",
+  "unique": "A cypress swamp garden dug by hand in the 1930s, with a flat bottom boat that poles you through trees draped in Spanish moss and water black as ink.",
+  "buzz": "The boat ride is short but memorable, and the butterfly house is a hit with kids. Go early for still water and fewer people.",
+  "rating": 83,
+  "drive_min": 175,
+  "drive_min_clemson": 225,
+  "id": "cypress-gardens-moncks-corner",
+  "state_abbr": "SC",
+  "lat": 33.1960027,
+  "lon": -80.0131374,
+  "county_full": "Berkeley County"
  },
  {
   "name": "Gulches Off Road Park",
@@ -971,6 +1308,8 @@
   "drive_min_clemson": 81,
   "id": "gulches-off-road-park-laurens",
   "state_abbr": "SC",
+  "lat": 34.4646451,
+  "lon": -81.9944042,
   "county_full": "Laurens County"
  },
  {
@@ -999,6 +1338,8 @@
   "drive_min_clemson": 242,
   "id": "morris-island-lighthouse-folly-beach",
   "state_abbr": "SC",
+  "lat": 32.6554848,
+  "lon": -79.9407802,
   "county_full": "Charleston County"
  },
  {
@@ -1027,6 +1368,8 @@
   "drive_min_clemson": 20,
   "id": "oconee-station-and-station-cove-falls-walhalla",
   "state_abbr": "SC",
+  "lat": 34.7648176,
+  "lon": -83.0640417,
   "county_full": "Oconee County"
  },
  {
@@ -1055,6 +1398,8 @@
   "drive_min": 158,
   "id": "stumphouse-tunnel-and-issaqueena-falls-walhalla",
   "state_abbr": "SC",
+  "lat": 34.7648176,
+  "lon": -83.0640417,
   "county_full": "Oconee County"
  },
  {
@@ -1083,6 +1428,8 @@
   "drive_min_clemson": 34,
   "id": "the-foundry-at-judson-mill-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -1111,6 +1458,8 @@
   "drive_min_clemson": 36,
   "id": "anderson-motor-speedway-williamston",
   "state_abbr": "SC",
+  "lat": 34.6184471,
+  "lon": -82.4779053,
   "county_full": "Anderson County"
  },
  {
@@ -1139,6 +1488,8 @@
   "drive_min_clemson": 256,
   "id": "beaufort-historic-district-beaufort",
   "state_abbr": "SC",
+  "lat": 32.3850708,
+  "lon": -80.6923169,
   "county_full": "Beaufort County"
  },
  {
@@ -1167,6 +1518,8 @@
   "drive_min_clemson": 219,
   "id": "bee-city-honeybee-farm-cottageville",
   "state_abbr": "SC",
+  "lat": 32.9371083,
+  "lon": -80.480981,
   "county_full": "Colleton County"
  },
  {
@@ -1195,7 +1548,39 @@
   "drive_min_clemson": 156,
   "id": "camden-cup-camden",
   "state_abbr": "SC",
+  "lat": 34.2464886,
+  "lon": -80.6070391,
   "county_full": "Kershaw County"
+ },
+ {
+  "name": "Carolina Sandhills National Wildlife Refuge",
+  "city": "McBee",
+  "county": "Chesterfield",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Wildlife",
+   "Drive"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round, daylight",
+  "start": "1939",
+  "company": "US Fish and Wildlife Service",
+  "party": "1–4",
+  "customer": "Birders, photographers, families",
+  "unique": "Forty five thousand acres of longleaf pine and sandhill scrub managed for the red cockaded woodpecker, with a driving loop, trails and a wiregrass understory that blooms after fire.",
+  "buzz": "The woodpeckers are the prize and the staff will tell you which clusters are active. Bring water, ticks are real, and the auto tour is the easiest way in.",
+  "rating": 82,
+  "drive_min": 92,
+  "drive_min_clemson": 232,
+  "id": "carolina-sandhills-national-wildlife-refuge-mcbee",
+  "state_abbr": "SC",
+  "lat": 34.4687188,
+  "lon": -80.2560046,
+  "county_full": "Chesterfield County"
  },
  {
   "name": "Carowinds",
@@ -1223,6 +1608,8 @@
   "drive_min_clemson": 141,
   "id": "carowinds-fort-mill",
   "state_abbr": "SC",
+  "lat": 35.0073697,
+  "lon": -80.9450759,
   "county_full": "York County"
  },
  {
@@ -1251,6 +1638,8 @@
   "drive_min_clemson": 207,
   "id": "colonial-dorchester-state-historic-site-summerville",
   "state_abbr": "SC",
+  "lat": 33.0186699,
+  "lon": -80.1762704,
   "county_full": "Dorchester County"
  },
  {
@@ -1278,7 +1667,69 @@
   "drive_min": 63,
   "id": "cowpens-national-battlefield-gaffney",
   "state_abbr": "SC",
+  "lat": 35.0717945,
+  "lon": -81.6498195,
   "county_full": "Cherokee County"
+ },
+ {
+  "name": "Cypress Wetlands",
+  "city": "Walterboro",
+  "county": "Colleton",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Walk",
+   "Birding"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "—",
+  "company": "City of Walterboro",
+  "party": "NA",
+  "customer": "Families, birders, photographers",
+  "unique": "A boardwalk loop through a cypress swamp in the middle of town, with nesting herons, egrets and ibis a few feet from the rail.",
+  "buzz": "Free, flat and easy, and the birds are ridiculously close. Go in spring for chicks, and bring binoculars rather than a flash.",
+  "rating": 82,
+  "drive_min": 191,
+  "drive_min_clemson": 252,
+  "id": "cypress-wetlands-walterboro",
+  "state_abbr": "SC",
+  "lat": 32.9021377,
+  "lon": -80.6672631,
+  "county_full": "Colleton County"
+ },
+ {
+  "name": "Edgefield Pottery",
+  "city": "Edgefield",
+  "county": "Edgefield",
+  "state": "South Carolina",
+  "cats": [
+   "Maker",
+   "Art",
+   "History"
+  ],
+  "cost": "Free–$40",
+  "cost_num": 15,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Thu–Sat",
+  "start": "—",
+  "company": "Edgefield Pottery",
+  "party": "1–4",
+  "customer": "Craft people, collectors, history people",
+  "unique": "A working studio carrying on the Edgefield district stoneware tradition, the alkaline glazed pottery made by enslaved potters in the 1800s, including vessels by Dave the Potter.",
+  "buzz": "The owner explains the glaze chemistry and the history without a script. Pieces are priced for users, not collectors, and face jugs are the signature.",
+  "rating": 82,
+  "drive_min": 144,
+  "drive_min_clemson": 128,
+  "id": "edgefield-pottery-edgefield",
+  "state_abbr": "SC",
+  "lat": 33.7635851,
+  "lon": -81.9759066,
+  "county_full": "Edgefield County"
  },
  {
   "name": "Greenville County Museum of Art",
@@ -1305,6 +1756,8 @@
   "drive_min_clemson": 34,
   "id": "greenville-county-museum-of-art-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -1333,6 +1786,8 @@
   "drive_min_clemson": 267,
   "id": "hampton-plantation-mcclellanville",
   "state_abbr": "SC",
+  "lat": 33.0882246,
+  "lon": -79.4611743,
   "county_full": "Charleston County"
  },
  {
@@ -1361,6 +1816,8 @@
   "drive_min_clemson": 124,
   "id": "historic-brattonsville-mcconnells",
   "state_abbr": "SC",
+  "lat": 34.8687483,
+  "lon": -81.2275817,
   "county_full": "York County"
  },
  {
@@ -1389,6 +1846,8 @@
   "drive_min_clemson": 130,
   "id": "new-brookland-tavern-west-columbia",
   "state_abbr": "SC",
+  "lat": 33.991869,
+  "lon": -81.0640341,
   "county_full": "Lexington County"
  },
  {
@@ -1417,6 +1876,8 @@
   "drive_min_clemson": 34,
   "id": "paris-mountain-state-park-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -1445,6 +1906,8 @@
   "drive_min": 138,
   "id": "sassafras-mountain-pickens",
   "state_abbr": "SC",
+  "lat": 34.8882592,
+  "lon": -82.7193824,
   "county_full": "Pickens County"
  },
  {
@@ -1473,6 +1936,8 @@
   "drive_min_clemson": 231,
   "id": "shem-creek-mount-pleasant",
   "state_abbr": "SC",
+  "lat": 32.7927956,
+  "lon": -79.8678322,
   "county_full": "Charleston County"
  },
  {
@@ -1501,6 +1966,8 @@
   "drive_min_clemson": 70,
   "id": "wade-s-restaurant-spartanburg",
   "state_abbr": "SC",
+  "lat": 34.9498007,
+  "lon": -81.9320157,
   "county_full": "Spartanburg County"
  },
  {
@@ -1529,6 +1996,8 @@
   "drive_min_clemson": 131,
   "id": "catawba-indian-nation-cultural-center-rock-hill",
   "state_abbr": "SC",
+  "lat": 34.9248667,
+  "lon": -81.0250784,
   "county_full": "York County"
  },
  {
@@ -1556,6 +2025,8 @@
   "drive_min_clemson": 228,
   "id": "fort-sumter-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
  },
  {
@@ -1584,6 +2055,8 @@
   "drive_min_clemson": 95,
   "id": "newberry-opera-house-newberry",
   "state_abbr": "SC",
+  "lat": 34.3266879,
+  "lon": -81.5830086,
   "county_full": "Newberry County"
  },
  {
@@ -1612,6 +2085,8 @@
   "drive_min_clemson": 282,
   "id": "od-arcade-and-lounge-north-myrtle-beach",
   "state_abbr": "SC",
+  "lat": 33.8278405,
+  "lon": -78.6800323,
   "county_full": "Horry County"
  },
  {
@@ -1640,7 +2115,39 @@
   "drive_min": 171,
   "id": "oconee-state-park-mountain-rest",
   "state_abbr": "SC",
+  "lat": 34.8692629,
+  "lon": -83.1532229,
   "county_full": "Oconee County"
+ },
+ {
+  "name": "Poinsett State Park",
+  "city": "Wedgefield",
+  "county": "Sumter",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Hike",
+   "Camping"
+  ],
+  "cost": "$3–$6",
+  "cost_num": 5,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1930s",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Hikers, families, campers",
+  "unique": "A CCC park where the coastal plain meets the sandhills, with steep ravines, a mill pond, mountain laurel and a trail network that feels more mountain than lowcountry.",
+  "buzz": "People call it the mountains of the midlands, and the ravines are a real climb. The CCC cabins are simple and cheap.",
+  "rating": 81,
+  "drive_min": 125,
+  "drive_min_clemson": 205,
+  "id": "poinsett-state-park-wedgefield",
+  "state_abbr": "SC",
+  "lat": 33.8926563,
+  "lon": -80.5181403,
+  "county_full": "Sumter County"
  },
  {
   "name": "Savannah National Wildlife Refuge",
@@ -1668,6 +2175,8 @@
   "drive_min_clemson": 249,
   "id": "savannah-national-wildlife-refuge-hardeeville",
   "state_abbr": "SC",
+  "lat": 32.2802665,
+  "lon": -81.0726108,
   "county_full": "Jasper County"
  },
  {
@@ -1696,6 +2205,8 @@
   "drive_min_clemson": 34,
   "id": "shoeless-joe-jackson-museum-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -1724,6 +2235,8 @@
   "drive_min_clemson": 185,
   "id": "swan-lake-iris-gardens-sumter",
   "state_abbr": "SC",
+  "lat": 33.9204354,
+  "lon": -80.3414693,
   "county_full": "Sumter County"
  },
  {
@@ -1752,6 +2265,8 @@
   "drive_min_clemson": 24,
   "id": "anderson-jockey-lot-anderson",
   "state_abbr": "SC",
+  "lat": 34.5258335,
+  "lon": -82.652962,
   "county_full": "Anderson County"
  },
  {
@@ -1780,6 +2295,8 @@
   "drive_min_clemson": 163,
   "id": "boykin-mill-boykin",
   "state_abbr": "SC",
+  "lat": 34.116819,
+  "lon": -80.5814709,
   "county_full": "Kershaw County"
  },
  {
@@ -1807,7 +2324,38 @@
   "drive_min_clemson": 228,
   "id": "callie-s-hot-little-biscuit-charleston",
   "state_abbr": "SC",
+  "lat": 32.7884363,
+  "lon": -79.9399309,
   "county_full": "Charleston County"
+ },
+ {
+  "name": "Edisto River Paddle",
+  "city": "Bamberg",
+  "county": "Bamberg",
+  "state": "South Carolina",
+  "cats": [
+   "Water",
+   "Nature"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 45,
+  "dur": "3–5 hrs",
+  "dur_h": 4,
+  "dates": "Apr–Oct",
+  "start": "—",
+  "company": "Local outfitters",
+  "party": "2–6",
+  "customer": "Paddlers, families with teens, couples",
+  "unique": "A slow blackwater river through cypress and sandbars, with rope swings, kingfishers and water the color of strong tea.",
+  "buzz": "The current does most of the work, so it suits beginners. Bring a dry bag and bug spray, and check the gauge before a summer trip.",
+  "rating": 80,
+  "drive_min": 168,
+  "drive_min_clemson": 229,
+  "id": "edisto-river-paddle-bamberg",
+  "state_abbr": "SC",
+  "lat": 33.2130154,
+  "lon": -81.0166235,
+  "county_full": "Bamberg County"
  },
  {
   "name": "Fluor Field",
@@ -1835,6 +2383,8 @@
   "drive_min_clemson": 34,
   "id": "fluor-field-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -1863,6 +2413,8 @@
   "drive_min_clemson": 140,
   "id": "lake-murray-sailing-lexington",
   "state_abbr": "SC",
+  "lat": 33.8986841,
+  "lon": -81.275054,
   "county_full": "Lexington County"
  },
  {
@@ -1891,6 +2443,8 @@
   "drive_min_clemson": 129,
   "id": "nickelodeon-theatre-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -1919,6 +2473,8 @@
   "drive_min_clemson": 26,
   "id": "nine-times-forest-pickens",
   "state_abbr": "SC",
+  "lat": 34.8882592,
+  "lon": -82.7193824,
   "county_full": "Pickens County"
  },
  {
@@ -1946,6 +2502,8 @@
   "drive_min": 123,
   "id": "ninety-six-national-historic-site-ninety-six",
   "state_abbr": "SC",
+  "lat": 34.1751267,
+  "lon": -82.024007,
   "county_full": "Greenwood County"
  },
  {
@@ -1974,6 +2532,8 @@
   "drive_min_clemson": 225,
   "id": "old-santee-canal-park-moncks-corner",
   "state_abbr": "SC",
+  "lat": 33.1960027,
+  "lon": -80.0131374,
   "county_full": "Berkeley County"
  },
  {
@@ -2002,7 +2562,69 @@
   "drive_min": 135,
   "id": "pendleton-historic-district-pendleton",
   "state_abbr": "SC",
+  "lat": 34.6508092,
+  "lon": -82.7820663,
   "county_full": "Anderson County"
+ },
+ {
+  "name": "Rose Hill Plantation State Historic Site",
+  "city": "Union",
+  "county": "Union",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Architecture",
+   "Walk"
+  ],
+  "cost": "$3–$5",
+  "cost_num": 4,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Thu–Mon",
+  "start": "1832",
+  "company": "SC State Parks",
+  "party": "1–4",
+  "customer": "History people, families, photographers",
+  "unique": "The Greek Revival home of Governor William Gist, who signed the ordinance of secession, with original outbuildings, a boxwood garden and a slave cemetery in the woods.",
+  "buzz": "The house tour is honest about the enslaved people who built and ran the place, which makes it more than a pretty facade. The grounds are free to walk.",
+  "rating": 80,
+  "drive_min": 72,
+  "drive_min_clemson": 100,
+  "id": "rose-hill-plantation-state-historic-site-union",
+  "state_abbr": "SC",
+  "lat": 34.6941696,
+  "lon": -81.642794,
+  "county_full": "Union County"
+ },
+ {
+  "name": "Santee State Park",
+  "city": "Santee",
+  "county": "Orangeburg",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Water",
+   "Camping"
+  ],
+  "cost": "$3–$6",
+  "cost_num": 5,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1930s",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Families, anglers, campers",
+  "unique": "Cabins on piers over Lake Marion, a cypress lake famous for huge catfish and bass, with a nature trail and a swimming area.",
+  "buzz": "The over water cabins are the novelty and they book months out. Fishing is the main event, and the lake is shallow and stump filled, so follow the markers.",
+  "rating": 80,
+  "drive_min": 131,
+  "drive_min_clemson": 181,
+  "id": "santee-state-park-santee",
+  "state_abbr": "SC",
+  "lat": 33.4751634,
+  "lon": -80.4864764,
+  "county_full": "Orangeburg County"
  },
  {
   "name": "South Carolina Botanical Garden",
@@ -2030,6 +2652,8 @@
   "drive_min": 140,
   "id": "south-carolina-botanical-garden-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
  },
  {
@@ -2058,6 +2682,8 @@
   "drive_min_clemson": 70,
   "id": "the-beacon-drive-in-spartanburg",
   "state_abbr": "SC",
+  "lat": 34.9498007,
+  "lon": -81.9320157,
   "county_full": "Spartanburg County"
  },
  {
@@ -2086,7 +2712,69 @@
   "drive_min_clemson": 0,
   "id": "clemson-experimental-forest-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
+ },
+ {
+  "name": "Givhans Ferry State Park",
+  "city": "Ridgeville",
+  "county": "Dorchester",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Water",
+   "Camping"
+  ],
+  "cost": "$3–$6",
+  "cost_num": 5,
+  "dur": "2–4 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "1934",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Paddlers, families, campers",
+  "unique": "A CCC park where the Edisto River bends into a sand beach and a bluff, with cabins, a ferry landing and a paddling put in.",
+  "buzz": "The river is the reason. Tubing and kayaking are easy here, and the cabins overlook the water. Summer weekends fill up.",
+  "rating": 79,
+  "drive_min": 180,
+  "drive_min_clemson": 242,
+  "id": "givhans-ferry-state-park-ridgeville",
+  "state_abbr": "SC",
+  "lat": 33.0966193,
+  "lon": -80.3152808,
+  "county_full": "Dorchester County"
+ },
+ {
+  "name": "Hickory Knob State Resort Park",
+  "city": "McCormick",
+  "county": "McCormick",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Golf",
+   "Camping"
+  ],
+  "cost": "$5–$150",
+  "cost_num": 30,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year round",
+  "start": "1980s",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Families, golfers, anglers",
+  "unique": "A state resort park on a peninsula in Lake Thurmond with a lodge, cabins, a golf course and a marina, the kind of place where you can sleep inside a park without a tent.",
+  "buzz": "The lake views are the sell and the lodge is dated but comfortable. Golf and fishing packages are the local secret.",
+  "rating": 79,
+  "drive_min": 153,
+  "drive_min_clemson": 96,
+  "id": "hickory-knob-state-resort-park-mccormick",
+  "state_abbr": "SC",
+  "lat": 33.8795325,
+  "lon": -82.2797719,
+  "county_full": "McCormick County"
  },
  {
   "name": "Keowee-Toxaway State Park",
@@ -2114,6 +2802,8 @@
   "drive_min_clemson": 36,
   "id": "keowee-toxaway-state-park-sunset",
   "state_abbr": "SC",
+  "lat": 34.9776127,
+  "lon": -82.7990259,
   "county_full": "Pickens County"
  },
  {
@@ -2142,6 +2832,8 @@
   "drive_min_clemson": 77,
   "id": "musgrove-mill-state-historic-site-clinton",
   "state_abbr": "SC",
+  "lat": 34.4726277,
+  "lon": -81.8806562,
   "county_full": "Laurens County"
  },
  {
@@ -2170,6 +2862,8 @@
   "drive_min_clemson": 181,
   "id": "santee-national-wildlife-refuge-santee",
   "state_abbr": "SC",
+  "lat": 33.4751634,
+  "lon": -80.4864764,
   "county_full": "Clarendon County"
  },
  {
@@ -2198,6 +2892,8 @@
   "drive_min_clemson": 130,
   "id": "savage-craft-ale-works-west-columbia",
   "state_abbr": "SC",
+  "lat": 33.991869,
+  "lon": -81.0640341,
   "county_full": "Lexington County"
  },
  {
@@ -2226,6 +2922,8 @@
   "drive_min_clemson": 34,
   "id": "sigal-music-museum-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -2254,6 +2952,8 @@
   "drive_min_clemson": 44,
   "id": "sunrift-adventures-travelers-rest",
   "state_abbr": "SC",
+  "lat": 34.9676167,
+  "lon": -82.4434548,
   "county_full": "Greenville County"
  },
  {
@@ -2282,6 +2982,8 @@
   "drive_min_clemson": 141,
   "id": "the-peach-stand-fort-mill",
   "state_abbr": "SC",
+  "lat": 35.0073697,
+  "lon": -80.9450759,
   "county_full": "York County"
  },
  {
@@ -2309,6 +3011,8 @@
   "drive_min_clemson": 129,
   "id": "woodrow-wilson-family-home-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -2336,7 +3040,39 @@
   "drive_min_clemson": 58,
   "id": "abbeville-opera-house-abbeville",
   "state_abbr": "SC",
+  "lat": 34.2264946,
+  "lon": -82.4364036,
   "county_full": "Abbeville County"
+ },
+ {
+  "name": "Black Mingo Creek",
+  "city": "Kingstree",
+  "county": "Williamsburg",
+  "state": "South Carolina",
+  "cats": [
+   "Water",
+   "Nature",
+   "History"
+  ],
+  "cost": "Free–$40",
+  "cost_num": 20,
+  "dur": "2–4 hrs",
+  "dur_h": 3,
+  "dates": "Mar–Nov",
+  "start": "—",
+  "company": "Self guided or local outfitters",
+  "party": "2–4",
+  "customer": "Paddlers, history people, birders",
+  "unique": "A blackwater creek through cypress and tupelo where a 1780 Revolutionary War skirmish was fought, with sandbars, snakes and no houses in sight.",
+  "buzz": "The paddle is quiet and the history is a bonus. The creek is narrow and fallen trees are common, so go with someone who knows the water.",
+  "rating": 78,
+  "drive_min": 159,
+  "drive_min_clemson": 233,
+  "id": "black-mingo-creek-kingstree",
+  "state_abbr": "SC",
+  "lat": 33.6676643,
+  "lon": -79.8306265,
+  "county_full": "Williamsburg County"
  },
  {
   "name": "Brooks Center for the Performing Arts",
@@ -2364,6 +3100,8 @@
   "drive_min_clemson": 0,
   "id": "brooks-center-for-the-performing-arts-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
  },
  {
@@ -2392,6 +3130,8 @@
   "drive_min_clemson": 34,
   "id": "coffee-underground-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -2420,6 +3160,8 @@
   "drive_min_clemson": 129,
   "id": "columbia-canal-and-riverfront-park-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -2447,6 +3189,8 @@
   "drive_min_clemson": 129,
   "id": "columbia-museum-of-art-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -2475,6 +3219,8 @@
   "drive_min": 140,
   "id": "esso-club-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
  },
  {
@@ -2503,7 +3249,99 @@
   "drive_min_clemson": 199,
   "id": "florence-county-museum-florence",
   "state_abbr": "SC",
+  "lat": 34.1984435,
+  "lon": -79.7671658,
   "county_full": "Florence County"
+ },
+ {
+  "name": "Flowertown Festival",
+  "city": "Summerville",
+  "county": "Dorchester",
+  "state": "South Carolina",
+  "cats": [
+   "Festival",
+   "Art",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "First weekend in April",
+  "start": "1970s",
+  "company": "Summerville Family YMCA",
+  "party": "2–8",
+  "customer": "Families, craft people, locals",
+  "unique": "One of the largest arts and crafts festivals in the state, spread through azalea filled streets, with a children's carnival and food from church kitchens.",
+  "buzz": "Go early for parking and expect crowds by noon. The plant sale and the local pottery are the picks.",
+  "rating": 78,
+  "drive_min": 158,
+  "drive_min_clemson": 207,
+  "id": "flowertown-festival-summerville",
+  "state_abbr": "SC",
+  "lat": 33.0186699,
+  "lon": -80.1762704,
+  "county_full": "Dorchester County"
+ },
+ {
+  "name": "God's Acre Healing Springs",
+  "city": "Barnwell",
+  "county": "Barnwell",
+  "state": "South Carolina",
+  "cats": [
+   "Quirky",
+   "Spiritual",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year round",
+  "start": "—",
+  "company": "Self guided",
+  "party": "NA",
+  "customer": "Locals, road trippers, believers",
+  "unique": "A roadside spring on land deeded to God, where people fill jugs from four pipes for free and the water is said to have healed soldiers since the Revolution.",
+  "buzz": "People drive out with a trunk full of containers. Nobody agrees on the science, but the ritual and the cold water are real, and the little church across the road is worth a look.",
+  "rating": 78,
+  "drive_min": 200,
+  "drive_min_clemson": 237,
+  "id": "god-s-acre-healing-springs-barnwell",
+  "state_abbr": "SC",
+  "lat": 33.2641009,
+  "lon": -81.4190808,
+  "county_full": "Barnwell County"
+ },
+ {
+  "name": "Hopelands Gardens",
+  "city": "Aiken",
+  "county": "Aiken",
+  "state": "South Carolina",
+  "cats": [
+   "Garden",
+   "Walk",
+   "Relaxing"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, daylight",
+  "start": "—",
+  "company": "City of Aiken",
+  "party": "NA",
+  "customer": "Families, couples, retirees",
+  "unique": "A free 14 acre garden of live oaks, camellias and reflecting pools behind the old Hope estate, with a thoroughbred stable that is now an events hall.",
+  "buzz": "Quiet, shaded and free, which makes it the default picnic spot in town. The Christmas lights in December are a local tradition.",
+  "rating": 78,
+  "drive_min": 128,
+  "drive_min_clemson": 153,
+  "id": "hopelands-gardens-aiken",
+  "state_abbr": "SC",
+  "lat": 33.5723191,
+  "lon": -81.6182086,
+  "county_full": "Aiken County"
  },
  {
   "name": "Horry County Museum",
@@ -2531,7 +3369,69 @@
   "drive_min_clemson": 259,
   "id": "horry-county-museum-conway",
   "state_abbr": "SC",
+  "lat": 33.8360035,
+  "lon": -79.0478143,
   "county_full": "Horry County"
+ },
+ {
+  "name": "I.P. Stanback Museum",
+  "city": "Orangeburg",
+  "county": "Orangeburg",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "Art",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, some weekends",
+  "start": "—",
+  "company": "South Carolina State University",
+  "party": "1–4",
+  "customer": "Art people, history people, students",
+  "unique": "A university museum with African American art, civil rights history and a collection that includes works by Romare Bearden and Elizabeth Catlett.",
+  "buzz": "A serious collection in a small city, and free. Check the academic calendar for hours.",
+  "rating": 78,
+  "drive_min": 114,
+  "drive_min_clemson": 163,
+  "id": "i-p-stanback-museum-orangeburg",
+  "state_abbr": "SC",
+  "lat": 33.4918203,
+  "lon": -80.8556476,
+  "county_full": "Orangeburg County"
+ },
+ {
+  "name": "Kalmia Gardens",
+  "city": "Hartsville",
+  "county": "Darlington",
+  "state": "South Carolina",
+  "cats": [
+   "Garden",
+   "Nature",
+   "Walk"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, daylight",
+  "start": "1930s",
+  "company": "Coker University",
+  "party": "1–4",
+  "customer": "Walkers, gardeners, families",
+  "unique": "A thirty acre garden on a bluff over Black Creek, with mountain laurel, camellias and a boardwalk down to a blackwater swamp in the middle of a small city.",
+  "buzz": "Free and rarely crowded, with a steep boardwalk that is worth the climb back. Spring azaleas are the peak.",
+  "rating": 78,
+  "drive_min": 114,
+  "drive_min_clemson": 238,
+  "id": "kalmia-gardens-hartsville",
+  "state_abbr": "SC",
+  "lat": 34.3740431,
+  "lon": -80.0734005,
+  "county_full": "Darlington County"
  },
  {
   "name": "Kings Mountain State Park",
@@ -2559,6 +3459,8 @@
   "drive_min_clemson": 93,
   "id": "kings-mountain-state-park-blacksburg",
   "state_abbr": "SC",
+  "lat": 35.1212409,
+  "lon": -81.5159246,
   "county_full": "York County"
  },
  {
@@ -2586,6 +3488,8 @@
   "drive_min_clemson": 81,
   "id": "laurens-county-speedway-laurens",
   "state_abbr": "SC",
+  "lat": 34.4646451,
+  "lon": -81.9944042,
   "county_full": "Laurens County"
  },
  {
@@ -2614,7 +3518,39 @@
   "drive_min_clemson": 131,
   "id": "legal-remedy-brewing-rock-hill",
   "state_abbr": "SC",
+  "lat": 34.9248667,
+  "lon": -81.0250784,
   "county_full": "York County"
+ },
+ {
+  "name": "National Wild Turkey Federation Headquarters",
+  "city": "Edgefield",
+  "county": "Edgefield",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Museum",
+   "Wildlife"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Weekdays, grounds daily",
+  "start": "1973",
+  "company": "NWTF",
+  "party": "1–4",
+  "customer": "Hunters, birders, families",
+  "unique": "The national headquarters of the wild turkey conservation group, with a visitor center of turkey mounts and calls, a walking trail and a managed wetland behind the building.",
+  "buzz": "It sounds niche and turns out to be genuinely interesting, especially the restoration story. The trail is short and free, and staff are happy to talk.",
+  "rating": 78,
+  "drive_min": 144,
+  "drive_min_clemson": 128,
+  "id": "national-wild-turkey-federation-headquarters-edgefield",
+  "state_abbr": "SC",
+  "lat": 33.7635851,
+  "lon": -81.9759066,
+  "county_full": "Edgefield County"
  },
  {
   "name": "Rivers Bridge State Historic Site",
@@ -2642,6 +3578,8 @@
   "drive_min_clemson": 202,
   "id": "rivers-bridge-state-historic-site-ehrhardt",
   "state_abbr": "SC",
+  "lat": 33.0968264,
+  "lon": -81.0142681,
   "county_full": "Bamberg County"
  },
  {
@@ -2670,7 +3608,39 @@
   "drive_min_clemson": 100,
   "id": "rose-hill-plantation-union",
   "state_abbr": "SC",
+  "lat": 34.6941696,
+  "lon": -81.642794,
   "county_full": "Union County"
+ },
+ {
+  "name": "Webb Wildlife Center",
+  "city": "Garnett",
+  "county": "Hampton",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Wildlife",
+   "Birding"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round, daylight",
+  "start": "—",
+  "company": "SC DNR",
+  "party": "1–4",
+  "customer": "Birders, hunters, photographers",
+  "unique": "Eight thousand acres of pine flatwoods and wetlands managed for quail, turkey and songbirds, with driving roads and a birding trail through working habitat.",
+  "buzz": "Spring mornings are loud with birds and the driving loops are easy. Hunting seasons close some areas, so check the schedule before a fall visit.",
+  "rating": 78,
+  "drive_min": 221,
+  "drive_min_clemson": 282,
+  "id": "webb-wildlife-center-garnett",
+  "state_abbr": "SC",
+  "lat": 32.6062884,
+  "lon": -81.245382,
+  "county_full": "Hampton County"
  },
  {
   "name": "Cheraw State Park",
@@ -2698,6 +3668,8 @@
   "drive_min_clemson": 219,
   "id": "cheraw-state-park-cheraw",
   "state_abbr": "SC",
+  "lat": 34.6976564,
+  "lon": -79.8833971,
   "county_full": "Chesterfield County"
  },
  {
@@ -2726,6 +3698,8 @@
   "drive_min_clemson": 160,
   "id": "congaree-bluffs-heritage-preserve-st-matthews",
   "state_abbr": "SC",
+  "lat": 33.664876,
+  "lon": -80.7778681,
   "county_full": "Calhoun County"
  },
  {
@@ -2754,6 +3728,8 @@
   "drive_min_clemson": 259,
   "id": "conway-riverwalk-conway",
   "state_abbr": "SC",
+  "lat": 33.8360035,
+  "lon": -79.0478143,
   "county_full": "Horry County"
  },
  {
@@ -2782,6 +3758,8 @@
   "drive_min_clemson": 34,
   "id": "horizon-records-greenville",
   "state_abbr": "SC",
+  "lat": 34.851354,
+  "lon": -82.3984882,
   "county_full": "Greenville County"
  },
  {
@@ -2810,6 +3788,8 @@
   "drive_min_clemson": 131,
   "id": "museum-of-york-county-rock-hill",
   "state_abbr": "SC",
+  "lat": 34.9248667,
+  "lon": -81.0250784,
   "county_full": "York County"
  },
  {
@@ -2838,6 +3818,8 @@
   "drive_min_clemson": 88,
   "id": "park-seed-gardens-greenwood",
   "state_abbr": "SC",
+  "lat": 34.1489805,
+  "lon": -82.112882,
   "county_full": "Greenwood County"
  },
  {
@@ -2866,6 +3848,8 @@
   "drive_min_clemson": 140,
   "id": "peachtree-rock-heritage-preserve-lexington",
   "state_abbr": "SC",
+  "lat": 33.8986841,
+  "lon": -81.275054,
   "county_full": "Lexington County"
  },
  {
@@ -2894,6 +3878,8 @@
   "drive_min_clemson": 38,
   "id": "pumpkintown-opry-pumpkintown",
   "state_abbr": "SC",
+  "lat": 35.0028962,
+  "lon": -82.6529075,
   "county_full": "Pickens County"
  },
  {
@@ -2922,6 +3908,8 @@
   "drive_min_clemson": 104,
   "id": "dreher-island-state-park-prosperity",
   "state_abbr": "SC",
+  "lat": 34.2098669,
+  "lon": -81.5338576,
   "county_full": "Newberry County"
  },
  {
@@ -2950,7 +3938,39 @@
   "drive_min_clemson": 163,
   "id": "edisto-memorial-gardens-orangeburg",
   "state_abbr": "SC",
+  "lat": 33.4918203,
+  "lon": -80.8556476,
   "county_full": "Orangeburg County"
+ },
+ {
+  "name": "Hell Hole Swamp Festival",
+  "city": "Jamestown",
+  "county": "Berkeley",
+  "state": "South Carolina",
+  "cats": [
+   "Festival",
+   "Community",
+   "Quirky"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "First weekend in May",
+  "start": "—",
+  "company": "Town of Jamestown",
+  "party": "2–8",
+  "customer": "Families, locals, road trippers",
+  "unique": "A small town festival named for the swamp where bootleggers once ran liquor, with a parade, gospel singing, a snake show and the kind of food stalls that only exist one weekend a year.",
+  "buzz": "It is deliberately unpolished and that is the appeal. Parking is in fields, bring cash, and stay for the gospel program.",
+  "rating": 76,
+  "drive_min": 213,
+  "drive_min_clemson": 302,
+  "id": "hell-hole-swamp-festival-jamestown",
+  "state_abbr": "SC",
+  "lat": 33.2860005,
+  "lon": -79.6925716,
+  "county_full": "Berkeley County"
  },
  {
   "name": "Hub City Bookshop",
@@ -2978,6 +3998,8 @@
   "drive_min_clemson": 70,
   "id": "hub-city-bookshop-spartanburg",
   "state_abbr": "SC",
+  "lat": 34.9498007,
+  "lon": -81.9320157,
   "county_full": "Spartanburg County"
  },
  {
@@ -3006,7 +4028,99 @@
   "drive_min_clemson": 128,
   "id": "national-wild-turkey-federation-museum-edgefield",
   "state_abbr": "SC",
+  "lat": 33.7635851,
+  "lon": -81.9759066,
   "county_full": "Edgefield County"
+ },
+ {
+  "name": "Pee Dee State Farmers Market",
+  "city": "Florence",
+  "county": "Florence",
+  "state": "South Carolina",
+  "cats": [
+   "Food & Drink",
+   "Market",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round, peak summer",
+  "start": "—",
+  "company": "SC Department of Agriculture",
+  "party": "NA",
+  "customer": "Families, cooks, locals",
+  "unique": "A year round farmers market on the highway with produce sheds, a restaurant and a garden center, where growers from the Pee Dee sell what they picked that morning.",
+  "buzz": "The tomatoes and peaches in summer are the reason, and the restaurant serves a proper vegetable plate. Go early on Saturday.",
+  "rating": 76,
+  "drive_min": 126,
+  "drive_min_clemson": 199,
+  "id": "pee-dee-state-farmers-market-florence",
+  "state_abbr": "SC",
+  "lat": 34.1984435,
+  "lon": -79.7671658,
+  "county_full": "Florence County"
+ },
+ {
+  "name": "Sumter Iris Festival",
+  "city": "Sumter",
+  "county": "Sumter",
+  "state": "South Carolina",
+  "cats": [
+   "Festival",
+   "Garden",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Memorial Day weekend",
+  "start": "—",
+  "company": "City of Sumter",
+  "party": "2–8",
+  "customer": "Families, gardeners, locals",
+  "unique": "A festival built around the iris beds at Swan Lake, with a parade, arts and crafts, a car show and food stalls under the cypress.",
+  "buzz": "Parking is the challenge and the morning is the time to go. The iris display is the reason, and the car show draws a crowd.",
+  "rating": 76,
+  "drive_min": 111,
+  "drive_min_clemson": 185,
+  "id": "sumter-iris-festival-sumter",
+  "state_abbr": "SC",
+  "lat": 33.9204354,
+  "lon": -80.3414693,
+  "county_full": "Sumter County"
+ },
+ {
+  "name": "Sumter National Forest, Enoree District",
+  "city": "Union",
+  "county": "Union",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Hike",
+   "Off road"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1936",
+  "company": "US Forest Service",
+  "party": "1–6",
+  "customer": "Hikers, hunters, off road drivers",
+  "unique": "A working national forest of pine and hardwood with trails, old mill sites and dirt roads that connect the Piedmont to the mountains.",
+  "buzz": "The forest is quiet and free, with good spring wildflowers and hunting in season. Some roads are rough, so check conditions.",
+  "rating": 76,
+  "drive_min": 72,
+  "drive_min_clemson": 100,
+  "id": "sumter-national-forest-enoree-district-union",
+  "state_abbr": "SC",
+  "lat": 34.6941696,
+  "lon": -81.642794,
+  "county_full": "Union County"
  },
  {
   "name": "Zesto",
@@ -3034,6 +4148,8 @@
   "drive_min_clemson": 129,
   "id": "zesto-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -3061,6 +4177,8 @@
   "drive_min_clemson": 24,
   "id": "anderson-county-museum-anderson",
   "state_abbr": "SC",
+  "lat": 34.5258335,
+  "lon": -82.652962,
   "county_full": "Anderson County"
  },
  {
@@ -3089,7 +4207,39 @@
   "drive_min_clemson": 70,
   "id": "chapman-cultural-center-spartanburg",
   "state_abbr": "SC",
+  "lat": 34.9498007,
+  "lon": -81.9320157,
   "county_full": "Spartanburg County"
+ },
+ {
+  "name": "Cheraw Historic District",
+  "city": "Cheraw",
+  "county": "Chesterfield",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Walk",
+   "Architecture"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1700s",
+  "company": "Self guided",
+  "party": "NA",
+  "customer": "History people, walkers, couples",
+  "unique": "A river town of antebellum houses, a 19th century market hall and a theater where jazz bands played on the chitlin circuit, all within a few blocks.",
+  "buzz": "Pick up a walking tour map at the chamber and look for the Dizzy Gillespie marker; he was born here. The town is quiet, so the architecture is the show.",
+  "rating": 75,
+  "drive_min": 89,
+  "drive_min_clemson": 219,
+  "id": "cheraw-historic-district-cheraw",
+  "state_abbr": "SC",
+  "lat": 34.6976564,
+  "lon": -79.8833971,
+  "county_full": "Chesterfield County"
  },
  {
   "name": "Clemson Area African American Museum",
@@ -3117,6 +4267,8 @@
   "drive_min_clemson": 0,
   "id": "clemson-area-african-american-museum-clemson",
   "state_abbr": "SC",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
   "county_full": "Pickens County"
  },
  {
@@ -3144,6 +4296,8 @@
   "drive_min_clemson": 223,
   "id": "dillon-motor-speedway-dillon",
   "state_abbr": "SC",
+  "lat": 34.4014089,
+  "lon": -79.3864339,
   "county_full": "Dillon County"
  },
  {
@@ -3171,6 +4325,8 @@
   "drive_min_clemson": 129,
   "id": "drake-s-duck-in-columbia",
   "state_abbr": "SC",
+  "lat": 34.000754,
+  "lon": -81.0352313,
   "county_full": "Richland County"
  },
  {
@@ -3199,7 +4355,39 @@
   "drive_min_clemson": 28,
   "id": "lake-hartwell-state-park-fair-play",
   "state_abbr": "SC",
+  "lat": 34.5112129,
+  "lon": -82.9854253,
   "county_full": "Oconee County"
+ },
+ {
+  "name": "Lake Wateree State Park",
+  "city": "Winnsboro",
+  "county": "Fairfield",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Fishing",
+   "Camping"
+  ],
+  "cost": "$3–$6",
+  "cost_num": 5,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1970s",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Anglers, families, campers",
+  "unique": "A peninsula of campsites and fishing piers on a 13,000 acre lake, with a nature trail through hardwood and a reputation for crappie and catfish.",
+  "buzz": "The lake is the point and the park is simple. Sunsets over the water from the pier are the postcard, and the campground is quiet midweek.",
+  "rating": 75,
+  "drive_min": 54,
+  "drive_min_clemson": 141,
+  "id": "lake-wateree-state-park-winnsboro",
+  "state_abbr": "SC",
+  "lat": 34.3807012,
+  "lon": -81.0864776,
+  "county_full": "Fairfield County"
  },
  {
   "name": "Andrew Jackson State Park",
@@ -3227,6 +4415,8 @@
   "drive_min_clemson": 169,
   "id": "andrew-jackson-state-park-lancaster",
   "state_abbr": "SC",
+  "lat": 34.6628067,
+  "lon": -80.700546,
   "county_full": "Lancaster County"
  },
  {
@@ -3255,7 +4445,68 @@
   "drive_min_clemson": 96,
   "id": "baker-creek-state-park-mccormick",
   "state_abbr": "SC",
+  "lat": 33.8795325,
+  "lon": -82.2797719,
   "county_full": "McCormick County"
+ },
+ {
+  "name": "Estill Watermelon Festival",
+  "city": "Estill",
+  "county": "Hampton",
+  "state": "South Carolina",
+  "cats": [
+   "Festival",
+   "Food & Drink",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "June",
+  "start": "—",
+  "company": "Town of Estill",
+  "party": "2–8",
+  "customer": "Families, locals, road trippers",
+  "unique": "A one day festival in a watermelon town with a parade, a seed spitting contest, free slices and a street dance.",
+  "buzz": "It is small, hot and exactly what a town festival should be. Bring cash for the vendors and sunscreen.",
+  "rating": 74,
+  "drive_min": 206,
+  "drive_min_clemson": 266,
+  "id": "estill-watermelon-festival-estill",
+  "state_abbr": "SC",
+  "lat": 32.754891,
+  "lon": -81.2420467,
+  "county_full": "Hampton County"
+ },
+ {
+  "name": "Jasper County Museum",
+  "city": "Ridgeland",
+  "county": "Jasper",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Jasper County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum in a former school with Gullah Geechee baskets, rice culture tools and the story of the Port Royal experiment, where freed people first bought the land they farmed.",
+  "buzz": "The Gullah history is the heart of it, and the volunteers speak from family memory. Call for hours.",
+  "rating": 74,
+  "drive_min": 225,
+  "drive_min_clemson": 286,
+  "id": "jasper-county-museum-ridgeland",
+  "state_abbr": "SC",
+  "lat": 32.4807435,
+  "lon": -80.980386,
+  "county_full": "Jasper County"
  },
  {
   "name": "Lee State Park",
@@ -3283,7 +4534,39 @@
   "drive_min_clemson": 172,
   "id": "lee-state-park-bishopville",
   "state_abbr": "SC",
+  "lat": 34.2182107,
+  "lon": -80.2484056,
   "county_full": "Lee County"
+ },
+ {
+  "name": "Mars Bluff Bomb Crater",
+  "city": "Florence",
+  "county": "Florence",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Quirky",
+   "Roadside"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year round, daylight",
+  "start": "1958",
+  "company": "Self guided",
+  "party": "NA",
+  "customer": "History nerds, road trippers",
+  "unique": "The site where a B-47 accidentally dropped an unarmed nuclear bomb on a family's backyard in 1958, leaving a crater and a story that sounds invented and is not.",
+  "buzz": "The crater is on private land, so you visit the marker and the story rather than the hole. Read up before you go; the local museum has the photographs.",
+  "rating": 74,
+  "drive_min": 126,
+  "drive_min_clemson": 199,
+  "id": "mars-bluff-bomb-crater-florence",
+  "state_abbr": "SC",
+  "lat": 34.1984435,
+  "lon": -79.7671658,
+  "county_full": "Florence County"
  },
  {
   "name": "Pickens County Museum",
@@ -3311,6 +4594,8 @@
   "drive_min_clemson": 26,
   "id": "pickens-county-museum-pickens",
   "state_abbr": "SC",
+  "lat": 34.8882592,
+  "lon": -82.7193824,
   "county_full": "Pickens County"
  },
  {
@@ -3339,7 +4624,38 @@
   "drive_min_clemson": 24,
   "id": "sadlers-creek-state-park-anderson",
   "state_abbr": "SC",
+  "lat": 34.5258335,
+  "lon": -82.652962,
   "county_full": "Anderson County"
+ },
+ {
+  "name": "Sumter County Museum",
+  "city": "Sumter",
+  "county": "Sumter",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sat",
+  "start": "—",
+  "company": "Sumter County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A museum campus with a 19th century house, a carriage house and exhibits on the tobacco and cotton economy, plus a research library.",
+  "buzz": "The house tour is the heart of it and the staff are generous with local history. Check hours before a weekday visit.",
+  "rating": 74,
+  "drive_min": 111,
+  "drive_min_clemson": 185,
+  "id": "sumter-county-museum-sumter",
+  "state_abbr": "SC",
+  "lat": 33.9204354,
+  "lon": -80.3414693,
+  "county_full": "Sumter County"
  },
  {
   "name": "The White Home",
@@ -3366,7 +4682,39 @@
   "drive_min_clemson": 131,
   "id": "the-white-home-rock-hill",
   "state_abbr": "SC",
+  "lat": 34.9248667,
+  "lon": -81.0250784,
   "county_full": "York County"
+ },
+ {
+  "name": "Abbeville Historic District",
+  "city": "Abbeville",
+  "county": "Abbeville",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Walk",
+   "Architecture"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "1800s",
+  "company": "Self guided",
+  "party": "NA",
+  "customer": "History people, couples, walkers",
+  "unique": "A courthouse square that claims to be the birthplace of the secession movement, ringed by 19th century storefronts, a Confederate monument and a granite marker where the first secession meeting was held in 1860.",
+  "buzz": "It is a quiet, handsome square rather than a museum, and the self guided plaque walk takes an hour. Pair it with the opera house and lunch on the square.",
+  "rating": 73,
+  "drive_min": 142,
+  "drive_min_clemson": 58,
+  "id": "abbeville-historic-district-abbeville",
+  "state_abbr": "SC",
+  "lat": 34.2264946,
+  "lon": -82.4364036,
+  "county_full": "Abbeville County"
  },
  {
   "name": "Barnwell State Park",
@@ -3394,6 +4742,8 @@
   "drive_min_clemson": 182,
   "id": "barnwell-state-park-blackville",
   "state_abbr": "SC",
+  "lat": 33.3551173,
+  "lon": -81.2707218,
   "county_full": "Barnwell County"
  },
  {
@@ -3422,6 +4772,8 @@
   "drive_min_clemson": 42,
   "id": "belton-depot-belton",
   "state_abbr": "SC",
+  "lat": 34.5228881,
+  "lon": -82.4942948,
   "county_full": "Anderson County"
  },
  {
@@ -3450,6 +4802,8 @@
   "drive_min_clemson": 133,
   "id": "chester-state-park-chester",
   "state_abbr": "SC",
+  "lat": 34.6859896,
+  "lon": -81.1545073,
   "county_full": "Chester County"
  },
  {
@@ -3478,6 +4832,8 @@
   "drive_min_clemson": 236,
   "id": "marion-historic-district-marion",
   "state_abbr": "SC",
+  "lat": 34.0572007,
+  "lon": -79.3987578,
   "county_full": "Marion County"
  },
  {
@@ -3505,6 +4861,8 @@
   "drive_min_clemson": 20,
   "id": "oconee-history-museum-walhalla",
   "state_abbr": "SC",
+  "lat": 34.7648176,
+  "lon": -83.0640417,
   "county_full": "Oconee County"
  },
  {
@@ -3533,7 +4891,69 @@
   "drive_min_clemson": 229,
   "id": "bennettsville-historic-district-bennettsville",
   "state_abbr": "SC",
+  "lat": 34.6173516,
+  "lon": -79.684768,
   "county_full": "Marlboro County"
+ },
+ {
+  "name": "Blue Heron Nature Center",
+  "city": "Ridgeland",
+  "county": "Jasper",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Museum",
+   "Family"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, some Saturdays",
+  "start": "—",
+  "company": "Jasper County",
+  "party": "1–4",
+  "customer": "Families with kids, birders",
+  "unique": "A small nature center with live reptiles, a butterfly garden and boardwalk trails into the pocosin wetland behind it.",
+  "buzz": "Good for kids and free, with staff who know the local snakes. The boardwalk is short but the swamp is real.",
+  "rating": 72,
+  "drive_min": 225,
+  "drive_min_clemson": 286,
+  "id": "blue-heron-nature-center-ridgeland",
+  "state_abbr": "SC",
+  "lat": 32.4807435,
+  "lon": -80.980386,
+  "county_full": "Jasper County"
+ },
+ {
+  "name": "Cherokee County Museum",
+  "city": "Gaffney",
+  "county": "Cherokee",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History",
+   "Art"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "—",
+  "company": "Cherokee County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum on the site of the old Central High School, with Native American artifacts, peach industry history and a room of local art.",
+  "buzz": "Well organized for a county museum, and the peach history explains the giant peach water tower outside town.",
+  "rating": 72,
+  "drive_min": 63,
+  "drive_min_clemson": 86,
+  "id": "cherokee-county-museum-gaffney",
+  "state_abbr": "SC",
+  "lat": 35.0717945,
+  "lon": -81.6498195,
+  "county_full": "Cherokee County"
  },
  {
   "name": "Fort Mill History Museum",
@@ -3561,6 +4981,8 @@
   "drive_min_clemson": 141,
   "id": "fort-mill-history-museum-fort-mill",
   "state_abbr": "SC",
+  "lat": 35.0073697,
+  "lon": -80.9450759,
   "county_full": "York County"
  },
  {
@@ -3588,6 +5010,8 @@
   "drive_min_clemson": 53,
   "id": "honea-path-chiquola-mill-site-honea-path",
   "state_abbr": "SC",
+  "lat": 34.4465018,
+  "lon": -82.3915122,
   "county_full": "Anderson County"
  },
  {
@@ -3616,7 +5040,99 @@
   "drive_min_clemson": 233,
   "id": "lake-warren-state-park-hampton",
   "state_abbr": "SC",
+  "lat": 32.7861789,
+  "lon": -81.1237271,
   "county_full": "Hampton County"
+ },
+ {
+  "name": "Little Pee Dee State Park",
+  "city": "Dillon",
+  "county": "Dillon",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Camping",
+   "Water"
+  ],
+  "cost": "$3–$6",
+  "cost_num": 5,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year round",
+  "start": "1930s",
+  "company": "SC State Parks",
+  "party": "2–6",
+  "customer": "Families, anglers, campers",
+  "unique": "A quiet park on a cypress lake beside the Little Pee Dee River, with a nature trail, a fishing pier and campsites under pines.",
+  "buzz": "It is a locals' park with no crowds. The trail is short, the fishing is the point, and the river swamp feel is genuine.",
+  "rating": 72,
+  "drive_min": 138,
+  "drive_min_clemson": 223,
+  "id": "little-pee-dee-state-park-dillon",
+  "state_abbr": "SC",
+  "lat": 34.4014089,
+  "lon": -79.3864339,
+  "county_full": "Dillon County"
+ },
+ {
+  "name": "Saluda County Museum",
+  "city": "Saluda",
+  "county": "Saluda",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays and some Saturdays",
+  "start": "—",
+  "company": "Saluda County Historical Society",
+  "party": "1–4",
+  "customer": "History people, families, road trippers",
+  "unique": "A county museum with a hand built diorama of the Alamo, because a Saluda County native died there, plus farm tools and the usual careful local archives.",
+  "buzz": "The Alamo diorama is the surprise and the volunteers are proud of it. Small, free and worth the detour if you like local museums.",
+  "rating": 72,
+  "drive_min": 140,
+  "drive_min_clemson": 136,
+  "id": "saluda-county-museum-saluda",
+  "state_abbr": "SC",
+  "lat": 34.0015232,
+  "lon": -81.7720522,
+  "county_full": "Saluda County"
+ },
+ {
+  "name": "Winnsboro Historic District",
+  "city": "Winnsboro",
+  "county": "Fairfield",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Walk",
+   "Architecture"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "1700s",
+  "company": "Self guided",
+  "party": "NA",
+  "customer": "Walkers, history people, couples",
+  "unique": "A wide main street of antebellum houses and a clock tower, laid out in 1768, with a town common that still hosts a weekly market.",
+  "buzz": "It is quiet enough to hear your own footsteps. The tour map from the museum covers the churches and the old jail.",
+  "rating": 72,
+  "drive_min": 54,
+  "drive_min_clemson": 141,
+  "id": "winnsboro-historic-district-winnsboro",
+  "state_abbr": "SC",
+  "lat": 34.3807012,
+  "lon": -81.0864776,
+  "county_full": "Fairfield County"
  },
  {
   "name": "Kingstree Historic District",
@@ -3644,7 +5160,127 @@
   "drive_min_clemson": 233,
   "id": "kingstree-historic-district-kingstree",
   "state_abbr": "SC",
+  "lat": 33.6676643,
+  "lon": -79.8306265,
   "county_full": "Williamsburg County"
+ },
+ {
+  "name": "Allendale County African American Cultural Center",
+  "city": "Allendale",
+  "county": "Allendale",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History",
+   "Community"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Allendale County",
+  "party": "1–4",
+  "customer": "History people, families, researchers",
+  "unique": "A small center preserving the photographs, farm tools and oral histories of the county's Black families, in one of the poorest and most historically rich corners of the state.",
+  "buzz": "It is run on volunteers and good will, so call ahead. The photograph collection is the reason to stop.",
+  "rating": 70,
+  "drive_min": 193,
+  "drive_min_clemson": 254,
+  "id": "allendale-county-african-american-cultural-center-allendale",
+  "state_abbr": "SC",
+  "lat": 32.9635006,
+  "lon": -81.3400056,
+  "county_full": "Allendale County"
+ },
+ {
+  "name": "Clarendon County Museum",
+  "city": "Manning",
+  "county": "Clarendon",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Clarendon County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with farm life exhibits, Native American pieces and the local story of the school desegregation case that preceded Brown v. Board.",
+  "buzz": "The Briggs v. Board story is the reason to go, and the volunteers tell it well. Hours are limited, so call.",
+  "rating": 70,
+  "drive_min": 144,
+  "drive_min_clemson": 238,
+  "id": "clarendon-county-museum-manning",
+  "state_abbr": "SC",
+  "lat": 33.6952318,
+  "lon": -80.2107811,
+  "county_full": "Clarendon County"
+ },
+ {
+  "name": "Dorn's Flour and Grist Mill",
+  "city": "McCormick",
+  "county": "McCormick",
+  "state": "South Carolina",
+  "cats": [
+   "History",
+   "Industrial",
+   "Roadside"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Exterior year round",
+  "start": "1800s",
+  "company": "McCormick County",
+  "party": "NA",
+  "customer": "History people, photographers",
+  "unique": "A three story wooden grist mill from the 1800s, with the mill race and machinery still in place, standing beside a road in a county that once ground its own corn.",
+  "buzz": "It is a look from the outside unless a caretaker is there, but the building is photogenic and the story of rural milling is worth five minutes. Ask at the museum about openings.",
+  "rating": 70,
+  "drive_min": 153,
+  "drive_min_clemson": 96,
+  "id": "dorn-s-flour-and-grist-mill-mccormick",
+  "state_abbr": "SC",
+  "lat": 33.8795325,
+  "lon": -82.2797719,
+  "county_full": "McCormick County"
+ },
+ {
+  "name": "Edgefield County Museum",
+  "city": "Edgefield",
+  "county": "Edgefield",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Edgefield County Historical Society",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum in a town that produced ten governors, with political memorabilia, pottery shards and the local side of Reconstruction.",
+  "buzz": "The governors claim is on every sign, and the museum makes sense of it. Volunteers are the historians here, so ask questions.",
+  "rating": 70,
+  "drive_min": 144,
+  "drive_min_clemson": 128,
+  "id": "edgefield-county-museum-edgefield",
+  "state_abbr": "SC",
+  "lat": 33.7635851,
+  "lon": -81.9759066,
+  "county_full": "Edgefield County"
  },
  {
   "name": "Greer Heritage Museum",
@@ -3672,7 +5308,184 @@
   "drive_min_clemson": 58,
   "id": "greer-heritage-museum-greer",
   "state_abbr": "SC",
+  "lat": 34.9381361,
+  "lon": -82.2272119,
   "county_full": "Greenville County"
+ },
+ {
+  "name": "Lee County Museum",
+  "city": "Bishopville",
+  "county": "Lee",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Lee County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with cotton and tobacco history, a one room school display and photographs of the lynching that the county is still reckoning with.",
+  "buzz": "Honest local history rather than a highlight reel. Call before driving over, and give yourself time with the photographs.",
+  "rating": 70,
+  "drive_min": 101,
+  "drive_min_clemson": 172,
+  "id": "lee-county-museum-bishopville",
+  "state_abbr": "SC",
+  "lat": 34.2182107,
+  "lon": -80.2484056,
+  "county_full": "Lee County"
+ },
+ {
+  "name": "Taw Caw Creek Park",
+  "city": "Summerton",
+  "county": "Clarendon",
+  "state": "South Carolina",
+  "cats": [
+   "Water",
+   "Fishing",
+   "Family"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, daylight",
+  "start": "—",
+  "company": "Santee Cooper",
+  "party": "NA",
+  "customer": "Anglers, families, boaters",
+  "unique": "A county park on a creek off Lake Marion with a fishing pier, a boat ramp and cypress trees in the water, built around the reservoir that swallowed the old river bottoms.",
+  "buzz": "It is a local fishing spot rather than a attraction, which is the point. Bring bug spray and watch for gators at the ramp.",
+  "rating": 70,
+  "drive_min": 154,
+  "drive_min_clemson": 235,
+  "id": "taw-caw-creek-park-summerton",
+  "state_abbr": "SC",
+  "lat": 33.6082323,
+  "lon": -80.35126,
+  "county_full": "Clarendon County"
+ },
+ {
+  "name": "Union County Museum",
+  "city": "Union",
+  "county": "Union",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Union County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with textile mill history, a recreated sharecropper cabin and the story of the Union County jail, where a notorious lynching took place.",
+  "buzz": "The mill room is the strongest exhibit, with looms and payroll ledgers. Volunteers are frank about the hard history.",
+  "rating": 70,
+  "drive_min": 72,
+  "drive_min_clemson": 100,
+  "id": "union-county-museum-union",
+  "state_abbr": "SC",
+  "lat": 34.6941696,
+  "lon": -81.642794,
+  "county_full": "Union County"
+ },
+ {
+  "name": "Abbeville County Museum",
+  "city": "Abbeville",
+  "county": "Abbeville",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekday afternoons",
+  "start": "—",
+  "company": "Abbeville County Historical Society",
+  "party": "1–4",
+  "customer": "History people, families, genealogists",
+  "unique": "A county museum run by the historical society with farm tools, cotton ledgers, old photographs and the kind of local detail no state museum bothers with.",
+  "buzz": "Small and volunteer run, so call before you go. People who stop say the genealogy files are the real draw.",
+  "rating": 68,
+  "drive_min": 142,
+  "drive_min_clemson": 58,
+  "id": "abbeville-county-museum-abbeville",
+  "state_abbr": "SC",
+  "lat": 34.2264946,
+  "lon": -82.4364036,
+  "county_full": "Abbeville County"
+ },
+ {
+  "name": "Darlington County Museum",
+  "city": "Darlington",
+  "county": "Darlington",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Darlington County Historical Commission",
+  "party": "1–4",
+  "customer": "History people, genealogists",
+  "unique": "A county archive and museum in a 19th century house, with racing memorabilia, cotton records and family files that go back to the first settlers.",
+  "buzz": "The racing corner is the fun part, and the staff pull files for genealogy visitors. Call before you go.",
+  "rating": 68,
+  "drive_min": 119,
+  "drive_min_clemson": 208,
+  "id": "darlington-county-museum-darlington",
+  "state_abbr": "SC",
+  "lat": 34.3609331,
+  "lon": -79.9438572,
+  "county_full": "Darlington County"
+ },
+ {
+  "name": "Fairfield County Museum",
+  "city": "Winnsboro",
+  "county": "Fairfield",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Fairfield County Museum",
+  "party": "1–4",
+  "customer": "History people, genealogists",
+  "unique": "A county museum in a 19th century storefront with Catawba pottery, cotton mill payrolls and the story of the Winnsboro cotton mill village.",
+  "buzz": "Small but well kept, and the mill history is the part visitors remember. Call before driving over.",
+  "rating": 68,
+  "drive_min": 54,
+  "drive_min_clemson": 141,
+  "id": "fairfield-county-museum-winnsboro",
+  "state_abbr": "SC",
+  "lat": 34.3807012,
+  "lon": -81.0864776,
+  "county_full": "Fairfield County"
  },
  {
   "name": "Gaffney Peachoid",
@@ -3700,6 +5513,328 @@
   "drive_min": 63,
   "id": "gaffney-peachoid-gaffney",
   "state_abbr": "SC",
+  "lat": 35.0717945,
+  "lon": -81.6498195,
   "county_full": "Cherokee County"
+ },
+ {
+  "name": "Lake Wallace",
+  "city": "Bennettsville",
+  "county": "Marlboro",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Fishing",
+   "Walk"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1–2 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "—",
+  "company": "City of Bennettsville",
+  "party": "NA",
+  "customer": "Anglers, walkers, families",
+  "unique": "A city lake with a paved trail, a pier and cypress trees at the edge of downtown, used by people who fish after work.",
+  "buzz": "A plain, pleasant loop with turtles and herons. Not a destination, but a good leg stretch off the highway.",
+  "rating": 68,
+  "drive_min": 105,
+  "drive_min_clemson": 229,
+  "id": "lake-wallace-bennettsville",
+  "state_abbr": "SC",
+  "lat": 34.6173516,
+  "lon": -79.684768,
+  "county_full": "Marlboro County"
+ },
+ {
+  "name": "Marion County Museum",
+  "city": "Marion",
+  "county": "Marion",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Marion County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum in a 19th century building with Native American artifacts, turpentine and tobacco tools and the records of a river town that once shipped cotton to Charleston.",
+  "buzz": "The building and the volunteers are half the visit. Ask about the Great Pee Dee floods.",
+  "rating": 68,
+  "drive_min": 164,
+  "drive_min_clemson": 236,
+  "id": "marion-county-museum-marion",
+  "state_abbr": "SC",
+  "lat": 34.0572007,
+  "lon": -79.3987578,
+  "county_full": "Marion County"
+ },
+ {
+  "name": "McCormick County Museum",
+  "city": "McCormick",
+  "county": "McCormick",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "McCormick County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with gold mining history, railroad records and the story of the McCormick family, whose reaper money built the town.",
+  "buzz": "Gold in South Carolina is the surprise here, and the volunteers have the maps. Call before you go.",
+  "rating": 68,
+  "drive_min": 153,
+  "drive_min_clemson": 96,
+  "id": "mccormick-county-museum-mccormick",
+  "state_abbr": "SC",
+  "lat": 33.8795325,
+  "lon": -82.2797719,
+  "county_full": "McCormick County"
+ },
+ {
+  "name": "Williamsburg County Museum",
+  "city": "Kingstree",
+  "county": "Williamsburg",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Williamsburg County Museum",
+  "party": "1–4",
+  "customer": "History people, genealogists",
+  "unique": "A county museum with rice culture tools, Gullah baskets and the story of the Williamsburg militia, in a town named for a king and a tree.",
+  "buzz": "The rice and Gullah exhibits are the reason to stop. Volunteers can point you to the Black Mingo battlefield.",
+  "rating": 68,
+  "drive_min": 159,
+  "drive_min_clemson": 233,
+  "id": "williamsburg-county-museum-kingstree",
+  "state_abbr": "SC",
+  "lat": 33.6676643,
+  "lon": -79.8306265,
+  "county_full": "Williamsburg County"
+ },
+ {
+  "name": "Bamberg County Museum",
+  "city": "Bamberg",
+  "county": "Bamberg",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Bamberg County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum in a small railroad town with Native American artifacts, cotton economy records and photographs of the Bamberg that the highway bypassed.",
+  "buzz": "Volunteer run and old fashioned, in the good way. Call before driving over; hours are short.",
+  "rating": 67,
+  "drive_min": 168,
+  "drive_min_clemson": 229,
+  "id": "bamberg-county-museum-bamberg",
+  "state_abbr": "SC",
+  "lat": 33.2130154,
+  "lon": -81.0166235,
+  "county_full": "Bamberg County"
+ },
+ {
+  "name": "Calhoun County Museum",
+  "city": "St. Matthews",
+  "county": "Calhoun",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays",
+  "start": "—",
+  "company": "Calhoun County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county collection with farm implements, a one room school exhibit and records from the cotton and phosphate days, kept going by people who grew up with the objects.",
+  "buzz": "Friendly and small. Ask about the phosphate history; the county was a world supplier before the industry moved.",
+  "rating": 67,
+  "drive_min": 110,
+  "drive_min_clemson": 160,
+  "id": "calhoun-county-museum-st-matthews",
+  "state_abbr": "SC",
+  "lat": 33.664876,
+  "lon": -80.7778681,
+  "county_full": "Calhoun County"
+ },
+ {
+  "name": "Chester County Museum",
+  "city": "Chester",
+  "county": "Chester",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Chester County Historical Society",
+  "party": "1–4",
+  "customer": "History people, genealogists",
+  "unique": "A small museum in a railroad town with Catawba pottery, cotton mill artifacts and photographs of the textile strike that shaped the county.",
+  "buzz": "Volunteers will talk your ear off if you ask about the mills. Call first, because hours are volunteer dependent.",
+  "rating": 67,
+  "drive_min": 39,
+  "drive_min_clemson": 133,
+  "id": "chester-county-museum-chester",
+  "state_abbr": "SC",
+  "lat": 34.6859896,
+  "lon": -81.1545073,
+  "county_full": "Chester County"
+ },
+ {
+  "name": "Barnwell County Museum",
+  "city": "Barnwell",
+  "county": "Barnwell",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Barnwell County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with cotton economy records, a country store recreation and photographs of the town before the railroad rerouted its fortunes.",
+  "buzz": "Old fashioned and free, with volunteers who remember the stories. Call before driving over.",
+  "rating": 66,
+  "drive_min": 200,
+  "drive_min_clemson": 237,
+  "id": "barnwell-county-museum-barnwell",
+  "state_abbr": "SC",
+  "lat": 33.2641009,
+  "lon": -81.4190808,
+  "county_full": "Barnwell County"
+ },
+ {
+  "name": "Dillon County Museum",
+  "city": "Dillon",
+  "county": "Dillon",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Dillon County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with tobacco farming tools, railroad history and the story of the county's namesake, a railroad surveyor.",
+  "buzz": "Small and earnest, with volunteers who know the tobacco economy firsthand. Call for hours.",
+  "rating": 66,
+  "drive_min": 138,
+  "drive_min_clemson": 223,
+  "id": "dillon-county-museum-dillon",
+  "state_abbr": "SC",
+  "lat": 34.4014089,
+  "lon": -79.3864339,
+  "county_full": "Dillon County"
+ },
+ {
+  "name": "Hampton County Museum",
+  "city": "Hampton",
+  "county": "Hampton",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Hampton County Museum",
+  "party": "1–4",
+  "customer": "History people, families",
+  "unique": "A county museum with farm tools, turpentine industry relics and photographs of the lowcountry timber camps that once cleared this land.",
+  "buzz": "Volunteer run and full of things you cannot look up online. Call first; hours are short.",
+  "rating": 66,
+  "drive_min": 185,
+  "drive_min_clemson": 233,
+  "id": "hampton-county-museum-hampton",
+  "state_abbr": "SC",
+  "lat": 32.7861789,
+  "lon": -81.1237271,
+  "county_full": "Hampton County"
+ },
+ {
+  "name": "Marlboro County Museum",
+  "city": "Bennettsville",
+  "county": "Marlboro",
+  "state": "South Carolina",
+  "cats": [
+   "Museum",
+   "History"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays, call ahead",
+  "start": "—",
+  "company": "Marlboro County Historical Society",
+  "party": "1–4",
+  "customer": "History people, genealogists",
+  "unique": "A county museum with Scottish settler history, cotton press records and a collection of locally made furniture, in a town named for a British duke.",
+  "buzz": "The genealogy room is the draw for family researchers. Hours are volunteer dependent, so call.",
+  "rating": 66,
+  "drive_min": 105,
+  "drive_min_clemson": 229,
+  "id": "marlboro-county-museum-bennettsville",
+  "state_abbr": "SC",
+  "lat": 34.6173516,
+  "lon": -79.684768,
+  "county_full": "Marlboro County"
  }
 ]

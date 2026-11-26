@@ -23,6 +23,8 @@
   "rating": 94,
   "id": "crater-lake-crater-lake",
   "state_abbr": "OR",
+  "lat": 42.9415231,
+  "lon": -122.0987714,
   "county_full": "Klamath County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 90,
   "id": "smith-rock-terrebonne",
   "state_abbr": "OR",
+  "lat": 44.3554551,
+  "lon": -121.1786432,
   "county_full": "Deschutes County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 88,
   "id": "ashland-shakespeare-festival-ashland",
   "state_abbr": "OR",
+  "lat": 42.1972487,
+  "lon": -122.7153995,
   "county_full": "Jackson County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 88,
   "id": "cannon-beach-and-haystack-rock-cannon-beach",
   "state_abbr": "OR",
+  "lat": 45.8900275,
+  "lon": -123.9618623,
   "county_full": "Clatsop County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 88,
   "id": "yabusame-horseback-archery-creswell",
   "state_abbr": "OR",
+  "lat": 43.9179023,
+  "lon": -123.024526,
   "county_full": "Lane County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 87,
   "id": "hood-river-windsurfing-hood-river",
   "state_abbr": "OR",
+  "lat": 45.5311636,
+  "lon": -121.6475587,
   "county_full": "Hood River County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 87,
   "id": "timberline-lodge-government-camp",
   "state_abbr": "OR",
+  "lat": 45.3041033,
+  "lon": -121.7547596,
   "county_full": "Clackamas County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 86,
   "id": "powell-s-city-of-books-portland",
   "state_abbr": "OR",
+  "lat": 45.5202471,
+  "lon": -122.674194,
   "county_full": "Multnomah County"
  },
  {
@@ -231,6 +247,8 @@
   "rating": 86,
   "id": "willamette-valley-wine-country-dundee",
   "state_abbr": "OR",
+  "lat": 45.2781659,
+  "lon": -123.010922,
   "county_full": "Yamhill County"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 85,
   "id": "multnomah-falls-corbett",
   "state_abbr": "OR",
+  "lat": 45.5314503,
+  "lon": -122.292256,
   "county_full": "Multnomah County"
  },
  {
@@ -282,6 +302,8 @@
   "rating": 85,
   "id": "pendleton-round-up-pendleton",
   "state_abbr": "OR",
+  "lat": 45.672075,
+  "lon": -118.7885967,
   "county_full": "Umatilla County"
  },
  {
@@ -308,6 +330,8 @@
   "rating": 82,
   "id": "oregon-dunes-sandboarding-florence",
   "state_abbr": "OR",
+  "lat": 43.9800086,
+  "lon": -124.1013089,
   "county_full": "Lane County"
  },
  {
@@ -334,6 +358,8 @@
   "rating": 79,
   "id": "portland-saturday-market-portland",
   "state_abbr": "OR",
+  "lat": 45.5202471,
+  "lon": -122.674194,
   "county_full": "Multnomah County"
  },
  {
@@ -360,6 +386,8 @@
   "rating": 75,
   "id": "peculiarium-portland",
   "state_abbr": "OR",
+  "lat": 45.5202471,
+  "lon": -122.674194,
   "county_full": "Multnomah County"
  }
 ]

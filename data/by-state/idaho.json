@@ -23,6 +23,8 @@
   "rating": 89,
   "id": "route-of-the-hiawatha-wallace",
   "state_abbr": "ID",
+  "lat": 47.4716008,
+  "lon": -115.923925,
   "county_full": "Shoshone County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 89,
   "id": "salmon-river-rafting-riggins",
   "state_abbr": "ID",
+  "lat": 45.4221105,
+  "lon": -116.315411,
   "county_full": "Idaho County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 88,
   "id": "hells-canyon-jet-boat-white-bird",
   "state_abbr": "ID",
+  "lat": 45.7619335,
+  "lon": -116.3005078,
   "county_full": "Idaho County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 88,
   "id": "sun-valley-skiing-sun-valley",
   "state_abbr": "ID",
+  "lat": 43.696215,
+  "lon": -114.353097,
   "county_full": "Blaine County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 86,
   "id": "craters-of-the-moon-arco",
   "state_abbr": "ID",
+  "lat": 43.635336,
+  "lon": -113.299953,
   "county_full": "Butte County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 72,
   "id": "idaho-potato-museum-blackfoot",
   "state_abbr": "ID",
+  "lat": 43.190039,
+  "lon": -112.348357,
   "county_full": "Bingham County"
  }
 ]

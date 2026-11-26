@@ -25,6 +25,8 @@
   "drive_min_clemson": 410,
   "id": "waverly-hills-sanatorium-louisville",
   "state_abbr": "KY",
+  "lat": 38.2542376,
+  "lon": -85.759407,
   "county_full": "Jefferson County"
  },
  {
@@ -53,6 +55,8 @@
   "drive_min_clemson": 397,
   "id": "mammoth-cave-grand-historic-tour-mammoth-cave",
   "state_abbr": "KY",
+  "lat": 37.1861597,
+  "lon": -86.0999753,
   "county_full": "Edmonson County"
  },
  {
@@ -81,6 +85,8 @@
   "drive_min_clemson": 381,
   "id": "bourbon-trail-distillery-day-bardstown",
   "state_abbr": "KY",
+  "lat": 37.8092463,
+  "lon": -85.4669015,
   "county_full": "Nelson County"
  },
  {
@@ -109,6 +115,8 @@
   "drive_min_clemson": 410,
   "id": "kentucky-derby-louisville",
   "state_abbr": "KY",
+  "lat": 38.2542376,
+  "lon": -85.759407,
   "county_full": "Jefferson County"
  },
  {
@@ -137,6 +145,8 @@
   "drive_min_clemson": 342,
   "id": "red-river-gorge-climbing-slade",
   "state_abbr": "KY",
+  "lat": 37.7950836,
+  "lon": -83.7040807,
   "county_full": "Powell County"
  },
  {
@@ -165,6 +175,8 @@
   "drive_min_clemson": 348,
   "id": "keeneland-race-day-lexington",
   "state_abbr": "KY",
+  "lat": 38.0464066,
+  "lon": -84.4970393,
   "county_full": "Fayette County"
  },
  {
@@ -193,6 +205,8 @@
   "drive_min_clemson": 381,
   "id": "maker-s-mark-distillery-loretto",
   "state_abbr": "KY",
+  "lat": 37.6353404,
+  "lon": -85.4007952,
   "county_full": "Marion County"
  },
  {
@@ -220,6 +234,8 @@
   "drive_min_clemson": 268,
   "id": "cumberland-falls-moonbow-corbin",
   "state_abbr": "KY",
+  "lat": 36.9486986,
+  "lon": -84.0968761,
   "county_full": "Whitley County"
  },
  {
@@ -248,6 +264,8 @@
   "drive_min_clemson": 348,
   "id": "kentucky-horse-park-lexington",
   "state_abbr": "KY",
+  "lat": 38.0464066,
+  "lon": -84.4970393,
   "county_full": "Fayette County"
  },
  {
@@ -276,6 +294,8 @@
   "drive_min_clemson": 410,
   "id": "louisville-slugger-factory-tour-louisville",
   "state_abbr": "KY",
+  "lat": 38.2542376,
+  "lon": -85.759407,
   "county_full": "Jefferson County"
  },
  {
@@ -303,6 +323,8 @@
   "drive_min_clemson": 389,
   "id": "national-corvette-museum-bowling-green",
   "state_abbr": "KY",
+  "lat": 36.9929203,
+  "lon": -86.4428677,
   "county_full": "Warren County"
  },
  {
@@ -331,6 +353,8 @@
   "drive_min_clemson": 382,
   "id": "wigwam-village-cave-city",
   "state_abbr": "KY",
+  "lat": 37.1367544,
+  "lon": -85.9562169,
   "county_full": "Barren County"
  }
 ]

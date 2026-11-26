@@ -1,6 +1,6 @@
 # Waypoint — An Atlas of Adventures Worth the Trip
 
-A static, dependency-free field guide to 787 singular things to do in the United States, from world class spectacles to the local dance hall.
+A static, dependency-free field guide to 853 singular things to do in the United States, from world class spectacles to the local dance hall.
 Browse by country → state → county, sort by any column, filter by budget, duration,
 party size and category, and keep a personal shortlist.
 
@@ -10,16 +10,19 @@ Open `index.html` directly in a browser. No build step, server, CDN or network a
 
 ```
 index.html                 country + state index (generated)
+explore.html               start from any county, set any drive time (generated)
 states/<state-slug>.html   one page per state, sortable/filterable table (generated)
-regions/fort-mill.html     the 4-hour drive radius around Fort Mill, SC (generated)
+regions/fort-mill.html     the fixed 4-hour drive radius around Fort Mill, SC (generated)
 regions/clemson.html       the 4-hour drive radius around Clemson, SC (generated)
 data/adventures.json       single source of truth — edit this
 data/regions/*.json        the regional source files the master list was merged from
 data/by-state/*.json       per-state extracts (generated)
 assets/atlas.css           all styling
 assets/atlas.js            index + table behaviour
+assets/explore.js          the county radius tool
 templates/index.html       page shell with {{TOKENS}}
 templates/state.html       page shell with {{TOKENS}}
+templates/explore.html     page shell for the radius tool
 build.py                   regenerates every page, CSV and JSON extract
 scripts/merge_regions.py   merges data/regions into the master list
 scripts/drive_times.py     geocodes cities and routes drive times from any origin

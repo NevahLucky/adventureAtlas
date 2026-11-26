@@ -23,6 +23,8 @@
   "rating": 93,
   "id": "boundary-waters-canoe-area-ely",
   "state_abbr": "MN",
+  "lat": 47.901571,
+  "lon": -91.8572479,
   "county_full": "St. Louis County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 88,
   "id": "drive-a-tank-kasota",
   "state_abbr": "MN",
+  "lat": 44.2924667,
+  "lon": -93.9649575,
   "county_full": "Le Sueur County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 88,
   "id": "paisley-park-chanhassen",
   "state_abbr": "MN",
+  "lat": 44.8618403,
+  "lon": -93.5307207,
   "county_full": "Carver County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 86,
   "id": "minnesota-state-fair-falcon-heights",
   "state_abbr": "MN",
+  "lat": 44.9898128,
+  "lon": -93.1762507,
   "county_full": "Ramsey County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 83,
   "id": "gooseberry-falls-two-harbors",
   "state_abbr": "MN",
+  "lat": 47.0257139,
+  "lon": -91.6730523,
   "county_full": "Lake County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 80,
   "id": "st-paul-winter-carnival-st-paul",
   "state_abbr": "MN",
+  "lat": 44.9497487,
+  "lon": -93.0931028,
   "county_full": "Ramsey County"
  },
  {
@@ -179,6 +191,8 @@
   "rating": 78,
   "id": "spam-museum-austin",
   "state_abbr": "MN",
+  "lat": 43.6679992,
+  "lon": -92.9746498,
   "county_full": "Mower County"
  },
  {
@@ -205,6 +219,8 @@
   "rating": 74,
   "id": "mall-of-america-bloomington",
   "state_abbr": "MN",
+  "lat": 44.8322405,
+  "lon": -93.3204872,
   "county_full": "Hennepin County"
  }
 ]

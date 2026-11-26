@@ -23,6 +23,8 @@
   "rating": 89,
   "id": "oklahoma-city-national-memorial-oklahoma-city",
   "state_abbr": "OK",
+  "lat": 35.4729886,
+  "lon": -97.5170536,
   "county_full": "Oklahoma County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 85,
   "id": "wichita-mountains-wildlife-refuge-lawton",
   "state_abbr": "OK",
+  "lat": 34.6051975,
+  "lon": -98.3952279,
   "county_full": "Comanche County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 84,
   "id": "gathering-place-tulsa",
   "state_abbr": "OK",
+  "lat": 36.1563122,
+  "lon": -95.9927516,
   "county_full": "Tulsa County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 80,
   "id": "outsiders-house-museum-tulsa",
   "state_abbr": "OK",
+  "lat": 36.1563122,
+  "lon": -95.9927516,
   "county_full": "Tulsa County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 78,
   "id": "turner-falls-davis",
   "state_abbr": "OK",
+  "lat": 34.5034796,
+  "lon": -97.1188924,
   "county_full": "Murray County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 70,
   "id": "blue-whale-of-catoosa-catoosa",
   "state_abbr": "OK",
+  "lat": 36.188987,
+  "lon": -95.745817,
   "county_full": "Rogers County"
  }
 ]

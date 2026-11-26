@@ -23,6 +23,8 @@
   "rating": 88,
   "id": "team-o-neil-rally-school-dalton",
   "state_abbr": "NH",
+  "lat": 44.415493,
+  "lon": -71.6944969,
   "county_full": "Coos County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 86,
   "id": "frankenstein-cliff-ice-climbing-north-conway",
   "state_abbr": "NH",
+  "lat": 44.037776,
+  "lon": -71.1238246,
   "county_full": "Grafton County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 85,
   "id": "mount-washington-cog-railway-bretton-woods",
   "state_abbr": "NH",
+  "lat": 44.2599728,
+  "lon": -71.4430242,
   "county_full": "Coos County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 82,
   "id": "kancamagus-highway-leaf-run-lincoln",
   "state_abbr": "NH",
+  "lat": 44.044533,
+  "lon": -71.6684165,
   "county_full": "Grafton County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 80,
   "id": "flume-gorge-boardwalk-lincoln",
   "state_abbr": "NH",
+  "lat": 44.044533,
+  "lon": -71.6684165,
   "county_full": "Grafton County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 76,
   "id": "america-s-stonehenge-salem",
   "state_abbr": "NH",
+  "lat": 42.7884957,
+  "lon": -71.2009035,
   "county_full": "Rockingham County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 91,
   "id": "indy-500-speedway",
   "state_abbr": "IN",
+  "lat": 39.7881233,
+  "lon": -86.2407144,
   "county_full": "Marion County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 87,
   "id": "holiday-world-santa-claus",
   "state_abbr": "IN",
+  "lat": 38.1184147,
+  "lon": -86.9203602,
   "county_full": "Spencer County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 86,
   "id": "turkey-run-state-park-marshall",
   "state_abbr": "IN",
+  "lat": 41.322843,
+  "lon": -86.2809625,
   "county_full": "Parke County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 82,
   "id": "indiana-dunes-porter",
   "state_abbr": "IN",
+  "lat": 41.4457032,
+  "lon": -87.0724971,
   "county_full": "Porter County"
  },
  {
@@ -127,6 +135,8 @@
   "rating": 80,
   "id": "shipshewana-auction-and-flea-market-shipshewana",
   "state_abbr": "IN",
+  "lat": 41.6728282,
+  "lon": -85.5802634,
   "county_full": "LaGrange County"
  },
  {
@@ -153,6 +163,8 @@
   "rating": 78,
   "id": "fair-oaks-farms-fair-oaks",
   "state_abbr": "IN",
+  "lat": 41.0750361,
+  "lon": -87.2575283,
   "county_full": "Newton County"
  }
 ]

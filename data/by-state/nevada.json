@@ -23,6 +23,8 @@
   "rating": 96,
   "id": "burning-man-gerlach",
   "state_abbr": "NV",
+  "lat": 40.651812,
+  "lon": -119.356261,
   "county_full": "Pershing County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 91,
   "id": "great-basin-dark-sky-baker",
   "state_abbr": "NV",
+  "lat": 39.0121773,
+  "lon": -114.123326,
   "county_full": "White Pine County"
  },
  {
@@ -75,6 +79,8 @@
   "rating": 89,
   "id": "black-canyon-kayak-boulder-city",
   "state_abbr": "NV",
+  "lat": 35.9787649,
+  "lon": -114.8337574,
   "county_full": "Clark County"
  },
  {
@@ -101,6 +107,8 @@
   "rating": 89,
   "id": "omega-mart-at-area15-las-vegas",
   "state_abbr": "NV",
+  "lat": 36.1674263,
+  "lon": -115.1484131,
   "county_full": "Clark County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 89,
   "id": "sky-combat-ace-henderson",
   "state_abbr": "NV",
+  "lat": 36.0301388,
+  "lon": -114.9815488,
   "county_full": "Clark County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 88,
   "id": "mint-400-las-vegas",
   "state_abbr": "NV",
+  "lat": 36.1674263,
+  "lon": -115.1484131,
   "county_full": "Clark County"
  },
  {
@@ -178,6 +190,8 @@
   "rating": 86,
   "id": "red-rock-canyon-las-vegas",
   "state_abbr": "NV",
+  "lat": 36.1674263,
+  "lon": -115.1484131,
   "county_full": "Clark County"
  },
  {
@@ -204,6 +218,8 @@
   "rating": 86,
   "id": "soaring-nv-glider-rides-minden",
   "state_abbr": "NV",
+  "lat": 38.9565145,
+  "lon": -119.7700488,
   "county_full": "Douglas County"
  },
  {
@@ -230,6 +246,8 @@
   "rating": 86,
   "id": "the-neon-museum-las-vegas",
   "state_abbr": "NV",
+  "lat": 36.1674263,
+  "lon": -115.1484131,
   "county_full": "Clark County"
  },
  {
@@ -256,6 +274,8 @@
   "rating": 82,
   "id": "rhyolite-ghost-town-beatty",
   "state_abbr": "NV",
+  "lat": 36.947782,
+  "lon": -116.7201565,
   "county_full": "Nye County"
  }
 ]

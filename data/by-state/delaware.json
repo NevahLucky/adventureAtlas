@@ -23,6 +23,8 @@
   "rating": 83,
   "id": "winterthur-museum-winterthur",
   "state_abbr": "DE",
+  "lat": 39.8078341,
+  "lon": -75.6005515,
   "county_full": "New Castle County"
  },
  {
@@ -49,6 +51,8 @@
   "rating": 82,
   "id": "fort-delaware-delaware-city",
   "state_abbr": "DE",
+  "lat": 39.5778901,
+  "lon": -75.588815,
   "county_full": "New Castle County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 80,
   "id": "dogfish-head-brewery-tour-milton",
   "state_abbr": "DE",
+  "lat": 38.7778049,
+  "lon": -75.3101583,
   "county_full": "Sussex County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 79,
   "id": "nemours-estate-wilmington",
   "state_abbr": "DE",
+  "lat": 39.738331,
+  "lon": -75.5527467,
   "county_full": "New Castle County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 78,
   "id": "cape-henlopen-and-fort-miles-lewes",
   "state_abbr": "DE",
+  "lat": 38.7733961,
+  "lon": -75.1379574,
   "county_full": "Sussex County"
  },
  {
@@ -152,6 +162,8 @@
   "rating": 76,
   "id": "rehoboth-beach-boardwalk-rehoboth-beach",
   "state_abbr": "DE",
+  "lat": 38.7164771,
+  "lon": -75.0835107,
   "county_full": "Sussex County"
  }
 ]

@@ -23,6 +23,8 @@
   "rating": 89,
   "id": "american-visionary-art-museum-baltimore",
   "state_abbr": "MD",
+  "lat": 39.2908816,
+  "lon": -76.610759,
   "county_full": "Baltimore City"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 87,
   "id": "baltimore-knife-and-sword-baltimore",
   "state_abbr": "MD",
+  "lat": 39.2908816,
+  "lon": -76.610759,
   "county_full": "Baltimore County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 85,
   "id": "assateague-wild-ponies-berlin",
   "state_abbr": "MD",
+  "lat": 38.324505,
+  "lon": -75.2188589,
   "county_full": "Worcester County"
  },
  {
@@ -99,6 +105,8 @@
   "rating": 84,
   "id": "antietam-battlefield-sharpsburg",
   "state_abbr": "MD",
+  "lat": 39.4581995,
+  "lon": -77.7486599,
   "county_full": "Washington County"
  },
  {
@@ -125,6 +133,8 @@
   "rating": 82,
   "id": "bengies-drive-in-middle-river",
   "state_abbr": "MD",
+  "lat": 39.3416961,
+  "lon": -76.4271818,
   "county_full": "Baltimore County"
  },
  {
@@ -151,6 +161,8 @@
   "rating": 80,
   "id": "national-aquarium-baltimore",
   "state_abbr": "MD",
+  "lat": 39.2908816,
+  "lon": -76.610759,
   "county_full": "Baltimore City"
  },
  {
@@ -176,6 +188,8 @@
   "rating": 79,
   "id": "preakness-stakes-baltimore",
   "state_abbr": "MD",
+  "lat": 39.2908816,
+  "lon": -76.610759,
   "county_full": "Baltimore City"
  }
 ]

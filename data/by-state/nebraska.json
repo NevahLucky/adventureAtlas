@@ -22,6 +22,8 @@
   "rating": 91,
   "id": "sandhill-crane-migration-kearney",
   "state_abbr": "NE",
+  "lat": 40.4906216,
+  "lon": -98.9472344,
   "county_full": "Buffalo County"
  },
  {
@@ -48,6 +50,8 @@
   "rating": 89,
   "id": "henry-doorly-zoo-omaha",
   "state_abbr": "NE",
+  "lat": 41.2587459,
+  "lon": -95.9383758,
   "county_full": "Douglas County"
  },
  {
@@ -74,6 +78,8 @@
   "rating": 84,
   "id": "museum-of-american-speed-lincoln",
   "state_abbr": "NE",
+  "lat": 40.8088861,
+  "lon": -96.7077751,
   "county_full": "Lancaster County"
  },
  {
@@ -100,6 +106,8 @@
   "rating": 82,
   "id": "toadstool-geologic-park-crawford",
   "state_abbr": "NE",
+  "lat": 42.6867264,
+  "lon": -103.4133215,
   "county_full": "Sioux County"
  },
  {
@@ -126,6 +134,8 @@
   "rating": 74,
   "id": "carhenge-alliance",
   "state_abbr": "NE",
+  "lat": 42.0971897,
+  "lon": -102.8707145,
   "county_full": "Box Butte County"
  }
 ]

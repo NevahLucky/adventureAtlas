@@ -19,7 +19,8 @@
     <nav class="nav">
       <a href="#countries">Countries</a>
       <a href="#states">States</a>
-      <a href="#local">Local radii</a>
+      <a href="explore.html">From a county</a>
+      <a href="#local">Saved radii</a>
       <a href="#shortlist">Shortlist</a>
       <a class="nav-cta" href="#method">How it ranks</a>
     </nav>
@@ -40,7 +41,7 @@
         <div class="hero-actions">
           <a class="btn btn-primary" href="#states">Browse by state <span aria-hidden="true">&rarr;</span></a>
           <a class="btn btn-ghost" href="#shortlist">See the national shortlist</a>
-      <a class="btn btn-ghost" href="#local">Local 4-hour radii</a>
+          <a class="btn btn-ghost" href="explore.html">Set your own radius</a>
         </div>
       </div>
       {{PICK}}
@@ -110,10 +111,18 @@
     <div class="sec-head" style="margin-bottom:18px">
       <div>
         <h2 style="font-size:26px">Local editions</h2>
-        <p>Routed driving radii from the places you actually stay. The same atlas, filtered by real driving time.</p>
+        <p>Routed radii from two fixed origins, and a tool that lets you start from any county at any drive time.</p>
       </div>
     </div>
-    <div class="region-grid">{{REGION_CARDS}}</div>
+    <div class="region-grid">
+      {{REGION_CARDS}}
+      <a class="region-card tool" href="explore.html">
+        <span class="rb-kicker">Any county</span>
+        <h3>Start where you are</h3>
+        <p>Pick a county, pick a town, then set the clock in hours and minutes. Two hours or nine, there is no ceiling.</p>
+        <span class="rb-foot"><b>Every entry</b> within your time<span class="rb-go">Open the tool &rarr;</span></span>
+      </a>
+    </div>
   </div>
 </section>
 
