@@ -22,6 +22,7 @@
   "buzz": "The ponies are habituated and will investigate your lunch; the Wilburn Ridge loop is the classic. Weather changes fast and the wind is constant.",
   "rating": 91,
   "drive_min": 147,
+  "drive_min_clemson": 237,
   "id": "grayson-highlands-mouth-of-wilson",
   "state_abbr": "VA",
   "county_full": "Grayson County"
@@ -49,6 +50,7 @@
   "buzz": "Locals and visitors agree it is the most welcoming room in Appalachia; get there early for a seat and expect to be pulled into a dance.",
   "rating": 89,
   "drive_min": 161,
+  "drive_min_clemson": 266,
   "id": "floyd-country-store-friday-night-floyd",
   "state_abbr": "VA",
   "county_full": "Floyd County"
@@ -76,6 +78,7 @@
   "buzz": "The slavery exhibits get strong praise for honesty; the house tour is timed and the grounds need another hour. Book the first slot.",
   "rating": 88,
   "drive_min": 288,
+  "drive_min_clemson": 395,
   "id": "monticello-charlottesville",
   "state_abbr": "VA",
   "county_full": "Albemarle County"
@@ -103,6 +106,7 @@
   "buzz": "Visitors are surprised by how good the organ recital is; the cavern is commercial but genuinely spectacular. The garden maze next door is a decent add-on.",
   "rating": 86,
   "drive_min": 321,
+  "drive_min_clemson": 426,
   "id": "luray-caverns-and-the-great-stalacpipe-organ-luray",
   "state_abbr": "VA",
   "county_full": "Page County"
@@ -130,6 +134,7 @@
   "buzz": "People love it and warn the route is unmarked, slippery and not for flip-flops. Go early; it is a locals' secret that leaked.",
   "rating": 85,
   "drive_min": 231,
+  "drive_min_clemson": 198,
   "id": "devil-s-bathtub-duffield",
   "state_abbr": "VA",
   "county_full": "Scott County"
@@ -157,6 +162,7 @@
   "buzz": "It is genuinely crowded and hot, and people still call it unforgettable. Watch from the water or a boat, not the packed shore.",
   "rating": 84,
   "drive_min": 449,
+  "drive_min_clemson": 555,
   "id": "chincoteague-pony-swim-chincoteague",
   "state_abbr": "VA",
   "county_full": "Accomack County"
@@ -184,6 +190,7 @@
   "buzz": "Free grounds and a small mansion fee; the gardens are gorgeous in spring and the wildlife exhibits are better than expected for kids.",
   "rating": 84,
   "drive_min": 288,
+  "drive_min_clemson": 394,
   "id": "maymont-richmond",
   "state_abbr": "VA",
   "county_full": "Richmond City"
@@ -211,6 +218,7 @@
   "buzz": "The ticket price draws complaints, but the trades and the evening programs are rated excellent. Go in spring or fall; summer heat is brutal in wool.",
   "rating": 83,
   "drive_min": 325,
+  "drive_min_clemson": 432,
   "id": "colonial-williamsburg-williamsburg",
   "state_abbr": "VA",
   "county_full": "Williamsburg City"
@@ -237,6 +245,7 @@
   "buzz": "Locals call it the best quick nature fix near DC; the River Trail scramble is the fun part. Parking fills by 10am on weekends.",
   "rating": 82,
   "drive_min": 407,
+  "drive_min_clemson": 512,
   "id": "great-falls-park-mclean",
   "state_abbr": "VA",
   "county_full": "Fairfax County"
@@ -264,6 +273,7 @@
   "buzz": "The most photographed spot on the Parkway and it earns it at dawn; the restaurant's buckwheat pancakes are a tradition.",
   "rating": 81,
   "drive_min": 145,
+  "drive_min_clemson": 250,
   "id": "mabry-mill-meadows-of-dan",
   "state_abbr": "VA",
   "county_full": "Floyd County"
@@ -290,6 +300,7 @@
   "buzz": "People stop for an hour and stay for three; the evening light show is kitsch but charming. The walk is paved and easy.",
   "rating": 78,
   "drive_min": 225,
+  "drive_min_clemson": 330,
   "id": "natural-bridge-natural-bridge",
   "state_abbr": "VA",
   "county_full": "Rockbridge County"

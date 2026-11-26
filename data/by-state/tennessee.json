@@ -22,6 +22,7 @@
   "buzz": "The bike-only mornings are the local secret; cars crawl in summer. Go at dawn for wildlife and skip the traffic.",
   "rating": 90,
   "drive_min": 237,
+  "drive_min_clemson": 165,
   "id": "cades-cove-loop-townsend",
   "state_abbr": "TN",
   "county_full": "Sevier County"
@@ -48,6 +49,7 @@
   "buzz": "Guides are seasoned and the rapids are continuous; the middle section is the classic. Expect to get worked.",
   "rating": 88,
   "drive_min": 289,
+  "drive_min_clemson": 159,
   "id": "ocoee-river-rafting-ocoee",
   "state_abbr": "TN",
   "county_full": "Polk County"
@@ -75,6 +77,7 @@
   "buzz": "People are surprised by the quality of Lightning Rod and the shade; it is clean and friendly. Christmas is the best season.",
   "rating": 87,
   "drive_min": 218,
+  "drive_min_clemson": 149,
   "id": "dollywood-pigeon-forge",
   "state_abbr": "TN",
   "county_full": "Sevier County"
@@ -102,9 +105,37 @@
   "buzz": "The self-guided tour is good and the shows are better; the pews are unforgiving. Sit in the balcony for the sound.",
   "rating": 87,
   "drive_min": 392,
+  "drive_min_clemson": 322,
   "id": "ryman-auditorium-nashville",
   "state_abbr": "TN",
   "county_full": "Davidson County"
+ },
+ {
+  "name": "Tail of the Dragon",
+  "city": "Deals Gap",
+  "county": "Blount",
+  "state": "Tennessee",
+  "cats": [
+   "Motorsport",
+   "Road Trip",
+   "Adrenaline"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Mar–Nov",
+  "start": "1930s",
+  "company": "Self-guided",
+  "party": "2–4",
+  "customer": "Drivers, motorcyclists, car clubs",
+  "unique": "318 curves in 11 miles of US 129 along the Little Tennessee River, with a tree covered in discarded motorcycle parts at the start and photographers on every corner.",
+  "buzz": "Drivers and riders make pilgrimages; police patrol heavily and crashes are common. Respect the double yellow and ride within your skill.",
+  "rating": 87,
+  "drive_min_clemson": 159,
+  "id": "tail-of-the-dragon-deals-gap",
+  "state_abbr": "TN",
+  "county_full": "Blount County"
  },
  {
   "name": "Beale Street",
@@ -129,6 +160,7 @@
   "buzz": "The music is real and the drinks are strong; BB King's and Rum Boogie are the reliable rooms. It gets rowdy late.",
   "rating": 86,
   "drive_min": 579,
+  "drive_min_clemson": 467,
   "id": "beale-street-memphis",
   "state_abbr": "TN",
   "county_full": "Shelby County"
@@ -156,6 +188,7 @@
   "buzz": "The river journey building is the sleeper hit; the ocean building gets crowded. Buy timed tickets and go at opening.",
   "rating": 86,
   "drive_min": 330,
+  "drive_min_clemson": 202,
   "id": "tennessee-aquarium-chattanooga",
   "state_abbr": "TN",
   "county_full": "Hamilton County"
@@ -183,6 +216,7 @@
   "buzz": "The lineup and the camping vibe are the draw; heat, mud and the walk are the tax. Bring a wagon and shade.",
   "rating": 85,
   "drive_min": 390,
+  "drive_min_clemson": 265,
   "id": "bonnaroo-manchester",
   "state_abbr": "TN",
   "county_full": "Coffee County"
@@ -210,6 +244,7 @@
   "buzz": "The house tour is moving even for non-fans; the higher tiers are expensive. Book the first slot and skip the shopping complex.",
   "rating": 85,
   "drive_min": 579,
+  "drive_min_clemson": 467,
   "id": "graceland-memphis",
   "state_abbr": "TN",
   "county_full": "Shelby County"
@@ -237,6 +272,7 @@
   "buzz": "The tasting tour is excellent and the dry-county irony is a running joke; book ahead. The angels' share smells like the whole town.",
   "rating": 84,
   "drive_min": 420,
+  "drive_min_clemson": 294,
   "id": "jack-daniel-s-distillery-lynchburg",
   "state_abbr": "TN",
   "county_full": "Moore County"
@@ -264,6 +300,7 @@
   "buzz": "Go on a weekday afternoon for the best players and the least chaos; Saturday night is a different animal.",
   "rating": 84,
   "drive_min": 392,
+  "drive_min_clemson": 322,
   "id": "lower-broadway-honky-tonks-nashville",
   "state_abbr": "TN",
   "county_full": "Davidson County"
@@ -291,6 +328,7 @@
   "buzz": "Sit on the right going up for the view; the ride is short and the wait can be long. Combine with Rock City at the top.",
   "rating": 83,
   "drive_min": 330,
+  "drive_min_clemson": 202,
   "id": "lookout-mountain-incline-railway-chattanooga",
   "state_abbr": "TN",
   "county_full": "Hamilton County"
@@ -318,9 +356,37 @@
   "buzz": "The views and the tree canopy walk are the draw; it is expensive and the coaster lines are long. Sunset is the best slot.",
   "rating": 81,
   "drive_min": 213,
+  "drive_min_clemson": 140,
   "id": "anakeesta-gatlinburg",
   "state_abbr": "TN",
   "county_full": "Sevier County"
+ },
+ {
+  "name": "Sunsphere and Market Square",
+  "city": "Knoxville",
+  "county": "Knox",
+  "state": "Tennessee",
+  "cats": [
+   "Architecture",
+   "Quirky",
+   "Food & Drink"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1982",
+  "company": "City of Knoxville",
+  "party": "2–4",
+  "customer": "Families, architecture fans, food people",
+  "unique": "The gold-glass 1982 World's Fair tower you can ride to the top, plus a Market Square of restaurants and a city that has quietly become a food town.",
+  "buzz": "The Sunsphere is kitsch with a great view; Market Square is the reason to stay for dinner. Easy, affordable city day.",
+  "rating": 78,
+  "drive_min_clemson": 192,
+  "id": "sunsphere-and-market-square-knoxville",
+  "state_abbr": "TN",
+  "county_full": "Knox County"
  },
  {
   "name": "Ruby Falls",
@@ -345,6 +411,7 @@
   "buzz": "It is deeply touristy and kids love it; the falls are genuinely impressive. Combine with Rock City and the Incline.",
   "rating": 75,
   "drive_min": 330,
+  "drive_min_clemson": 202,
   "id": "ruby-falls-chattanooga",
   "state_abbr": "TN",
   "county_full": "Hamilton County"

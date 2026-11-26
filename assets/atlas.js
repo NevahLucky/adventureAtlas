@@ -87,9 +87,8 @@
 
   /* header */
   if (D.mode === "region") {
-    $("#stateSub").textContent = D.stats.count + " adventures within a four-hour drive of Fort Mill, across " +
-      D.stats.states + " states — Charlotte in half an hour, the Blue Ridge in two and a half, the coast and the " +
-      "New River Gorge at the edge of the radius. Drive times are traffic-free routing estimates.";
+    $("#stateSub").textContent = D.sub || (D.stats.count + " adventures within a four-hour drive of " +
+      (D.origin || "Fort Mill") + ", across " + D.stats.states + " states. Drive times are traffic-free routing estimates.");
     $("#stateStats").innerHTML = [
       [D.stats.count, "Adventures"], [D.stats.states, "States"],
       [D.stats.within60, "Within an hour"], ["$" + num(D.stats.median), "Median cost"], [D.stats.top, "Top score"]
@@ -234,6 +233,7 @@
 
   function fmtDrive(m) {
     if (m == null) return "\u2014";
+    if (m <= 5) return "In town";
     if (m < 60) return m + " min";
     var h = Math.floor(m / 60), r = m % 60;
     return h + "h" + (r ? " " + r + "m" : "");
@@ -302,7 +302,7 @@
       "<div><h4>Word of mouth</h4><p>" + esc(r.buzz) + "</p></div>" +
       '<div><h4>The practical bit</h4><p class="detail-meta">' +
       "<span><b>Where</b> " + esc(r.city) + ", " + esc(r.county_full) + "</span>" +
-      (r.drive_min != null ? "<span><b>Drive</b> " + esc(fmtDrive(r.drive_min)) + " from Fort Mill</span>" : "") +
+      (r.drive_min != null ? "<span><b>Drive</b> " + esc(fmtDrive(r.drive_min)) + " from " + esc(D.origin || "Fort Mill") + "</span>" : "") +
       "<span><b>Access</b> " + esc(r.company) + "</span>" +
       "<span><b>Cost</b> " + esc(r.cost) + " per person</span>" +
       "<span><b>Time</b> " + esc(r.dur) + "</span>" +

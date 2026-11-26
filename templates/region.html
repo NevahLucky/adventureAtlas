@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Fort Mill Radius — Waypoint Atlas of Adventures</title>
-<meta name="description" content="Every adventure worth the trip within a four-hour drive of Fort Mill, South Carolina — with routing-based drive times, costs and county filters.">
+<title>{{TITLE}} — Waypoint Atlas of Adventures</title>
+<meta name="description" content="{{DESC}}">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="../assets/atlas.css">
 </head>
@@ -24,10 +24,10 @@
 
 <div class="state-head">
   <div class="wrap">
-    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Fort Mill radius</span></div>
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>{{CRUMB}}</span></div>
     <div class="state-title">
       <div>
-        <h1>Within four hours.</h1>
+        <h1>{{H1}}</h1>
         <p class="sub" id="stateSub"></p>
       </div>
       <div class="state-stats" id="stateStats"></div>
@@ -38,7 +38,7 @@
 <div class="wrap">
   <div class="pager">
     <span><a class="pager-link" href="../index.html#states">&larr; All states</a></span>
-    <span><a class="pager-link" href="https://www.openstreetmap.org/#map=8/35.01/-80.95" target="_blank" rel="noopener">Map of the radius &rarr;</a></span>
+    <span><a class="pager-link" href="{{MAP}}" target="_blank" rel="noopener">Map of the radius &rarr;</a></span>
   </div>
 
   <div class="toolbar" id="toolbar">
@@ -107,7 +107,7 @@
   <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
     <div class="wrap" style="padding:0 22px">
       <div class="notes-grid">
-        <div><h4>How the radius works</h4><p>Drive times are traffic-free routing estimates from downtown Fort Mill to the town or trailhead in each entry, using OpenStreetMap road data. Add 15&ndash;25% for rush hour, and check the park's own directions for the last mile.</p></div>
+        <div><h4>How the radius works</h4><p>Drive times are traffic-free routing estimates from downtown {{ORIGIN}} to the town or trailhead in each entry, using OpenStreetMap road data. Add 15&ndash;25% for rush hour, and check the park's own directions for the last mile.</p></div>
         <div><h4>Why some obvious places are missing</h4><p>The atlas only lists things worth a deliberate trip. A chain restaurant or a generic mall doesn't make it just because it's close. If something local belongs here, it can be added.</p></div>
         <div><h4>Reading the score</h4><p>0&ndash;100 for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value. Sorted high to low by default.</p></div>
       </div>
@@ -122,7 +122,7 @@
 
 <footer class="site">
   <div class="wrap">
-    <span>Waypoint — Fort Mill radius edition. Drive times are estimates; costs are indicative.</span>
+    <span>Waypoint — {{CRUMB}} edition. Drive times are estimates; costs are indicative.</span>
     <span><a href="../index.html#states">&larr; All states</a></span>
   </div>
 </footer>
@@ -130,9 +130,11 @@
 <script>
 window.STATE = {
   mode: "region",
-  name: "Fort Mill radius",
-  abbr: "SC",
-  slug: "fort-mill",
+  name: {{NAME_JSON}},
+  origin: {{ORIGIN_JSON}},
+  sub: {{SUB_JSON}},
+  abbr: "{{ABBR}}",
+  slug: "{{SLUG}}",
   stats: {{STATS}},
   states: {{STATES_JSON}},
   counties: [],

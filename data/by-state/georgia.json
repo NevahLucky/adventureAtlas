@@ -1,5 +1,32 @@
 [
  {
+  "name": "Lookout Mountain Flight Park",
+  "city": "Rising Fawn",
+  "county": "Walker",
+  "state": "Georgia",
+  "cats": [
+   "Air",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$200–$300",
+  "cost_num": 250,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Mar–Nov",
+  "start": "1978",
+  "company": "Lookout Mountain Flight Park",
+  "party": "2–4",
+  "customer": "Adrenaline seekers, couples, bucket-listers",
+  "unique": "Tandem hang gliding off a 2,000-foot cliff over the Lookout Valley, with a flight that can last twenty minutes and a landing in a grass field.",
+  "buzz": "Instructors are calm and the flight is silent; weather decides everything, so book early in your trip. Video is worth it.",
+  "rating": 90,
+  "drive_min_clemson": 225,
+  "id": "lookout-mountain-flight-park-rising-fawn",
+  "state_abbr": "GA",
+  "county_full": "Walker County"
+ },
+ {
   "name": "Cumberland Island",
   "city": "St. Marys",
   "county": "Camden",
@@ -22,6 +49,7 @@
   "buzz": "People call it the best-kept secret on the Georgia coast; the ferry sells out and there is no food on island. Carry everything.",
   "rating": 89,
   "drive_min": 309,
+  "drive_min_clemson": 355,
   "id": "cumberland-island-st-marys",
   "state_abbr": "GA",
   "county_full": "Camden County"
@@ -49,6 +77,7 @@
   "buzz": "The Eastside Trail is the busy, people-watching stretch; rent a bike or scooter and stop for food. Parking is the only friction.",
   "rating": 87,
   "drive_min": 232,
+  "drive_min_clemson": 120,
   "id": "atlanta-beltline-atlanta",
   "state_abbr": "GA",
   "county_full": "Fulton County"
@@ -76,6 +105,7 @@
   "buzz": "The floor permit is the prize and sells out; the rim trails are free-ish and still spectacular. Tighten your shoes for the stairs.",
   "rating": 87,
   "drive_min": 187,
+  "drive_min_clemson": 63,
   "id": "tallulah-gorge-tallulah-falls",
   "state_abbr": "GA",
   "county_full": "Rabun County"
@@ -103,6 +133,7 @@
   "buzz": "The stairs are brutal and the view is worth it; the lodge at the top has the best sunset. The AT approach is a bucket-list day.",
   "rating": 86,
   "drive_min": 228,
+  "drive_min_clemson": 114,
   "id": "amicalola-falls-dawsonville",
   "state_abbr": "GA",
   "county_full": "Dawson County"
@@ -130,6 +161,7 @@
   "buzz": "Boat tours are excellent for gators and birds; paddlers say the wilderness is eerie and beautiful. Bugs are biblical in summer.",
   "rating": 86,
   "drive_min": 322,
+  "drive_min_clemson": 332,
   "id": "okefenokee-swamp-folkston",
   "state_abbr": "GA",
   "county_full": "Charlton County"
@@ -157,6 +189,7 @@
   "buzz": "The whale shark gallery is the showstopper; crowds and ticket prices are the complaints. Buy timed entry online and go at opening.",
   "rating": 85,
   "drive_min": 232,
+  "drive_min_clemson": 120,
   "id": "georgia-aquarium-atlanta",
   "state_abbr": "GA",
   "county_full": "Fulton County"
@@ -184,6 +217,7 @@
   "buzz": "Sound is excellent for a room this size; the roof bar before the show is the move. Athens is a music town and this is its living room.",
   "rating": 85,
   "drive_min": 195,
+  "drive_min_clemson": 82,
   "id": "georgia-theatre-athens",
   "state_abbr": "GA",
   "county_full": "Clarke County"
@@ -211,6 +245,7 @@
   "buzz": "It is unabashedly old-school and kids love it; the Lover's Leap view is legitimately great. Combine with Ruby Falls and the Incline.",
   "rating": 85,
   "drive_min": 339,
+  "drive_min_clemson": 210,
   "id": "rock-city-gardens-lookout-mountain",
   "state_abbr": "GA",
   "county_full": "Walker County"
@@ -238,6 +273,7 @@
   "buzz": "The open-air car is the one to book; fall color trips sell out. It is relaxed and scenic rather than thrilling.",
   "rating": 83,
   "drive_min": 256,
+  "drive_min_clemson": 120,
   "id": "blue-ridge-scenic-railway-blue-ridge",
   "state_abbr": "GA",
   "county_full": "Fannin County"
@@ -265,6 +301,7 @@
   "buzz": "The colors are unreal in photos and real in person; the backcountry trail is muddy and the canyon floor is closed after rain.",
   "rating": 83,
   "drive_min": 223,
+  "drive_min_clemson": 102,
   "id": "providence-canyon-lumpkin",
   "state_abbr": "GA",
   "county_full": "Stewart County"
@@ -292,9 +329,37 @@
   "buzz": "Pick a small historian-led tour over a trolley; the good guides are genuinely funny and know the archives. October is a zoo.",
   "rating": 81,
   "drive_min": 218,
+  "drive_min_clemson": 268,
   "id": "savannah-ghost-tour-savannah",
   "state_abbr": "GA",
   "county_full": "Chatham County"
+ },
+ {
+  "name": "Augusta Canal",
+  "city": "Augusta",
+  "county": "Richmond",
+  "state": "Georgia",
+  "cats": [
+   "Historical",
+   "Water",
+   "Cycling"
+  ],
+  "cost": "$15–$30",
+  "cost_num": 20,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1845",
+  "company": "Augusta Canal Authority",
+  "party": "2–4",
+  "customer": "Families, history buffs, cyclists",
+  "unique": "A 1845 industrial canal with a glass-bottom boat tour, a towpath you can bike and the original mills and locks still standing.",
+  "buzz": "The boat tour is calm and informative; the towpath is flat and shaded. A good half-day with the Augusta Museum.",
+  "rating": 78,
+  "drive_min_clemson": 150,
+  "id": "augusta-canal-augusta",
+  "state_abbr": "GA",
+  "county_full": "Richmond County"
  },
  {
   "name": "Helen Tubing",
@@ -319,6 +384,7 @@
   "buzz": "It is deeply silly and genuinely fun; the water is cold and the tube chutes are chaotic on weekends. Go on a weekday.",
   "rating": 76,
   "drive_min": 199,
+  "drive_min_clemson": 76,
   "id": "helen-tubing-helen",
   "state_abbr": "GA",
   "county_full": "White County"
@@ -346,6 +412,7 @@
   "buzz": "The hike up is a genuine workout with a great view; the carving is historically fraught and the park is unapologetically kitschy.",
   "rating": 74,
   "drive_min": 234,
+  "drive_min_clemson": 121,
   "id": "stone-mountain-stone-mountain",
   "state_abbr": "GA",
   "county_full": "DeKalb County"

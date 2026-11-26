@@ -123,6 +123,22 @@ def build_index(rows: list[dict]) -> str:
       </aside>"""
 
     near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
+    clem = [r for r in rows if r.get("drive_min_clemson") is not None and r["drive_min_clemson"] <= 240]
+    cards = [
+        ("fort-mill", "Fort Mill, SC", "Charlotte in 22 minutes. The Blue Ridge in two and a half hours. "
+         "Charleston, Savannah and the New River Gorge at the four-hour edge.", near),
+        ("clemson", "Clemson, SC", "The Chattooga in 37 minutes. Asheville and Highlands in two hours. "
+         "The coast and the high Blue Ridge at the four-hour edge.", clem),
+    ]
+    region_html = "".join(
+        f'<a class="region-card" href="regions/{slug}.html">'
+        f'<span class="rb-kicker">4-hour radius</span>'
+        f"<h3>{esc(label)}</h3>"
+        f'<p>{esc(blurb)}</p>'
+        f'<span class="rb-foot"><b>{len(items)}</b> adventures &middot; {len({r["state"] for r in items})} states'
+        f'<span class="rb-go">Open &rarr;</span></span></a>'
+        for slug, label, blurb, items in cards
+    )
     top = rows[:15]
     top_html = []
     for i, r in enumerate(top, 1):
@@ -151,6 +167,7 @@ def build_index(rows: list[dict]) -> str:
         .replace("{{TOP}}", "".join(top_html))
         .replace("{{CATS}}", cat_html)
         .replace("{{PICK}}", pick)
+        .replace("{{REGION_CARDS}}", region_html)
         .replace("{{NEARN}}", str(len(near)))
         .replace("{{NEAR1H}}", str(sum(1 for r in near if r["drive_min"] <= 60)))
         .replace("{{TOPN}}", str(len(top)))
@@ -188,27 +205,41 @@ def build_state(rows: list[dict], name: str, all_rows: list[dict]) -> str:
     )
 
 
-def build_region(rows: list[dict]) -> str:
-    near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
+def build_region(rows: list[dict], *, field: str, slug: str, name: str, h1: str,
+                 crumb: str, origin: str, abbr: str, sub: str, map_url: str,
+                 desc: str) -> str:
+    near = [r for r in rows if r.get(field) is not None and r[field] <= 240]
+    near.sort(key=lambda r: (-r["rating"], r[field]))
+    out = []
+    for r in near:
+        c = dict(r)
+        c["drive_min"] = r[field]
+        out.append(c)
     by_state = Counter(r["state"] for r in near)
     states = [{"name": k, "count": v} for k, v in sorted(by_state.items(), key=lambda x: (-x[1], x[0]))]
     costs = [r["cost_num"] for r in near]
     stats = {
         "count": len(near), "states": len(by_state),
-        "within60": sum(1 for r in near if r["drive_min"] <= 60),
+        "within60": sum(1 for r in near if r[field] <= 60),
         "free": sum(1 for r in near if r["cost_num"] == 0),
         "median": int(statistics.median(costs)),
         "top": max(r["rating"] for r in near),
-        "topname": max(near, key=lambda r: r["rating"])["name"],
     }
-    sub = (f"{len(near)} adventures within a four-hour drive of Fort Mill, across "
-           f"{len(by_state)} states — a 22-minute run to Charlotte, the Blue Ridge in two and a half hours, "
-           f"the coast and the New River Gorge at the edge of the radius. Times are traffic-free routing estimates.")
     tpl = (ROOT / "templates" / "region.html").read_text()
-    return (tpl.replace("{{STATS}}", json.dumps(stats))
+    return (tpl.replace("{{TITLE}}", esc(name))
+               .replace("{{DESC}}", esc(desc))
+               .replace("{{H1}}", esc(h1))
+               .replace("{{CRUMB}}", esc(crumb))
+               .replace("{{ORIGIN}}", esc(origin))
+               .replace("{{MAP}}", map_url)
+               .replace("{{NAME_JSON}}", json.dumps(name))
+               .replace("{{ORIGIN_JSON}}", json.dumps(origin))
+               .replace("{{SUB_JSON}}", json.dumps(sub))
+               .replace("{{ABBR}}", abbr)
+               .replace("{{SLUG}}", slug)
+               .replace("{{STATS}}", json.dumps(stats))
                .replace("{{STATES_JSON}}", json.dumps(states, ensure_ascii=False))
-               .replace("{{ROWS}}", json.dumps(near, ensure_ascii=False))
-               .replace("{{SUB}}", esc(sub)))
+               .replace("{{ROWS}}", json.dumps(out, ensure_ascii=False)))
 
 
 def write_csv(rows: list[dict]) -> None:
@@ -228,6 +259,8 @@ def write_csv(rows: list[dict]) -> None:
 
 def main() -> None:
     rows = load()
+    near = [r for r in rows if r.get("drive_min") is not None and r["drive_min"] <= 240]
+    clem = [r for r in rows if r.get("drive_min_clemson") is not None and r["drive_min_clemson"] <= 240]
     if STATES.exists():
         shutil.rmtree(STATES)
     STATES.mkdir()
@@ -236,7 +269,24 @@ def main() -> None:
     (ROOT / "index.html").write_text(build_index(rows), encoding="utf-8")
     regions = (ROOT / "regions")
     regions.mkdir(exist_ok=True)
-    (regions / "fort-mill.html").write_text(build_region(rows), encoding="utf-8")
+    (regions / "fort-mill.html").write_text(build_region(
+        rows, field="drive_min", slug="fort-mill", name="The Fort Mill radius",
+        h1="Within four hours.", crumb="Fort Mill radius", origin="Fort Mill", abbr="SC",
+        sub=(f"{len(near)} adventures within a four-hour drive of Fort Mill, across "
+             f"{len({r['state'] for r in near})} states — Charlotte in half an hour, the Blue Ridge in two and a half, "
+             f"the coast and the New River Gorge at the edge of the radius. Drive times are traffic-free routing estimates."),
+        map_url="https://www.openstreetmap.org/#map=8/35.01/-80.95",
+        desc="Every adventure worth the trip within a four-hour drive of Fort Mill, South Carolina — routed drive times, costs and county filters."),
+        encoding="utf-8")
+    (regions / "clemson.html").write_text(build_region(
+        rows, field="drive_min_clemson", slug="clemson", name="The Clemson radius",
+        h1="Clemson, and four hours out.", crumb="Clemson radius", origin="Clemson", abbr="SC",
+        sub=(f"{len(clem)} adventures within a four-hour drive of Clemson, across "
+             f"{len({r['state'] for r in clem})} states — the Chattooga in forty minutes, Asheville and Highlands in two hours, "
+             f"Charleston, Savannah and the high Blue Ridge at the edge of the radius. Drive times are traffic-free routing estimates."),
+        map_url="https://www.openstreetmap.org/#map=8/34.69/-82.84",
+        desc="Every adventure worth the trip within a four-hour drive of Clemson, South Carolina — routed drive times, costs and county filters."),
+        encoding="utf-8")
     for name, _ in STATE_ORDER:
         items = [r for r in rows if r["state"] == name]
         if not items:

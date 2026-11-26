@@ -22,6 +22,7 @@
   "buzz": "Triple Falls is the icon and the summer swimming hole; parking is limited and the falls get crowded by 10am. Winter ice makes the trails dangerous.",
   "rating": 90,
   "drive_min": 111,
+  "drive_min_clemson": 84,
   "id": "dupont-state-forest-cedar-mountain",
   "state_abbr": "NC",
   "county_full": "Transylvania County"
@@ -49,6 +50,7 @@
   "buzz": "Locals treat it as the default outdoor day; rafting is guided and beginner-safe, and the trail network is genuinely good. Parking is free, beer garden is real.",
   "rating": 90,
   "drive_min": 22,
+  "drive_min_clemson": 132,
   "id": "u-s-national-whitewater-center-charlotte",
   "state_abbr": "NC",
   "county_full": "Mecklenburg County"
@@ -76,6 +78,7 @@
   "buzz": "Elk are reliably visible in the meadows at dawn and dusk; the gravel road is narrow and the valley has no services. Bring a scope.",
   "rating": 89,
   "drive_min": 154,
+  "drive_min_clemson": 104,
   "id": "cataloochee-elk-valley-waynesville",
   "state_abbr": "NC",
   "county_full": "Haywood County"
@@ -103,6 +106,7 @@
   "buzz": "The bridge is the photo everyone wants; the wildlife habitats are surprisingly good and the backcountry trails are steep. Drive the ridge road slowly.",
   "rating": 89,
   "drive_min": 132,
+  "drive_min_clemson": 168,
   "id": "grandfather-mountain-linville",
   "state_abbr": "NC",
   "county_full": "Avery County"
@@ -130,9 +134,37 @@
   "buzz": "The exhibits are unflinching and the space is small enough to feel; visitors call it essential. Allow two hours and bring tissues.",
   "rating": 89,
   "drive_min": 106,
+  "drive_min_clemson": 213,
   "id": "international-civil-rights-center-and-museum-greensboro",
   "state_abbr": "NC",
   "county_full": "Guilford County"
+ },
+ {
+  "name": "John C. Campbell Folk School",
+  "city": "Brasstown",
+  "county": "Clay",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Community",
+   "Historical"
+  ],
+  "cost": "Free–$250 class",
+  "cost_num": 90,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year-round",
+  "start": "1925",
+  "company": "John C. Campbell Folk School",
+  "party": "2–4",
+  "customer": "Craft people, retirees, couples",
+  "unique": "A 1925 folk school where you can take a day class in blacksmithing, woodturning, weaving or bookbinding, on a campus of gardens and craft studios.",
+  "buzz": "People come for a weekend and leave with a forged knife and a new hobby; the instructors are patient with beginners. Book classes months ahead.",
+  "rating": 88,
+  "drive_min_clemson": 103,
+  "id": "john-c-campbell-folk-school-brasstown",
+  "state_abbr": "NC",
+  "county_full": "Clay County"
  },
  {
   "name": "North Carolina Zoo",
@@ -157,6 +189,7 @@
   "buzz": "People are surprised it takes a full day; the walking is real and the habitats are genuinely spacious. The kid zone and carousel are the family anchors.",
   "rating": 88,
   "drive_min": 104,
+  "drive_min_clemson": 210,
   "id": "north-carolina-zoo-asheboro",
   "state_abbr": "NC",
   "county_full": "Randolph County"
@@ -184,6 +217,7 @@
   "buzz": "Hikers warn that the gorge is genuinely dangerous — rescues are common — and call the view from Hawksbill the best in the state.",
   "rating": 87,
   "drive_min": 131,
+  "drive_min_clemson": 158,
   "id": "linville-gorge-linville-falls",
   "state_abbr": "NC",
   "county_full": "Burke County"
@@ -211,6 +245,7 @@
   "buzz": "Musicians love it and say so from the stage; the campus setting keeps it relaxed. Bring rain gear and a folding chair.",
   "rating": 87,
   "drive_min": 99,
+  "drive_min_clemson": 197,
   "id": "merlefest-wilkesboro",
   "state_abbr": "NC",
   "county_full": "Wilkes County"
@@ -238,6 +273,7 @@
   "buzz": "Buy a mug from the person who made it; the Seagrove Pottery Festival in November is the best day. Some studios are appointment-only.",
   "rating": 87,
   "drive_min": 109,
+  "drive_min_clemson": 216,
   "id": "seagrove-pottery-trail-seagrove",
   "state_abbr": "NC",
   "county_full": "Randolph County"
@@ -265,9 +301,36 @@
   "buzz": "The house is awe-inspiring; the price and the wine-tasting upsell draw complaints. Book the rooftop or behind-the-scenes tour if you can.",
   "rating": 86,
   "drive_min": 134,
+  "drive_min_clemson": 100,
   "id": "biltmore-asheville",
   "state_abbr": "NC",
   "county_full": "Buncombe County"
+ },
+ {
+  "name": "Dry Falls",
+  "city": "Highlands",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Hiking"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "Nantahala National Forest",
+  "party": "2–4",
+  "customer": "Families, photographers, road-trippers",
+  "unique": "A 75-foot waterfall you can walk behind on a stone staircase, staying dry under the rock overhang while the water pours past your shoulder.",
+  "buzz": "The walk-behind is the draw and the stairs are slick; go early and combine with Bridal Veil Falls up the road.",
+  "rating": 86,
+  "drive_min_clemson": 63,
+  "id": "dry-falls-highlands",
+  "state_abbr": "NC",
+  "county_full": "Macon County"
  },
  {
   "name": "Lexington Barbecue Trail",
@@ -291,6 +354,7 @@
   "buzz": "Lexington BBQ and the Barbecue Center are the canonical stops; locals order coarse chopped and hushpuppies. The October festival draws thousands.",
   "rating": 86,
   "drive_min": 75,
+  "drive_min_clemson": 181,
   "id": "lexington-barbecue-trail-lexington",
   "state_abbr": "NC",
   "county_full": "Davidson County"
@@ -318,9 +382,37 @@
   "buzz": "People describe it as the Outer Banks before development; the ferry reservation is the only friction. Bikes beat cars.",
   "rating": 86,
   "drive_min": 510,
+  "drive_min_clemson": 619,
   "id": "ocracoke-island-ocracoke",
   "state_abbr": "NC",
   "county_full": "Hyde County"
+ },
+ {
+  "name": "Cherohala Skyway",
+  "city": "Robbinsville",
+  "county": "Graham",
+  "state": "North Carolina",
+  "cats": [
+   "Road Trip",
+   "Nature",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Apr–Nov",
+  "start": "1996",
+  "company": "US Forest Service",
+  "party": "2–4",
+  "customer": "Drivers, photographers, motorcyclists",
+  "unique": "Forty-three miles of ridge-top road above 5,000 feet through the Cherokee and Nantahala forests, with overlooks that show nothing but blue ridges.",
+  "buzz": "Drivers call it the Blue Ridge Parkway without the traffic; fuel up before you start and watch for fog. Fall color is spectacular.",
+  "rating": 85,
+  "drive_min_clemson": 142,
+  "id": "cherohala-skyway-robbinsville",
+  "state_abbr": "NC",
+  "county_full": "Graham County"
  },
  {
   "name": "Great Smoky Mountain Railroad",
@@ -345,6 +437,7 @@
   "buzz": "The Nantahala Gorge run is the scenic one; the Polar Express sells out a year ahead. Bring a jacket for the open car.",
   "rating": 85,
   "drive_min": 187,
+  "drive_min_clemson": 104,
   "id": "great-smoky-mountain-railroad-bryson-city",
   "state_abbr": "NC",
   "county_full": "Swain County"
@@ -372,6 +465,7 @@
   "buzz": "The storytelling is strong and the gift shop is full of actual Cherokee artists' work; pair it with Oconaluftee Village next door.",
   "rating": 85,
   "drive_min": 244,
+  "drive_min_clemson": 115,
   "id": "museum-of-the-cherokee-indian-cherokee",
   "state_abbr": "NC",
   "county_full": "Swain County"
@@ -398,6 +492,7 @@
   "buzz": "The best first-rafting river in the Southeast; guides are patient with kids. The train that runs along the gorge is a bonus.",
   "rating": 85,
   "drive_min": 187,
+  "drive_min_clemson": 104,
   "id": "nantahala-gorge-rafting-bryson-city",
   "state_abbr": "NC",
   "county_full": "Swain County"
@@ -425,6 +520,7 @@
   "buzz": "The living-history trades are excellent; the bakery and the tavern are the fun parts. Christmas by candlelight sells out.",
   "rating": 85,
   "drive_min": 92,
+  "drive_min_clemson": 199,
   "id": "old-salem-winston-salem",
   "state_abbr": "NC",
   "county_full": "Forsyth County"
@@ -451,6 +547,7 @@
   "buzz": "The upper overlook is an easy five-minute walk; the lower viewing deck is a steep staircase. Go after rain for volume.",
   "rating": 85,
   "drive_min": 169,
+  "drive_min_clemson": 67,
   "id": "whitewater-falls-sapphire",
   "state_abbr": "NC",
   "county_full": "Jackson County"
@@ -478,6 +575,7 @@
   "buzz": "The elevator saves the climb and the view over Lake Lure is the payoff; the stairs at the top are steep. Go early for the parking deck.",
   "rating": 84,
   "drive_min": 139,
+  "drive_min_clemson": 112,
   "id": "chimney-rock-chimney-rock",
   "state_abbr": "NC",
   "county_full": "Rutherford County"
@@ -505,9 +603,63 @@
   "buzz": "Locals use it as a training hike; the backside trail is quieter and the cliffs draw Charlotte climbers after work. Parking fills by 9am on weekends.",
   "rating": 84,
   "drive_min": 44,
+  "drive_min_clemson": 105,
   "id": "crowders-mountain-kings-mountain",
   "state_abbr": "NC",
   "county_full": "Gaston County"
+ },
+ {
+  "name": "The Gorge Zipline",
+  "city": "Saluda",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$100–$150",
+  "cost_num": 125,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Mar–Nov",
+  "start": "2015",
+  "company": "The Gorge",
+  "party": "2–6",
+  "customer": "Families with teens, young adults",
+  "unique": "Eleven ziplines and a sky bridge over a 1,100-acre gorge, with the longest line running a half mile above the Green River.",
+  "buzz": "Guides are funny and safety-focused; the hike between lines is real. Book the earliest slot for the best light and least heat.",
+  "rating": 84,
+  "drive_min_clemson": 77,
+  "id": "the-gorge-zipline-saluda",
+  "state_abbr": "NC",
+  "county_full": "Polk County"
+ },
+ {
+  "name": "Tryon International Equestrian Center",
+  "city": "Mill Spring",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Sports",
+   "Festival",
+   "Community"
+  ],
+  "cost": "Free–$30",
+  "cost_num": 15,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Apr–Oct, event weekends",
+  "start": "2018",
+  "company": "Tryon International Equestrian Center",
+  "party": "2–6",
+  "customer": "Families, horse people, couples",
+  "unique": "A 1,200-acre equestrian resort that hosts international show jumping, with Saturday Night Lights, a brewery and free general admission on many days.",
+  "buzz": "Even non-horse people enjoy the scene; parking is easy and the grounds are immaculate. Check the calendar for a big jumper night.",
+  "rating": 84,
+  "drive_min_clemson": 90,
+  "id": "tryon-international-equestrian-center-mill-spring",
+  "state_abbr": "NC",
+  "county_full": "Polk County"
  },
  {
   "name": "Wright Brothers Memorial",
@@ -531,6 +683,7 @@
   "buzz": "Rangers give short talks that make the engineering drama vivid; the wind is constant. Combine with Jockey's Ridge sand dunes.",
   "rating": 84,
   "drive_min": 366,
+  "drive_min_clemson": 473,
   "id": "wright-brothers-memorial-kill-devil-hills",
   "state_abbr": "NC",
   "county_full": "Dare County"
@@ -558,9 +711,64 @@
   "buzz": "Everyone screams, everyone does it twice. Water is 55 degrees year-round; go on a weekday morning and bring water shoes.",
   "rating": 83,
   "drive_min": 136,
+  "drive_min_clemson": 72,
   "id": "sliding-rock-pisgah-forest",
   "state_abbr": "NC",
   "county_full": "Transylvania County"
+ },
+ {
+  "name": "Wayah Bald",
+  "city": "Franklin",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Road Trip",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Apr–Nov",
+  "start": "1937",
+  "company": "Nantahala National Forest",
+  "party": "2–4",
+  "customer": "Photographers, road-trippers, families",
+  "unique": "A stone fire tower at 5,342 feet with a 360-degree view over four states, reached by a paved road and a short walk on the Appalachian Trail.",
+  "buzz": "The view is enormous and the drive is the adventure; the road is narrow and closes in winter. Sunset is the payoff.",
+  "rating": 83,
+  "drive_min_clemson": 308,
+  "id": "wayah-bald-franklin",
+  "state_abbr": "NC",
+  "county_full": "Macon County"
+ },
+ {
+  "name": "Highlands",
+  "city": "Highlands",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Food & Drink",
+   "Quirky"
+  ],
+  "cost": "Free–$40",
+  "cost_num": 20,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "May–Oct",
+  "start": "1875",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Couples, food people, retirees",
+  "unique": "A mountain town at 4,100 feet with waterfalls on the edge of town, a main street of galleries and a summer colony that has been escaping the heat since 1875.",
+  "buzz": "The setting is gorgeous and the restaurants are better than a town this size deserves; it is expensive and crowded in July.",
+  "rating": 82,
+  "drive_min_clemson": 63,
+  "id": "highlands-highlands",
+  "state_abbr": "NC",
+  "county_full": "Macon County"
  },
  {
   "name": "Korner's Folly",
@@ -585,6 +793,7 @@
   "buzz": "People call it the strangest house in the South; guides tell the family tragedy well. Small, cheap and memorable.",
   "rating": 82,
   "drive_min": 100,
+  "drive_min_clemson": 207,
   "id": "korner-s-folly-kernersville",
   "state_abbr": "NC",
   "county_full": "Forsyth County"
@@ -612,6 +821,7 @@
   "buzz": "Rangers are excellent with kids; the underground tour is short and cool. Panning is the reason to stay.",
   "rating": 82,
   "drive_min": 46,
+  "drive_min_clemson": 161,
   "id": "reed-gold-mine-midland",
   "state_abbr": "NC",
   "county_full": "Cabarrus County"
@@ -639,6 +849,7 @@
   "buzz": "The interactive pit stop and the simulator are the hits; non-fans finish in 90 minutes. Good rainy-day pick in Charlotte.",
   "rating": 81,
   "drive_min": 22,
+  "drive_min_clemson": 132,
   "id": "nascar-hall-of-fame-charlotte",
   "state_abbr": "NC",
   "county_full": "Mecklenburg County"
@@ -666,9 +877,37 @@
   "buzz": "It is joyful and completely uncurated; locals either love it or avoid downtown on Fridays. Bring a drum or just watch.",
   "rating": 80,
   "drive_min": 134,
+  "drive_min_clemson": 100,
   "id": "asheville-drum-circle-asheville",
   "state_abbr": "NC",
   "county_full": "Buncombe County"
+ },
+ {
+  "name": "Flat Rock Playhouse",
+  "city": "Flat Rock",
+  "county": "Henderson",
+  "state": "North Carolina",
+  "cats": [
+   "Performance",
+   "Music",
+   "Historical"
+  ],
+  "cost": "$40–$65",
+  "cost_num": 50,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Apr–Dec",
+  "start": "1952",
+  "company": "Flat Rock Playhouse",
+  "party": "2–4",
+  "customer": "Retirees, couples, families",
+  "unique": "The State Theatre of North Carolina, founded by touring actors in 1952, still producing Broadway-quality musicals in a converted rock quarry building.",
+  "buzz": "Production values are high for a small town; the summer musicals sell out. Dinner in Hendersonville before the show.",
+  "rating": 80,
+  "drive_min_clemson": 74,
+  "id": "flat-rock-playhouse-flat-rock",
+  "state_abbr": "NC",
+  "county_full": "Henderson County"
  },
  {
   "name": "Lake Norman State Park",
@@ -693,9 +932,36 @@
   "buzz": "Locals come for the beach and the Itusi trail; the lake is busy with powerboats on summer weekends. Go on a weekday morning.",
   "rating": 80,
   "drive_min": 53,
+  "drive_min_clemson": 158,
   "id": "lake-norman-state-park-troutman",
   "state_abbr": "NC",
   "county_full": "Iredell County"
+ },
+ {
+  "name": "Pearson's Falls",
+  "city": "Tryon",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Hiking"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Mar–Nov",
+  "start": "1930",
+  "company": "Tryon Garden Club",
+  "party": "2–4",
+  "customer": "Families, photographers, couples",
+  "unique": "A 90-foot waterfall in a hemlock glen bought by a garden club in 1930 to save it, reached by a quarter-mile trail along a trout stream.",
+  "buzz": "Small, cheap and lovely; the trail is short and the pool is not for swimming. Combine with downtown Tryon's horse-country feel.",
+  "rating": 80,
+  "drive_min_clemson": 86,
+  "id": "pearson-s-falls-tryon",
+  "state_abbr": "NC",
+  "county_full": "Polk County"
  },
  {
   "name": "Optimist Hall",
@@ -720,8 +986,63 @@
   "buzz": "The variety is the point and the space is handsome; parking is tight and popular stalls run long at noon. Walk the rail trail after.",
   "rating": 79,
   "drive_min": 22,
+  "drive_min_clemson": 132,
   "id": "optimist-hall-charlotte",
   "state_abbr": "NC",
   "county_full": "Mecklenburg County"
+ },
+ {
+  "name": "Hendersonville Apple Orchards",
+  "city": "Hendersonville",
+  "county": "Henderson",
+  "state": "North Carolina",
+  "cats": [
+   "Food & Drink",
+   "Nature",
+   "Family"
+  ],
+  "cost": "Free–$20",
+  "cost_num": 10,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Aug–Oct",
+  "start": "1900s",
+  "company": "Local orchards",
+  "party": "2–6",
+  "customer": "Families, food people, retirees",
+  "unique": "Apple country at 2,200 feet: pick-your-own orchards, cider presses, fried apple pies and a fall festival that closes the main street.",
+  "buzz": "The picking is the fun and the cider doughnuts are the reason; weekends in October are a zoo. Go on a weekday.",
+  "rating": 78,
+  "drive_min_clemson": 82,
+  "id": "hendersonville-apple-orchards-hendersonville",
+  "state_abbr": "NC",
+  "county_full": "Henderson County"
+ },
+ {
+  "name": "Franklin Gem Mining",
+  "city": "Franklin",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Quirky",
+   "Maker",
+   "Family"
+  ],
+  "cost": "$15–$40",
+  "cost_num": 25,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Mar–Nov",
+  "start": "1900s",
+  "company": "Local gem mines",
+  "party": "2–6",
+  "customer": "Families, kids, rockhounds",
+  "unique": "Ruby, sapphire and garnet country: sluice a bucket of ore at a roadside mine and keep whatever you find, with real gem cutters next door.",
+  "buzz": "Kids get hooked and the staff teach you what to look for; the buckets vary in yield. It is touristy but genuinely fun.",
+  "rating": 77,
+  "drive_min_clemson": 308,
+  "id": "franklin-gem-mining-franklin",
+  "state_abbr": "NC",
+  "county_full": "Macon County"
  }
 ]

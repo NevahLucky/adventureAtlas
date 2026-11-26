@@ -1,6 +1,6 @@
 # Waypoint — An Atlas of Adventures Worth the Trip
 
-A static, dependency-free field guide to 455 singular things to do in the United States.
+A static, dependency-free field guide to 484 singular things to do in the United States.
 Browse by country → state → county, sort by any column, filter by budget, duration,
 party size and category, and keep a personal shortlist.
 
@@ -12,6 +12,7 @@ Open `index.html` directly in a browser. No build step, server, CDN or network a
 index.html                 country + state index (generated)
 states/<state-slug>.html   one page per state, sortable/filterable table (generated)
 regions/fort-mill.html     the 4-hour drive radius around Fort Mill, SC (generated)
+regions/clemson.html       the 4-hour drive radius around Clemson, SC (generated)
 data/adventures.json       single source of truth — edit this
 data/regions/*.json        the regional source files the master list was merged from
 data/by-state/*.json       per-state extracts (generated)
@@ -61,6 +62,7 @@ python3 -m http.server 8000
 | `buzz` | What reviews and word of mouth actually say |
 | `rating` | 0–100 editorial enjoyment score (see below) |
 | `drive_min` | Optional: traffic-free driving minutes from Fort Mill, SC, routed via OSM/Valhalla |
+| `drive_min_clemson` | Optional: the same, from Clemson, SC |
 
 ## How the score works
 
@@ -75,10 +77,11 @@ secondary sort), and the header arrow shows direction.
 
 ## Regional pages
 
-`regions/fort-mill.html` is generated from every entry with `drive_min <= 240`, so a new nearby
-entry only needs the field added to appear there. Drive times are traffic-free routing estimates
-(OpenStreetMap + Valhalla, origin: downtown Fort Mill 35.0074, -80.9451); add 15–25% for rush hour.
-The raw geocodes and times are cached in `data/drive-times.json`.
+`regions/fort-mill.html` uses every entry with `drive_min <= 240`; `regions/clemson.html` uses
+`drive_min_clemson <= 240`. A new nearby entry only needs the right field to appear on the page.
+Drive times are traffic-free routing estimates (OpenStreetMap + Valhalla; origins: downtown Fort Mill
+35.0074, -80.9451 and Clemson 34.6851, -82.8364); add 15–25% for rush hour. The raw geocodes and both
+sets of times are cached in `data/drive-times.json`.
 
 To build another regional page, copy `templates/region.html`, point `build.py` at a different
 filter (a bounding box, a list of states, a maximum drive time) and add it to `main()`.

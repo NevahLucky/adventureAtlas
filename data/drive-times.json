@@ -5,7 +5,9 @@
   "name": "Asheboro, Randolph County, North Carolina, United States",
   "drive_min": 104,
   "drive_km": 143,
-  "drive_mi": 93
+  "drive_mi": 93,
+  "drive_min_clemson": 210,
+  "drive_mi_clemson": 204
  },
  "Asheville|North Carolina": {
   "lat": 35.595363,
@@ -13,7 +15,9 @@
   "name": "Asheville, Buncombe County, North Carolina, United States",
   "drive_min": 134,
   "drive_km": 218,
-  "drive_mi": 141
+  "drive_mi": 141,
+  "drive_min_clemson": 100,
+  "drive_mi_clemson": 88
  },
  "Athens|Georgia": {
   "lat": 33.9597677,
@@ -21,7 +25,9 @@
   "name": "Athens, Clarke County, Georgia, United States",
   "drive_min": 195,
   "drive_km": 315,
-  "drive_mi": 195
+  "drive_mi": 195,
+  "drive_min_clemson": 82,
+  "drive_mi_clemson": 79
  },
  "Atlanta|Georgia": {
   "lat": 33.7544657,
@@ -29,7 +35,9 @@
   "name": "Atlanta, Fulton County, Georgia, United States",
   "drive_min": 232,
   "drive_km": 388,
-  "drive_mi": 240
+  "drive_mi": 240,
+  "drive_min_clemson": 120,
+  "drive_mi_clemson": 124
  },
  "Beaufort|South Carolina": {
   "lat": 32.3850708,
@@ -37,7 +45,9 @@
   "name": "Beaufort County, South Carolina, United States",
   "drive_min": 207,
   "drive_km": 348,
-  "drive_mi": 220
+  "drive_mi": 220,
+  "drive_min_clemson": 256,
+  "drive_mi_clemson": 262
  },
  "Beckley|West Virginia": {
   "lat": 37.7781702,
@@ -45,7 +55,9 @@
   "name": "Beckley, Raleigh County, West Virginia, 25801, United States",
   "drive_min": 214,
   "drive_km": 362,
-  "drive_mi": 226
+  "drive_mi": 226,
+  "drive_min_clemson": 319,
+  "drive_mi_clemson": 334
  },
  "Blue Ridge|Georgia": {
   "lat": 34.863972,
@@ -53,7 +65,9 @@
   "name": "Blue Ridge, Fannin County, Georgia, United States",
   "drive_min": 256,
   "drive_km": 403,
-  "drive_mi": 249
+  "drive_mi": 249,
+  "drive_min_clemson": 120,
+  "drive_mi_clemson": 109
  },
  "Bryson City|North Carolina": {
   "lat": 35.4309291,
@@ -61,7 +75,9 @@
   "name": "Bryson City, Swain County, North Carolina, United States",
   "drive_min": 187,
   "drive_km": 306,
-  "drive_mi": 193
+  "drive_mi": 193,
+  "drive_min_clemson": 104,
+  "drive_mi_clemson": 93
  },
  "Cass|West Virginia": {
   "lat": 38.398184,
@@ -69,7 +85,9 @@
   "name": "Cass, Pocahontas County, West Virginia, United States",
   "drive_min": 349,
   "drive_km": 490,
-  "drive_mi": 321
+  "drive_mi": 321,
+  "drive_min_clemson": 454,
+  "drive_mi_clemson": 430
  },
  "Cedar Mountain|North Carolina": {
   "lat": 35.2320593,
@@ -77,7 +95,9 @@
   "name": "Cedar Mountain, Polk County, North Carolina, 28773, United States",
   "drive_min": 111,
   "drive_km": 169,
-  "drive_mi": 108
+  "drive_mi": 108,
+  "drive_min_clemson": 84,
+  "drive_mi_clemson": 64
  },
  "Charleston|South Carolina": {
   "lat": 32.7884363,
@@ -85,7 +105,9 @@
   "name": "Charleston, Charleston County, South Carolina, United States",
   "drive_min": 178,
   "drive_km": 307,
-  "drive_mi": 192
+  "drive_mi": 192,
+  "drive_min_clemson": 228,
+  "drive_mi_clemson": 234
  },
  "Charlotte|North Carolina": {
   "lat": 35.2272086,
@@ -93,7 +115,9 @@
   "name": "Charlotte, Mecklenburg County, North Carolina, United States",
   "drive_min": 22,
   "drive_km": 30,
-  "drive_mi": 19
+  "drive_mi": 19,
+  "drive_min_clemson": 132,
+  "drive_mi_clemson": 133
  },
  "Charlottesville|Virginia": {
   "lat": 38.029306,
@@ -101,7 +125,9 @@
   "name": "Charlottesville, Virginia, United States",
   "drive_min": 288,
   "drive_km": 462,
-  "drive_mi": 289
+  "drive_mi": 289,
+  "drive_min_clemson": 395,
+  "drive_mi_clemson": 400
  },
  "Chattanooga|Tennessee": {
   "lat": 35.0457219,
@@ -109,7 +135,9 @@
   "name": "Chattanooga, Hamilton County, East Tennessee, Tennessee, United States",
   "drive_min": 330,
   "drive_km": 557,
-  "drive_mi": 355
+  "drive_mi": 355,
+  "drive_min_clemson": 202,
+  "drive_mi_clemson": 185
  },
  "Cherokee|North Carolina": {
   "lat": 35.1184149,
@@ -117,7 +145,9 @@
   "name": "Cherokee County, North Carolina, United States",
   "drive_min": 244,
   "drive_km": 387,
-  "drive_mi": 244
+  "drive_mi": 244,
+  "drive_min_clemson": 115,
+  "drive_mi_clemson": 99
  },
  "Chimney Rock|North Carolina": {
   "lat": 35.4512241,
@@ -125,7 +155,9 @@
   "name": "Chimney Rock, Rutherford County, North Carolina, 28720, United States",
   "drive_min": 139,
   "drive_km": 183,
-  "drive_mi": 117
+  "drive_mi": 117,
+  "drive_min_clemson": 112,
+  "drive_mi_clemson": 83
  },
  "Chincoteague|Virginia": {
   "lat": 37.9331799,
@@ -133,7 +165,9 @@
   "name": "Chincoteague, Accomack County, Virginia, 23336, United States",
   "drive_min": 449,
   "drive_km": 724,
-  "drive_mi": 445
+  "drive_mi": 445,
+  "drive_min_clemson": 555,
+  "drive_mi_clemson": 556
  },
  "Cleveland|South Carolina": {
   "lat": 35.0723394,
@@ -141,7 +175,9 @@
   "name": "Cleveland, Greenville County, South Carolina, 29661, United States",
   "drive_min": 124,
   "drive_km": 181,
-  "drive_mi": 111
+  "drive_mi": 111,
+  "drive_min_clemson": 52,
+  "drive_mi_clemson": 41
  },
  "Clifftop|West Virginia": {
   "lat": 38.0042804,
@@ -149,7 +185,9 @@
   "name": "Clifftop, Fayette County, West Virginia, 25831, United States",
   "drive_min": 261,
   "drive_km": 426,
-  "drive_mi": 263
+  "drive_mi": 263,
+  "drive_min_clemson": 366,
+  "drive_mi_clemson": 372
  },
  "Columbia|South Carolina": {
   "lat": 34.000754,
@@ -157,7 +195,9 @@
   "name": "Columbia, Richland County, South Carolina, United States",
   "drive_min": 74,
   "drive_km": 121,
-  "drive_mi": 77
+  "drive_mi": 77,
+  "drive_min_clemson": 129,
+  "drive_mi_clemson": 125
  },
  "Davis|West Virginia": {
   "lat": 39.1287273,
@@ -165,7 +205,9 @@
   "name": "Davis, Tucker County, West Virginia, United States",
   "drive_min": 395,
   "drive_km": 655,
-  "drive_mi": 410
+  "drive_mi": 410,
+  "drive_min_clemson": 500,
+  "drive_mi_clemson": 518
  },
  "Dawsonville|Georgia": {
   "lat": 34.4212053,
@@ -173,7 +215,9 @@
   "name": "Dawsonville, Dawson County, Georgia, United States",
   "drive_min": 228,
   "drive_km": 363,
-  "drive_mi": 224
+  "drive_mi": 224,
+  "drive_min_clemson": 114,
+  "drive_mi_clemson": 99
  },
  "Duffield|Virginia": {
   "lat": 36.711763,
@@ -181,7 +225,9 @@
   "name": "Duffield, Scott County, Virginia, United States",
   "drive_min": 231,
   "drive_km": 330,
-  "drive_mi": 213
+  "drive_mi": 213,
+  "drive_min_clemson": 198,
+  "drive_mi_clemson": 194
  },
  "Fayetteville|West Virginia": {
   "lat": 38.0531294,
@@ -189,7 +235,9 @@
   "name": "Fayetteville, Fayette County, West Virginia, 25840, United States",
   "drive_min": 236,
   "drive_km": 395,
-  "drive_mi": 249
+  "drive_mi": 249,
+  "drive_min_clemson": 341,
+  "drive_mi_clemson": 358
  },
  "Floyd|Virginia": {
   "lat": 36.9157056,
@@ -197,7 +245,9 @@
   "name": "Floyd County, Virginia, United States",
   "drive_min": 161,
   "drive_km": 251,
-  "drive_mi": 156
+  "drive_mi": 156,
+  "drive_min_clemson": 266,
+  "drive_mi_clemson": 265
  },
  "Folkston|Georgia": {
   "lat": 30.8305818,
@@ -205,7 +255,9 @@
   "name": "Folkston, Charlton County, Georgia, 31537, United States",
   "drive_min": 322,
   "drive_km": 555,
-  "drive_mi": 348
+  "drive_mi": 348,
+  "drive_min_clemson": 332,
+  "drive_mi_clemson": 320
  },
  "Fort Mill|South Carolina": {
   "lat": 35.0073697,
@@ -221,7 +273,9 @@
   "name": "Gatlinburg, Sevier County, East Tennessee, Tennessee, United States",
   "drive_min": 213,
   "drive_km": 340,
-  "drive_mi": 214
+  "drive_mi": 214,
+  "drive_min_clemson": 140,
+  "drive_mi_clemson": 126
  },
  "Greensboro|North Carolina": {
   "lat": 36.0726355,
@@ -229,7 +283,9 @@
   "name": "Greensboro, Guilford County, North Carolina, United States",
   "drive_min": 106,
   "drive_km": 175,
-  "drive_mi": 109
+  "drive_mi": 109,
+  "drive_min_clemson": 213,
+  "drive_mi_clemson": 220
  },
  "Greenville|South Carolina": {
   "lat": 34.851354,
@@ -237,7 +293,9 @@
   "name": "Greenville, Greenville County, South Carolina, United States",
   "drive_min": 105,
   "drive_km": 160,
-  "drive_mi": 98
+  "drive_mi": 98,
+  "drive_min_clemson": 34,
+  "drive_mi_clemson": 30
  },
  "Greer|South Carolina": {
   "lat": 34.9381361,
@@ -245,7 +303,9 @@
   "name": "Greer, Greenville County, South Carolina, United States",
   "drive_min": 99,
   "drive_km": 140,
-  "drive_mi": 87
+  "drive_mi": 87,
+  "drive_min_clemson": 58,
+  "drive_mi_clemson": 47
  },
  "Harpers Ferry|West Virginia": {
   "lat": 39.323418,
@@ -253,7 +313,9 @@
   "name": "Harpers Ferry, Jefferson County, West Virginia, United States",
   "drive_min": 386,
   "drive_km": 656,
-  "drive_mi": 408
+  "drive_mi": 408,
+  "drive_min_clemson": 491,
+  "drive_mi_clemson": 517
  },
  "Helen|Georgia": {
   "lat": 34.7009043,
@@ -261,7 +323,9 @@
   "name": "Helen, White County, Georgia, 30545, United States",
   "drive_min": 199,
   "drive_km": 314,
-  "drive_mi": 194
+  "drive_mi": 194,
+  "drive_min_clemson": 76,
+  "drive_mi_clemson": 65
  },
  "Hopkins|South Carolina": {
   "lat": 33.9043212,
@@ -269,7 +333,9 @@
   "name": "Hopkins, Richland County, South Carolina, 29061, United States",
   "drive_min": 84,
   "drive_km": 134,
-  "drive_mi": 85
+  "drive_mi": 85,
+  "drive_min_clemson": 149,
+  "drive_mi_clemson": 144
  },
  "Johns Island|South Carolina": {
   "lat": 32.7024009,
@@ -277,7 +343,9 @@
   "name": "Johns Island, Charleston County, South Carolina, 29455, United States",
   "drive_min": 202,
   "drive_km": 322,
-  "drive_mi": 205
+  "drive_mi": 205,
+  "drive_min_clemson": 252,
+  "drive_mi_clemson": 247
  },
  "Kernersville|North Carolina": {
   "lat": 36.1198589,
@@ -285,7 +353,9 @@
   "name": "Kernersville, Forsyth County, North Carolina, United States",
   "drive_min": 100,
   "drive_km": 168,
-  "drive_mi": 104
+  "drive_mi": 104,
+  "drive_min_clemson": 207,
+  "drive_mi_clemson": 215
  },
  "Kill Devil Hills|North Carolina": {
   "lat": 36.0321186,
@@ -293,7 +363,9 @@
   "name": "Kill Devil Hills, Dare County, North Carolina, United States",
   "drive_min": 366,
   "drive_km": 618,
-  "drive_mi": 384
+  "drive_mi": 384,
+  "drive_min_clemson": 473,
+  "drive_mi_clemson": 495
  },
  "Kings Mountain|North Carolina": {
   "lat": 35.2450607,
@@ -301,7 +373,9 @@
   "name": "Kings Mountain, Cleveland County, North Carolina, United States",
   "drive_min": 44,
   "drive_km": 69,
-  "drive_mi": 43
+  "drive_mi": 43,
+  "drive_min_clemson": 105,
+  "drive_mi_clemson": 103
  },
  "Lansing|West Virginia": {
   "lat": 38.073444,
@@ -309,7 +383,9 @@
   "name": "Lansing, Fayette County, West Virginia, 25837, United States",
   "drive_min": 239,
   "drive_km": 400,
-  "drive_mi": 251
+  "drive_mi": 251,
+  "drive_min_clemson": 344,
+  "drive_mi_clemson": 360
  },
  "Lewisburg|West Virginia": {
   "lat": 37.8017879,
@@ -317,7 +393,9 @@
   "name": "Lewisburg, Greenbrier County, West Virginia, United States",
   "drive_min": 252,
   "drive_km": 384,
-  "drive_mi": 271
+  "drive_mi": 271,
+  "drive_min_clemson": 357,
+  "drive_mi_clemson": 380
  },
  "Lexington|North Carolina": {
   "lat": 35.8240265,
@@ -325,7 +403,9 @@
   "name": "Lexington, Davidson County, North Carolina, 27792, United States",
   "drive_min": 75,
   "drive_km": 122,
-  "drive_mi": 76
+  "drive_mi": 76,
+  "drive_min_clemson": 181,
+  "drive_mi_clemson": 187
  },
  "Linville|North Carolina": {
   "lat": 36.0710389,
@@ -333,7 +413,9 @@
   "name": "Linville, Avery County, North Carolina, 28646, United States",
   "drive_min": 132,
   "drive_km": 192,
-  "drive_mi": 122
+  "drive_mi": 122,
+  "drive_min_clemson": 168,
+  "drive_mi_clemson": 153
  },
  "Linville Falls|North Carolina": {
   "lat": 35.9497177,
@@ -341,7 +423,9 @@
   "name": "Linville Falls, Burke County, North Carolina, 28647, United States",
   "drive_min": 131,
   "drive_km": 188,
-  "drive_mi": 131
+  "drive_mi": 131,
+  "drive_min_clemson": 158,
+  "drive_mi_clemson": 142
  },
  "Lookout Mountain|Georgia": {
   "lat": 34.9775758,
@@ -349,7 +433,9 @@
   "name": "Lookout Mountain, Walker County, Georgia, 30750, United States",
   "drive_min": 339,
   "drive_km": 560,
-  "drive_mi": 359
+  "drive_mi": 359,
+  "drive_min_clemson": 210,
+  "drive_mi_clemson": 189
  },
  "Lumpkin|Georgia": {
   "lat": 34.5546076,
@@ -357,7 +443,9 @@
   "name": "Lumpkin County, Georgia, United States",
   "drive_min": 223,
   "drive_km": 363,
-  "drive_mi": 224
+  "drive_mi": 224,
+  "drive_min_clemson": 102,
+  "drive_mi_clemson": 87
  },
  "Luray|Virginia": {
   "lat": 38.6654653,
@@ -365,7 +453,9 @@
   "name": "Luray, Page County, Virginia, 22835, United States",
   "drive_min": 321,
   "drive_km": 551,
-  "drive_mi": 343
+  "drive_mi": 343,
+  "drive_min_clemson": 426,
+  "drive_mi_clemson": 451
  },
  "Lynchburg|Tennessee": {
   "lat": 35.2826099,
@@ -373,7 +463,9 @@
   "name": "Lynchburg, Moore County, Middle Tennessee, Tennessee, 37352, United States",
   "drive_min": 420,
   "drive_km": 699,
-  "drive_mi": 418
+  "drive_mi": 418,
+  "drive_min_clemson": 294,
+  "drive_mi_clemson": 275
  },
  "Manchester|Tennessee": {
   "lat": 35.4832001,
@@ -381,7 +473,9 @@
   "name": "Manchester, Coffee County, Middle Tennessee, Tennessee, 37355, United States",
   "drive_min": 390,
   "drive_km": 625,
-  "drive_mi": 393
+  "drive_mi": 393,
+  "drive_min_clemson": 265,
+  "drive_mi_clemson": 252
  },
  "McLean|Virginia": {
   "lat": 38.9366852,
@@ -389,7 +483,9 @@
   "name": "McLean, Fairfax County, Virginia, United States",
   "drive_min": 407,
   "drive_km": 669,
-  "drive_mi": 433
+  "drive_mi": 433,
+  "drive_min_clemson": 512,
+  "drive_mi_clemson": 542
  },
  "Meadows of Dan|Virginia": {
   "lat": 36.7392585,
@@ -397,7 +493,9 @@
   "name": "Meadows of Dan, Patrick County, Virginia, United States",
   "drive_min": 145,
   "drive_km": 231,
-  "drive_mi": 152
+  "drive_mi": 152,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 261
  },
  "Memphis|Tennessee": {
   "lat": 35.146026,
@@ -405,7 +503,9 @@
   "name": "Memphis, Shelby County, West Tennessee, Tennessee, United States",
   "drive_min": 579,
   "drive_km": 1004,
-  "drive_mi": 633
+  "drive_mi": 633,
+  "drive_min_clemson": 467,
+  "drive_mi_clemson": 516
  },
  "Midland|North Carolina": {
   "lat": 35.2273656,
@@ -413,7 +513,9 @@
   "name": "Midland, Cabarrus County, North Carolina, 28107, United States",
   "drive_min": 46,
   "drive_km": 62,
-  "drive_mi": 39
+  "drive_mi": 39,
+  "drive_min_clemson": 161,
+  "drive_mi_clemson": 162
  },
  "Mouth of Wilson|Virginia": {
   "lat": 36.5895679,
@@ -421,7 +523,9 @@
   "name": "Mouth of Wilson, Grayson County, Virginia, 28663, United States",
   "drive_min": 147,
   "drive_km": 217,
-  "drive_mi": 135
+  "drive_mi": 135,
+  "drive_min_clemson": 237,
+  "drive_mi_clemson": 215
  },
  "Murrells Inlet|South Carolina": {
   "lat": 33.5499183,
@@ -429,7 +533,9 @@
   "name": "Murrells Inlet, Georgetown County, South Carolina, United States",
   "drive_min": 217,
   "drive_km": 297,
-  "drive_mi": 193
+  "drive_mi": 193,
+  "drive_min_clemson": 289,
+  "drive_mi_clemson": 278
  },
  "Nashville|Tennessee": {
   "lat": 36.1622767,
@@ -437,7 +543,9 @@
   "name": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
   "drive_min": 392,
   "drive_km": 673,
-  "drive_mi": 421
+  "drive_mi": 421,
+  "drive_min_clemson": 322,
+  "drive_mi_clemson": 315
  },
  "Natural Bridge|Virginia": {
   "lat": 37.6301932,
@@ -445,7 +553,9 @@
   "name": "Natural Bridge, Rockbridge County, Virginia, 24578, United States",
   "drive_min": 225,
   "drive_km": 388,
-  "drive_mi": 241
+  "drive_mi": 241,
+  "drive_min_clemson": 330,
+  "drive_mi_clemson": 350
  },
  "Ocoee|Tennessee": {
   "lat": 35.1222972,
@@ -453,7 +563,9 @@
   "name": "Ocoee, Polk County, East Tennessee, Tennessee, 37361, United States",
   "drive_min": 289,
   "drive_km": 461,
-  "drive_mi": 289
+  "drive_mi": 289,
+  "drive_min_clemson": 159,
+  "drive_mi_clemson": 143
  },
  "Ocracoke|North Carolina": {
   "lat": 35.1301988,
@@ -461,7 +573,9 @@
   "name": "Ocracoke, Hyde County, North Carolina, 27960, United States",
   "drive_min": 510,
   "drive_km": 728,
-  "drive_mi": 367
+  "drive_mi": 367,
+  "drive_min_clemson": 619,
+  "drive_mi_clemson": 490
  },
  "Pickens|South Carolina": {
   "lat": 34.8882592,
@@ -469,7 +583,9 @@
   "name": "Pickens County, South Carolina, United States",
   "drive_min": 138,
   "drive_km": 192,
-  "drive_mi": 122
+  "drive_mi": 122,
+  "drive_min_clemson": 26,
+  "drive_mi_clemson": 22
  },
  "Pigeon Forge|Tennessee": {
   "lat": 35.7884241,
@@ -477,7 +593,9 @@
   "name": "Pigeon Forge, Sevier County, East Tennessee, Tennessee, United States",
   "drive_min": 218,
   "drive_km": 359,
-  "drive_mi": 225
+  "drive_mi": 225,
+  "drive_min_clemson": 149,
+  "drive_mi_clemson": 133
  },
  "Pisgah Forest|North Carolina": {
   "lat": 35.2723358,
@@ -485,7 +603,9 @@
   "name": "Pisgah Forest, Brevard, Transylvania County, North Carolina, 28768, United State",
   "drive_min": 136,
   "drive_km": 217,
-  "drive_mi": 137
+  "drive_mi": 137,
+  "drive_min_clemson": 72,
+  "drive_mi_clemson": 59
  },
  "Point Pleasant|West Virginia": {
   "lat": 38.8445251,
@@ -493,7 +613,9 @@
   "name": "Point Pleasant, Mason County, West Virginia, 25550, United States",
   "drive_min": 316,
   "drive_km": 539,
-  "drive_mi": 335
+  "drive_mi": 335,
+  "drive_min_clemson": 421,
+  "drive_mi_clemson": 444
  },
  "Richmond|Virginia": {
   "lat": 37.5385087,
@@ -501,7 +623,9 @@
   "name": "Richmond, Virginia, United States",
   "drive_min": 288,
   "drive_km": 495,
-  "drive_mi": 308
+  "drive_mi": 308,
+  "drive_min_clemson": 394,
+  "drive_mi_clemson": 419
  },
  "Sapphire|North Carolina": {
   "lat": 35.1070099,
@@ -509,7 +633,9 @@
   "name": "Sapphire, Transylvania County, North Carolina, 28774, United States",
   "drive_min": 169,
   "drive_km": 257,
-  "drive_mi": 162
+  "drive_mi": 162,
+  "drive_min_clemson": 67,
+  "drive_mi_clemson": 55
  },
  "Savannah|Georgia": {
   "lat": 32.0790074,
@@ -517,7 +643,9 @@
   "name": "Savannah, Chatham County, Georgia, United States",
   "drive_min": 218,
   "drive_km": 378,
-  "drive_mi": 236
+  "drive_mi": 236,
+  "drive_min_clemson": 268,
+  "drive_mi_clemson": 278
  },
  "Seagrove|North Carolina": {
   "lat": 35.5408425,
@@ -525,7 +653,9 @@
   "name": "Seagrove, Randolph County, North Carolina, United States",
   "drive_min": 109,
   "drive_km": 156,
-  "drive_mi": 111
+  "drive_mi": 111,
+  "drive_min_clemson": 216,
+  "drive_mi_clemson": 222
  },
  "Seneca Rocks|West Virginia": {
   "lat": 38.8347145,
@@ -533,7 +663,9 @@
   "name": "Seneca Rocks, Pendleton County, West Virginia, United States",
   "drive_min": 383,
   "drive_km": 559,
-  "drive_mi": 342
+  "drive_mi": 342,
+  "drive_min_clemson": 488,
+  "drive_mi_clemson": 450
  },
  "St. Marys|Georgia": {
   "lat": 30.7203759,
@@ -541,7 +673,9 @@
   "name": "St. Marys, Camden County, Georgia, United States",
   "drive_min": 309,
   "drive_km": 549,
-  "drive_mi": 343
+  "drive_mi": 343,
+  "drive_min_clemson": 355,
+  "drive_mi_clemson": 353
  },
  "Stone Mountain|Georgia": {
   "lat": 33.8062166,
@@ -549,7 +683,9 @@
   "name": "Stone Mountain, DeKalb County, Georgia, 30087, United States",
   "drive_min": 234,
   "drive_km": 377,
-  "drive_mi": 241
+  "drive_mi": 241,
+  "drive_min_clemson": 121,
+  "drive_mi_clemson": 125
  },
  "Tallulah Falls|Georgia": {
   "lat": 34.7306498,
@@ -557,7 +693,9 @@
   "name": "Tallulah Falls, Habersham County, Georgia, United States",
   "drive_min": 187,
   "drive_km": 299,
-  "drive_mi": 184
+  "drive_mi": 184,
+  "drive_min_clemson": 63,
+  "drive_mi_clemson": 53
  },
  "Townsend|Tennessee": {
   "lat": 35.6753657,
@@ -565,7 +703,9 @@
   "name": "Townsend, Blount County, East Tennessee, Tennessee, United States",
   "drive_min": 237,
   "drive_km": 383,
-  "drive_mi": 241
+  "drive_mi": 241,
+  "drive_min_clemson": 165,
+  "drive_mi_clemson": 143
  },
  "Waynesville|North Carolina": {
   "lat": 35.4887476,
@@ -573,7 +713,9 @@
   "name": "Waynesville, Haywood County, North Carolina, 28786, United States",
   "drive_min": 154,
   "drive_km": 251,
-  "drive_mi": 159
+  "drive_mi": 159,
+  "drive_min_clemson": 104,
+  "drive_mi_clemson": 91
  },
  "Weston|West Virginia": {
   "lat": 39.0384274,
@@ -581,7 +723,9 @@
   "name": "Weston, Lewis County, West Virginia, 26452, United States",
   "drive_min": 326,
   "drive_km": 543,
-  "drive_mi": 340
+  "drive_mi": 340,
+  "drive_min_clemson": 431,
+  "drive_mi_clemson": 449
  },
  "White Sulphur Springs|West Virginia": {
   "lat": 37.7965149,
@@ -589,7 +733,9 @@
   "name": "White Sulphur Springs, Greenbrier County, West Virginia, 24986, United States",
   "drive_min": 262,
   "drive_km": 390,
-  "drive_mi": 280
+  "drive_mi": 280,
+  "drive_min_clemson": 367,
+  "drive_mi_clemson": 388
  },
  "Wilkesboro|North Carolina": {
   "lat": 36.1483916,
@@ -597,7 +743,9 @@
   "name": "Wilkesboro, Wilkes County, North Carolina, United States",
   "drive_min": 99,
   "drive_km": 164,
-  "drive_mi": 103
+  "drive_mi": 103,
+  "drive_min_clemson": 197,
+  "drive_mi_clemson": 186
  },
  "Williamsburg|Virginia": {
   "lat": 37.2712497,
@@ -605,7 +753,9 @@
   "name": "Williamsburg, Virginia, United States",
   "drive_min": 325,
   "drive_km": 537,
-  "drive_mi": 334
+  "drive_mi": 334,
+  "drive_min_clemson": 432,
+  "drive_mi_clemson": 445
  },
  "Winston-Salem|North Carolina": {
   "lat": 36.0998131,
@@ -613,20 +763,215 @@
   "name": "Winston-Salem, Forsyth County, North Carolina, United States",
   "drive_min": 92,
   "drive_km": 155,
-  "drive_mi": 96
+  "drive_mi": 96,
+  "drive_min_clemson": 199,
+  "drive_mi_clemson": 207
  },
  "McConnells|South Carolina": {
   "lat": 34.8687483,
   "lon": -81.2275817,
   "name": "McConnells, York County, South Carolina, 29726, United States",
   "drive_min": 33,
-  "drive_mi": 20
+  "drive_mi": 20,
+  "drive_min_clemson": 124,
+  "drive_mi_clemson": 118
  },
  "Troutman|North Carolina": {
   "lat": 35.7005832,
   "lon": -80.8882314,
   "name": "Troutman, Iredell County, North Carolina, United States",
   "drive_min": 53,
-  "drive_mi": 52
+  "drive_mi": 52,
+  "drive_min_clemson": 158,
+  "drive_mi_clemson": 161
+ },
+ "Augusta|Georgia": {
+  "lat": 33.4709714,
+  "lon": -81.9748429,
+  "name": "Augusta, Richmond County, Georgia, United States",
+  "drive_min_clemson": 150,
+  "drive_mi_clemson": 127
+ },
+ "Birmingham|Alabama": {
+  "lat": 33.5206824,
+  "lon": -86.8024326,
+  "name": "Birmingham, Jefferson County, Alabama, United States",
+  "drive_min_clemson": 251,
+  "drive_mi_clemson": 271
+ },
+ "Brasstown|North Carolina": {
+  "lat": 35.039895,
+  "lon": -83.9573948,
+  "name": "Brasstown, Clay County, North Carolina, 28902, United States",
+  "drive_min_clemson": 103,
+  "drive_mi_clemson": 91
+ },
+ "Cherokee|Alabama": {
+  "lat": 34.1142554,
+  "lon": -85.6004514,
+  "name": "Cherokee County, Alabama, United States",
+  "drive_min_clemson": 210,
+  "drive_mi_clemson": 209
+ },
+ "Clemson|South Carolina": {
+  "lat": 34.6850749,
+  "lon": -82.8364111,
+  "name": "Clemson, Pickens County, South Carolina, 29631, United States",
+  "drive_min_clemson": 0,
+  "drive_mi_clemson": 0
+ },
+ "Deals Gap|Tennessee": {
+  "lat": 35.4739548,
+  "lon": -83.9208181,
+  "name": "Deals Gap, Blount County, East Tennessee, Tennessee, United States",
+  "drive_min_clemson": 159,
+  "drive_mi_clemson": 133
+ },
+ "Flat Rock|North Carolina": {
+  "lat": 35.271228,
+  "lon": -82.441508,
+  "name": "Flat Rock, Henderson County, North Carolina, United States",
+  "drive_min_clemson": 74,
+  "drive_mi_clemson": 59
+ },
+ "Franklin|North Carolina": {
+  "lat": 36.1028596,
+  "lon": -78.2787229,
+  "name": "Franklin County, North Carolina, United States",
+  "drive_min_clemson": 308,
+  "drive_mi_clemson": 309
+ },
+ "Gaffney|South Carolina": {
+  "lat": 35.0717945,
+  "lon": -81.6498195,
+  "name": "Gaffney, Cherokee County, South Carolina, 29342, United States",
+  "drive_min_clemson": 86,
+  "drive_mi_clemson": 81
+ },
+ "Grant|Alabama": {
+  "lat": 34.5271354,
+  "lon": -86.2529755,
+  "name": "Grant, Marshall County, Alabama, 35847, United States",
+  "drive_min_clemson": 283,
+  "drive_mi_clemson": 265
+ },
+ "Gulf Shores|Alabama": {
+  "lat": 30.2711224,
+  "lon": -87.6893826,
+  "name": "Gulf Shores, Baldwin County, Alabama, 36542, United States",
+  "drive_min_clemson": 440,
+  "drive_mi_clemson": 470
+ },
+ "Hendersonville|North Carolina": {
+  "lat": 35.3187279,
+  "lon": -82.4609528,
+  "name": "Hendersonville, Henderson County, North Carolina, 28738, United States",
+  "drive_min_clemson": 82,
+  "drive_mi_clemson": 66
+ },
+ "Highlands|North Carolina": {
+  "lat": 35.0525909,
+  "lon": -83.1968173,
+  "name": "Highlands, Macon County, North Carolina, 28741, United States",
+  "drive_min_clemson": 63,
+  "drive_mi_clemson": 47
+ },
+ "Knoxville|Tennessee": {
+  "lat": 35.9603948,
+  "lon": -83.9210261,
+  "name": "Knoxville, Knox County, East Tennessee, Tennessee, United States",
+  "drive_min_clemson": 192,
+  "drive_mi_clemson": 190
+ },
+ "Long Creek|South Carolina": {
+  "lat": 34.7734263,
+  "lon": -83.2590482,
+  "name": "Long Creek, Oconee County, South Carolina, 29658, United States",
+  "drive_min_clemson": 37,
+  "drive_mi_clemson": 30
+ },
+ "Mill Spring|North Carolina": {
+  "lat": 35.2976655,
+  "lon": -82.1610172,
+  "name": "Mill Spring, Polk County, North Carolina, 28756, United States",
+  "drive_min_clemson": 90,
+  "drive_mi_clemson": 76
+ },
+ "Mobile|Alabama": {
+  "lat": 30.6913462,
+  "lon": -88.0437509,
+  "name": "Mobile, Mobile County, Alabama, United States",
+  "drive_min_clemson": 408,
+  "drive_mi_clemson": 453
+ },
+ "Mountain Rest|South Carolina": {
+  "lat": 34.8692629,
+  "lon": -83.1532229,
+  "name": "Mountain Rest, Oconee County, South Carolina, 29664, United States",
+  "drive_min_clemson": 33,
+  "drive_mi_clemson": 27
+ },
+ "Ninety Six|South Carolina": {
+  "lat": 34.1751267,
+  "lon": -82.024007,
+  "name": "Ninety Six, Greenwood County, South Carolina, United States",
+  "drive_min_clemson": 90,
+  "drive_mi_clemson": 72
+ },
+ "Pendleton|South Carolina": {
+  "lat": 34.6508092,
+  "lon": -82.7820663,
+  "name": "Pendleton, Anderson County, South Carolina, United States",
+  "drive_min_clemson": 8,
+  "drive_mi_clemson": 5
+ },
+ "Rising Fawn|Georgia": {
+  "lat": 34.7600791,
+  "lon": -85.531076,
+  "name": "Rising Fawn, Dade County, Georgia, United States",
+  "drive_min_clemson": 225,
+  "drive_mi_clemson": 211
+ },
+ "Robbinsville|North Carolina": {
+  "lat": 35.3227597,
+  "lon": -83.8069988,
+  "name": "Robbinsville, Graham County, North Carolina, United States",
+  "drive_min_clemson": 142,
+  "drive_mi_clemson": 126
+ },
+ "Salem|South Carolina": {
+  "lat": 34.8898161,
+  "lon": -82.9765364,
+  "name": "Salem, Oconee County, South Carolina, United States",
+  "drive_min_clemson": 32,
+  "drive_mi_clemson": 21
+ },
+ "Saluda|North Carolina": {
+  "lat": 35.2362264,
+  "lon": -82.3492839,
+  "name": "Saluda, Polk County, North Carolina, 28773, United States",
+  "drive_min_clemson": 77,
+  "drive_mi_clemson": 62
+ },
+ "Sheffield|Alabama": {
+  "lat": 34.7608701,
+  "lon": -87.6975945,
+  "name": "Sheffield, Colbert County, Alabama, 35660, United States",
+  "drive_min_clemson": 354,
+  "drive_mi_clemson": 363
+ },
+ "Tryon|North Carolina": {
+  "lat": 35.2081695,
+  "lon": -82.2384479,
+  "name": "Tryon, Polk County, North Carolina, United States",
+  "drive_min_clemson": 86,
+  "drive_mi_clemson": 65
+ },
+ "Walhalla|South Carolina": {
+  "lat": 34.7648176,
+  "lon": -83.0640417,
+  "name": "Walhalla, Oconee County, South Carolina, 29691, United States",
+  "drive_min_clemson": 20,
+  "drive_mi_clemson": 16
  }
 }

@@ -392,3 +392,17 @@ footer.site a:hover{color:#fff}
   .drive-chips{flex-wrap:nowrap;overflow-x:auto;max-width:100%;padding-bottom:4px}
   .drive-chip{flex:0 0 auto}
 }
+
+/* region index cards */
+.region-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.region-card{
+  border:1px solid var(--line);background:linear-gradient(100deg,#fffdf7,#f0e7d6);
+  padding:24px 26px;border-radius:4px;display:flex;flex-direction:column;gap:6px;transition:.18s;
+}
+.region-card:hover{box-shadow:var(--shadow);border-color:var(--ink);transform:translateY(-2px)}
+.region-card h3{font-family:var(--serif);font-weight:400;font-size:27px;margin:2px 0 0;line-height:1.1}
+.region-card p{margin:4px 0 12px;color:var(--muted);font-size:13px;line-height:1.55;flex:1}
+.region-card .rb-foot{display:flex;align-items:center;gap:8px;border-top:1px solid var(--line);padding-top:10px;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.region-card .rb-foot b{color:var(--accent);font-size:13px}
+.region-card .rb-go{margin-left:auto;color:var(--pine);font-weight:600}
+@media(max-width:820px){.region-grid{grid-template-columns:1fr}}

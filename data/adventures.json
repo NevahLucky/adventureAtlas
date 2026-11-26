@@ -6407,7 +6407,8 @@
   "unique": "A vast limestone cavern where a lithophone built into the stalactites plays music through the rock itself — the world's largest musical instrument, and it actually works.",
   "buzz": "Visitors are surprised by how good the organ recital is; the cavern is commercial but genuinely spectacular. The garden maze next door is a decent add-on.",
   "rating": 86,
-  "drive_min": 321
+  "drive_min": 321,
+  "drive_min_clemson": 426
  },
  {
   "name": "Colonial Williamsburg",
@@ -6431,7 +6432,8 @@
   "unique": "Eighty-eight original and reconstructed buildings on the actual 18th-century capital, with tradespeople who blacksmith, bind books and argue politics in character.",
   "buzz": "The ticket price draws complaints, but the trades and the evening programs are rated excellent. Go in spring or fall; summer heat is brutal in wool.",
   "rating": 83,
-  "drive_min": 325
+  "drive_min": 325,
+  "drive_min_clemson": 432
  },
  {
   "name": "Monticello",
@@ -6455,7 +6457,8 @@
   "unique": "Jefferson's mountaintop house with its dumbwaiters, alcove beds and clock-driven calendar, plus the reconstructed slave quarters that complicate the postcard.",
   "buzz": "The slavery exhibits get strong praise for honesty; the house tour is timed and the grounds need another hour. Book the first slot.",
   "rating": 88,
-  "drive_min": 288
+  "drive_min": 288,
+  "drive_min_clemson": 395
  },
  {
   "name": "Chincoteague Pony Swim",
@@ -6479,7 +6482,8 @@
   "unique": "Saltwater cowboys herd wild ponies across the channel at slack tide, then auction the foals to keep the herd small — a 100-year-old ritual on a barrier island.",
   "buzz": "It is genuinely crowded and hot, and people still call it unforgettable. Watch from the water or a boat, not the packed shore.",
   "rating": 84,
-  "drive_min": 449
+  "drive_min": 449,
+  "drive_min_clemson": 555
  },
  {
   "name": "Great Falls Park",
@@ -6502,7 +6506,8 @@
   "unique": "The Potomac compresses into a quarter-mile of Class V rapids twenty minutes from the capital, with cliff-top overlooks and a boulder-strewn gorge.",
   "buzz": "Locals call it the best quick nature fix near DC; the River Trail scramble is the fun part. Parking fills by 10am on weekends.",
   "rating": 82,
-  "drive_min": 407
+  "drive_min": 407,
+  "drive_min_clemson": 512
  },
  {
   "name": "Natural Bridge",
@@ -6525,7 +6530,8 @@
   "unique": "A 215-foot limestone arch that Jefferson called a wonder of the world, with a lost river, a saltpeter cave and a nightly illumination show.",
   "buzz": "People stop for an hour and stay for three; the evening light show is kitsch but charming. The walk is paved and easy.",
   "rating": 78,
-  "drive_min": 225
+  "drive_min": 225,
+  "drive_min_clemson": 330
  },
  {
   "name": "Floyd Country Store Friday Night",
@@ -6549,7 +6555,8 @@
   "unique": "A 1910 general store with a potbelly stove where a live old-time band plays and anyone can join the flatfooting and two-step on the worn wooden floor.",
   "buzz": "Locals and visitors agree it is the most welcoming room in Appalachia; get there early for a seat and expect to be pulled into a dance.",
   "rating": 89,
-  "drive_min": 161
+  "drive_min": 161,
+  "drive_min_clemson": 266
  },
  {
   "name": "Devil's Bathtub",
@@ -6573,7 +6580,8 @@
   "unique": "A series of natural plunge pools carved into sandstone at the end of a creek-wading and boulder-hopping route through Jefferson National Forest.",
   "buzz": "People love it and warn the route is unmarked, slippery and not for flip-flops. Go early; it is a locals' secret that leaked.",
   "rating": 85,
-  "drive_min": 231
+  "drive_min": 231,
+  "drive_min_clemson": 198
  },
  {
   "name": "Bridge Day on the New River Gorge",
@@ -6597,7 +6605,8 @@
   "unique": "One day a year the 876-foot New River Gorge Bridge closes to cars and opens to base jumpers — hundreds of them, legally, into a national park.",
   "buzz": "Even non-jumpers rate it a spectacle; traffic is a nightmare and the walk out to the catwalk is the best view. Vendors are fairground-grade.",
   "rating": 91,
-  "drive_min": 236
+  "drive_min": 236,
+  "drive_min_clemson": 341
  },
  {
   "name": "New River Gorge Whitewater",
@@ -6620,7 +6629,8 @@
   "unique": "The Lower New has the biggest consistent whitewater in the East and a gorge lined with hundred-foot cliffs; the Upper New is a gentler float through the same scenery.",
   "buzz": "Outfitters are rated on guide quality, not just the rapids; the full-day Lower New is the consensus classic. Water is cold and the hike out is real.",
   "rating": 92,
-  "drive_min": 236
+  "drive_min": 236,
+  "drive_min_clemson": 341
  },
  {
   "name": "Harpers Ferry",
@@ -6644,7 +6654,8 @@
   "unique": "The confluence of the Potomac and Shenandoah, where John Brown raided the arsenal and the Appalachian Trail walks straight through a preserved 19th-century town.",
   "buzz": "The Lower Town is beautifully preserved and the Maryland Heights hike is the payoff; parking is a shuttle ride away.",
   "rating": 87,
-  "drive_min": 386
+  "drive_min": 386,
+  "drive_min_clemson": 491
  },
  {
   "name": "Seneca Rocks",
@@ -6668,7 +6679,8 @@
   "unique": "A 900-foot quartzite fin rising out of the Potomac Highlands, with a knife-edge hiking trail to the summit and multi-pitch trad routes up the face.",
   "buzz": "Climbers call it the best trad venue in the East; the hiking trail is exposed and genuinely scary for some. The via ferrata guide service gets good reviews.",
   "rating": 86,
-  "drive_min": 383
+  "drive_min": 383,
+  "drive_min_clemson": 488
  },
  {
   "name": "Greenbrier Bunker Tour",
@@ -6692,7 +6704,8 @@
   "unique": "A declassified underground bunker built to shelter Congress from nuclear war, hidden behind a resort for thirty years with a fake exhibition hall as its door.",
   "buzz": "The tour is fascinating and slightly eerie; guides are excellent on the secrecy. The resort itself is a time capsule worth a drink at the bar.",
   "rating": 85,
-  "drive_min": 262
+  "drive_min": 262,
+  "drive_min_clemson": 367
  },
  {
   "name": "Cass Scenic Railroad",
@@ -6716,7 +6729,8 @@
   "unique": "Shay geared steam locomotives haul you up a logging railroad to Bald Knob, the third-highest point in the state, through a company town frozen in 1900.",
   "buzz": "Rail fans love the sound of the Shays; the ride is long and slow, which is the point. Bring a jacket — the summit is cold.",
   "rating": 84,
-  "drive_min": 349
+  "drive_min": 349,
+  "drive_min_clemson": 454
  },
  {
   "name": "Dolly Sods Wilderness",
@@ -6739,7 +6753,8 @@
   "unique": "A high plateau that looks like subarctic tundra — wind-stunted spruce, blueberry heath and boulder fields — hundreds of miles south of where it should be.",
   "buzz": "Hikers call it the strangest landscape in the East and warn about mud, fog and unmarked trails. Wear boots you don't love.",
   "rating": 87,
-  "drive_min": 395
+  "drive_min": 395,
+  "drive_min_clemson": 500
  },
  {
   "name": "Mothman Festival",
@@ -6763,7 +6778,8 @@
   "unique": "A town leans into its own cryptid: a museum, a metal statue, guest speakers, a 5K and vendors selling moth-shaped everything, all in the shadow of the Silver Bridge disaster.",
   "buzz": "It is sincere, cheap and surprisingly wholesome; visitors love the museum and the parade. Parking is easier than you'd think.",
   "rating": 79,
-  "drive_min": 316
+  "drive_min": 316,
+  "drive_min_clemson": 421
  },
  {
   "name": "Trans-Allegheny Lunatic Asylum",
@@ -6787,7 +6803,8 @@
   "unique": "A vast Gothic Revival asylum built on the Kirkbride plan, with a preserved ECT room, patient art and overnight ghost hunts in the wards.",
   "buzz": "The historical day tour is stronger than the ghost stuff; guides tell unvarnished stories of institutional abuse. The building is enormous.",
   "rating": 82,
-  "drive_min": 326
+  "drive_min": 326,
+  "drive_min_clemson": 431
  },
  {
   "name": "Biltmore",
@@ -6811,7 +6828,8 @@
   "unique": "America's largest privately owned house — 250 rooms, a banquet hall with a seven-story ceiling, and 8,000 acres of designed landscape by Olmsted.",
   "buzz": "The house is awe-inspiring; the price and the wine-tasting upsell draw complaints. Book the rooftop or behind-the-scenes tour if you can.",
   "rating": 86,
-  "drive_min": 134
+  "drive_min": 134,
+  "drive_min_clemson": 100
  },
  {
   "name": "Wright Brothers Memorial",
@@ -6834,7 +6852,8 @@
   "unique": "The actual sand hill where the first powered flight left the ground, with a granite marker for each of the four flights and a replica camp building.",
   "buzz": "Rangers give short talks that make the engineering drama vivid; the wind is constant. Combine with Jockey's Ridge sand dunes.",
   "rating": 84,
-  "drive_min": 366
+  "drive_min": 366,
+  "drive_min_clemson": 473
  },
  {
   "name": "Sliding Rock",
@@ -6858,7 +6877,8 @@
   "unique": "A 60-foot natural granite waterslide ending in an eight-foot plunge pool, with lifeguards and a queue of kids in innertubes.",
   "buzz": "Everyone screams, everyone does it twice. Water is 55 degrees year-round; go on a weekday morning and bring water shoes.",
   "rating": 83,
-  "drive_min": 136
+  "drive_min": 136,
+  "drive_min_clemson": 72
  },
  {
   "name": "Nantahala Gorge Rafting",
@@ -6881,7 +6901,8 @@
   "unique": "A dam-controlled Class II–III river through a deep gorge, warm enough to swim, with the NOC's riverside outfitter village as a base for ziplines and ropes courses.",
   "buzz": "The best first-rafting river in the Southeast; guides are patient with kids. The train that runs along the gorge is a bonus.",
   "rating": 85,
-  "drive_min": 187
+  "drive_min": 187,
+  "drive_min_clemson": 104
  },
  {
   "name": "Linville Gorge",
@@ -6905,7 +6926,8 @@
   "unique": "The Grand Canyon of North Carolina: a 12-mile wilderness gorge with no maintained trails, a 2,000-foot rim and the plunge pools of the Linville River.",
   "buzz": "Hikers warn that the gorge is genuinely dangerous — rescues are common — and call the view from Hawksbill the best in the state.",
   "rating": 87,
-  "drive_min": 131
+  "drive_min": 131,
+  "drive_min_clemson": 158
  },
  {
   "name": "Ocracoke Island",
@@ -6929,7 +6951,8 @@
   "unique": "A barrier island reachable only by ferry, with 16 miles of undeveloped national seashore, wild ponies across the inlet and a village of picket fences and golf carts.",
   "buzz": "People describe it as the Outer Banks before development; the ferry reservation is the only friction. Bikes beat cars.",
   "rating": 86,
-  "drive_min": 510
+  "drive_min": 510,
+  "drive_min_clemson": 619
  },
  {
   "name": "MerleFest",
@@ -6953,7 +6976,8 @@
   "unique": "Four days of roots, bluegrass and Americana on the campus of a community college, founded in memory of Merle Watson and still stubbornly non-corporate.",
   "buzz": "Musicians love it and say so from the stage; the campus setting keeps it relaxed. Bring rain gear and a folding chair.",
   "rating": 87,
-  "drive_min": 99
+  "drive_min": 99,
+  "drive_min_clemson": 197
  },
  {
   "name": "Asheville Drum Circle",
@@ -6977,7 +7001,8 @@
   "unique": "Dozens of drummers, dancers and hula-hoopers take over a downtown plaza every Friday at dusk, with no organizer, no stage and no permit beyond the city's blessing.",
   "buzz": "It is joyful and completely uncurated; locals either love it or avoid downtown on Fridays. Bring a drum or just watch.",
   "rating": 80,
-  "drive_min": 134
+  "drive_min": 134,
+  "drive_min_clemson": 100
  },
  {
   "name": "Charleston Rainbow Row",
@@ -7001,7 +7026,8 @@
   "unique": "Thirteen pastel Georgian houses along the harbor, a preserved colonial street grid, and the smell of pluff mud at low tide — a city that curates its own decay.",
   "buzz": "The walk is free and gorgeous; the carriage tours get mixed reviews for scripted history. Eat shrimp and grits and walk the battery at dusk.",
   "rating": 86,
-  "drive_min": 178
+  "drive_min": 178,
+  "drive_min_clemson": 228
  },
  {
   "name": "Fort Sumter",
@@ -7024,7 +7050,8 @@
   "unique": "The island fort where the first shots of the Civil War were fired, reached only by boat, with the original brick walls and a flag that still flies over the harbor.",
   "buzz": "The boat ride and ranger talk are the experience; the fort itself is mostly ruins. Book the early ferry to beat the heat.",
   "rating": 81,
-  "drive_min": 178
+  "drive_min": 178,
+  "drive_min_clemson": 228
  },
  {
   "name": "Congaree National Park",
@@ -7048,7 +7075,8 @@
   "unique": "The largest remaining old-growth bottomland hardwood forest in the country, with a raised boardwalk over a cypress swamp and fireflies that sync in June.",
   "buzz": "The firefly synchronization is a genuine phenomenon; mosquitoes are the price of admission. Rent a canoe for the Cedar Creek run.",
   "rating": 84,
-  "drive_min": 84
+  "drive_min": 84,
+  "drive_min_clemson": 149
  },
  {
   "name": "Brookgreen Gardens",
@@ -7072,7 +7100,8 @@
   "unique": "America's first public sculpture garden, with 2,000 works among live oaks and a Lowcountry zoo of native animals on a former rice plantation.",
   "buzz": "The sculpture is world-class and the zoo is a nice surprise for kids; summer heat is punishing. Go in March or November.",
   "rating": 84,
-  "drive_min": 217
+  "drive_min": 217,
+  "drive_min_clemson": 289
  },
  {
   "name": "Table Rock Trail",
@@ -7095,7 +7124,8 @@
   "unique": "A 3,000-foot granite dome on the Blue Ridge escarpment with a staircase-and-boulder trail to a summit that looks over the entire upstate.",
   "buzz": "Hikers call it the best workout hike in South Carolina and warn it is relentless uphill. Fall color and winter views are best.",
   "rating": 85,
-  "drive_min": 138
+  "drive_min": 138,
+  "drive_min_clemson": 26
  },
  {
   "name": "Angel Oak",
@@ -7119,7 +7149,8 @@
   "unique": "A live oak estimated at 400 to 500 years old, with limbs the size of trees and a canopy that covers 17,000 square feet.",
   "buzz": "People arrive for ten minutes and stay an hour; it is free and quietly awe-inspiring. Go early to avoid tour vans.",
   "rating": 83,
-  "drive_min": 202
+  "drive_min": 202,
+  "drive_min_clemson": 252
  },
  {
   "name": "Georgia Aquarium",
@@ -7143,7 +7174,8 @@
   "unique": "The largest aquarium in the Western Hemisphere, with whale sharks in a 6.3-million-gallon tank you can walk beneath and a dolphin presentation that is more research than circus.",
   "buzz": "The whale shark gallery is the showstopper; crowds and ticket prices are the complaints. Buy timed entry online and go at opening.",
   "rating": 85,
-  "drive_min": 232
+  "drive_min": 232,
+  "drive_min_clemson": 120
  },
  {
   "name": "Stone Mountain",
@@ -7167,7 +7199,8 @@
   "unique": "The world's largest exposed granite monolith, carved with a Confederate memorial the size of a football field, surrounded by a theme park and a laser show.",
   "buzz": "The hike up is a genuine workout with a great view; the carving is historically fraught and the park is unapologetically kitschy.",
   "rating": 74,
-  "drive_min": 234
+  "drive_min": 234,
+  "drive_min_clemson": 121
  },
  {
   "name": "Tallulah Gorge",
@@ -7191,7 +7224,8 @@
   "unique": "A thousand-foot-deep gorge with a suspension bridge over the rim and a permit-limited staircase down to the floor, where you can walk on the rocks below the falls.",
   "buzz": "The floor permit is the prize and sells out; the rim trails are free-ish and still spectacular. Tighten your shoes for the stairs.",
   "rating": 87,
-  "drive_min": 187
+  "drive_min": 187,
+  "drive_min_clemson": 63
  },
  {
   "name": "Okefenokee Swamp",
@@ -7215,7 +7249,8 @@
   "unique": "A blackwater swamp the size of Rhode Island, with alligators, carnivorous plants, cypress draped in Spanish moss and a canoe trail that goes days without a road.",
   "buzz": "Boat tours are excellent for gators and birds; paddlers say the wilderness is eerie and beautiful. Bugs are biblical in summer.",
   "rating": 86,
-  "drive_min": 322
+  "drive_min": 322,
+  "drive_min_clemson": 332
  },
  {
   "name": "Savannah Ghost Tour",
@@ -7239,7 +7274,8 @@
   "unique": "A walking tour through a city built on its own dead, where the stories are half documented history and half performance, told under live oaks and Spanish moss.",
   "buzz": "Pick a small historian-led tour over a trolley; the good guides are genuinely funny and know the archives. October is a zoo.",
   "rating": 81,
-  "drive_min": 218
+  "drive_min": 218,
+  "drive_min_clemson": 268
  },
  {
   "name": "Cumberland Island",
@@ -7263,7 +7299,8 @@
   "unique": "A barrier island with wild horses, empty beaches, live oak tunnels and the ruins of the Carnegie family's mansion, reachable only by ferry and limited to a few hundred people a day.",
   "buzz": "People call it the best-kept secret on the Georgia coast; the ferry sells out and there is no food on island. Carry everything.",
   "rating": 89,
-  "drive_min": 309
+  "drive_min": 309,
+  "drive_min_clemson": 355
  },
  {
   "name": "Helen Tubing",
@@ -7287,7 +7324,8 @@
   "unique": "An Alpine-themed village in the Blue Ridge foothills where you float the Chattahoochee in an inner tube with a cooler, then eat schnitzel.",
   "buzz": "It is deeply silly and genuinely fun; the water is cold and the tube chutes are chaotic on weekends. Go on a weekday.",
   "rating": 76,
-  "drive_min": 199
+  "drive_min": 199,
+  "drive_min_clemson": 76
  },
  {
   "name": "Providence Canyon",
@@ -7311,7 +7349,8 @@
   "unique": "Georgia's Little Grand Canyon: 150-foot gullies of pink, orange and white sediment carved by poor farming in the 1800s, now a maze of hoodoos and narrow trenches.",
   "buzz": "The colors are unreal in photos and real in person; the backcountry trail is muddy and the canyon floor is closed after rain.",
   "rating": 83,
-  "drive_min": 223
+  "drive_min": 223,
+  "drive_min_clemson": 102
  },
  {
   "name": "Wynwood Walls",
@@ -7973,7 +8012,8 @@
   "customer": "Music fans, boomers, young adults",
   "unique": "The cinderblock studio where the Stones, Aretha and Paul Simon recorded, preserved almost exactly as it was, with the original Swampers' instruments still in the room.",
   "buzz": "Tours are led by people who were there or grew up with it; music people call it a pilgrimage. The Shoals area has three studios worth a day.",
-  "rating": 88
+  "rating": 88,
+  "drive_min_clemson": 354
  },
  {
   "name": "Cathedral Caverns",
@@ -7995,7 +8035,8 @@
   "customer": "Families, cave nerds, retirees",
   "unique": "A 126-foot-wide cave mouth billed as the largest in the world, with a 45-foot stalagmite called Goliath and a walkable, paved route through enormous chambers.",
   "buzz": "Guides are funny and the scale is genuinely impressive; it is less commercial than Luray. Watch for bats.",
-  "rating": 82
+  "rating": 82,
+  "drive_min_clemson": 283
  },
  {
   "name": "Barber Vintage Motorsports Museum",
@@ -8018,7 +8059,8 @@
   "customer": "Car and bike people, families, designers",
   "unique": "The world's largest motorcycle collection — 1,600 machines in a five-story glass-and-steel building beside a racetrack — with everything from board trackers to a Britten.",
   "buzz": "Even non-riders are floored by the building and the presentation; the track hosts events most weekends. Allow more time than you think.",
-  "rating": 89
+  "rating": 89,
+  "drive_min_clemson": 251
  },
  {
   "name": "USS Alabama Battleship",
@@ -8040,7 +8082,8 @@
   "customer": "Families, veterans, history buffs",
   "unique": "A WWII battleship you can climb through from engine room to gun turret, plus a submarine and a hangar of aircraft, all on Mobile Bay.",
   "buzz": "Kids love the ladders and tight passages; veterans are often aboard telling stories. It is hot below deck in summer.",
-  "rating": 83
+  "rating": 83,
+  "drive_min_clemson": 408
  },
  {
   "name": "Sloss Furnaces",
@@ -8063,7 +8106,8 @@
   "customer": "Photographers, history buffs, teens",
   "unique": "A rusted pig-iron furnace complex preserved as industrial archaeology, now a concert venue and the setting for a thousand ghost stories about men who died in the heat.",
   "buzz": "The self-guided walk is eerie and free; locals report unexplained sounds and the place has a genuine reputation. Bring closed shoes.",
-  "rating": 81
+  "rating": 81,
+  "drive_min_clemson": 251
  },
  {
   "name": "Coon Dog Cemetery",
@@ -8085,7 +8129,8 @@
   "customer": "Road-trippers, dog people",
   "unique": "A one-acre hillside cemetery for hunting dogs only, with hand-painted headstones, toy fire hydrants and a Labor Day gathering that has run for eighty years.",
   "buzz": "People stop for ten minutes and leave moved; it is free and deeply Southern. Combine with Muscle Shoals for a strange and excellent day.",
-  "rating": 76
+  "rating": 76,
+  "drive_min_clemson": 210
  },
  {
   "name": "Hangout Music Festival",
@@ -8108,7 +8153,8 @@
   "customer": "Young adults, college students",
   "unique": "A beach festival where you watch national acts with your feet in the Gulf sand, between swims and a Ferris wheel on the shore.",
   "buzz": "The setting is the selling point; reviews complain about heat, expensive drinks and the walk between stages. Book a condo early.",
-  "rating": 79
+  "rating": 79,
+  "drive_min_clemson": 440
  },
  {
   "name": "Natchez Trace Parkway",
@@ -9184,7 +9230,8 @@
   "unique": "An 11-mile valley of log cabins, churches and meadows where black bears, deer and turkeys graze against a mountain backdrop, closed to cars on Wednesday mornings.",
   "buzz": "The bike-only mornings are the local secret; cars crawl in summer. Go at dawn for wildlife and skip the traffic.",
   "rating": 90,
-  "drive_min": 237
+  "drive_min": 237,
+  "drive_min_clemson": 165
  },
  {
   "name": "Graceland",
@@ -9208,7 +9255,8 @@
   "unique": "The Jungle Room, the jumpsuits, the Lisa Marie jet and the grave in the meditation garden — a middle-class Memphis house turned shrine to the most consequential pop star of the century.",
   "buzz": "The house tour is moving even for non-fans; the higher tiers are expensive. Book the first slot and skip the shopping complex.",
   "rating": 85,
-  "drive_min": 579
+  "drive_min": 579,
+  "drive_min_clemson": 467
  },
  {
   "name": "Beale Street",
@@ -9232,7 +9280,8 @@
   "unique": "Three blocks of live blues, barbecue and neon where W.C. Handy wrote the music that became rock and roll, with bands playing seven nights a week.",
   "buzz": "The music is real and the drinks are strong; BB King's and Rum Boogie are the reliable rooms. It gets rowdy late.",
   "rating": 86,
-  "drive_min": 579
+  "drive_min": 579,
+  "drive_min_clemson": 467
  },
  {
   "name": "Lower Broadway Honky-Tonks",
@@ -9256,7 +9305,8 @@
   "unique": "A strip of bars where unknown bands play for tips from 10am to 3am, and the next star might be three feet away with a guitar and a day job.",
   "buzz": "Go on a weekday afternoon for the best players and the least chaos; Saturday night is a different animal.",
   "rating": 84,
-  "drive_min": 392
+  "drive_min": 392,
+  "drive_min_clemson": 322
  },
  {
   "name": "Bonnaroo",
@@ -9280,7 +9330,8 @@
   "unique": "A 700-acre farm turned into a temporary city with five stages, a ferris wheel, a comedy tent and a legendary late-night jam culture.",
   "buzz": "The lineup and the camping vibe are the draw; heat, mud and the walk are the tax. Bring a wagon and shade.",
   "rating": 85,
-  "drive_min": 390
+  "drive_min": 390,
+  "drive_min_clemson": 265
  },
  {
   "name": "Dollywood",
@@ -9304,7 +9355,8 @@
   "unique": "A theme park in the Smokies with genuinely excellent coasters, a working crafts village, cinnamon bread and Dolly Parton's actual presence in the branding.",
   "buzz": "People are surprised by the quality of Lightning Rod and the shade; it is clean and friendly. Christmas is the best season.",
   "rating": 87,
-  "drive_min": 218
+  "drive_min": 218,
+  "drive_min_clemson": 149
  },
  {
   "name": "Ruby Falls",
@@ -9328,7 +9380,8 @@
   "unique": "A 145-foot underground waterfall at the end of a cave walk 1,120 feet inside Lookout Mountain, lit in colored light with a soundtrack.",
   "buzz": "It is deeply touristy and kids love it; the falls are genuinely impressive. Combine with Rock City and the Incline.",
   "rating": 75,
-  "drive_min": 330
+  "drive_min": 330,
+  "drive_min_clemson": 202
  },
  {
   "name": "Jack Daniel's Distillery",
@@ -9352,7 +9405,8 @@
   "unique": "The oldest registered distillery in the country, in a dry county, where whiskey is made with iron-free cave water and mellowed through sugar maple charcoal.",
   "buzz": "The tasting tour is excellent and the dry-county irony is a running joke; book ahead. The angels' share smells like the whole town.",
   "rating": 84,
-  "drive_min": 420
+  "drive_min": 420,
+  "drive_min_clemson": 294
  },
  {
   "name": "Ocoee River Rafting",
@@ -9375,7 +9429,8 @@
   "unique": "The 1996 Olympic whitewater course, with Class III–IV rapids in a narrow gorge and dam-release flows that make it reliable all summer.",
   "buzz": "Guides are seasoned and the rapids are continuous; the middle section is the classic. Expect to get worked.",
   "rating": 88,
-  "drive_min": 289
+  "drive_min": 289,
+  "drive_min_clemson": 159
  },
  {
   "name": "Ryman Auditorium",
@@ -9399,7 +9454,8 @@
   "unique": "The Mother Church of Country Music, a former tabernacle with pews, stained glass and acoustics that made the Grand Ole Opry famous for thirty years.",
   "buzz": "The self-guided tour is good and the shows are better; the pews are unforgiving. Sit in the balcony for the sound.",
   "rating": 87,
-  "drive_min": 392
+  "drive_min": 392,
+  "drive_min_clemson": 322
  },
  {
   "name": "Yabusame Horseback Archery",
@@ -9469,7 +9525,8 @@
   "unique": "The world's largest man-made recirculating river: an Olympic-trials slalom course, flatwater paddling, ziplines, ropes courses and 40 miles of trail, all on one 1,300-acre campus.",
   "buzz": "Locals treat it as the default outdoor day; rafting is guided and beginner-safe, and the trail network is genuinely good. Parking is free, beer garden is real.",
   "rating": 90,
-  "drive_min": 22
+  "drive_min": 22,
+  "drive_min_clemson": 132
  },
  {
   "name": "NASCAR Hall of Fame",
@@ -9493,7 +9550,8 @@
   "unique": "A banked ribbon of track running through the building, pit-crew combines you can try, and every car that matters in stock-car history under one swooping copper roof.",
   "buzz": "The interactive pit stop and the simulator are the hits; non-fans finish in 90 minutes. Good rainy-day pick in Charlotte.",
   "rating": 81,
-  "drive_min": 22
+  "drive_min": 22,
+  "drive_min_clemson": 132
  },
  {
   "name": "Reed Gold Mine",
@@ -9517,7 +9575,8 @@
   "unique": "The site of the first documented gold discovery in the United States, where you can walk into hand-dug tunnels and pan a creek that still gives up flakes.",
   "buzz": "Rangers are excellent with kids; the underground tour is short and cool. Panning is the reason to stay.",
   "rating": 82,
-  "drive_min": 46
+  "drive_min": 46,
+  "drive_min_clemson": 161
  },
  {
   "name": "Crowders Mountain",
@@ -9541,7 +9600,8 @@
   "unique": "A quartzite ridge 25 minutes from Charlotte with a stair-and-scramble summit, 100-foot cliffs for top-rope climbing and a view clear to the city skyline.",
   "buzz": "Locals use it as a training hike; the backside trail is quieter and the cliffs draw Charlotte climbers after work. Parking fills by 9am on weekends.",
   "rating": 84,
-  "drive_min": 44
+  "drive_min": 44,
+  "drive_min_clemson": 105
  },
  {
   "name": "Anne Springs Close Greenway",
@@ -9613,7 +9673,8 @@
   "unique": "The largest natural-habitat zoo in the world: 500 acres of forest and grassland where elephants, gorillas and rhinos live in herds rather than cages, split into Africa and North America.",
   "buzz": "People are surprised it takes a full day; the walking is real and the habitats are genuinely spacious. The kid zone and carousel are the family anchors.",
   "rating": 88,
-  "drive_min": 104
+  "drive_min": 104,
+  "drive_min_clemson": 210
  },
  {
   "name": "Seagrove Pottery Trail",
@@ -9637,7 +9698,8 @@
   "unique": "More than a hundred working potteries along a two-lane road in the Uwharrie hills, where families have dug the same clay for seven generations and you can watch a kiln being stacked.",
   "buzz": "Buy a mug from the person who made it; the Seagrove Pottery Festival in November is the best day. Some studios are appointment-only.",
   "rating": 87,
-  "drive_min": 109
+  "drive_min": 109,
+  "drive_min_clemson": 216
  },
  {
   "name": "Old Salem",
@@ -9661,7 +9723,8 @@
   "unique": "A Moravian congregation town of 1766 with working craft shops, a bakery that still sells Moravian sugar cake, and gardens planted to the original 18th-century plan.",
   "buzz": "The living-history trades are excellent; the bakery and the tavern are the fun parts. Christmas by candlelight sells out.",
   "rating": 85,
-  "drive_min": 92
+  "drive_min": 92,
+  "drive_min_clemson": 199
  },
  {
   "name": "Korner's Folly",
@@ -9685,7 +9748,8 @@
   "unique": "A seven-level, 22-room Victorian house with staircases to nowhere, a ballroom on the third floor and a chimney that runs through the middle of the dining room table.",
   "buzz": "People call it the strangest house in the South; guides tell the family tragedy well. Small, cheap and memorable.",
   "rating": 82,
-  "drive_min": 100
+  "drive_min": 100,
+  "drive_min_clemson": 207
  },
  {
   "name": "Lexington Barbecue Trail",
@@ -9708,7 +9772,8 @@
   "unique": "The capital of western Carolina barbecue: wood-fired pits, paper trays, barbecue slaw and a thin vinegar-and-ketchup dip that Piedmont purists will defend to the death.",
   "buzz": "Lexington BBQ and the Barbecue Center are the canonical stops; locals order coarse chopped and hushpuppies. The October festival draws thousands.",
   "rating": 86,
-  "drive_min": 75
+  "drive_min": 75,
+  "drive_min_clemson": 181
  },
  {
   "name": "International Civil Rights Center and Museum",
@@ -9732,7 +9797,8 @@
   "unique": "Built in the original F.W. Woolworth building around the lunch counter where four Black students sat down in 1960, with the original stools still bolted to the floor.",
   "buzz": "The exhibits are unflinching and the space is small enough to feel; visitors call it essential. Allow two hours and bring tissues.",
   "rating": 89,
-  "drive_min": 106
+  "drive_min": 106,
+  "drive_min_clemson": 213
  },
  {
   "name": "Grandfather Mountain",
@@ -9756,7 +9822,8 @@
   "unique": "A private park with a mile-high swinging bridge over a 4,000-foot gorge, black bears and cougars in large habitats, and ladders-and-cable hikes up the peaks.",
   "buzz": "The bridge is the photo everyone wants; the wildlife habitats are surprisingly good and the backcountry trails are steep. Drive the ridge road slowly.",
   "rating": 89,
-  "drive_min": 132
+  "drive_min": 132,
+  "drive_min_clemson": 168
  },
  {
   "name": "DuPont State Forest",
@@ -9780,7 +9847,8 @@
   "unique": "Three big waterfalls within a short loop — Hooker, Triple and Bridal Veil — on a former du Pont estate that doubled as the arena district in The Hunger Games.",
   "buzz": "Triple Falls is the icon and the summer swimming hole; parking is limited and the falls get crowded by 10am. Winter ice makes the trails dangerous.",
   "rating": 90,
-  "drive_min": 111
+  "drive_min": 111,
+  "drive_min_clemson": 84
  },
  {
   "name": "Chimney Rock",
@@ -9804,7 +9872,8 @@
   "unique": "A 315-foot granite monolith with an elevator cut through the mountain to the top, and a 404-foot waterfall — Hickory Nut Falls — a short trail away.",
   "buzz": "The elevator saves the climb and the view over Lake Lure is the payoff; the stairs at the top are steep. Go early for the parking deck.",
   "rating": 84,
-  "drive_min": 139
+  "drive_min": 139,
+  "drive_min_clemson": 112
  },
  {
   "name": "Cataloochee Elk Valley",
@@ -9828,7 +9897,8 @@
   "unique": "A remote valley of restored farmsteads where reintroduced elk bugle across the fields at dusk, with a one-lane road, old schoolhouse and almost no crowds.",
   "buzz": "Elk are reliably visible in the meadows at dawn and dusk; the gravel road is narrow and the valley has no services. Bring a scope.",
   "rating": 89,
-  "drive_min": 154
+  "drive_min": 154,
+  "drive_min_clemson": 104
  },
  {
   "name": "Great Smoky Mountain Railroad",
@@ -9852,7 +9922,8 @@
   "unique": "A heritage railroad that follows the Nantahala River gorge and crosses the Fontana Lake trestle, with open-air cars and a dome car over the water.",
   "buzz": "The Nantahala Gorge run is the scenic one; the Polar Express sells out a year ahead. Bring a jacket for the open car.",
   "rating": 85,
-  "drive_min": 187
+  "drive_min": 187,
+  "drive_min_clemson": 104
  },
  {
   "name": "Museum of the Cherokee Indian",
@@ -9876,7 +9947,8 @@
   "unique": "A 12,000-year Cherokee story told with dioramas, animatronics and an immense artifact collection, run by the Eastern Band on the Qualla Boundary.",
   "buzz": "The storytelling is strong and the gift shop is full of actual Cherokee artists' work; pair it with Oconaluftee Village next door.",
   "rating": 85,
-  "drive_min": 244
+  "drive_min": 244,
+  "drive_min_clemson": 115
  },
  {
   "name": "Whitewater Falls",
@@ -9899,7 +9971,8 @@
   "unique": "The highest waterfall east of the Rockies — 411 feet in one drop, 785 feet total — with a short paved walk to an overlook above the Jocassee Gorges.",
   "buzz": "The upper overlook is an easy five-minute walk; the lower viewing deck is a steep staircase. Go after rain for volume.",
   "rating": 85,
-  "drive_min": 169
+  "drive_min": 169,
+  "drive_min_clemson": 67
  },
  {
   "name": "Riverbanks Zoo and Garden",
@@ -9923,7 +9996,8 @@
   "unique": "A zoo built into the Saluda River bluffs with a 70-acre botanical garden across a footbridge, plus a skyfari over the elephants and gorillas.",
   "buzz": "Consistently ranked among the best mid-size zoos in the country; the garden side is quiet and beautiful. Parking is easy and cheap.",
   "rating": 84,
-  "drive_min": 74
+  "drive_min": 74,
+  "drive_min_clemson": 129
  },
  {
   "name": "Falls Park on the Reedy",
@@ -9947,7 +10021,8 @@
   "unique": "A 32-foot waterfall in the middle of downtown, with a curved suspension bridge over the gorge, public gardens and a trail that connects to the Swamp Rabbit.",
   "buzz": "Greenville's showpiece and it earns the hype; the bridge is the photo and the park is best at dusk. Free parking is scarce.",
   "rating": 85,
-  "drive_min": 105
+  "drive_min": 105,
+  "drive_min_clemson": 34
  },
  {
   "name": "Swamp Rabbit Trail",
@@ -9971,7 +10046,8 @@
   "unique": "Twenty-two miles of paved rail-trail linking Greenville to Travelers Rest, with a brewery, a farm-to-table restaurant and a lake along the way.",
   "buzz": "Rent a bike and ride to the Swamp Rabbit Cafe for a sandwich; the trail is flat and busy on weekends. Best local half-day.",
   "rating": 86,
-  "drive_min": 105
+  "drive_min": 105,
+  "drive_min_clemson": 34
  },
  {
   "name": "Caesars Head State Park",
@@ -9995,7 +10071,8 @@
   "unique": "A granite cliff at 3,200 feet looking over the Blue Ridge escarpment, with the Raven Cliff Falls suspension bridge hike and hawks migrating along the ridge in September.",
   "buzz": "The view from the overlook is enormous and the fall hawk watch is a genuine spectacle. The falls trail is long and steep.",
   "rating": 84,
-  "drive_min": 124
+  "drive_min": 124,
+  "drive_min_clemson": 52
  },
  {
   "name": "BMW Performance Center",
@@ -10018,7 +10095,8 @@
   "unique": "Drive a BMW M car on a closed handling course, an off-road course in an X5 and a skid pad, with an instructor in the passenger seat telling you to go faster.",
   "buzz": "The half-day M School is the sweet spot; instructors are professional racers and the facility is immaculate. Book months ahead.",
   "rating": 86,
-  "drive_min": 99
+  "drive_min": 99,
+  "drive_min_clemson": 58
  },
  {
   "name": "Beaufort Historic District",
@@ -10042,7 +10120,8 @@
   "unique": "A Lowcountry town of antebellum houses under live oaks, with a waterfront park, a parish church from 1842 and Gullah heritage tours that tell the other half of the story.",
   "buzz": "Less polished and less crowded than Charleston; the carriage tours are good and the shrimp is better. Go in spring.",
   "rating": 82,
-  "drive_min": 207
+  "drive_min": 207,
+  "drive_min_clemson": 256
  },
  {
   "name": "Atlanta BeltLine",
@@ -10066,7 +10145,8 @@
   "unique": "A former rail corridor looping the city, with public art, pocket parks and a trail that connects neighborhoods, breweries and the Krog Street Market.",
   "buzz": "The Eastside Trail is the busy, people-watching stretch; rent a bike or scooter and stop for food. Parking is the only friction.",
   "rating": 87,
-  "drive_min": 232
+  "drive_min": 232,
+  "drive_min_clemson": 120
  },
  {
   "name": "Rock City Gardens",
@@ -10090,7 +10170,8 @@
   "unique": "A 4,100-foot walking trail through a rock garden with a swinging bridge, a waterfall you walk behind and a view of seven states, advertised on barn roofs for ninety years.",
   "buzz": "It is unabashedly old-school and kids love it; the Lover's Leap view is legitimately great. Combine with Ruby Falls and the Incline.",
   "rating": 85,
-  "drive_min": 339
+  "drive_min": 339,
+  "drive_min_clemson": 210
  },
  {
   "name": "Amicalola Falls",
@@ -10114,7 +10195,8 @@
   "unique": "Georgia's tallest waterfall at 729 feet, with a staircase climbing alongside it and the southern approach to the Appalachian Trail, including a 600-step approach trail.",
   "buzz": "The stairs are brutal and the view is worth it; the lodge at the top has the best sunset. The AT approach is a bucket-list day.",
   "rating": 86,
-  "drive_min": 228
+  "drive_min": 228,
+  "drive_min_clemson": 114
  },
  {
   "name": "Blue Ridge Scenic Railway",
@@ -10138,7 +10220,8 @@
   "unique": "A four-hour round trip along the Toccoa River in open-air cars, with a stop in a twin river town for barbecue and a walk across the state line.",
   "buzz": "The open-air car is the one to book; fall color trips sell out. It is relaxed and scenic rather than thrilling.",
   "rating": 83,
-  "drive_min": 256
+  "drive_min": 256,
+  "drive_min_clemson": 120
  },
  {
   "name": "Georgia Theatre",
@@ -10162,7 +10245,8 @@
   "unique": "A 1935 movie house turned beloved music venue on top of a restaurant, where Athens' indie scene plays under a painted ceiling and the roof deck looks over downtown.",
   "buzz": "Sound is excellent for a room this size; the roof bar before the show is the move. Athens is a music town and this is its living room.",
   "rating": 85,
-  "drive_min": 195
+  "drive_min": 195,
+  "drive_min_clemson": 82
  },
  {
   "name": "Anakeesta",
@@ -10186,7 +10270,8 @@
   "unique": "A mountaintop adventure park reached by chondola or rail, with a treetop skywalk, a mountain coaster and a suspension bridge above the Smokies.",
   "buzz": "The views and the tree canopy walk are the draw; it is expensive and the coaster lines are long. Sunset is the best slot.",
   "rating": 81,
-  "drive_min": 213
+  "drive_min": 213,
+  "drive_min_clemson": 140
  },
  {
   "name": "Tennessee Aquarium",
@@ -10210,7 +10295,8 @@
   "unique": "Two buildings — river and ocean — connected by a plaza, with a walk-through tunnel under sharks, a butterfly garden and freshwater exhibits that trace the Tennessee River to the Gulf.",
   "buzz": "The river journey building is the sleeper hit; the ocean building gets crowded. Buy timed tickets and go at opening.",
   "rating": 86,
-  "drive_min": 330
+  "drive_min": 330,
+  "drive_min_clemson": 202
  },
  {
   "name": "Lookout Mountain Incline Railway",
@@ -10234,7 +10320,8 @@
   "unique": "The steepest passenger railway in the world at 72.7 percent grade, climbing Lookout Mountain in a wooden car that creaks the whole way.",
   "buzz": "Sit on the right going up for the view; the ride is short and the wait can be long. Combine with Rock City at the top.",
   "rating": 83,
-  "drive_min": 330
+  "drive_min": 330,
+  "drive_min_clemson": 202
  },
  {
   "name": "Grayson Highlands",
@@ -10258,7 +10345,8 @@
   "unique": "Open highland balds at 5,000 feet with wild ponies grazing among granite outcrops, and the Appalachian Trail crossing Mount Rogers, Virginia's highest point.",
   "buzz": "The ponies are habituated and will investigate your lunch; the Wilburn Ridge loop is the classic. Weather changes fast and the wind is constant.",
   "rating": 91,
-  "drive_min": 147
+  "drive_min": 147,
+  "drive_min_clemson": 237
  },
  {
   "name": "Mabry Mill",
@@ -10282,7 +10370,8 @@
   "unique": "A water-powered gristmill, sawmill and blacksmith shop on the Blue Ridge Parkway, with a millpond that reflects the whole thing and a weekend craft demonstration.",
   "buzz": "The most photographed spot on the Parkway and it earns it at dawn; the restaurant's buckwheat pancakes are a tradition.",
   "rating": 81,
-  "drive_min": 145
+  "drive_min": 145,
+  "drive_min_clemson": 250
  },
  {
   "name": "Maymont",
@@ -10306,7 +10395,8 @@
   "unique": "A 100-acre Gilded Age estate with a Romanesque mansion, Japanese and Italian gardens, and a Virginia wildlife exhibit with otters, bobcats and black bears.",
   "buzz": "Free grounds and a small mansion fee; the gardens are gorgeous in spring and the wildlife exhibits are better than expected for kids.",
   "rating": 84,
-  "drive_min": 288
+  "drive_min": 288,
+  "drive_min_clemson": 394
  },
  {
   "name": "Gauley River Rafting",
@@ -10330,7 +10420,8 @@
   "unique": "Twenty-five miles of continuous Class IV–V whitewater fed by controlled dam releases for a few weeks each September — the biggest commercial whitewater in the East.",
   "buzz": "Guides call it the real thing; the Upper Gauley is not for beginners and swimming is a serious proposition. Book as soon as the schedule drops.",
   "rating": 92,
-  "drive_min": 239
+  "drive_min": 239,
+  "drive_min_clemson": 344
  },
  {
   "name": "Beckley Exhibition Coal Mine",
@@ -10354,7 +10445,8 @@
   "unique": "Ride a mantrip cart into a real worked coal seam with a former miner as your guide, then walk a recreated company town of shacks, church and school.",
   "buzz": "The miner guides are the whole experience — funny, blunt and full of detail. The tour is cool underground even in August.",
   "rating": 84,
-  "drive_min": 214
+  "drive_min": 214,
+  "drive_min_clemson": 319
  },
  {
   "name": "Babcock State Park Grist Mill",
@@ -10378,7 +10470,8 @@
   "unique": "A working water-powered grist mill with a red roof over a mossy creek, surrounded by rhododendron and the New River Gorge — the most photographed mill in the state.",
   "buzz": "Photographers queue at dawn for the mill and the creek; the park cabins are a quiet base for gorge hiking. Autumn is the peak.",
   "rating": 84,
-  "drive_min": 261
+  "drive_min": 261,
+  "drive_min_clemson": 366
  },
  {
   "name": "Lost World Caverns",
@@ -10402,7 +10495,8 @@
   "unique": "A self-guided walk through a huge single chamber with a 45-foot stalagmite called the War Club, plus a wild-cave tour that crawls and gets muddy.",
   "buzz": "The self-guided format lets you linger; the wild tour is the adventure. Small, cheap and genuinely impressive.",
   "rating": 79,
-  "drive_min": 252
+  "drive_min": 252,
+  "drive_min_clemson": 357
  },
  {
   "name": "Historic Brattonsville",
@@ -10426,7 +10520,8 @@
   "unique": "A 778-acre backcountry plantation with the original 1776 brick house, slave cabins and a working farm, where interpreters demonstrate the divided world of the South Carolina upcountry.",
   "buzz": "The living-history days and the battlefield reenactment are excellent; it is quiet, cheap and rarely crowded. The slavery interpretation is honest.",
   "rating": 82,
-  "drive_min": 33
+  "drive_min": 33,
+  "drive_min_clemson": 124
  },
  {
   "name": "Lake Norman State Park",
@@ -10450,7 +10545,8 @@
   "unique": "The largest man-made lake in the state, with a swim beach, boat rentals and 30 miles of single-track mountain bike trail on the quiet northern shore.",
   "buzz": "Locals come for the beach and the Itusi trail; the lake is busy with powerboats on summer weekends. Go on a weekday morning.",
   "rating": 80,
-  "drive_min": 53
+  "drive_min": 53,
+  "drive_min_clemson": 158
  },
  {
   "name": "Optimist Hall",
@@ -10474,6 +10570,698 @@
   "unique": "A 1890s textile mill turned food hall with two dozen stalls, a dumpling window, a bao shop and a brewery, in a neighborhood that was a warehouse district a decade ago.",
   "buzz": "The variety is the point and the space is handsome; parking is tight and popular stalls run long at noon. Walk the rail trail after.",
   "rating": 79,
-  "drive_min": 22
+  "drive_min": 22,
+  "drive_min_clemson": 132
+ },
+ {
+  "name": "Clemson Memorial Stadium Game Day",
+  "city": "Clemson",
+  "county": "Pickens",
+  "state": "South Carolina",
+  "cats": [
+   "Sports",
+   "Festival",
+   "Community"
+  ],
+  "cost": "$60–$150",
+  "cost_num": 95,
+  "dur": "Full day",
+  "dur_h": 8,
+  "dates": "Aug–Nov, home Saturdays",
+  "start": "1942",
+  "company": "Clemson University Athletics",
+  "party": "2–8",
+  "customer": "Football fans, students, families",
+  "unique": "Eighty thousand people in orange, the band on the hill, and the team rubbing Howard's Rock before running down the steepest hill in college football.",
+  "buzz": "Even neutral fans call it one of the great American game-day atmospheres; traffic and ticket prices are the complaints. Wear orange and arrive four hours early.",
+  "rating": 90,
+  "drive_min_clemson": 0
+ },
+ {
+  "name": "South Carolina Botanical Garden",
+  "city": "Clemson",
+  "county": "Pickens",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Art",
+   "Relaxing"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1990s",
+  "company": "Clemson University",
+  "party": "2–4",
+  "customer": "Families, gardeners, students",
+  "unique": "295 acres of Piedmont forest, formal gardens, a duck pond and a natural heritage garden with rare plants, free and open at the edge of campus.",
+  "buzz": "Locals use it as a quiet walk; the amphitheater and the art trail are the surprises. Free parking and rarely crowded.",
+  "rating": 80,
+  "drive_min_clemson": 0
+ },
+ {
+  "name": "Esso Club",
+  "city": "Clemson",
+  "county": "Pickens",
+  "state": "South Carolina",
+  "cats": [
+   "Food & Drink",
+   "Sports",
+   "Nightlife"
+  ],
+  "cost": "$15–$30",
+  "cost_num": 22,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1933",
+  "company": "Esso Club",
+  "party": "2–6",
+  "customer": "Students, alumni, locals",
+  "unique": "A 1933 gas station turned Clemson institution, where generations of fans have eaten chicken fingers and watched games on the same worn floors.",
+  "buzz": "It is a rite of passage on game day and a plain bar the rest of the year; service is fast and the nostalgia is the point.",
+  "rating": 78,
+  "drive_min_clemson": 0
+ },
+ {
+  "name": "Stumphouse Tunnel and Issaqueena Falls",
+  "city": "Walhalla",
+  "county": "Oconee",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Cave",
+   "Nature"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1856",
+  "company": "City of Walhalla",
+  "party": "2–6",
+  "customer": "Families, history buffs, photographers",
+  "unique": "A 1,600-foot railroad tunnel abandoned half-finished before the Civil War, now a cool 50-degree cave you can walk into, with a 200-foot waterfall a short trail away.",
+  "buzz": "The tunnel is genuinely eerie and the falls are a five-minute walk; it is free and easy for kids. Bring a jacket and a flashlight.",
+  "rating": 83,
+  "drive_min_clemson": 20
+ },
+ {
+  "name": "Chattooga River Rafting",
+  "city": "Long Creek",
+  "county": "Oconee",
+  "state": "South Carolina",
+  "cats": [
+   "Water",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$100–$175",
+  "cost_num": 135,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "Apr–Oct",
+  "start": "1974",
+  "company": "Licensed Chattooga outfitters",
+  "party": "2–8",
+  "customer": "Adventurers, young adults, families with teens",
+  "unique": "Section IV of the Chattooga is a Wild and Scenic River with back-to-back Class IV–V rapids, the same water filmed in Deliverance, in a gorge with no road access.",
+  "buzz": "Guides are serious and the rapids are too; Section III is the family option and Section IV is the real thing. Swimming is not optional — you will swim.",
+  "rating": 92,
+  "drive_min_clemson": 37
+ },
+ {
+  "name": "Sassafras Mountain",
+  "city": "Pickens",
+  "county": "Pickens",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "2019",
+  "company": "South Carolina Department of Natural Resources",
+  "party": "2–4",
+  "customer": "Families, road-trippers, photographers",
+  "unique": "The highest point in South Carolina at 3,553 feet, with a new observation platform that looks over the Blue Ridge into North Carolina and Georgia.",
+  "buzz": "A short walk from the parking lot with a huge payoff at sunset; the drive up is steep and the road closes in ice.",
+  "rating": 82,
+  "drive_min_clemson": 26
+ },
+ {
+  "name": "Lake Jocassee and Devils Fork",
+  "city": "Salem",
+  "county": "Oconee",
+  "state": "South Carolina",
+  "cats": [
+   "Water",
+   "Nature",
+   "Adventure"
+  ],
+  "cost": "$8–$30",
+  "cost_num": 12,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "May–Sep",
+  "start": "1973",
+  "company": "South Carolina State Parks",
+  "party": "2–6",
+  "customer": "Families, divers, paddlers",
+  "unique": "A mountain lake fed by four waterfalls, so clear that scuba divers see submerged forests and the shoreline has never been developed.",
+  "buzz": "People call it the most beautiful lake in the state; parking fills early and boat access is limited. Rent a kayak and go up the Thompson River.",
+  "rating": 89,
+  "drive_min_clemson": 32
+ },
+ {
+  "name": "Oconee State Park",
+  "city": "Mountain Rest",
+  "county": "Oconee",
+  "state": "South Carolina",
+  "cats": [
+   "Nature",
+   "Historical",
+   "Family"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 4,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1935",
+  "company": "South Carolina State Parks",
+  "party": "2–6",
+  "customer": "Families, campers, retirees",
+  "unique": "A CCC-built park of stone cabins and a spring-fed swimming lake at 2,000 feet, with the Foothills Trail passing through and a Friday-night mountain music jam.",
+  "buzz": "The cabins are cheap and the lake is cold; the old-time music on summer weekends is the local secret.",
+  "rating": 81,
+  "drive_min_clemson": 33
+ },
+ {
+  "name": "Pendleton Historic District",
+  "city": "Pendleton",
+  "county": "Anderson",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Architecture",
+   "Food & Drink"
+  ],
+  "cost": "Free–$15",
+  "cost_num": 8,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1790",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "History buffs, couples, retirees",
+  "unique": "A 1790 courthouse town with a village green, antebellum houses and a working farm museum, ten minutes from Clemson but two centuries away.",
+  "buzz": "The walking tour is short and the farmers market is good; lunch at a local table is the move. Quiet and unpretentious.",
+  "rating": 80,
+  "drive_min_clemson": 8
+ },
+ {
+  "name": "Pretty Place Chapel",
+  "city": "Cleveland",
+  "county": "Greenville",
+  "state": "South Carolina",
+  "cats": [
+   "Spiritual",
+   "Nature",
+   "Architecture"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round, daylight",
+  "start": "1941",
+  "company": "YMCA Camp Greenville",
+  "party": "2–4",
+  "customer": "Couples, families, photographers",
+  "unique": "Symmes Chapel is an open-air stone amphitheater on a cliff at 3,000 feet, with a cross and a view across the Blue Ridge that has made it a wedding destination.",
+  "buzz": "People arrive for ten minutes and stay an hour; sunrise is the reason to get up. Check camp schedules before driving up.",
+  "rating": 88,
+  "drive_min_clemson": 52
+ },
+ {
+  "name": "Jones Gap and Rainbow Falls",
+  "city": "Cleveland",
+  "county": "Greenville",
+  "state": "South Carolina",
+  "cats": [
+   "Hiking",
+   "Water",
+   "Nature"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 7,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "South Carolina State Parks",
+  "party": "2–4",
+  "customer": "Hikers, photographers, families",
+  "unique": "A mountain gorge where the Middle Saluda runs over granite slabs, with a 100-foot waterfall reached by a root-and-rock trail through hardwood forest.",
+  "buzz": "The falls hike is short but steep and slippery; the park limits parking, so reserve a pass online. Go after rain.",
+  "rating": 84,
+  "drive_min_clemson": 52
+ },
+ {
+  "name": "Cowpens National Battlefield",
+  "city": "Gaffney",
+  "county": "Cherokee",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Hiking"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1781",
+  "company": "National Park Service",
+  "party": "2–6",
+  "customer": "History buffs, families, cyclists",
+  "unique": "The pasture where Daniel Morgan's militia broke the British line in 1781, preserved as open ground with a walking loop and a visitor center that explains why it mattered.",
+  "buzz": "Rangers give excellent battle walks; the loop is flat and easy. Quiet, free and under-visited.",
+  "rating": 82,
+  "drive_min_clemson": 86
+ },
+ {
+  "name": "Ninety Six National Historic Site",
+  "city": "Ninety Six",
+  "county": "Greenwood",
+  "state": "South Carolina",
+  "cats": [
+   "Historical",
+   "Hiking"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1780",
+  "company": "National Park Service",
+  "party": "2–4",
+  "customer": "History buffs, families",
+  "unique": "The earthworks of a 28-day siege in 1780, with a reconstructed stockade fort and the original Star Fort still visible in the ground.",
+  "buzz": "The ranger tour makes the siege legible; it is small and quiet. Combine with Abbeville's courthouse square.",
+  "rating": 80,
+  "drive_min_clemson": 90
+ },
+ {
+  "name": "Gaffney Peachoid",
+  "city": "Gaffney",
+  "county": "Cherokee",
+  "state": "South Carolina",
+  "cats": [
+   "Quirky",
+   "Road Trip",
+   "Art"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "15 min",
+  "dur_h": 0.25,
+  "dates": "Year-round",
+  "start": "1981",
+  "company": "City of Gaffney",
+  "party": "NA",
+  "customer": "Road-trippers, families",
+  "unique": "A 135-foot water tower painted to look like a peach, visible for miles on I-85, and beloved enough to be featured in House of Cards.",
+  "buzz": "It is a five-minute photo stop and exactly as absurd as it sounds; the gift shop sells peach everything.",
+  "rating": 68,
+  "drive_min_clemson": 86
+ },
+ {
+  "name": "John C. Campbell Folk School",
+  "city": "Brasstown",
+  "county": "Clay",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Community",
+   "Historical"
+  ],
+  "cost": "Free–$250 class",
+  "cost_num": 90,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year-round",
+  "start": "1925",
+  "company": "John C. Campbell Folk School",
+  "party": "2–4",
+  "customer": "Craft people, retirees, couples",
+  "unique": "A 1925 folk school where you can take a day class in blacksmithing, woodturning, weaving or bookbinding, on a campus of gardens and craft studios.",
+  "buzz": "People come for a weekend and leave with a forged knife and a new hobby; the instructors are patient with beginners. Book classes months ahead.",
+  "rating": 88,
+  "drive_min_clemson": 103
+ },
+ {
+  "name": "Dry Falls",
+  "city": "Highlands",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Hiking"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "Nantahala National Forest",
+  "party": "2–4",
+  "customer": "Families, photographers, road-trippers",
+  "unique": "A 75-foot waterfall you can walk behind on a stone staircase, staying dry under the rock overhang while the water pours past your shoulder.",
+  "buzz": "The walk-behind is the draw and the stairs are slick; go early and combine with Bridal Veil Falls up the road.",
+  "rating": 86,
+  "drive_min_clemson": 63
+ },
+ {
+  "name": "Highlands",
+  "city": "Highlands",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Food & Drink",
+   "Quirky"
+  ],
+  "cost": "Free–$40",
+  "cost_num": 20,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "May–Oct",
+  "start": "1875",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Couples, food people, retirees",
+  "unique": "A mountain town at 4,100 feet with waterfalls on the edge of town, a main street of galleries and a summer colony that has been escaping the heat since 1875.",
+  "buzz": "The setting is gorgeous and the restaurants are better than a town this size deserves; it is expensive and crowded in July.",
+  "rating": 82,
+  "drive_min_clemson": 63
+ },
+ {
+  "name": "Pearson's Falls",
+  "city": "Tryon",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Hiking"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Mar–Nov",
+  "start": "1930",
+  "company": "Tryon Garden Club",
+  "party": "2–4",
+  "customer": "Families, photographers, couples",
+  "unique": "A 90-foot waterfall in a hemlock glen bought by a garden club in 1930 to save it, reached by a quarter-mile trail along a trout stream.",
+  "buzz": "Small, cheap and lovely; the trail is short and the pool is not for swimming. Combine with downtown Tryon's horse-country feel.",
+  "rating": 80,
+  "drive_min_clemson": 86
+ },
+ {
+  "name": "Tryon International Equestrian Center",
+  "city": "Mill Spring",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Sports",
+   "Festival",
+   "Community"
+  ],
+  "cost": "Free–$30",
+  "cost_num": 15,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Apr–Oct, event weekends",
+  "start": "2018",
+  "company": "Tryon International Equestrian Center",
+  "party": "2–6",
+  "customer": "Families, horse people, couples",
+  "unique": "A 1,200-acre equestrian resort that hosts international show jumping, with Saturday Night Lights, a brewery and free general admission on many days.",
+  "buzz": "Even non-horse people enjoy the scene; parking is easy and the grounds are immaculate. Check the calendar for a big jumper night.",
+  "rating": 84,
+  "drive_min_clemson": 90
+ },
+ {
+  "name": "The Gorge Zipline",
+  "city": "Saluda",
+  "county": "Polk",
+  "state": "North Carolina",
+  "cats": [
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$100–$150",
+  "cost_num": 125,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Mar–Nov",
+  "start": "2015",
+  "company": "The Gorge",
+  "party": "2–6",
+  "customer": "Families with teens, young adults",
+  "unique": "Eleven ziplines and a sky bridge over a 1,100-acre gorge, with the longest line running a half mile above the Green River.",
+  "buzz": "Guides are funny and safety-focused; the hike between lines is real. Book the earliest slot for the best light and least heat.",
+  "rating": 84,
+  "drive_min_clemson": 77
+ },
+ {
+  "name": "Flat Rock Playhouse",
+  "city": "Flat Rock",
+  "county": "Henderson",
+  "state": "North Carolina",
+  "cats": [
+   "Performance",
+   "Music",
+   "Historical"
+  ],
+  "cost": "$40–$65",
+  "cost_num": 50,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Apr–Dec",
+  "start": "1952",
+  "company": "Flat Rock Playhouse",
+  "party": "2–4",
+  "customer": "Retirees, couples, families",
+  "unique": "The State Theatre of North Carolina, founded by touring actors in 1952, still producing Broadway-quality musicals in a converted rock quarry building.",
+  "buzz": "Production values are high for a small town; the summer musicals sell out. Dinner in Hendersonville before the show.",
+  "rating": 80,
+  "drive_min_clemson": 74
+ },
+ {
+  "name": "Hendersonville Apple Orchards",
+  "city": "Hendersonville",
+  "county": "Henderson",
+  "state": "North Carolina",
+  "cats": [
+   "Food & Drink",
+   "Nature",
+   "Family"
+  ],
+  "cost": "Free–$20",
+  "cost_num": 10,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Aug–Oct",
+  "start": "1900s",
+  "company": "Local orchards",
+  "party": "2–6",
+  "customer": "Families, food people, retirees",
+  "unique": "Apple country at 2,200 feet: pick-your-own orchards, cider presses, fried apple pies and a fall festival that closes the main street.",
+  "buzz": "The picking is the fun and the cider doughnuts are the reason; weekends in October are a zoo. Go on a weekday.",
+  "rating": 78,
+  "drive_min_clemson": 82
+ },
+ {
+  "name": "Franklin Gem Mining",
+  "city": "Franklin",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Quirky",
+   "Maker",
+   "Family"
+  ],
+  "cost": "$15–$40",
+  "cost_num": 25,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Mar–Nov",
+  "start": "1900s",
+  "company": "Local gem mines",
+  "party": "2–6",
+  "customer": "Families, kids, rockhounds",
+  "unique": "Ruby, sapphire and garnet country: sluice a bucket of ore at a roadside mine and keep whatever you find, with real gem cutters next door.",
+  "buzz": "Kids get hooked and the staff teach you what to look for; the buckets vary in yield. It is touristy but genuinely fun.",
+  "rating": 77,
+  "drive_min_clemson": 308
+ },
+ {
+  "name": "Wayah Bald",
+  "city": "Franklin",
+  "county": "Macon",
+  "state": "North Carolina",
+  "cats": [
+   "Nature",
+   "Road Trip",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Apr–Nov",
+  "start": "1937",
+  "company": "Nantahala National Forest",
+  "party": "2–4",
+  "customer": "Photographers, road-trippers, families",
+  "unique": "A stone fire tower at 5,342 feet with a 360-degree view over four states, reached by a paved road and a short walk on the Appalachian Trail.",
+  "buzz": "The view is enormous and the drive is the adventure; the road is narrow and closes in winter. Sunset is the payoff.",
+  "rating": 83,
+  "drive_min_clemson": 308
+ },
+ {
+  "name": "Tail of the Dragon",
+  "city": "Deals Gap",
+  "county": "Blount",
+  "state": "Tennessee",
+  "cats": [
+   "Motorsport",
+   "Road Trip",
+   "Adrenaline"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Mar–Nov",
+  "start": "1930s",
+  "company": "Self-guided",
+  "party": "2–4",
+  "customer": "Drivers, motorcyclists, car clubs",
+  "unique": "318 curves in 11 miles of US 129 along the Little Tennessee River, with a tree covered in discarded motorcycle parts at the start and photographers on every corner.",
+  "buzz": "Drivers and riders make pilgrimages; police patrol heavily and crashes are common. Respect the double yellow and ride within your skill.",
+  "rating": 87,
+  "drive_min_clemson": 159
+ },
+ {
+  "name": "Cherohala Skyway",
+  "city": "Robbinsville",
+  "county": "Graham",
+  "state": "North Carolina",
+  "cats": [
+   "Road Trip",
+   "Nature",
+   "Photography"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Apr–Nov",
+  "start": "1996",
+  "company": "US Forest Service",
+  "party": "2–4",
+  "customer": "Drivers, photographers, motorcyclists",
+  "unique": "Forty-three miles of ridge-top road above 5,000 feet through the Cherokee and Nantahala forests, with overlooks that show nothing but blue ridges.",
+  "buzz": "Drivers call it the Blue Ridge Parkway without the traffic; fuel up before you start and watch for fog. Fall color is spectacular.",
+  "rating": 85,
+  "drive_min_clemson": 142
+ },
+ {
+  "name": "Lookout Mountain Flight Park",
+  "city": "Rising Fawn",
+  "county": "Walker",
+  "state": "Georgia",
+  "cats": [
+   "Air",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$200–$300",
+  "cost_num": 250,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Mar–Nov",
+  "start": "1978",
+  "company": "Lookout Mountain Flight Park",
+  "party": "2–4",
+  "customer": "Adrenaline seekers, couples, bucket-listers",
+  "unique": "Tandem hang gliding off a 2,000-foot cliff over the Lookout Valley, with a flight that can last twenty minutes and a landing in a grass field.",
+  "buzz": "Instructors are calm and the flight is silent; weather decides everything, so book early in your trip. Video is worth it.",
+  "rating": 90,
+  "drive_min_clemson": 225
+ },
+ {
+  "name": "Augusta Canal",
+  "city": "Augusta",
+  "county": "Richmond",
+  "state": "Georgia",
+  "cats": [
+   "Historical",
+   "Water",
+   "Cycling"
+  ],
+  "cost": "$15–$30",
+  "cost_num": 20,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1845",
+  "company": "Augusta Canal Authority",
+  "party": "2–4",
+  "customer": "Families, history buffs, cyclists",
+  "unique": "A 1845 industrial canal with a glass-bottom boat tour, a towpath you can bike and the original mills and locks still standing.",
+  "buzz": "The boat tour is calm and informative; the towpath is flat and shaded. A good half-day with the Augusta Museum.",
+  "rating": 78,
+  "drive_min_clemson": 150
+ },
+ {
+  "name": "Sunsphere and Market Square",
+  "city": "Knoxville",
+  "county": "Knox",
+  "state": "Tennessee",
+  "cats": [
+   "Architecture",
+   "Quirky",
+   "Food & Drink"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1982",
+  "company": "City of Knoxville",
+  "party": "2–4",
+  "customer": "Families, architecture fans, food people",
+  "unique": "The gold-glass 1982 World's Fair tower you can ride to the top, plus a Market Square of restaurants and a city that has quietly become a food town.",
+  "buzz": "The Sunsphere is kitsch with a great view; Market Square is the reason to stay for dinner. Easy, affordable city day.",
+  "rating": 78,
+  "drive_min_clemson": 192
  }
 ]

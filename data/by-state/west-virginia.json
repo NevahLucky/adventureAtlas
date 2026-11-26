@@ -22,6 +22,7 @@
   "buzz": "Guides call it the real thing; the Upper Gauley is not for beginners and swimming is a serious proposition. Book as soon as the schedule drops.",
   "rating": 92,
   "drive_min": 239,
+  "drive_min_clemson": 344,
   "id": "gauley-river-rafting-lansing",
   "state_abbr": "WV",
   "county_full": "Fayette County"
@@ -48,6 +49,7 @@
   "buzz": "Outfitters are rated on guide quality, not just the rapids; the full-day Lower New is the consensus classic. Water is cold and the hike out is real.",
   "rating": 92,
   "drive_min": 236,
+  "drive_min_clemson": 341,
   "id": "new-river-gorge-whitewater-fayetteville",
   "state_abbr": "WV",
   "county_full": "Fayette County"
@@ -75,6 +77,7 @@
   "buzz": "Even non-jumpers rate it a spectacle; traffic is a nightmare and the walk out to the catwalk is the best view. Vendors are fairground-grade.",
   "rating": 91,
   "drive_min": 236,
+  "drive_min_clemson": 341,
   "id": "bridge-day-on-the-new-river-gorge-fayetteville",
   "state_abbr": "WV",
   "county_full": "Fayette County"
@@ -101,6 +104,7 @@
   "buzz": "Hikers call it the strangest landscape in the East and warn about mud, fog and unmarked trails. Wear boots you don't love.",
   "rating": 87,
   "drive_min": 395,
+  "drive_min_clemson": 500,
   "id": "dolly-sods-wilderness-davis",
   "state_abbr": "WV",
   "county_full": "Tucker County"
@@ -128,6 +132,7 @@
   "buzz": "The Lower Town is beautifully preserved and the Maryland Heights hike is the payoff; parking is a shuttle ride away.",
   "rating": 87,
   "drive_min": 386,
+  "drive_min_clemson": 491,
   "id": "harpers-ferry-harpers-ferry",
   "state_abbr": "WV",
   "county_full": "Jefferson County"
@@ -155,6 +160,7 @@
   "buzz": "Climbers call it the best trad venue in the East; the hiking trail is exposed and genuinely scary for some. The via ferrata guide service gets good reviews.",
   "rating": 86,
   "drive_min": 383,
+  "drive_min_clemson": 488,
   "id": "seneca-rocks-seneca-rocks",
   "state_abbr": "WV",
   "county_full": "Pendleton County"
@@ -182,6 +188,7 @@
   "buzz": "The tour is fascinating and slightly eerie; guides are excellent on the secrecy. The resort itself is a time capsule worth a drink at the bar.",
   "rating": 85,
   "drive_min": 262,
+  "drive_min_clemson": 367,
   "id": "greenbrier-bunker-tour-white-sulphur-springs",
   "state_abbr": "WV",
   "county_full": "Greenbrier County"
@@ -209,6 +216,7 @@
   "buzz": "Photographers queue at dawn for the mill and the creek; the park cabins are a quiet base for gorge hiking. Autumn is the peak.",
   "rating": 84,
   "drive_min": 261,
+  "drive_min_clemson": 366,
   "id": "babcock-state-park-grist-mill-clifftop",
   "state_abbr": "WV",
   "county_full": "Fayette County"
@@ -236,6 +244,7 @@
   "buzz": "The miner guides are the whole experience — funny, blunt and full of detail. The tour is cool underground even in August.",
   "rating": 84,
   "drive_min": 214,
+  "drive_min_clemson": 319,
   "id": "beckley-exhibition-coal-mine-beckley",
   "state_abbr": "WV",
   "county_full": "Raleigh County"
@@ -263,6 +272,7 @@
   "buzz": "Rail fans love the sound of the Shays; the ride is long and slow, which is the point. Bring a jacket — the summit is cold.",
   "rating": 84,
   "drive_min": 349,
+  "drive_min_clemson": 454,
   "id": "cass-scenic-railroad-cass",
   "state_abbr": "WV",
   "county_full": "Pocahontas County"
@@ -290,6 +300,7 @@
   "buzz": "The historical day tour is stronger than the ghost stuff; guides tell unvarnished stories of institutional abuse. The building is enormous.",
   "rating": 82,
   "drive_min": 326,
+  "drive_min_clemson": 431,
   "id": "trans-allegheny-lunatic-asylum-weston",
   "state_abbr": "WV",
   "county_full": "Lewis County"
@@ -317,6 +328,7 @@
   "buzz": "The self-guided format lets you linger; the wild tour is the adventure. Small, cheap and genuinely impressive.",
   "rating": 79,
   "drive_min": 252,
+  "drive_min_clemson": 357,
   "id": "lost-world-caverns-lewisburg",
   "state_abbr": "WV",
   "county_full": "Greenbrier County"
@@ -344,6 +356,7 @@
   "buzz": "It is sincere, cheap and surprisingly wholesome; visitors love the museum and the parade. Parking is easier than you'd think.",
   "rating": 79,
   "drive_min": 316,
+  "drive_min_clemson": 421,
   "id": "mothman-festival-point-pleasant",
   "state_abbr": "WV",
   "county_full": "Mason County"
