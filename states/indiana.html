@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indiana — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Indiana, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Indiana</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Indiana</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="illinois.html">&larr; Illinois</a></span>
+    <span><a class="pager-link" href="iowa.html">Iowa &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="illinois.html">&larr; Illinois</a></span>
+    <span><a class="pager-link" href="iowa.html">Iowa &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Indiana edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Indiana",
+  abbr: "IN",
+  slug: "indiana",
+  stats: {"count": 5, "counties": 5, "free": 1, "median": 10, "top": 91},
+  counties: ["LaGrange", "Marion", "Parke", "Porter", "Spencer"],
+  rows: [{"name": "Indy 500", "city": "Speedway", "county": "Marion", "state": "Indiana", "cats": ["Motorsport", "Festival", "Historical"], "cost": "$40–$150", "cost_num": 80, "dur": "Full day", "dur_h": 9, "dates": "Memorial Day weekend", "start": "1911", "company": "Indianapolis Motor Speedway", "party": "4–10", "customer": "Everyone, racing fans, families", "unique": "The largest single-day sporting event in the world: 300,000 people, a brick start-finish line, and a century of tradition from the milk bottle to the snake pit.", "buzz": "Even non-fans are converted by the spectacle; bring ear protection and arrive early. The infield is a party, the stands are the racing.", "rating": 91, "id": "indy-500-speedway"}, {"name": "Holiday World", "city": "Santa Claus", "county": "Spencer", "state": "Indiana", "cats": ["Adrenaline", "Family", "Water"], "cost": "$50–$70", "cost_num": 60, "dur": "Full day", "dur_h": 7, "dates": "May–Sep", "start": "1946", "company": "Holiday World and Splashin' Safari", "party": "2–6", "customer": "Families, kids, coaster fans", "unique": "The world's first theme park, still family-owned, with free unlimited soda, free sunscreen and two of the best water coasters on earth.", "buzz": "Parents rave about the free perks and clean park; the Thanksgiving-themed rides are charming. It is a genuine value.", "rating": 87, "id": "holiday-world-santa-claus"}, {"name": "Turkey Run State Park", "city": "Marshall", "county": "Parke", "state": "Indiana", "cats": ["Hiking", "Nature", "Water"], "cost": "$7–$10", "cost_num": 9, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1916", "company": "Indiana State Parks", "party": "2–4", "customer": "Families, hikers, paddlers", "unique": "Deep sandstone canyons with ladders, a suspension bridge and hemlock gullies, plus a Sugar Creek canoe run that is the best float in the state.", "buzz": "Hoosiers call it their favorite park; Trail 3 is the classic. Canoe rentals fill up on summer weekends.", "rating": 86, "id": "turkey-run-state-park-marshall"}, {"name": "Indiana Dunes", "city": "Porter", "county": "Porter", "state": "Indiana", "cats": ["Nature", "Hiking", "Water"], "cost": "Free–$25", "cost_num": 10, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "2019", "company": "National Park Service", "party": "2–6", "customer": "Families, hikers, beach people", "unique": "A national park of 15 miles of Lake Michigan beach, 200-foot dunes and black oak savanna, an hour from Chicago.", "buzz": "The 3 Dune Challenge is a real workout with a great view; the beach is the cleanest near Chicago. Summer parking fills by 9am.", "rating": 82, "id": "indiana-dunes-porter"}, {"name": "Shipshewana Auction and Flea Market", "city": "Shipshewana", "county": "LaGrange", "state": "Indiana", "cats": ["Market", "Community", "Food & Drink"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Tue–Wed, May–Oct", "start": "1922", "company": "Shipshewana Auction", "party": "2–6", "customer": "Families, antique hunters, retirees", "unique": "An Amish-run livestock auction and a thousand-vendor flea market where you can buy a horse, a pie and a hand-forged tool in the same morning.", "buzz": "The auction is the real show; get there at 8am for the horses. The flea market is enormous and the food is excellent.", "rating": 80, "id": "shipshewana-auction-and-flea-market-shipshewana"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

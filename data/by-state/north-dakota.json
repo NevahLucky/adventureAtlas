@@ -1,0 +1,98 @@
+[
+ {
+  "name": "Theodore Roosevelt National Park",
+  "city": "Medora",
+  "county": "Billings",
+  "state": "North Dakota",
+  "cats": [
+   "Nature",
+   "Wildlife",
+   "Hiking"
+  ],
+  "cost": "$30 vehicle",
+  "cost_num": 30,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "May–Oct",
+  "start": "1947",
+  "company": "National Park Service",
+  "party": "2–4",
+  "customer": "Hikers, wildlife people, road-trippers",
+  "unique": "Painted badlands where bison and wild horses graze among striped cliffs, the landscape that shaped Roosevelt's conservation ethic.",
+  "buzz": "People call it a mini Badlands with more wildlife; the loop drive is excellent at dawn. Summer heat and ticks.",
+  "rating": 89,
+  "id": "theodore-roosevelt-national-park-medora"
+ },
+ {
+  "name": "Medora Musical",
+  "city": "Medora",
+  "county": "Billings",
+  "state": "North Dakota",
+  "cats": [
+   "Performance",
+   "Historical",
+   "Family"
+  ],
+  "cost": "$35–$55",
+  "cost_num": 45,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Jun–Sep",
+  "start": "1965",
+  "company": "Burning Hills Amphitheatre",
+  "party": "2–6",
+  "customer": "Families, retirees, tourists",
+  "unique": "A Broadway-style revue about Roosevelt and the Badlands, staged in an outdoor amphitheater carved into a butte, with a live horse and a fireworks finale.",
+  "buzz": "It is earnestly patriotic and surprisingly well produced; the setting is half the experience. Bring a jacket.",
+  "rating": 78,
+  "id": "medora-musical-medora"
+ },
+ {
+  "name": "Enchanted Highway",
+  "city": "Regent",
+  "county": "Hettinger",
+  "state": "North Dakota",
+  "cats": [
+   "Art",
+   "Road Trip",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1989",
+  "company": "Self-guided",
+  "party": "NA",
+  "customer": "Road-trippers, families",
+  "unique": "Thirty-two miles of giant scrap-metal sculptures — a 60-foot tin family, pheasants, a grasshopper — built by a retired schoolteacher to keep his town alive.",
+  "buzz": "It is a delightful detour with zero crowds; the sculptures are enormous and the story is better. Start in Regent.",
+  "rating": 77,
+  "id": "enchanted-highway-regent"
+ },
+ {
+  "name": "Norsk Hostfest",
+  "city": "Minot",
+  "county": "Ward",
+  "state": "North Dakota",
+  "cats": [
+   "Festival",
+   "Food & Drink",
+   "Community"
+  ],
+  "cost": "$30–$60",
+  "cost_num": 40,
+  "dur": "2 days",
+  "dur_h": 16,
+  "dates": "Late Sep–early Oct",
+  "start": "1978",
+  "company": "Norsk Hostfest",
+  "party": "2–8",
+  "customer": "Families, retirees, Scandinavian descendants",
+  "unique": "North America's largest Scandinavian festival, with Viking reenactors, lutefisk, wood carving and headline entertainment in a town of 48,000.",
+  "buzz": "It is warm, weird and deeply sincere; the food is an adventure and the craft demos are excellent.",
+  "rating": 76,
+  "id": "norsk-hostfest-minot"
+ }
+]

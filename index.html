@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Waypoint — An Atlas of Adventures Worth the Trip</title>
+<meta name="description" content="A field guide to the most singular things to do in the United States: ranked, costed, timed and sorted by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/atlas.css">
+</head>
+<body data-page="index">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="#countries">Countries</a>
+      <a href="#states">States</a>
+      <a href="#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#method">How it ranks</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="kicker">Volume One <span class="sep">/</span> The United States <span class="sep">/</span> 51 states &amp; districts</div>
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <h1 class="display">Adventures worth <em>the flight.</em></h1>
+        <p class="lede">
+          Not a list of attractions. A working field guide to the things you would actually rearrange a week for —
+          cave swims and clock workshops, mule trains and manta rays, small-town festivals and rooms that lock you in.
+          Every entry carries a cost, a duration, a season, a county, and an honest guess at how much you'd love it.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#states">Browse by state <span aria-hidden="true">&rarr;</span></a>
+          <a class="btn btn-ghost" href="#shortlist">See the national shortlist</a>
+        </div>
+      </div>
+      <aside class="hero-pick">
+        <div class="hp-label">Top of the atlas</div>
+        <a class="hp-name" href="states/arizona.html#havasupai-falls-supai">Havasupai Falls</a>
+        <div class="hp-place">Supai, Arizona &middot; Coconino County</div>
+        <div class="hp-score"><b>97</b><span>of 100 &middot; $100–$400 permit &middot; 3–4 days</span></div>
+        <p>Turquoise waterfalls in a side canyon of the Grand Canyon, reachable only by a ten-mile hike or a helicopter, on tribal land with a village of 200 people.</p>
+        <div class="hp-foot">Hiking / Water / Adventure</div>
+      </aside>
+    </div>
+    <div class="statgrid" id="stats"></div>
+  </div>
+</div>
+
+<section id="countries">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>Start with a country</h2>
+        <p>One country is fully mapped. The rest are staked out and waiting for the same treatment — the structure already supports them.</p>
+      </div>
+    </div>
+    <div class="country-grid">
+      <a class="country live" href="#states">
+        <span class="soon">Live</span>
+        <div>
+          <div class="flagline">North America</div>
+          <h3>United States</h3>
+        </div>
+        <div class="go">51 states &amp; districts <span aria-hidden="true">&rarr;</span></div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North America</div><h3>Canada</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">East Asia</div><h3>Japan</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Northern Europe</div><h3>Iceland</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North America</div><h3>Mexico</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Oceania</div><h3>New Zealand</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Southern Europe</div><h3>Portugal</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North Africa</div><h3>Morocco</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="states" style="padding-top:10px">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>The states</h2>
+        <p>Every state page is sortable by any column and filterable by county, category, cost, duration and party size. Start anywhere; the counties will narrow it down.</p>
+      </div>
+    </div>
+    <div class="grid-tools">
+      <input class="input" id="stateSearch" type="search" placeholder="Search a state, county or adventure…" aria-label="Search states">
+      <div class="seg" id="sortSeg">
+        <button data-sort="best" class="on">Most worth it</button>
+        <button data-sort="count">Most entries</button>
+        <button data-sort="az">A–Z</button>
+      </div>
+      <span class="count-note" id="stateCount"></span>
+    </div>
+    <div class="state-grid" id="stateGrid"></div>
+  </div>
+</section>
+
+<section id="shortlist" style="background:var(--paper-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>The national shortlist</h2>
+        <p>The fifteen entries I'd defend hardest if you only had one long weekend a year. Ranked by how much a curious traveller with wide tastes would get out of them.</p>
+      </div>
+      <span class="count-note">Top 15 of the atlas</span>
+    </div>
+    <div class="lead-list">
+      <a class="lead-row" href="states/arizona.html#havasupai-falls-supai">
+        <span class="lead-num">01</span>
+        <span class="lead-main">
+          <span class="lead-name">Havasupai Falls</span>
+          <span class="lead-meta">Supai, Arizona &middot; Coconino County &middot; Hiking / Water</span>
+        </span>
+        <span class="lead-cost">$100–$400 permit</span>
+        <span class="lead-score">97</span>
+      </a>
+      <a class="lead-row" href="states/nevada.html#burning-man-gerlach">
+        <span class="lead-num">02</span>
+        <span class="lead-main">
+          <span class="lead-name">Burning Man</span>
+          <span class="lead-meta">Gerlach, Nevada &middot; Pershing County &middot; Festival / Art</span>
+        </span>
+        <span class="lead-cost">$575+ ticket</span>
+        <span class="lead-score">96</span>
+      </a>
+      <a class="lead-row" href="states/utah.html#zion-narrows-springdale">
+        <span class="lead-num">03</span>
+        <span class="lead-main">
+          <span class="lead-name">Zion Narrows</span>
+          <span class="lead-meta">Springdale, Utah &middot; Washington County &middot; Hiking / Water</span>
+        </span>
+        <span class="lead-cost">$35 park pass</span>
+        <span class="lead-score">96</span>
+      </a>
+      <a class="lead-row" href="states/alaska.html#brooks-falls-brown-bears-king-salmon">
+        <span class="lead-num">04</span>
+        <span class="lead-main">
+          <span class="lead-name">Brooks Falls Brown Bears</span>
+          <span class="lead-meta">King Salmon, Alaska &middot; Lake and Peninsula County &middot; Wildlife / Nature</span>
+        </span>
+        <span class="lead-cost">$400–$900</span>
+        <span class="lead-score">95</span>
+      </a>
+      <a class="lead-row" href="states/california.html#half-dome-yosemite">
+        <span class="lead-num">05</span>
+        <span class="lead-main">
+          <span class="lead-name">Half Dome</span>
+          <span class="lead-meta">Yosemite, California &middot; Mariposa County &middot; Hiking / Adrenaline</span>
+        </span>
+        <span class="lead-cost">$35 park pass + permit</span>
+        <span class="lead-score">95</span>
+      </a>
+      <a class="lead-row" href="states/new-mexico.html#albuquerque-international-balloon-fiesta-albuquerque">
+        <span class="lead-num">06</span>
+        <span class="lead-main">
+          <span class="lead-name">Albuquerque International Balloon Fiesta</span>
+          <span class="lead-meta">Albuquerque, New Mexico &middot; Bernalillo County &middot; Festival / Air</span>
+        </span>
+        <span class="lead-cost">$15–$60</span>
+        <span class="lead-score">95</span>
+      </a>
+      <a class="lead-row" href="states/wyoming.html#yellowstone-lamar-valley-wolves-gardiner">
+        <span class="lead-num">07</span>
+        <span class="lead-main">
+          <span class="lead-name">Yellowstone Lamar Valley Wolves</span>
+          <span class="lead-meta">Gardiner, Wyoming &middot; Park County &middot; Wildlife / Nature</span>
+        </span>
+        <span class="lead-cost">$35 vehicle</span>
+        <span class="lead-score">95</span>
+      </a>
+      <a class="lead-row" href="states/alaska.html#denali-flightseeing-talkeetna">
+        <span class="lead-num">08</span>
+        <span class="lead-main">
+          <span class="lead-name">Denali Flightseeing</span>
+          <span class="lead-meta">Talkeetna, Alaska &middot; Matanuska-Susitna County &middot; Air / Nature</span>
+        </span>
+        <span class="lead-cost">$350–$600</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/colorado.html#red-rocks-amphitheatre-morrison">
+        <span class="lead-num">09</span>
+        <span class="lead-main">
+          <span class="lead-name">Red Rocks Amphitheatre</span>
+          <span class="lead-meta">Morrison, Colorado &middot; Jefferson County &middot; Music / Nature</span>
+        </span>
+        <span class="lead-cost">$50–$150</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/hawaii.html#na-pali-coast-kayak-hanalei">
+        <span class="lead-num">10</span>
+        <span class="lead-main">
+          <span class="lead-name">Na Pali Coast Kayak</span>
+          <span class="lead-meta">Hanalei, Hawaii &middot; Kauai County &middot; Water / Adrenaline</span>
+        </span>
+        <span class="lead-cost">$250–$400</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/maine.html#cadillac-mountain-sunrise-bar-harbor">
+        <span class="lead-num">11</span>
+        <span class="lead-main">
+          <span class="lead-name">Cadillac Mountain Sunrise</span>
+          <span class="lead-meta">Bar Harbor, Maine &middot; Hancock County &middot; Nature / Hiking</span>
+        </span>
+        <span class="lead-cost">$35 park pass</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/oregon.html#crater-lake-crater-lake">
+        <span class="lead-num">12</span>
+        <span class="lead-main">
+          <span class="lead-name">Crater Lake</span>
+          <span class="lead-meta">Crater Lake, Oregon &middot; Klamath County &middot; Nature / Road Trip</span>
+        </span>
+        <span class="lead-cost">$30 vehicle</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/texas.html#big-bend-national-park-terlingua">
+        <span class="lead-num">13</span>
+        <span class="lead-main">
+          <span class="lead-name">Big Bend National Park</span>
+          <span class="lead-meta">Terlingua, Texas &middot; Brewster County &middot; Nature / Hiking</span>
+        </span>
+        <span class="lead-cost">$30 vehicle</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/utah.html#angels-landing-springdale">
+        <span class="lead-num">14</span>
+        <span class="lead-main">
+          <span class="lead-name">Angels Landing</span>
+          <span class="lead-meta">Springdale, Utah &middot; Washington County &middot; Hiking / Adrenaline</span>
+        </span>
+        <span class="lead-cost">$35 park pass</span>
+        <span class="lead-score">94</span>
+      </a>
+      <a class="lead-row" href="states/utah.html#arches-national-park-moab">
+        <span class="lead-num">15</span>
+        <span class="lead-main">
+          <span class="lead-name">Arches National Park</span>
+          <span class="lead-meta">Moab, Utah &middot; Grand County &middot; Nature / Hiking</span>
+        </span>
+        <span class="lead-cost">$30 vehicle</span>
+        <span class="lead-score">94</span>
+      </a></div>
+  </div>
+</section>
+
+<section id="method">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>What's in a score</h2>
+        <p>The rating is not a Tripadvisor average. It is a single number for how much a wide-ranging, experience-hungry traveller would get from the thing itself.</p>
+      </div>
+    </div>
+    <div class="notes-grid">
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Novelty first</h4>
+        <p>How little of this you can get anywhere else. A clockmaker's workshop or a prison rodeo outranks a very good brewery tour, even when both are excellent Saturdays.</p>
+      </div>
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Then the whole experience</h4>
+        <p>Thrill, craft, hospitality, freedom to roam, value for money, and how well the operator treats a first-timer. Reviews are read for service and welcome, not just star count.</p>
+      </div>
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Who it's for</h4>
+        <p>Young adults are the default bias — but family institutions, retiree rituals and kid-first places stay in when they are genuinely world-class. Party size tells you how to book it.</p>
+      </div>
+    </div>
+    <div style="margin-top:34px">
+      <h4 style="font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted-2);margin-bottom:12px">Categories in the atlas</h4>
+      <div class="cat-strip"><span class="cat-pill">Nature<b>174</b></span><span class="cat-pill">Historical<b>115</b></span><span class="cat-pill">Water<b>76</b></span><span class="cat-pill">Hiking<b>74</b></span><span class="cat-pill">Quirky<b>59</b></span><span class="cat-pill">Adrenaline<b>54</b></span><span class="cat-pill">Festival<b>51</b></span><span class="cat-pill">Art<b>42</b></span><span class="cat-pill">Wildlife<b>40</b></span><span class="cat-pill">Family<b>39</b></span><span class="cat-pill">Museum<b>38</b></span><span class="cat-pill">Food &amp; Drink<b>37</b></span><span class="cat-pill">Community<b>35</b></span><span class="cat-pill">Architecture<b>34</b></span></div>
+    </div>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — a personal atlas, compiled {BUILD}. Costs are indicative ranges per person; confirm with operators before booking.</span>
+    <span>United States edition &middot; <a href="#states">51 states &amp; districts</a></span>
+  </div>
+</footer>
+
+<script>
+window.ATLAS = {
+  stats: {"total": 412, "states": 51, "counties": 323, "cats": 46, "free": 64, "median": 26},
+  states: [{"name": "Arizona", "abbr": "AZ", "slug": "arizona", "count": 11, "counties": 7, "top": "Havasupai Falls", "topRating": 97, "topId": "havasupai-falls-supai", "topCounty": "Coconino", "avg": 88, "free": 0, "best": 97}, {"name": "Nevada", "abbr": "NV", "slug": "nevada", "count": 6, "counties": 4, "top": "Burning Man", "topRating": 96, "topId": "burning-man-gerlach", "topCounty": "Pershing", "avg": 89, "free": 1, "best": 96}, {"name": "Utah", "abbr": "UT", "slug": "utah", "count": 10, "counties": 7, "top": "Zion Narrows", "topRating": 96, "topId": "zion-narrows-springdale", "topCounty": "Washington", "avg": 90, "free": 1, "best": 96}, {"name": "Alaska", "abbr": "AK", "slug": "alaska", "count": 9, "counties": 7, "top": "Brooks Falls Brown Bears", "topRating": 95, "topId": "brooks-falls-brown-bears-king-salmon", "topCounty": "Lake and Peninsula", "avg": 89, "free": 0, "best": 95}, {"name": "California", "abbr": "CA", "slug": "california", "count": 18, "counties": 15, "top": "Half Dome", "topRating": 95, "topId": "half-dome-yosemite", "topCounty": "Mariposa", "avg": 87, "free": 4, "best": 95}, {"name": "New Mexico", "abbr": "NM", "slug": "new-mexico", "count": 9, "counties": 8, "top": "Albuquerque International Balloon Fiesta", "topRating": 95, "topId": "albuquerque-international-balloon-fiesta-albuquerque", "topCounty": "Bernalillo", "avg": 89, "free": 0, "best": 95}, {"name": "Wyoming", "abbr": "WY", "slug": "wyoming", "count": 7, "counties": 5, "top": "Yellowstone Lamar Valley Wolves", "topRating": 95, "topId": "yellowstone-lamar-valley-wolves-gardiner", "topCounty": "Park", "avg": 89, "free": 0, "best": 95}, {"name": "Colorado", "abbr": "CO", "slug": "colorado", "count": 10, "counties": 10, "top": "Red Rocks Amphitheatre", "topRating": 94, "topId": "red-rocks-amphitheatre-morrison", "topCounty": "Jefferson", "avg": 90, "free": 1, "best": 94}, {"name": "Hawaii", "abbr": "HI", "slug": "hawaii", "count": 12, "counties": 5, "top": "Na Pali Coast Kayak", "topRating": 94, "topId": "na-pali-coast-kayak-hanalei", "topCounty": "Kauai", "avg": 90, "free": 0, "best": 94}, {"name": "Maine", "abbr": "ME", "slug": "maine", "count": 5, "counties": 5, "top": "Cadillac Mountain Sunrise", "topRating": 94, "topId": "cadillac-mountain-sunrise-bar-harbor", "topCounty": "Hancock", "avg": 88, "free": 0, "best": 94}, {"name": "Oregon", "abbr": "OR", "slug": "oregon", "count": 13, "counties": 10, "top": "Crater Lake", "topRating": 94, "topId": "crater-lake-crater-lake", "topCounty": "Klamath", "avg": 87, "free": 3, "best": 94}, {"name": "Texas", "abbr": "TX", "slug": "texas", "count": 18, "counties": 12, "top": "Big Bend National Park", "topRating": 94, "topId": "big-bend-national-park-terlingua", "topCounty": "Brewster", "avg": 84, "free": 3, "best": 94}, {"name": "Florida", "abbr": "FL", "slug": "florida", "count": 20, "counties": 14, "top": "Kennedy Space Center Launch", "topRating": 93, "topId": "kennedy-space-center-launch-cape-canaveral", "topCounty": "Brevard", "avg": 84, "free": 1, "best": 93}, {"name": "Illinois", "abbr": "IL", "slug": "illinois", "count": 7, "counties": 5, "top": "Chicago Architecture Boat Tour", "topRating": 93, "topId": "chicago-architecture-boat-tour-chicago", "topCounty": "Cook", "avg": 86, "free": 2, "best": 93}, {"name": "Minnesota", "abbr": "MN", "slug": "minnesota", "count": 6, "counties": 5, "top": "Boundary Waters Canoe Area", "topRating": 93, "topId": "boundary-waters-canoe-area-ely", "topCounty": "St. Louis", "avg": 84, "free": 0, "best": 93}, {"name": "Montana", "abbr": "MT", "slug": "montana", "count": 5, "counties": 5, "top": "Glacier National Park Going-to-the-Sun Road", "topRating": 93, "topId": "glacier-national-park-going-to-the-sun-road-west-glacier", "topCounty": "Flathead", "avg": 87, "free": 1, "best": 93}, {"name": "New York", "abbr": "NY", "slug": "new-york", "count": 16, "counties": 11, "top": "Metropolitan Museum of Art", "topRating": 93, "topId": "metropolitan-museum-of-art-new-york", "topCounty": "New York", "avg": 86, "free": 1, "best": 93}, {"name": "Washington", "abbr": "WA", "slug": "washington", "count": 9, "counties": 9, "top": "Mount Rainier Skyline Trail", "topRating": 93, "topId": "mount-rainier-skyline-trail-paradise", "topCounty": "Pierce", "avg": 87, "free": 2, "best": 93}, {"name": "Louisiana", "abbr": "LA", "slug": "louisiana", "count": 9, "counties": 7, "top": "Preservation Hall", "topRating": 92, "topId": "preservation-hall-new-orleans", "topCounty": "Orleans", "avg": 86, "free": 1, "best": 92}, {"name": "Michigan", "abbr": "MI", "slug": "michigan", "count": 9, "counties": 8, "top": "Pictured Rocks", "topRating": 92, "topId": "pictured-rocks-munising", "topCounty": "Alger", "avg": 85, "free": 2, "best": 92}, {"name": "Ohio", "abbr": "OH", "slug": "ohio", "count": 8, "counties": 8, "top": "National Museum of the US Air Force", "topRating": 92, "topId": "national-museum-of-the-us-air-force-dayton", "topCounty": "Montgomery", "avg": 85, "free": 1, "best": 92}, {"name": "South Dakota", "abbr": "SD", "slug": "south-dakota", "count": 9, "counties": 5, "top": "Badlands National Park", "topRating": 92, "topId": "badlands-national-park-wall", "topCounty": "Pennington", "avg": 82, "free": 2, "best": 92}, {"name": "West Virginia", "abbr": "WV", "slug": "west-virginia", "count": 9, "counties": 8, "top": "New River Gorge Whitewater", "topRating": 92, "topId": "new-river-gorge-whitewater-fayetteville", "topCounty": "Fayette", "avg": 86, "free": 2, "best": 92}, {"name": "District of Columbia", "abbr": "DC", "slug": "district-of-columbia", "count": 6, "counties": 1, "top": "National Air and Space Museum", "topRating": 91, "topId": "national-air-and-space-museum-washington", "topCounty": "District of Columbia", "avg": 86, "free": 5, "best": 91}, {"name": "Indiana", "abbr": "IN", "slug": "indiana", "count": 5, "counties": 5, "top": "Indy 500", "topRating": 91, "topId": "indy-500-speedway", "topCounty": "Marion", "avg": 85, "free": 1, "best": 91}, {"name": "Massachusetts", "abbr": "MA", "slug": "massachusetts", "count": 7, "counties": 6, "top": "Provincetown Whale Watch", "topRating": 91, "topId": "provincetown-whale-watch-provincetown", "topCounty": "Barnstable", "avg": 84, "free": 1, "best": 91}, {"name": "Nebraska", "abbr": "NE", "slug": "nebraska", "count": 4, "counties": 4, "top": "Sandhill Crane Migration", "topRating": 91, "topId": "sandhill-crane-migration-kearney", "topCounty": "Buffalo", "avg": 84, "free": 0, "best": 91}, {"name": "Pennsylvania", "abbr": "PA", "slug": "pennsylvania", "count": 9, "counties": 6, "top": "Fallingwater", "topRating": 91, "topId": "fallingwater-mill-run", "topCounty": "Fayette", "avg": 86, "free": 1, "best": 91}, {"name": "Missouri", "abbr": "MO", "slug": "missouri", "count": 8, "counties": 6, "top": "City Museum", "topRating": 90, "topId": "city-museum-st-louis", "topCounty": "St. Louis City", "avg": 84, "free": 2, "best": 90}, {"name": "Tennessee", "abbr": "TN", "slug": "tennessee", "count": 10, "counties": 7, "top": "Cades Cove Loop", "topRating": 90, "topId": "cades-cove-loop-townsend", "topCounty": "Sevier", "avg": 85, "free": 1, "best": 90}, {"name": "Wisconsin", "abbr": "WI", "slug": "wisconsin", "count": 10, "counties": 8, "top": "Apostle Islands Ice Caves", "topRating": 90, "topId": "apostle-islands-ice-caves-bayfield", "topCounty": "Bayfield", "avg": 85, "free": 0, "best": 90}, {"name": "Alabama", "abbr": "AL", "slug": "alabama", "count": 7, "counties": 5, "top": "Barber Vintage Motorsports Museum", "topRating": 89, "topId": "barber-vintage-motorsports-museum-birmingham", "topCounty": "Jefferson", "avg": 83, "free": 1, "best": 89}, {"name": "Georgia", "abbr": "GA", "slug": "georgia", "count": 8, "counties": 8, "top": "Cumberland Island", "topRating": 89, "topId": "cumberland-island-st-marys", "topCounty": "Camden", "avg": 83, "free": 0, "best": 89}, {"name": "Idaho", "abbr": "ID", "slug": "idaho", "count": 5, "counties": 4, "top": "Route of the Hiawatha", "topRating": 89, "topId": "route-of-the-hiawatha-wallace", "topCounty": "Shoshone", "avg": 88, "free": 0, "best": 89}, {"name": "Kentucky", "abbr": "KY", "slug": "kentucky", "count": 8, "counties": 7, "top": "Mammoth Cave Grand Historic Tour", "topRating": 89, "topId": "mammoth-cave-grand-historic-tour-mammoth-cave", "topCounty": "Edmonson", "avg": 85, "free": 0, "best": 89}, {"name": "North Dakota", "abbr": "ND", "slug": "north-dakota", "count": 4, "counties": 3, "top": "Theodore Roosevelt National Park", "topRating": 89, "topId": "theodore-roosevelt-national-park-medora", "topCounty": "Billings", "avg": 80, "free": 1, "best": 89}, {"name": "Oklahoma", "abbr": "OK", "slug": "oklahoma", "count": 5, "counties": 5, "top": "Oklahoma City National Memorial", "topRating": 89, "topId": "oklahoma-city-national-memorial-oklahoma-city", "topCounty": "Oklahoma", "avg": 81, "free": 3, "best": 89}, {"name": "Rhode Island", "abbr": "RI", "slug": "rhode-island", "count": 5, "counties": 3, "top": "WaterFire Providence", "topRating": 89, "topId": "waterfire-providence-providence", "topCounty": "Providence", "avg": 85, "free": 2, "best": 89}, {"name": "Virginia", "abbr": "VA", "slug": "virginia", "count": 8, "counties": 8, "top": "Floyd Country Store Friday Night", "topRating": 89, "topId": "floyd-country-store-friday-night-floyd", "topCounty": "Floyd", "avg": 84, "free": 1, "best": 89}, {"name": "Arkansas", "abbr": "AR", "slug": "arkansas", "count": 6, "counties": 6, "top": "Buffalo National River Float", "topRating": 88, "topId": "buffalo-national-river-float-ponca", "topCounty": "Newton", "avg": 83, "free": 1, "best": 88}, {"name": "Iowa", "abbr": "IA", "slug": "iowa", "count": 6, "counties": 6, "top": "RAGBRAI", "topRating": 88, "topId": "ragbrai-statewide", "topCounty": "Statewide", "avg": 82, "free": 2, "best": 88}, {"name": "Kansas", "abbr": "KS", "slug": "kansas", "count": 4, "counties": 4, "top": "Cosmosphere", "topRating": 88, "topId": "cosmosphere-hutchinson", "topCounty": "Reno", "avg": 82, "free": 2, "best": 88}, {"name": "Vermont", "abbr": "VT", "slug": "vermont", "count": 5, "counties": 5, "top": "Shelburne Museum", "topRating": 88, "topId": "shelburne-museum-shelburne", "topCounty": "Chittenden", "avg": 80, "free": 1, "best": 88}, {"name": "Mississippi", "abbr": "MS", "slug": "mississippi", "count": 8, "counties": 8, "top": "Natchez Trace Parkway", "topRating": 87, "topId": "natchez-trace-parkway-natchez", "topCounty": "Adams", "avg": 82, "free": 1, "best": 87}, {"name": "North Carolina", "abbr": "NC", "slug": "north-carolina", "count": 8, "counties": 7, "top": "Linville Gorge", "topRating": 87, "topId": "linville-gorge-linville-falls", "topCounty": "Burke", "avg": 85, "free": 2, "best": 87}, {"name": "New Hampshire", "abbr": "NH", "slug": "new-hampshire", "count": 4, "counties": 2, "top": "Frankenstein Cliff Ice Climbing", "topRating": 86, "topId": "frankenstein-cliff-ice-climbing-north-conway", "topCounty": "Grafton", "avg": 83, "free": 1, "best": 86}, {"name": "South Carolina", "abbr": "SC", "slug": "south-carolina", "count": 6, "counties": 4, "top": "Charleston Rainbow Row", "topRating": 86, "topId": "charleston-rainbow-row-charleston", "topCounty": "Charleston", "avg": 84, "free": 4, "best": 86}, {"name": "Connecticut", "abbr": "CT", "slug": "connecticut", "count": 6, "counties": 4, "top": "New Haven Apizza Crawl", "topRating": 85, "topId": "new-haven-apizza-crawl-new-haven", "topCounty": "New Haven", "avg": 81, "free": 1, "best": 85}, {"name": "Maryland", "abbr": "MD", "slug": "maryland", "count": 4, "counties": 3, "top": "Assateague Wild Ponies", "topRating": 85, "topId": "assateague-wild-ponies-berlin", "topCounty": "Worcester", "avg": 82, "free": 0, "best": 85}, {"name": "New Jersey", "abbr": "NJ", "slug": "new-jersey", "count": 6, "counties": 6, "top": "Grounds For Sculpture", "topRating": 84, "topId": "grounds-for-sculpture-hamilton", "topCounty": "Mercer", "avg": 80, "free": 1, "best": 84}, {"name": "Delaware", "abbr": "DE", "slug": "delaware", "count": 5, "counties": 2, "top": "Winterthur Museum", "topRating": 83, "topId": "winterthur-museum-winterthur", "topCounty": "New Castle", "avg": 79, "free": 1, "best": 83}]
+};
+</script>
+<script src="assets/atlas.js"></script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>West Virginia — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in West Virginia, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>West Virginia</span></div>
+    <div class="state-title">
+      <div>
+        <h1>West Virginia</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="washington.html">&larr; Washington</a></span>
+    <span><a class="pager-link" href="wisconsin.html">Wisconsin &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="washington.html">&larr; Washington</a></span>
+    <span><a class="pager-link" href="wisconsin.html">Wisconsin &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — West Virginia edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "West Virginia",
+  abbr: "WV",
+  slug: "west-virginia",
+  stats: {"count": 9, "counties": 8, "free": 2, "median": 30, "top": 92},
+  counties: ["Fayette", "Greenbrier", "Jefferson", "Lewis", "Mason", "Pendleton", "Pocahontas", "Tucker"],
+  rows: [{"name": "New River Gorge Whitewater", "city": "Fayetteville", "county": "Fayette", "state": "West Virginia", "cats": ["Water", "Adrenaline"], "cost": "$100–$175", "cost_num": 130, "dur": "Full day", "dur_h": 7, "dates": "Apr–Oct", "start": "1968", "company": "Licensed river outfitters", "party": "4–8", "customer": "Young adults, families with teens", "unique": "The Lower New has the biggest consistent whitewater in the East and a gorge lined with hundred-foot cliffs; the Upper New is a gentler float through the same scenery.", "buzz": "Outfitters are rated on guide quality, not just the rapids; the full-day Lower New is the consensus classic. Water is cold and the hike out is real.", "rating": 92, "id": "new-river-gorge-whitewater-fayetteville"}, {"name": "Bridge Day on the New River Gorge", "city": "Fayetteville", "county": "Fayette", "state": "West Virginia", "cats": ["Adrenaline", "Festival", "Nature"], "cost": "Free–$150", "cost_num": 20, "dur": "Full day", "dur_h": 8, "dates": "Third Saturday in October", "start": "1980", "company": "Bridge Day Commission", "party": "2–6", "customer": "Thrill seekers, families, photographers", "unique": "One day a year the 876-foot New River Gorge Bridge closes to cars and opens to base jumpers — hundreds of them, legally, into a national park.", "buzz": "Even non-jumpers rate it a spectacle; traffic is a nightmare and the walk out to the catwalk is the best view. Vendors are fairground-grade.", "rating": 91, "id": "bridge-day-on-the-new-river-gorge-fayetteville"}, {"name": "Dolly Sods Wilderness", "city": "Davis", "county": "Tucker", "state": "West Virginia", "cats": ["Hiking", "Nature"], "cost": "Free", "cost_num": 0, "dur": "Full day", "dur_h": 8, "dates": "May–Oct", "start": "1975", "company": "Monongahela National Forest", "party": "2–4", "customer": "Hikers, photographers, scouts", "unique": "A high plateau that looks like subarctic tundra — wind-stunted spruce, blueberry heath and boulder fields — hundreds of miles south of where it should be.", "buzz": "Hikers call it the strangest landscape in the East and warn about mud, fog and unmarked trails. Wear boots you don't love.", "rating": 87, "id": "dolly-sods-wilderness-davis"}, {"name": "Harpers Ferry", "city": "Harpers Ferry", "county": "Jefferson", "state": "West Virginia", "cats": ["Historical", "Hiking", "Nature"], "cost": "$20", "cost_num": 20, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1763", "company": "National Park Service", "party": "2–4", "customer": "History buffs, hikers, families", "unique": "The confluence of the Potomac and Shenandoah, where John Brown raided the arsenal and the Appalachian Trail walks straight through a preserved 19th-century town.", "buzz": "The Lower Town is beautifully preserved and the Maryland Heights hike is the payoff; parking is a shuttle ride away.", "rating": 87, "id": "harpers-ferry-harpers-ferry"}, {"name": "Seneca Rocks", "city": "Seneca Rocks", "county": "Pendleton", "state": "West Virginia", "cats": ["Climbing", "Hiking", "Nature"], "cost": "Free–$200 guided", "cost_num": 30, "dur": "Half day", "dur_h": 5, "dates": "Apr–Nov", "start": "—", "company": "Free / guided climb services", "party": "2–4", "customer": "Climbers, hikers, photographers", "unique": "A 900-foot quartzite fin rising out of the Potomac Highlands, with a knife-edge hiking trail to the summit and multi-pitch trad routes up the face.", "buzz": "Climbers call it the best trad venue in the East; the hiking trail is exposed and genuinely scary for some. The via ferrata guide service gets good reviews.", "rating": 86, "id": "seneca-rocks-seneca-rocks"}, {"name": "Greenbrier Bunker Tour", "city": "White Sulphur Springs", "county": "Greenbrier", "state": "West Virginia", "cats": ["Historical", "Science", "Dark Tourism"], "cost": "$40–$50", "cost_num": 45, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1962", "company": "The Greenbrier", "party": "2–6", "customer": "History buffs, Cold War nerds, retirees", "unique": "A declassified underground bunker built to shelter Congress from nuclear war, hidden behind a resort for thirty years with a fake exhibition hall as its door.", "buzz": "The tour is fascinating and slightly eerie; guides are excellent on the secrecy. The resort itself is a time capsule worth a drink at the bar.", "rating": 85, "id": "greenbrier-bunker-tour-white-sulphur-springs"}, {"name": "Cass Scenic Railroad", "city": "Cass", "county": "Pocahontas", "state": "West Virginia", "cats": ["Railroad", "Historical", "Nature"], "cost": "$45–$75", "cost_num": 60, "dur": "4 hrs", "dur_h": 4, "dates": "May–Oct", "start": "1901", "company": "Cass Scenic Railroad State Park", "party": "2–6", "customer": "Families, rail fans, retirees", "unique": "Shay geared steam locomotives haul you up a logging railroad to Bald Knob, the third-highest point in the state, through a company town frozen in 1900.", "buzz": "Rail fans love the sound of the Shays; the ride is long and slow, which is the point. Bring a jacket — the summit is cold.", "rating": 84, "id": "cass-scenic-railroad-cass"}, {"name": "Trans-Allegheny Lunatic Asylum", "city": "Weston", "county": "Lewis", "state": "West Virginia", "cats": ["Dark Tourism", "Historical", "Architecture"], "cost": "$30–$100", "cost_num": 45, "dur": "2–4 hrs", "dur_h": 3, "dates": "Year-round", "start": "1864", "company": "Trans-Allegheny Lunatic Asylum", "party": "2–4", "customer": "Ghost hunters, history buffs, teens", "unique": "A vast Gothic Revival asylum built on the Kirkbride plan, with a preserved ECT room, patient art and overnight ghost hunts in the wards.", "buzz": "The historical day tour is stronger than the ghost stuff; guides tell unvarnished stories of institutional abuse. The building is enormous.", "rating": 82, "id": "trans-allegheny-lunatic-asylum-weston"}, {"name": "Mothman Festival", "city": "Point Pleasant", "county": "Mason", "state": "West Virginia", "cats": ["Festival", "Quirky", "Community"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 5, "dates": "Third weekend in September", "start": "2002", "company": "Mothman Festival", "party": "2–6", "customer": "Quirky-travel people, families, teens", "unique": "A town leans into its own cryptid: a museum, a metal statue, guest speakers, a 5K and vendors selling moth-shaped everything, all in the shadow of the Silver Bridge disaster.", "buzz": "It is sincere, cheap and surprisingly wholesome; visitors love the museum and the parade. Parking is easier than you'd think.", "rating": 79, "id": "mothman-festival-point-pleasant"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+[
+ {
+  "name": "Cosmosphere",
+  "city": "Hutchinson",
+  "county": "Reno",
+  "state": "Kansas",
+  "cats": [
+   "Museum",
+   "Science",
+   "Historical"
+  ],
+  "cost": "$25–$35",
+  "cost_num": 30,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1962",
+  "company": "Cosmosphere",
+  "party": "2–6",
+  "customer": "Families, space nerds, retirees",
+  "unique": "A world-class space museum in a Kansas wheat town, with the actual Apollo 13 command module, a V-2 rocket and a Russian space program collection.",
+  "buzz": "People are stunned by the collection; the planetarium and Dr. Goddard's lab are good for kids. Worth the drive.",
+  "rating": 88,
+  "id": "cosmosphere-hutchinson"
+ },
+ {
+  "name": "Flint Hills Tallgrass Prairie",
+  "city": "Cottonwood Falls",
+  "county": "Chase",
+  "state": "Kansas",
+  "cats": [
+   "Nature",
+   "Road Trip",
+   "Hiking"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Apr–Oct",
+  "start": "1996",
+  "company": "National Park Service / Nature Conservancy",
+  "party": "2–4",
+  "customer": "Nature people, photographers, cyclists",
+  "unique": "The last large expanse of tallgrass prairie in North America, with bison, prairie chickens and a horizon that does not stop.",
+  "buzz": "People call it the most underrated landscape in the Midwest; spring wildflowers are extraordinary. Watch for ticks.",
+  "rating": 84,
+  "id": "flint-hills-tallgrass-prairie-cottonwood-falls"
+ },
+ {
+  "name": "Monument Rocks",
+  "city": "Oakley",
+  "county": "Gove",
+  "state": "Kansas",
+  "cats": [
+   "Nature",
+   "Road Trip",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "Free / self-guided",
+  "party": "NA",
+  "customer": "Road-trippers, photographers",
+  "unique": "Chalk pyramids and arches left by an ancient sea, rising out of the shortgrass prairie in the middle of nowhere.",
+  "buzz": "It is a genuine surprise and completely free; the dirt road is rough after rain. Best at sunset.",
+  "rating": 80,
+  "id": "monument-rocks-oakley"
+ },
+ {
+  "name": "Boot Hill Museum",
+  "city": "Dodge City",
+  "county": "Ford",
+  "state": "Kansas",
+  "cats": [
+   "Historical",
+   "Dark Tourism",
+   "Family"
+  ],
+  "cost": "$15–$20",
+  "cost_num": 17,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1947",
+  "company": "Boot Hill Museum",
+  "party": "2–6",
+  "customer": "Families, history buffs, western fans",
+  "unique": "A recreated 1870s cowtown at the edge of the actual Boot Hill cemetery, with a saloon, a jail, a newspaper office and nightly gunfight reenactments.",
+  "buzz": "The gunfight show is corny and fun; the museum is better than the show. Combine with the Santa Fe Trail sites.",
+  "rating": 76,
+  "id": "boot-hill-museum-dodge-city"
+ }
+]

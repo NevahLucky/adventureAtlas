@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Virginia — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Virginia, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Virginia</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Virginia</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="vermont.html">&larr; Vermont</a></span>
+    <span><a class="pager-link" href="washington.html">Washington &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="vermont.html">&larr; Vermont</a></span>
+    <span><a class="pager-link" href="washington.html">Washington &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Virginia edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Virginia",
+  abbr: "VA",
+  slug: "virginia",
+  stats: {"count": 8, "counties": 8, "free": 1, "median": 20, "top": 89},
+  counties: ["Accomack", "Albemarle", "Fairfax", "Floyd", "Page", "Rockbridge", "Scott", "Williamsburg City"],
+  rows: [{"name": "Floyd Country Store Friday Night", "city": "Floyd", "county": "Floyd", "state": "Virginia", "cats": ["Music", "Community", "Dance"], "cost": "$8–$12", "cost_num": 10, "dur": "3 hrs", "dur_h": 3, "dates": "Year-round, Friday nights", "start": "1910", "company": "Floyd Country Store", "party": "2–6", "customer": "Families, dancers, music fans", "unique": "A 1910 general store with a potbelly stove where a live old-time band plays and anyone can join the flatfooting and two-step on the worn wooden floor.", "buzz": "Locals and visitors agree it is the most welcoming room in Appalachia; get there early for a seat and expect to be pulled into a dance.", "rating": 89, "id": "floyd-country-store-friday-night-floyd"}, {"name": "Monticello", "city": "Charlottesville", "county": "Albemarle", "state": "Virginia", "cats": ["Historical", "Architecture", "Nature"], "cost": "$30–$45", "cost_num": 38, "dur": "Half day", "dur_h": 3, "dates": "Year-round", "start": "1772", "company": "Thomas Jefferson Foundation", "party": "2–4", "customer": "History buffs, design people, families", "unique": "Jefferson's mountaintop house with its dumbwaiters, alcove beds and clock-driven calendar, plus the reconstructed slave quarters that complicate the postcard.", "buzz": "The slavery exhibits get strong praise for honesty; the house tour is timed and the grounds need another hour. Book the first slot.", "rating": 88, "id": "monticello-charlottesville"}, {"name": "Luray Caverns and the Great Stalacpipe Organ", "city": "Luray", "county": "Page", "state": "Virginia", "cats": ["Cave", "Nature", "Quirky"], "cost": "$35", "cost_num": 35, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1878", "company": "Luray Caverns", "party": "2–6", "customer": "Families, road-trippers, retirees", "unique": "A vast limestone cavern where a lithophone built into the stalactites plays music through the rock itself — the world's largest musical instrument, and it actually works.", "buzz": "Visitors are surprised by how good the organ recital is; the cavern is commercial but genuinely spectacular. The garden maze next door is a decent add-on.", "rating": 86, "id": "luray-caverns-and-the-great-stalacpipe-organ-luray"}, {"name": "Devil's Bathtub", "city": "Duffield", "county": "Scott", "state": "Virginia", "cats": ["Hiking", "Water", "Adventure"], "cost": "Free", "cost_num": 0, "dur": "4–5 hrs", "dur_h": 4.5, "dates": "May–Oct", "start": "—", "company": "Free / self-guided", "party": "2–4", "customer": "Young adults, hikers, locals", "unique": "A series of natural plunge pools carved into sandstone at the end of a creek-wading and boulder-hopping route through Jefferson National Forest.", "buzz": "People love it and warn the route is unmarked, slippery and not for flip-flops. Go early; it is a locals' secret that leaked.", "rating": 85, "id": "devil-s-bathtub-duffield"}, {"name": "Chincoteague Pony Swim", "city": "Chincoteague", "county": "Accomack", "state": "Virginia", "cats": ["Wildlife", "Festival", "Water"], "cost": "Free–$50", "cost_num": 20, "dur": "Half day", "dur_h": 5, "dates": "Last Wednesday in July", "start": "1925", "company": "Chincoteague Volunteer Fire Company", "party": "2–6", "customer": "Families, animal people, photographers", "unique": "Saltwater cowboys herd wild ponies across the channel at slack tide, then auction the foals to keep the herd small — a 100-year-old ritual on a barrier island.", "buzz": "It is genuinely crowded and hot, and people still call it unforgettable. Watch from the water or a boat, not the packed shore.", "rating": 84, "id": "chincoteague-pony-swim-chincoteague"}, {"name": "Colonial Williamsburg", "city": "Williamsburg", "county": "Williamsburg City", "state": "Virginia", "cats": ["Historical", "Museum", "Community"], "cost": "$50–$60", "cost_num": 55, "dur": "Full day", "dur_h": 7, "dates": "Year-round", "start": "1926", "company": "Colonial Williamsburg Foundation", "party": "2–6", "customer": "Families, history buffs, retirees", "unique": "Eighty-eight original and reconstructed buildings on the actual 18th-century capital, with tradespeople who blacksmith, bind books and argue politics in character.", "buzz": "The ticket price draws complaints, but the trades and the evening programs are rated excellent. Go in spring or fall; summer heat is brutal in wool.", "rating": 83, "id": "colonial-williamsburg-williamsburg"}, {"name": "Great Falls Park", "city": "McLean", "county": "Fairfax", "state": "Virginia", "cats": ["Nature", "Hiking"], "cost": "$20 vehicle", "cost_num": 20, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "1966", "company": "National Park Service", "party": "2–4", "customer": "Families, locals, hikers", "unique": "The Potomac compresses into a quarter-mile of Class V rapids twenty minutes from the capital, with cliff-top overlooks and a boulder-strewn gorge.", "buzz": "Locals call it the best quick nature fix near DC; the River Trail scramble is the fun part. Parking fills by 10am on weekends.", "rating": 82, "id": "great-falls-park-mclean"}, {"name": "Natural Bridge", "city": "Natural Bridge", "county": "Rockbridge", "state": "Virginia", "cats": ["Nature", "Historical"], "cost": "$12–$20", "cost_num": 16, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1774", "company": "Natural Bridge State Park", "party": "2–6", "customer": "Families, road-trippers, retirees", "unique": "A 215-foot limestone arch that Jefferson called a wonder of the world, with a lost river, a saltpeter cave and a nightly illumination show.", "buzz": "People stop for an hour and stay for three; the evening light show is kitsch but charming. The walk is paved and easy.", "rating": 78, "id": "natural-bridge-natural-bridge"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

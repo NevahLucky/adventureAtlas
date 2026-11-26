@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wisconsin — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Wisconsin, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Wisconsin</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Wisconsin</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="west-virginia.html">&larr; West Virginia</a></span>
+    <span><a class="pager-link" href="wyoming.html">Wyoming &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="west-virginia.html">&larr; West Virginia</a></span>
+    <span><a class="pager-link" href="wyoming.html">Wyoming &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Wisconsin edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Wisconsin",
+  abbr: "WI",
+  slug: "wisconsin",
+  stats: {"count": 10, "counties": 8, "free": 0, "median": 37, "top": 90},
+  counties: ["Bayfield", "Brown", "Columbia", "Door", "Iowa", "Milwaukee", "Sauk", "Winnebago"],
+  rows: [{"name": "Apostle Islands Ice Caves", "city": "Bayfield", "county": "Bayfield", "state": "Wisconsin", "cats": ["Nature", "Snow", "Adrenaline"], "cost": "Free–$100", "cost_num": 40, "dur": "Full day", "dur_h": 6, "dates": "Jan–Mar, ice dependent", "start": "1970 (seashore)", "company": "National Park Service", "party": "2–4", "customer": "Adventurers, photographers, locals", "unique": "In rare cold winters, Lake Superior freezes solid enough to walk to sea caves hung with curtains of blue ice — a phenomenon that may not happen at all in a given year.", "buzz": "When it opens, it is one of the most spectacular things in the Midwest; check the park's ice report before driving. Never go alone.", "rating": 90, "id": "apostle-islands-ice-caves-bayfield"}, {"name": "EAA AirVenture", "city": "Oshkosh", "county": "Winnebago", "state": "Wisconsin", "cats": ["Air", "Festival", "Science"], "cost": "$40–$70", "cost_num": 55, "dur": "2–3 days", "dur_h": 20, "dates": "Late July", "start": "1953", "company": "Experimental Aircraft Association", "party": "2–8", "customer": "Aviation fans, families, retirees", "unique": "Ten thousand aircraft and 600,000 people descend on a regional airport for a week of airshows, homebuilts, warbirds and a night show with fireworks.", "buzz": "Even casual visitors are stunned; bring earplugs and comfortable shoes. Lodging books a year out.", "rating": 89, "id": "eaa-airventure-oshkosh"}, {"name": "House on the Rock", "city": "Spring Green", "county": "Iowa", "state": "Wisconsin", "cats": ["Quirky", "Art", "Architecture"], "cost": "$35–$45", "cost_num": 40, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Mar–Nov", "start": "1960", "company": "House on the Rock", "party": "2–4", "customer": "Quirky-travel people, families, teens", "unique": "A fever-dream house built over a chimney, with the world's largest carousel, a sea monster, automated orchestras and a bookcase that opens into a tunnel.", "buzz": "People either call it a masterpiece of outsider art or a hoarder's monument; both are right. Allow three hours minimum.", "rating": 87, "id": "house-on-the-rock-spring-green"}, {"name": "Devil's Lake", "city": "Baraboo", "county": "Sauk", "state": "Wisconsin", "cats": ["Hiking", "Water", "Climbing"], "cost": "$10–$15", "cost_num": 12, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1911", "company": "Wisconsin State Parks", "party": "2–4", "customer": "Families, hikers, climbers", "unique": "A spring-fed lake between two quartzite bluffs, with a balanced-rock trail, purple quartzite cliffs and some of the best top-rope climbing in the Midwest.", "buzz": "The bluff trails are crowded on summer weekends; go at sunrise and swim after. The East Bluff is the classic loop.", "rating": 86, "id": "devil-s-lake-baraboo"}, {"name": "Door County", "city": "Fish Creek", "county": "Door", "state": "Wisconsin", "cats": ["Nature", "Food & Drink", "Relaxing"], "cost": "Free–$40", "cost_num": 20, "dur": "2–3 days", "dur_h": 40, "dates": "May–Oct", "start": "1850s", "company": "Self-guided", "party": "2–4", "customer": "Couples, families, retirees", "unique": "A peninsula of cherry orchards, fish boils, lighthouses and limestone cliffs, with a shoreline that feels like Maine and a pace that feels like 1955.", "buzz": "The fish boil at a Scandinavian restaurant is the ritual; book a cottage months ahead for fall color.", "rating": 85, "id": "door-county-fish-creek"}, {"name": "Taliesin", "city": "Spring Green", "county": "Iowa", "state": "Wisconsin", "cats": ["Architecture", "Historical", "Nature"], "cost": "$30–$90", "cost_num": 55, "dur": "2–4 hrs", "dur_h": 3, "dates": "May–Oct", "start": "1911", "company": "Frank Lloyd Wright Foundation", "party": "2–4", "customer": "Design people, retirees, couples", "unique": "Wright's own home and studio, built into a Wisconsin hillside with the roof lines following the ridge, rebuilt twice after fires.", "buzz": "The house tour is excellent and the estate walk is worth the extra; photography rules are strict. Pair with House on the Rock for whiplash.", "rating": 85, "id": "taliesin-spring-green"}, {"name": "Lambeau Field", "city": "Green Bay", "county": "Brown", "state": "Wisconsin", "cats": ["Sports", "Historical"], "cost": "$20–$40", "cost_num": 30, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1957", "company": "Green Bay Packers", "party": "2–6", "customer": "Football fans, families, retirees", "unique": "The only community-owned team in major American sports, with a stadium tour that includes the tunnel, the frozen tundra and a hall of fame.", "buzz": "The tour is excellent even for non-fans; game-day tickets require a season-ticket waiting list or luck.", "rating": 84, "id": "lambeau-field-green-bay"}, {"name": "Summerfest", "city": "Milwaukee", "county": "Milwaukee", "state": "Wisconsin", "cats": ["Music", "Festival", "Food & Drink"], "cost": "$25–$100", "cost_num": 50, "dur": "Full day", "dur_h": 9, "dates": "Late Jun–early Jul", "start": "1968", "company": "Milwaukee World Festival", "party": "2–8", "customer": "Music fans, families, young adults", "unique": "Eleven stages on the Lake Michigan shore for eleven days, with a giant American flag, fried cheese and a lineup that runs from hip-hop to polka.", "buzz": "It is cheap for a major festival and the lake breeze saves it; headliners cost extra. Bring a blanket and pace yourself.", "rating": 84, "id": "summerfest-milwaukee"}, {"name": "Harley-Davidson Museum", "city": "Milwaukee", "county": "Milwaukee", "state": "Wisconsin", "cats": ["Museum", "Motorsport", "Design"], "cost": "$25–$30", "cost_num": 27, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "2008", "company": "Harley-Davidson", "party": "2–4", "customer": "Riders, design people, families", "unique": "The archive of an American icon: prototype engines, a wall of gas tanks, the first serial-number bike and a room of custom choppers.", "buzz": "Even non-riders enjoy the design story; the factory tour in Menomonee Falls is a separate booking.", "rating": 82, "id": "harley-davidson-museum-milwaukee"}, {"name": "Wisconsin Dells Duck Boats", "city": "Wisconsin Dells", "county": "Columbia", "state": "Wisconsin", "cats": ["Quirky", "Water", "Family"], "cost": "$30–$40", "cost_num": 35, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Apr–Oct", "start": "1946", "company": "Original Wisconsin Ducks", "party": "2–6", "customer": "Families, kids, tourists", "unique": "A WWII amphibious vehicle drives straight from the street into the Wisconsin River and up a sandstone gorge, with a driver who tells terrible jokes.", "buzz": "It is exactly as silly as it sounds and kids love it; the Dells is a waterpark town with a strange natural core.", "rating": 76, "id": "wisconsin-dells-duck-boats-wisconsin-dells"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

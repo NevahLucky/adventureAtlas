@@ -1,0 +1,121 @@
+[
+ {
+  "name": "Winterthur Museum",
+  "city": "Winterthur",
+  "county": "New Castle",
+  "state": "Delaware",
+  "cats": [
+   "Museum",
+   "Art",
+   "Historical"
+  ],
+  "cost": "$25–$35",
+  "cost_num": 30,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1951",
+  "company": "Winterthur Museum, Garden and Library",
+  "party": "2–4",
+  "customer": "Design people, retirees, gardeners",
+  "unique": "Henry du Pont's 175-room mansion holding the world's premier collection of American decorative arts, set in 60 acres of naturalistic garden.",
+  "buzz": "The period rooms are jaw-dropping; the garden tram is the sleeper hit. Some find the guided-only format slow.",
+  "rating": 83,
+  "id": "winterthur-museum-winterthur"
+ },
+ {
+  "name": "Dogfish Head Brewery Tour",
+  "city": "Milton",
+  "county": "Sussex",
+  "state": "Delaware",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "Free–$25",
+  "cost_num": 15,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round, tours Thu–Sun",
+  "start": "1995",
+  "company": "Dogfish Head",
+  "party": "2–6",
+  "customer": "Beer people, young adults",
+  "unique": "The brewery that invented continual hopping and put American craft beer on the map, with a tour that includes the original 1995 brewhouse and a tasting.",
+  "buzz": "Tours are praised for honesty about failures and for generous pours; book ahead and eat at the brewpub.",
+  "rating": 80,
+  "id": "dogfish-head-brewery-tour-milton"
+ },
+ {
+  "name": "Nemours Estate",
+  "city": "Wilmington",
+  "county": "New Castle",
+  "state": "Delaware",
+  "cats": [
+   "Architecture",
+   "Art",
+   "Nature"
+  ],
+  "cost": "$20–$25",
+  "cost_num": 22,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "May–Dec",
+  "start": "1909",
+  "company": "Nemours Estate",
+  "party": "2–4",
+  "customer": "Design people, couples, retirees",
+  "unique": "A 77-room French neoclassical mansion built by Alfred du Pont, with formal gardens modeled on Versailles and a garage full of vintage cars.",
+  "buzz": "Less crowded than the du Pont mansions in Pennsylvania; reviews praise the gardens and the car collection.",
+  "rating": 79,
+  "id": "nemours-estate-wilmington"
+ },
+ {
+  "name": "Cape Henlopen and Fort Miles",
+  "city": "Lewes",
+  "county": "Sussex",
+  "state": "Delaware",
+  "cats": [
+   "Nature",
+   "Historical",
+   "Water"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1964",
+  "company": "Delaware State Parks",
+  "party": "2–6",
+  "customer": "Families, history buffs, beach people",
+  "unique": "A WWII coastal defense fort with a concrete observation tower you can climb, plus dunes, bay beach and ocean beach in one park.",
+  "buzz": "The tower tour is the reason to come; the beaches are quieter than Rehoboth. Bikes are the best way around.",
+  "rating": 78,
+  "id": "cape-henlopen-and-fort-miles-lewes"
+ },
+ {
+  "name": "Rehoboth Beach Boardwalk",
+  "city": "Rehoboth Beach",
+  "county": "Sussex",
+  "state": "Delaware",
+  "cats": [
+   "Family",
+   "Relaxing",
+   "Food & Drink"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "May–Sep",
+  "start": "1873",
+  "company": "Free / self-guided",
+  "party": "2–6",
+  "customer": "Families, couples, DC weekenders",
+  "unique": "A mile of boardwalk with a 1920s merry-go-round, Thrasher's fries in vinegar and a beach town that still shuts its bars early.",
+  "buzz": "It is the Mid-Atlantic's cleanest family beach; parking is the eternal complaint. Go in September.",
+  "rating": 76,
+  "id": "rehoboth-beach-boardwalk-rehoboth-beach"
+ }
+]

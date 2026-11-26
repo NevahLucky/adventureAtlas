@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>New York — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in New York, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>New York</span></div>
+    <div class="state-title">
+      <div>
+        <h1>New York</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="new-mexico.html">&larr; New Mexico</a></span>
+    <span><a class="pager-link" href="north-carolina.html">North Carolina &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="new-mexico.html">&larr; New Mexico</a></span>
+    <span><a class="pager-link" href="north-carolina.html">North Carolina &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — New York edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "New York",
+  abbr: "NY",
+  slug: "new-york",
+  stats: {"count": 16, "counties": 11, "free": 1, "median": 30, "top": 93},
+  counties: ["Dutchess", "Essex", "Kings", "New York", "Niagara", "Orange", "Otsego", "Schuyler", "Sullivan", "Westchester", "Wyoming"],
+  rows: [{"name": "Metropolitan Museum of Art", "city": "New York", "county": "New York", "state": "New York", "cats": ["Museum", "Art", "Historical"], "cost": "$30", "cost_num": 30, "dur": "Half day", "dur_h": 5, "dates": "Year-round, closed Wednesdays", "start": "1870", "company": "The Met", "party": "2–4", "customer": "Everyone", "unique": "Two million works across five thousand years, including an actual Egyptian temple, a complete Frank Lloyd Wright room and the most visited costume institute on earth.", "buzz": "The universal advice: pick three galleries, not the whole museum. Friday nights are lively; the rooftop garden opens in summer.", "rating": 93, "id": "metropolitan-museum-of-art-new-york"}, {"name": "Tenement Museum", "city": "New York", "county": "New York", "state": "New York", "cats": ["Historical", "Museum", "Community"], "cost": "$30–$35", "cost_num": 32, "dur": "1 hr", "dur_h": 1, "dates": "Year-round", "start": "1988", "company": "Tenement Museum", "party": "2–6", "customer": "Families, history buffs, immigrants' descendants", "unique": "Guided tours inside a preserved 1863 tenement at 97 Orchard Street, reconstructing the apartments of actual immigrant families who lived there.", "buzz": "The guided-only model is praised for making history intimate; booking ahead is essential and some tours sell out weeks out.", "rating": 90, "id": "tenement-museum-new-york"}, {"name": "Comedy Cellar", "city": "New York", "county": "New York", "state": "New York", "cats": ["Performance", "Nightlife"], "cost": "$20 cover + 2-drink minimum", "cost_num": 45, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round, nightly", "start": "1982", "company": "Comedy Cellar", "party": "2–4", "customer": "Young adults, comedy fans", "unique": "A basement room in the Village where famous comics drop in unannounced to work out new material; the lineup is never printed in advance.", "buzz": "The two-drink minimum and cramped basement are part of the deal; reviewers say the late shows are edgier and the weekend lineups worth the wait.", "rating": 89, "id": "comedy-cellar-new-york"}, {"name": "Storm King Art Center", "city": "New Windsor", "county": "Orange", "state": "New York", "cats": ["Art", "Nature", "Relaxing"], "cost": "$25", "cost_num": 25, "dur": "Half day", "dur_h": 4, "dates": "Apr–Nov", "start": "1960", "company": "Storm King Art Center", "party": "2–4", "customer": "Art people, families, couples", "unique": "Five hundred acres of Hudson Valley hillside covered in monumental sculpture — Calders, Smiths, di Suveros — with a tram for tired legs.", "buzz": "Visitors call it the best outdoor art experience in the country; bring a picnic and rent a bike. Summer weekends get busy.", "rating": 89, "id": "storm-king-art-center-new-windsor"}, {"name": "Letchworth State Park", "city": "Castile", "county": "Wyoming", "state": "New York", "cats": ["Nature", "Hiking"], "cost": "$10 vehicle", "cost_num": 10, "dur": "Half day", "dur_h": 5, "dates": "Year-round", "start": "1906", "company": "New York State Parks", "party": "2–6", "customer": "Families, hikers, photographers", "unique": "A 17-mile gorge with three major waterfalls, 600-foot walls and a railroad bridge over the middle fall — the Grand Canyon of the East, without the crowds.", "buzz": "Locals call it the best state park in the Northeast; autumn is spectacular and the lower falls trail is steep but worth it.", "rating": 88, "id": "letchworth-state-park-castile"}, {"name": "High Line", "city": "New York", "county": "New York", "state": "New York", "cats": ["Architecture", "Art", "Relaxing"], "cost": "Free", "cost_num": 0, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "2009", "company": "Friends of the High Line", "party": "NA", "customer": "Everyone, especially design people", "unique": "An abandoned elevated freight railway turned into a mile-and-a-half garden in the air, threading between starchitect buildings and the Hudson.", "buzz": "Locals go at 7am or after 8pm to avoid the crush; the plantings change by season and the 10th Avenue square is the photo stop.", "rating": 87, "id": "high-line-new-york"}, {"name": "Maid of the Mist", "city": "Niagara Falls", "county": "Niagara", "state": "New York", "cats": ["Water", "Nature"], "cost": "$30", "cost_num": 30, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Apr–Nov", "start": "1846", "company": "Maid of the Mist", "party": "2–6", "customer": "Families, tourists, couples", "unique": "A diesel boat into the base of Horseshoe Falls, where the noise and spray erase everything else — the oldest tourist attraction in North America.", "buzz": "Everyone gets soaked and everyone loves it; the ponchos are a joke. Go on the first boat of the day for the least crowding.", "rating": 87, "id": "maid-of-the-mist-niagara-falls"}, {"name": "Dia Beacon", "city": "Beacon", "county": "Dutchess", "state": "New York", "cats": ["Art", "Museum", "Architecture"], "cost": "$20", "cost_num": 20, "dur": "Half day", "dur_h": 3, "dates": "Year-round, closed Mon–Tue", "start": "2003", "company": "Dia Art Foundation", "party": "2–4", "customer": "Art people, design students", "unique": "A 1929 Nabisco box factory converted into vast skylit galleries for Minimalist and Land Art, including a room of Serra steel and fluorescent light installations.", "buzz": "The building is as good as the art; reviewers recommend the free guided tour and warn that the cafe is limited. Metro-North from Grand Central.", "rating": 86, "id": "dia-beacon-beacon"}, {"name": "Katz's Delicatessen", "city": "New York", "county": "New York", "state": "New York", "cats": ["Food & Drink", "Historical"], "cost": "$25–$40", "cost_num": 30, "dur": "1 hr", "dur_h": 1, "dates": "Year-round", "start": "1888", "company": "Katz's Delicatessen", "party": "2–4", "customer": "Everyone, tourists and locals", "unique": "Hand-cut pastrami on rye, a paper ticket system unchanged for decades, and the table where Harry met Sally — a secular cathedral of the Lower East Side.", "buzz": "The pastrami is still the benchmark; staff are famously brusque and that's part of it. Expect a line at noon and cash-only-ish chaos.", "rating": 86, "id": "katz-s-delicatessen-new-york"}, {"name": "Watkins Glen Gorge Trail", "city": "Watkins Glen", "county": "Schuyler", "state": "New York", "cats": ["Hiking", "Nature"], "cost": "$10", "cost_num": 10, "dur": "2 hrs", "dur_h": 2, "dates": "May–Oct", "start": "1863", "company": "New York State Parks", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "Nineteen waterfalls in a mile and a half, with stone bridges and a tunnel cut behind Cavern Cascade, on the edge of a Finger Lakes wine town.", "buzz": "Steep and slippery when wet; reviewers say go early and wear real shoes. Pair it with a Seneca Lake winery afternoon.", "rating": 86, "id": "watkins-glen-gorge-trail-watkins-glen"}, {"name": "Lake Placid Olympic Sites", "city": "Lake Placid", "county": "Essex", "state": "New York", "cats": ["Sports", "Historical", "Adrenaline"], "cost": "$40–$120", "cost_num": 70, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1932 / 1980", "company": "Olympic Regional Development Authority", "party": "2–6", "customer": "Families, sports fans, thrill seekers", "unique": "Ride a bobsled on the 1980 track, skate the oval where Eric Heiden won five golds, and take the elevator up a ski jump that looks impossible from the top.", "buzz": "The bobsled ride is expensive and over in a minute, and people still call it the best adrenaline hit in the state. Book ahead.", "rating": 85, "id": "lake-placid-olympic-sites-lake-placid"}, {"name": "National Baseball Hall of Fame", "city": "Cooperstown", "county": "Otsego", "state": "New York", "cats": ["Sports", "Museum", "Historical"], "cost": "$30", "cost_num": 30, "dur": "Half day", "dur_h": 3, "dates": "Year-round", "start": "1939", "company": "National Baseball Hall of Fame", "party": "2–6", "customer": "Baseball fans, dads, families", "unique": "Three floors of plaques, gloves, jerseys and the actual record of the game, in a village that invented the Cooperstown origin myth and then built a museum around it.", "buzz": "Even casual fans are moved by the plaque room; induction weekend in July is a zoo but electric.", "rating": 84, "id": "national-baseball-hall-of-fame-cooperstown"}, {"name": "Sporting Clays — Golf with a Shotgun", "city": "Millbrook", "county": "Dutchess", "state": "New York", "cats": ["Sports", "Nature", "Adrenaline"], "cost": "$80–$150", "cost_num": 110, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "—", "company": "Orvis Sandanona", "party": "2–4", "customer": "Beginners, groups, outdoors people", "unique": "A 14-station course through Hudson Valley woods and fields where you shoot clay targets along a walking route, scored like golf — the closest thing to a round of golf with a shotgun.", "buzz": "Instructors are excellent with first-timers and the setting is beautiful; bring a group and make it a morning. Reservations required.", "rating": 84, "id": "sporting-clays-golf-with-a-shotgun-millbrook"}, {"name": "Coney Island Cyclone", "city": "Brooklyn", "county": "Kings", "state": "New York", "cats": ["Adrenaline", "Historical", "Quirky"], "cost": "$10–$15", "cost_num": 12, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Apr–Oct", "start": "1927", "company": "Luna Park", "party": "2–4", "customer": "Families, teens, coaster nerds", "unique": "A 1927 wooden coaster that still feels genuinely violent, beside a boardwalk of hot dogs, sideshows and Atlantic surf in the city's outer borough.", "buzz": "Coaster purists insist on a back-seat ride; the rest of Coney is scruffy and that's the appeal. The Mermaid Parade in June is the day to go.", "rating": 83, "id": "coney-island-cyclone-brooklyn"}, {"name": "Sleepy Hollow Halloween", "city": "Sleepy Hollow", "county": "Westchester", "state": "New York", "cats": ["Festival", "Literary", "Dark Tourism"], "cost": "$20–$60", "cost_num": 35, "dur": "Half day", "dur_h": 5, "dates": "October", "start": "1820", "company": "Village of Sleepy Hollow / Historic Hudson Valley", "party": "2–6", "customer": "Families, literary fans, teens", "unique": "The churchyard, bridge and mill pond from Washington Irving's story, plus a lantern-lit cemetery tour and the Great Jack O'Lantern Blaze.", "buzz": "The Blaze is the crowd-pleaser; tickets sell out in September. Locals warn that traffic is the real Headless Horseman.", "rating": 82, "id": "sleepy-hollow-halloween-sleepy-hollow"}, {"name": "Bethel Woods", "city": "Bethel", "county": "Sullivan", "state": "New York", "cats": ["Music", "Historical"], "cost": "$30–$100", "cost_num": 55, "dur": "Half day", "dur_h": 4, "dates": "May–Oct; museum year-round", "start": "2006", "company": "Bethel Woods Center for the Arts", "party": "2–8", "customer": "Music fans, boomers, families", "unique": "The actual hayfield where Woodstock happened, with a museum on the slope and a modern amphitheater that still books legacy acts.", "buzz": "The museum gets credit for honesty about the chaos and the locals; summer concerts are relaxed and picnic-friendly.", "rating": 81, "id": "bethel-woods-bethel"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

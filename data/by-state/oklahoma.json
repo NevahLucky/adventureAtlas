@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Oklahoma City National Memorial",
+  "city": "Oklahoma City",
+  "county": "Oklahoma",
+  "state": "Oklahoma",
+  "cats": [
+   "Historical",
+   "Spiritual",
+   "Museum"
+  ],
+  "cost": "Free–$15",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "2000",
+  "company": "Oklahoma City National Memorial and Museum",
+  "party": "2–4",
+  "customer": "Everyone, families, history buffs",
+  "unique": "The field of 168 empty bronze chairs, the reflecting pool and the survivor tree, built on the site of the 1995 bombing with a museum that walks minute by minute.",
+  "buzz": "People describe it as one of the most powerful memorials in the country; the museum is intense and not for young children. Free grounds.",
+  "rating": 89,
+  "id": "oklahoma-city-national-memorial-oklahoma-city"
+ },
+ {
+  "name": "Wichita Mountains Wildlife Refuge",
+  "city": "Lawton",
+  "county": "Comanche",
+  "state": "Oklahoma",
+  "cats": [
+   "Wildlife",
+   "Hiking",
+   "Nature"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year-round",
+  "start": "1901",
+  "company": "US Fish and Wildlife Service",
+  "party": "2–4",
+  "customer": "Families, wildlife people, climbers",
+  "unique": "Free-roaming bison, longhorn and elk in a granite range that rises out of the plains, with bouldering on 500-million-year-old rock and prairie dog towns.",
+  "buzz": "Bison sightings are almost guaranteed and the climbing is world-class; roads are narrow and the heat is real.",
+  "rating": 85,
+  "id": "wichita-mountains-wildlife-refuge-lawton"
+ },
+ {
+  "name": "Gathering Place",
+  "city": "Tulsa",
+  "county": "Tulsa",
+  "state": "Oklahoma",
+  "cats": [
+   "Family",
+   "Nature",
+   "Art"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "2018",
+  "company": "Gathering Place",
+  "party": "2–6",
+  "customer": "Families, kids, locals",
+  "unique": "A $465-million private park on the Arkansas River with a suspension bridge, a land bridge, giant slides and a boathouse — free, and better than most municipal parks in America.",
+  "buzz": "Parents call it the best free family day in the region; the playground is enormous and the beer garden is a nice touch.",
+  "rating": 84,
+  "id": "gathering-place-tulsa"
+ },
+ {
+  "name": "Turner Falls",
+  "city": "Davis",
+  "county": "Murray",
+  "state": "Oklahoma",
+  "cats": [
+   "Water",
+   "Nature",
+   "Family"
+  ],
+  "cost": "$15–$20 vehicle",
+  "cost_num": 18,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Apr–Sep",
+  "start": "1868",
+  "company": "Turner Falls Park",
+  "party": "2–6",
+  "customer": "Families, swimmers, students",
+  "unique": "A 77-foot waterfall dropping into a natural swimming hole, with caves behind the falls and a rock slide, in the Arbuckle Mountains.",
+  "buzz": "It is a beloved summer spot and gets dangerously crowded; go on a weekday and wear shoes for the rocks. Water levels vary.",
+  "rating": 78,
+  "id": "turner-falls-davis"
+ },
+ {
+  "name": "Blue Whale of Catoosa",
+  "city": "Catoosa",
+  "county": "Rogers",
+  "state": "Oklahoma",
+  "cats": [
+   "Quirky",
+   "Road Trip",
+   "Art"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year-round",
+  "start": "1972",
+  "company": "City of Catoosa",
+  "party": "NA",
+  "customer": "Road-trippers, families",
+  "unique": "A 20-foot smiling blue whale built as an anniversary gift in a roadside pond, now a Route 66 icon with a slide and picnic tables.",
+  "buzz": "It is a five-minute stop that makes people absurdly happy; the story of the man who built it is on the plaque.",
+  "rating": 70,
+  "id": "blue-whale-of-catoosa-catoosa"
+ }
+]

@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Michigan — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Michigan, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Michigan</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Michigan</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="massachusetts.html">&larr; Massachusetts</a></span>
+    <span><a class="pager-link" href="minnesota.html">Minnesota &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="massachusetts.html">&larr; Massachusetts</a></span>
+    <span><a class="pager-link" href="minnesota.html">Minnesota &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Michigan edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Michigan",
+  abbr: "MI",
+  slug: "michigan",
+  stats: {"count": 9, "counties": 8, "free": 2, "median": 15, "top": 92},
+  counties: ["Alger", "Chippewa", "Grand Traverse", "Kent", "Leelanau", "Mackinac", "Schoolcraft", "Wayne"],
+  rows: [{"name": "Pictured Rocks", "city": "Munising", "county": "Alger", "state": "Michigan", "cats": ["Nature", "Water", "Hiking"], "cost": "Free–$50", "cost_num": 25, "dur": "Half day", "dur_h": 5, "dates": "May–Oct", "start": "1966", "company": "National Park Service", "party": "2–4", "customer": "Families, kayakers, photographers", "unique": "Fifteen miles of Lake Superior shoreline streaked with mineral colors, sea caves and arches, best seen from a kayak or the boat tour.", "buzz": "The kayak tour is the consensus highlight; the water is 40 degrees and the weather changes fast. Book the morning boat.", "rating": 92, "id": "pictured-rocks-munising"}, {"name": "Sleeping Bear Dunes", "city": "Empire", "county": "Leelanau", "state": "Michigan", "cats": ["Nature", "Hiking", "Water"], "cost": "$25 vehicle", "cost_num": 25, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1970", "company": "National Park Service", "party": "2–6", "customer": "Families, hikers, photographers", "unique": "A 450-foot wall of sand dropping into Lake Michigan, with the Dune Climb, a ghost forest and the Pierce Stocking drive above the water.", "buzz": "The dune climb is harder than it looks and the run down is the payoff; arrive early for the overlook parking.", "rating": 91, "id": "sleeping-bear-dunes-empire"}, {"name": "Mackinac Island", "city": "Mackinac Island", "county": "Mackinac", "state": "Michigan", "cats": ["Cycling", "Historical", "Relaxing"], "cost": "$30 ferry + rental", "cost_num": 60, "dur": "Full day", "dur_h": 7, "dates": "May–Oct", "start": "1895", "company": "Star Line Ferry / self-guided", "party": "2–6", "customer": "Families, couples, retirees", "unique": "A car-free Victorian island where you bike an 8-mile loop past limestone arches, fudge shops and the white veranda of the Grand Hotel.", "buzz": "Everyone bikes the loop and eats fudge; the island is crowded midday and blissful at 8am. Bring cash for the ferry.", "rating": 88, "id": "mackinac-island-mackinac-island"}, {"name": "Movement Detroit", "city": "Detroit", "county": "Wayne", "state": "Michigan", "cats": ["Music", "Festival", "Nightlife"], "cost": "$100–$250", "cost_num": 150, "dur": "3 days", "dur_h": 24, "dates": "Memorial Day weekend", "start": "2000", "company": "Paxahau", "party": "2–8", "customer": "Electronic music fans, young adults", "unique": "The festival that anchors Detroit's claim as the birthplace of techno, staged in Hart Plaza with the river and the skyline as the backdrop.", "buzz": "Lineups are deep and the crowd is serious about the music; after-parties are the real scene. Book lodging months ahead.", "rating": 86, "id": "movement-detroit-detroit"}, {"name": "Tahquamenon Falls", "city": "Paradise", "county": "Chippewa", "state": "Michigan", "cats": ["Nature", "Hiking"], "cost": "$10–$15", "cost_num": 12, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1947", "company": "Michigan State Parks", "party": "2–4", "customer": "Families, photographers, campers", "unique": "A 50-foot curtain of amber water tinted by cedar tannins, with a lower falls you can row to and a brewpub at the park entrance.", "buzz": "The upper falls are the photo; the lower falls are the swim. Black flies in June are legendary.", "rating": 84, "id": "tahquamenon-falls-paradise"}, {"name": "ArtPrize", "city": "Grand Rapids", "county": "Kent", "state": "Michigan", "cats": ["Art", "Festival", "Community"], "cost": "Free", "cost_num": 0, "dur": "2 days", "dur_h": 16, "dates": "Sep–Oct", "start": "2009", "company": "ArtPrize", "party": "2–6", "customer": "Art people, families, locals", "unique": "An open-entry art competition that takes over an entire city — venues in bars, churches, parks and museums, with the public voting for the winner.", "buzz": "The scale is the point; some work is amateur and some is museum-grade. Download the map and pick three venues.", "rating": 83, "id": "artprize-grand-rapids"}, {"name": "Kitch-iti-kipi", "city": "Manistique", "county": "Schoolcraft", "state": "Michigan", "cats": ["Nature", "Quirky"], "cost": "$10 vehicle", "cost_num": 10, "dur": "1 hr", "dur_h": 1, "dates": "May–Oct", "start": "1926", "company": "Palms Book State Park", "party": "2–6", "customer": "Families, road-trippers, retirees", "unique": "A 40-foot-deep spring so clear you can see the bottom from a self-propelled raft, with ancient tree trunks and trout suspended in turquoise water.", "buzz": "It is a 30-minute stop that people remember for years; the raft is free with park entry. Go early to avoid tour buses.", "rating": 82, "id": "kitch-iti-kipi-manistique"}, {"name": "Traverse City Cherry Festival", "city": "Traverse City", "county": "Grand Traverse", "state": "Michigan", "cats": ["Festival", "Food & Drink", "Family"], "cost": "Free–$40", "cost_num": 15, "dur": "Full day", "dur_h": 8, "dates": "Early July", "start": "1926", "company": "National Cherry Festival", "party": "2–8", "customer": "Families, food people, locals", "unique": "Eight days of cherry pie, pit-spitting contests, air shows and a parade in the cherry capital of the world, on a bay that looks like the Mediterranean.", "buzz": "The pie and the setting are the draw; traffic is intense. Stay for the sunset over Grand Traverse Bay.", "rating": 81, "id": "traverse-city-cherry-festival-traverse-city"}, {"name": "Heidelberg Project", "city": "Detroit", "county": "Wayne", "state": "Michigan", "cats": ["Art", "Urban", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "1–2 hrs", "dur_h": 1.5, "dates": "Year-round, daylight", "start": "1986", "company": "Heidelberg Project", "party": "2–4", "customer": "Art people, photographers, locals", "unique": "Two blocks of abandoned houses covered in polka dots, stuffed animals and painted signs — an outdoor art environment that refuses to be gentrified away.", "buzz": "It is free, strange and deeply personal; respect the residents and don't wander into occupied houses. Best with a local guide.", "rating": 80, "id": "heidelberg-project-detroit"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

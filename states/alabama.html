@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alabama — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Alabama, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Alabama</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Alabama</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span></span>
+    <span><a class="pager-link" href="alaska.html">Alaska &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span></span>
+    <span><a class="pager-link" href="alaska.html">Alaska &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Alabama edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Alabama",
+  abbr: "AL",
+  slug: "alabama",
+  stats: {"count": 7, "counties": 5, "free": 1, "median": 22, "top": 89},
+  counties: ["Baldwin", "Colbert", "Jefferson", "Marshall", "Mobile"],
+  rows: [{"name": "Barber Vintage Motorsports Museum", "city": "Birmingham", "county": "Jefferson", "state": "Alabama", "cats": ["Museum", "Motorsport", "Architecture"], "cost": "$20–$25", "cost_num": 22, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Year-round", "start": "1995", "company": "Barber Vintage Motorsports Museum", "party": "2–4", "customer": "Car and bike people, families, designers", "unique": "The world's largest motorcycle collection — 1,600 machines in a five-story glass-and-steel building beside a racetrack — with everything from board trackers to a Britten.", "buzz": "Even non-riders are floored by the building and the presentation; the track hosts events most weekends. Allow more time than you think.", "rating": 89, "id": "barber-vintage-motorsports-museum-birmingham"}, {"name": "Muscle Shoals Sound Studio Tour", "city": "Sheffield", "county": "Colbert", "state": "Alabama", "cats": ["Music", "Historical"], "cost": "$20–$30", "cost_num": 25, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1969", "company": "Muscle Shoals Sound Studio", "party": "2–4", "customer": "Music fans, boomers, young adults", "unique": "The cinderblock studio where the Stones, Aretha and Paul Simon recorded, preserved almost exactly as it was, with the original Swampers' instruments still in the room.", "buzz": "Tours are led by people who were there or grew up with it; music people call it a pilgrimage. The Shoals area has three studios worth a day.", "rating": 88, "id": "muscle-shoals-sound-studio-tour-sheffield"}, {"name": "USS Alabama Battleship", "city": "Mobile", "county": "Mobile", "state": "Alabama", "cats": ["Historical", "Museum"], "cost": "$15–$25", "cost_num": 20, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Year-round", "start": "1965", "company": "USS Alabama Battleship Memorial Park", "party": "2–6", "customer": "Families, veterans, history buffs", "unique": "A WWII battleship you can climb through from engine room to gun turret, plus a submarine and a hangar of aircraft, all on Mobile Bay.", "buzz": "Kids love the ladders and tight passages; veterans are often aboard telling stories. It is hot below deck in summer.", "rating": 83, "id": "uss-alabama-battleship-mobile"}, {"name": "Cathedral Caverns", "city": "Grant", "county": "Marshall", "state": "Alabama", "cats": ["Cave", "Nature"], "cost": "$20–$25", "cost_num": 22, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1952", "company": "Cathedral Caverns State Park", "party": "2–6", "customer": "Families, cave nerds, retirees", "unique": "A 126-foot-wide cave mouth billed as the largest in the world, with a 45-foot stalagmite called Goliath and a walkable, paved route through enormous chambers.", "buzz": "Guides are funny and the scale is genuinely impressive; it is less commercial than Luray. Watch for bats.", "rating": 82, "id": "cathedral-caverns-grant"}, {"name": "Sloss Furnaces", "city": "Birmingham", "county": "Jefferson", "state": "Alabama", "cats": ["Historical", "Dark Tourism", "Art"], "cost": "Free–$10", "cost_num": 5, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1882", "company": "Sloss Furnaces National Historic Landmark", "party": "2–4", "customer": "Photographers, history buffs, teens", "unique": "A rusted pig-iron furnace complex preserved as industrial archaeology, now a concert venue and the setting for a thousand ghost stories about men who died in the heat.", "buzz": "The self-guided walk is eerie and free; locals report unexplained sounds and the place has a genuine reputation. Bring closed shoes.", "rating": 81, "id": "sloss-furnaces-birmingham"}, {"name": "Hangout Music Festival", "city": "Gulf Shores", "county": "Baldwin", "state": "Alabama", "cats": ["Music", "Festival", "Water"], "cost": "$300–$400", "cost_num": 350, "dur": "3 days", "dur_h": 24, "dates": "Third weekend in May", "start": "2010", "company": "Hangout Fest", "party": "4–10", "customer": "Young adults, college students", "unique": "A beach festival where you watch national acts with your feet in the Gulf sand, between swims and a Ferris wheel on the shore.", "buzz": "The setting is the selling point; reviews complain about heat, expensive drinks and the walk between stages. Book a condo early.", "rating": 79, "id": "hangout-music-festival-gulf-shores"}, {"name": "Coon Dog Cemetery", "city": "Cherokee", "county": "Colbert", "state": "Alabama", "cats": ["Quirky", "Community"], "cost": "Free", "cost_num": 0, "dur": "1 hr", "dur_h": 1, "dates": "Year-round, daylight", "start": "1937", "company": "Free / self-guided", "party": "NA", "customer": "Road-trippers, dog people", "unique": "A one-acre hillside cemetery for hunting dogs only, with hand-painted headstones, toy fire hydrants and a Labor Day gathering that has run for eighty years.", "buzz": "People stop for ten minutes and leave moved; it is free and deeply Southern. Combine with Muscle Shoals for a strange and excellent day.", "rating": 76, "id": "coon-dog-cemetery-cherokee"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

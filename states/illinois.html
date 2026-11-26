@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Illinois — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Illinois, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Illinois</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Illinois</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="idaho.html">&larr; Idaho</a></span>
+    <span><a class="pager-link" href="indiana.html">Indiana &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="idaho.html">&larr; Idaho</a></span>
+    <span><a class="pager-link" href="indiana.html">Indiana &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Illinois edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Illinois",
+  abbr: "IL",
+  slug: "illinois",
+  stats: {"count": 7, "counties": 5, "free": 2, "median": 12, "top": 93},
+  counties: ["Cook", "LaSalle", "Madison", "Saline", "Sangamon"],
+  rows: [{"name": "Chicago Architecture Boat Tour", "city": "Chicago", "county": "Cook", "state": "Illinois", "cats": ["Architecture", "Historical", "Water"], "cost": "$45–$60", "cost_num": 50, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Apr–Nov", "start": "1981", "company": "Chicago Architecture Center", "party": "2–6", "customer": "Everyone, design people, families", "unique": "Ninety minutes up the Chicago River while a docent explains how the city invented the skyscraper, with the river canyon as the classroom.", "buzz": "The Architecture Center's tour is the one locals recommend; sunset departures are the best. Book ahead in summer.", "rating": 93, "id": "chicago-architecture-boat-tour-chicago"}, {"name": "Art Institute of Chicago", "city": "Chicago", "county": "Cook", "state": "Illinois", "cats": ["Museum", "Art"], "cost": "$32", "cost_num": 32, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1879", "company": "Art Institute of Chicago", "party": "2–4", "customer": "Art people, families, couples", "unique": "Nighthawks, American Gothic, a room of Thorne miniatures and the best Impressionist collection outside Paris, behind a bronze lion on Michigan Avenue.", "buzz": "The miniatures and the modern wing are the sleeper hits; go on a weekday morning and pick two wings.", "rating": 92, "id": "art-institute-of-chicago-chicago"}, {"name": "Second City", "city": "Chicago", "county": "Cook", "state": "Illinois", "cats": ["Performance", "Nightlife"], "cost": "$30–$60", "cost_num": 45, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round, nightly", "start": "1959", "company": "The Second City", "party": "2–4", "customer": "Young adults, comedy fans", "unique": "The cabaret theater that launched Belushi, Fey and Colbert, still running improvised and scripted shows with a live band and a cheap bar.", "buzz": "The mainstage shows are consistently sharp; the improv sets are hit or miss and cheaper. Sit close and expect to be teased.", "rating": 87, "id": "second-city-chicago"}, {"name": "Cahokia Mounds", "city": "Collinsville", "county": "Madison", "state": "Illinois", "cats": ["Historical", "Hiking", "Museum"], "cost": "Free–$10", "cost_num": 5, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "c. 1050", "company": "Illinois Historic Preservation", "party": "2–4", "customer": "History buffs, families, photographers", "unique": "The largest pre-Columbian city north of Mexico, with 120 mounds including Monks Mound — bigger at its base than the Great Pyramid — and a solar calendar of posts.", "buzz": "The museum is excellent and the climb is easy; sunset from Monks Mound is the move. Quiet and under-visited.", "rating": 86, "id": "cahokia-mounds-collinsville"}, {"name": "Starved Rock", "city": "Oglesby", "county": "LaSalle", "state": "Illinois", "cats": ["Hiking", "Nature"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1911", "company": "Illinois State Parks", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "Eighteen sandstone canyons with waterfalls and a lodge on a bluff above the Illinois River, an hour and a half from Chicago.", "buzz": "The canyons are beautiful and busy; go at 8am and take Trail 2. Bald eagles winter below the dam.", "rating": 83, "id": "starved-rock-oglesby"}, {"name": "Garden of the Gods", "city": "Herod", "county": "Saline", "state": "Illinois", "cats": ["Hiking", "Nature"], "cost": "Free", "cost_num": 0, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "—", "company": "Shawnee National Forest", "party": "2–4", "customer": "Families, photographers, hikers", "unique": "Weird sandstone hoodoos, camel-shaped formations and a slot canyon in the Shawnee Hills, with a trail that threads between the rocks.", "buzz": "People call it a mini-Utah in southern Illinois; it is free and rarely crowded. Combine with the wine trail.", "rating": 82, "id": "garden-of-the-gods-herod"}, {"name": "Illinois State Fair", "city": "Springfield", "county": "Sangamon", "state": "Illinois", "cats": ["Festival", "Food & Drink", "Family"], "cost": "$10–$15", "cost_num": 12, "dur": "Full day", "dur_h": 7, "dates": "Early–mid August", "start": "1853", "company": "Illinois State Fair", "party": "4–8", "customer": "Families, teens, food people", "unique": "A giant state fair with a butter cow, harness racing, a mile-long midway and the Illinois Pork Producers' pork chop on a stick.", "buzz": "It is the platonic state fair; the butter cow is a genuine attraction. Parking and heat are the usual complaints.", "rating": 78, "id": "illinois-state-fair-springfield"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

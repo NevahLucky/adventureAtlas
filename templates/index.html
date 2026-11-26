@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Waypoint — An Atlas of Adventures Worth the Trip</title>
+<meta name="description" content="A field guide to the most singular things to do in the United States: ranked, costed, timed and sorted by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/atlas.css">
+</head>
+<body data-page="index">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="#countries">Countries</a>
+      <a href="#states">States</a>
+      <a href="#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#method">How it ranks</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="kicker">Volume One <span class="sep">/</span> The United States <span class="sep">/</span> 51 states &amp; districts</div>
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <h1 class="display">Adventures worth <em>the flight.</em></h1>
+        <p class="lede">
+          Not a list of attractions. A working field guide to the things you would actually rearrange a week for —
+          cave swims and clock workshops, mule trains and manta rays, small-town festivals and rooms that lock you in.
+          Every entry carries a cost, a duration, a season, a county, and an honest guess at how much you'd love it.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#states">Browse by state <span aria-hidden="true">&rarr;</span></a>
+          <a class="btn btn-ghost" href="#shortlist">See the national shortlist</a>
+        </div>
+      </div>
+      {{PICK}}
+    </div>
+    <div class="statgrid" id="stats"></div>
+  </div>
+</div>
+
+<section id="countries">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>Start with a country</h2>
+        <p>One country is fully mapped. The rest are staked out and waiting for the same treatment — the structure already supports them.</p>
+      </div>
+    </div>
+    <div class="country-grid">
+      <a class="country live" href="#states">
+        <span class="soon">Live</span>
+        <div>
+          <div class="flagline">North America</div>
+          <h3>United States</h3>
+        </div>
+        <div class="go">51 states &amp; districts <span aria-hidden="true">&rarr;</span></div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North America</div><h3>Canada</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">East Asia</div><h3>Japan</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Northern Europe</div><h3>Iceland</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North America</div><h3>Mexico</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Oceania</div><h3>New Zealand</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">Southern Europe</div><h3>Portugal</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+      <a class="country" href="#" onclick="return false">
+        <span class="soon">Scouting</span>
+        <div><div class="flagline">North Africa</div><h3>Morocco</h3></div>
+        <div class="go">Not yet mapped</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="states" style="padding-top:10px">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>The states</h2>
+        <p>Every state page is sortable by any column and filterable by county, category, cost, duration and party size. Start anywhere; the counties will narrow it down.</p>
+      </div>
+    </div>
+    <div class="grid-tools">
+      <input class="input" id="stateSearch" type="search" placeholder="Search a state, county or adventure…" aria-label="Search states">
+      <div class="seg" id="sortSeg">
+        <button data-sort="best" class="on">Most worth it</button>
+        <button data-sort="count">Most entries</button>
+        <button data-sort="az">A–Z</button>
+      </div>
+      <span class="count-note" id="stateCount"></span>
+    </div>
+    <div class="state-grid" id="stateGrid"></div>
+  </div>
+</section>
+
+<section id="shortlist" style="background:var(--paper-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>The national shortlist</h2>
+        <p>The fifteen entries I'd defend hardest if you only had one long weekend a year. Ranked by how much a curious traveller with wide tastes would get out of them.</p>
+      </div>
+      <span class="count-note">Top {{TOPN}} of the atlas</span>
+    </div>
+    <div class="lead-list">{{TOP}}</div>
+  </div>
+</section>
+
+<section id="method">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <h2>What's in a score</h2>
+        <p>The rating is not a Tripadvisor average. It is a single number for how much a wide-ranging, experience-hungry traveller would get from the thing itself.</p>
+      </div>
+    </div>
+    <div class="notes-grid">
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Novelty first</h4>
+        <p>How little of this you can get anywhere else. A clockmaker's workshop or a prison rodeo outranks a very good brewery tour, even when both are excellent Saturdays.</p>
+      </div>
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Then the whole experience</h4>
+        <p>Thrill, craft, hospitality, freedom to roam, value for money, and how well the operator treats a first-timer. Reviews are read for service and welcome, not just star count.</p>
+      </div>
+      <div class="notes" style="background:transparent;border:0;padding:0">
+        <h4>Who it's for</h4>
+        <p>Young adults are the default bias — but family institutions, retiree rituals and kid-first places stay in when they are genuinely world-class. Party size tells you how to book it.</p>
+      </div>
+    </div>
+    <div style="margin-top:34px">
+      <h4 style="font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted-2);margin-bottom:12px">Categories in the atlas</h4>
+      <div class="cat-strip">{{CATS}}</div>
+    </div>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — a personal atlas, compiled {BUILD}. Costs are indicative ranges per person; confirm with operators before booking.</span>
+    <span>United States edition &middot; <a href="#states">51 states &amp; districts</a></span>
+  </div>
+</footer>
+
+<script>
+window.ATLAS = {
+  stats: {{STATS}},
+  states: {{CARDS}}
+};
+</script>
+<script src="assets/atlas.js"></script>
+</body>
+</html>

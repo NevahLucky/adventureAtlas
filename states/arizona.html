@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arizona — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Arizona, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Arizona</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Arizona</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="alaska.html">&larr; Alaska</a></span>
+    <span><a class="pager-link" href="arkansas.html">Arkansas &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="alaska.html">&larr; Alaska</a></span>
+    <span><a class="pager-link" href="arkansas.html">Arkansas &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Arizona edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Arizona",
+  abbr: "AZ",
+  slug: "arizona",
+  stats: {"count": 11, "counties": 7, "free": 0, "median": 27, "top": 97},
+  counties: ["Apache", "Cochise", "Coconino", "Pima", "Pinal", "San Juan", "Yavapai"],
+  rows: [{"name": "Havasupai Falls", "city": "Supai", "county": "Coconino", "state": "Arizona", "cats": ["Hiking", "Water", "Adventure"], "cost": "$100–$400 permit", "cost_num": 250, "dur": "3–4 days", "dur_h": 72, "dates": "Feb–Nov", "start": "—", "company": "Havasupai Tribe", "party": "2–4", "customer": "Strong hikers, young adults", "unique": "Turquoise waterfalls in a side canyon of the Grand Canyon, reachable only by a ten-mile hike or a helicopter, on tribal land with a village of 200 people.", "buzz": "Permits are a lottery and people plan a year out; the hike out in heat is the hard part. Pack light and pay for the mule.", "rating": 97, "id": "havasupai-falls-supai"}, {"name": "Grand Canyon Mule Ride", "city": "Grand Canyon", "county": "Coconino", "state": "Arizona", "cats": ["Wildlife", "Hiking", "Historical"], "cost": "$150–$600", "cost_num": 350, "dur": "1–3 days", "dur_h": 24, "dates": "Mar–Nov", "start": "1900s", "company": "Xanterra / Grand Canyon National Park", "unique": "Descend the Bright Angel Trail on a mule to Phantom Ranch at the bottom of the canyon, sleep in a cabin and ride out the next day.", "buzz": "The mules know the trail better than you; reviews warn about saddle soreness and the weight limit is enforced. Book a year ahead.", "rating": 93, "party": "2–4", "customer": "Families with older kids, couples", "id": "grand-canyon-mule-ride-grand-canyon"}, {"name": "Antelope Canyon", "city": "Page", "county": "Coconino", "state": "Arizona", "cats": ["Nature", "Photography", "Spiritual"], "cost": "$70–$120", "cost_num": 90, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round; best Mar–Oct midday", "start": "—", "company": "Navajo Nation licensed tour operators", "party": "2–4", "customer": "Photographers, families, tourists", "unique": "A slot canyon carved into swirling sandstone, where a shaft of light hits the floor at midday and the walls glow orange, pink and purple.", "buzz": "The photography tour is worth the extra; the standard tour is rushed. Book months ahead and respect Navajo rules.", "rating": 92, "id": "antelope-canyon-page"}, {"name": "Monument Valley", "city": "Kayenta", "county": "San Juan", "state": "Arizona", "cats": ["Nature", "Native", "Road Trip"], "cost": "$8–$100 tour", "cost_num": 30, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1958", "company": "Navajo Nation Tribal Park", "party": "2–4", "customer": "Photographers, families, road-trippers", "unique": "The red sandstone buttes and mesas that defined the Western film, on Navajo land, with a 17-mile dirt loop and guided tours to areas you cannot drive.", "buzz": "The loop drive is spectacular and the guided tour goes deeper; the light at dawn and dusk is the reason photographers come.", "rating": 92, "id": "monument-valley-kayenta"}, {"name": "Canyon de Chelly", "city": "Chinle", "county": "Apache", "state": "Arizona", "cats": ["Historical", "Nature", "Native"], "cost": "Free–$100 tour", "cost_num": 40, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1931", "company": "National Park Service / Navajo guides", "party": "2–4", "customer": "History buffs, photographers, families", "unique": "A red sandstone canyon still farmed and lived in by Navajo families, with 1,000-year-old cliff dwellings and a white house ruin you can hike to without a guide.", "buzz": "The rim drives are free and stunning; the canyon floor requires a Navajo guide and is worth it. Fewer crowds than the Grand Canyon.", "rating": 91, "id": "canyon-de-chelly-chinle"}, {"name": "Arizona Sonora Desert Museum", "city": "Tucson", "county": "Pima", "state": "Arizona", "cats": ["Wildlife", "Museum", "Nature"], "cost": "$25–$30", "cost_num": 27, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1952", "company": "Arizona Sonora Desert Museum", "party": "2–6", "customer": "Families, nature people, retirees", "unique": "Part zoo, part botanical garden, part natural history museum, with hummingbirds landing on your hand and a cave you walk through in the dark.", "buzz": "People call it the best desert museum in the world; go at opening in summer and take the hummingbird aviary.", "rating": 90, "id": "arizona-sonora-desert-museum-tucson"}, {"name": "Sedona Vortex Hike", "city": "Sedona", "county": "Yavapai", "state": "Arizona", "cats": ["Spiritual", "Hiking", "Nature"], "cost": "$10–$30", "cost_num": 20, "dur": "3 hrs", "dur_h": 3, "dates": "Year-round", "start": "—", "company": "Self-guided / guided", "party": "2–4", "customer": "Spiritual seekers, hikers, couples", "unique": "Red sandstone spires and juniper forests at sites believed to concentrate energy, with hikes to Cathedral Rock and Airport Mesa that are gorgeous regardless of your metaphysics.", "buzz": "Believers and skeptics both love the landscape; sunrise at Cathedral Rock is crowded. Parking passes are required.", "rating": 88, "id": "sedona-vortex-hike-sedona"}, {"name": "Kartchner Caverns", "city": "Benson", "county": "Cochise", "state": "Arizona", "cats": ["Cave", "Science", "Nature"], "cost": "$25–$30", "cost_num": 27, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1974", "company": "Arizona State Parks", "party": "2–6", "customer": "Families, cave nerds, retirees", "unique": "A living cave discovered in 1974 and developed with airlocks and misters to protect it, with a 58-foot column and straws that are still growing.", "buzz": "The conservation story is as good as the formations; tours are timed and photography is limited. Book ahead.", "rating": 86, "id": "kartchner-caverns-benson"}, {"name": "Biosphere 2", "city": "Oracle", "county": "Pinal", "state": "Arizona", "cats": ["Science", "Architecture", "Quirky"], "cost": "$25–$30", "cost_num": 27, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1991", "company": "University of Arizona", "party": "2–4", "customer": "Science people, families, design fans", "unique": "A 3.1-acre sealed glass ecosystem where eight people lived for two years, now a research facility with an ocean, a rainforest and a savanna under glass.", "buzz": "The human experiment story is fascinating and the building is a monument to 1990s hubris; tours are well led.", "rating": 85, "id": "biosphere-2-oracle"}, {"name": "Meteor Crater", "city": "Winslow", "county": "Coconino", "state": "Arizona", "cats": ["Science", "Nature", "Quirky"], "cost": "$25–$30", "cost_num": 27, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "1906", "company": "Meteor Crater Enterprises", "party": "2–6", "customer": "Families, science people, road-trippers", "unique": "A one-mile-wide impact crater left by a 150-foot asteroid 50,000 years ago, with an Apollo training site and a guided rim tour.", "buzz": "It is more impressive than photos suggest; the museum is good and the wind is constant. A classic Route 66 stop.", "rating": 81, "id": "meteor-crater-winslow"}, {"name": "Tombstone Gunfight", "city": "Tombstone", "county": "Cochise", "state": "Arizona", "cats": ["Historical", "Performance", "Dark Tourism"], "cost": "$10–$20", "cost_num": 15, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round, daily", "start": "1881", "company": "City of Tombstone", "party": "2–6", "customer": "Families, history buffs, tourists", "unique": "The actual O.K. Corral site, with daily reenactments of the 30-second gunfight that killed three men, plus the Bird Cage Theatre and Boot Hill.", "buzz": "The reenactment is corny and fun; the historians are better than the show. The town is unapologetically a tourist trap and owns it.", "rating": 76, "id": "tombstone-gunfight-tombstone"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

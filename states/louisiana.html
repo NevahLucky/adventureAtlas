@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Louisiana — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Louisiana, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Louisiana</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Louisiana</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="kentucky.html">&larr; Kentucky</a></span>
+    <span><a class="pager-link" href="maine.html">Maine &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="kentucky.html">&larr; Kentucky</a></span>
+    <span><a class="pager-link" href="maine.html">Maine &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Louisiana edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Louisiana",
+  abbr: "LA",
+  slug: "louisiana",
+  stats: {"count": 9, "counties": 7, "free": 1, "median": 27, "top": 92},
+  counties: ["Iberia", "Lafayette", "Natchitoches", "Orleans", "St. James", "St. Tammany", "West Feliciana"],
+  rows: [{"name": "Preservation Hall", "city": "New Orleans", "county": "Orleans", "state": "Louisiana", "cats": ["Music", "Historical"], "cost": "$25–$50", "cost_num": 35, "dur": "1 hr", "dur_h": 1, "dates": "Year-round, nightly", "start": "1961", "company": "Preservation Hall", "party": "2–4", "customer": "Everyone, jazz fans, tourists", "unique": "A 200-person room with no air conditioning, no drinks and no amplification, where the oldest generation of New Orleans jazz musicians still plays nightly.", "buzz": "The line forms early and the room is a sauna; everyone says it is the best hour in the city. Buy the seated tickets if you can.", "rating": 92, "id": "preservation-hall-new-orleans"}, {"name": "New Orleans Jazz Fest", "city": "New Orleans", "county": "Orleans", "state": "Louisiana", "cats": ["Music", "Festival", "Food & Drink"], "cost": "$85–$200", "cost_num": 100, "dur": "2–4 days", "dur_h": 32, "dates": "Late Apr–early May", "start": "1970", "company": "New Orleans Jazz and Heritage Festival", "party": "2–8", "customer": "Music fans, families, food people", "unique": "Twelve stages of jazz, gospel, zydeco and rock, plus a food fair of crawfish monica, cochon de lait and mango freeze that rivals the music.", "buzz": "The food is half the reason to go; crowds are enormous and the walk from parking is long. Locals go early and leave before dark.", "rating": 91, "id": "new-orleans-jazz-fest-new-orleans"}, {"name": "Mardi Gras", "city": "New Orleans", "county": "Orleans", "state": "Louisiana", "cats": ["Festival", "Community", "Music"], "cost": "Free–$100", "cost_num": 25, "dur": "2–5 days", "dur_h": 40, "dates": "Jan–Feb, Fat Tuesday", "start": "1857", "company": "Krewes / City of New Orleans", "party": "4–10", "customer": "Everyone, young adults, families", "unique": "Weeks of parades built by private krewes, with floats, brass bands, beads and a social order that goes back generations.", "buzz": "Go to the uptown parades, not just Bourbon Street; locals are welcoming if you respect the routes. Book lodging months ahead.", "rating": 90, "id": "mardi-gras-new-orleans"}, {"name": "Crawfish Boil Season", "city": "Lafayette", "county": "Lafayette", "state": "Louisiana", "cats": ["Food & Drink", "Community", "Festival"], "cost": "$15–$40", "cost_num": 25, "dur": "3 hrs", "dur_h": 3, "dates": "Mar–Jun", "start": "—", "company": "Local boils / Breaux Bridge restaurants", "party": "4–12", "customer": "Everyone, families, young adults", "unique": "A backyard ritual elevated to civic religion: a propane burner, a 100-quart pot, crawfish, corn, potatoes and a table covered in newspaper.", "buzz": "The best boils are at someone's house; Breaux Bridge in spring is the fallback. Learn to peel or go hungry.", "rating": 88, "id": "crawfish-boil-season-lafayette"}, {"name": "Honey Island Swamp Tour", "city": "Slidell", "county": "St. Tammany", "state": "Louisiana", "cats": ["Wildlife", "Nature", "Water"], "cost": "$30–$45", "cost_num": 35, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1980s", "company": "Dr. Wagner's Honey Island Swamp Tours", "party": "2–6", "customer": "Families, wildlife people, tourists", "unique": "A small boat into a cypress swamp with wild alligators, barred owls and a trapper's camp, guided by people who live on the water.", "buzz": "Small boats beat the big airboats for wildlife; guides are funny and knowledgeable. Bring bug spray and a zoom lens.", "rating": 85, "id": "honey-island-swamp-tour-slidell"}, {"name": "Angola Prison Rodeo", "city": "Angola", "county": "West Feliciana", "state": "Louisiana", "cats": ["Rodeo", "Dark Tourism", "Festival"], "cost": "$20–$40", "cost_num": 30, "dur": "Full day", "dur_h": 6, "dates": "Sundays in October", "start": "1965", "company": "Louisiana State Penitentiary", "party": "2–6", "customer": "Curious travellers, photographers, locals", "unique": "Inmates ride bulls and compete in poker-on-horseback inside a maximum-security prison, with a craft fair of prison-made goods and a crowd of thousands.", "buzz": "People call it the most complicated day of their trip — spectacle, exploitation and genuine skill all at once. Tickets sell out.", "rating": 84, "id": "angola-prison-rodeo-angola"}, {"name": "Oak Alley Plantation", "city": "Vacherie", "county": "St. James", "state": "Louisiana", "cats": ["Historical", "Architecture", "Nature"], "cost": "$25–$30", "cost_num": 27, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "1839", "company": "Oak Alley Plantation", "party": "2–4", "customer": "History buffs, families, tourists", "unique": "A quarter-mile avenue of 300-year-old live oaks leading to a Greek Revival mansion, with the slave quarters and sugar operation interpreted alongside the beauty.", "buzz": "The grounds are stunning and the slavery exhibits are more honest than most; the mint julep is a nice touch. Go early for photos.", "rating": 83, "id": "oak-alley-plantation-vacherie"}, {"name": "Avery Island Tabasco Tour", "city": "Avery Island", "county": "Iberia", "state": "Louisiana", "cats": ["Food & Drink", "Maker", "Nature"], "cost": "$5–$15", "cost_num": 10, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round, closed weekends", "start": "1868", "company": "McIlhenny Company", "party": "2–6", "customer": "Food people, families, road-trippers", "unique": "The pepper sauce aged in white oak barrels on a salt dome, with a museum, a jungle garden of camellias and a walk where you can see the barrels sweating.", "buzz": "Cheap, quirky and genuinely interesting; the gardens are a surprise. The tasting room lets you try the family's reserve sauce.", "rating": 82, "id": "avery-island-tabasco-tour-avery-island"}, {"name": "Natchitoches Christmas Lights", "city": "Natchitoches", "county": "Natchitoches", "state": "Louisiana", "cats": ["Festival", "Community", "Family"], "cost": "Free", "cost_num": 0, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Late Nov–early Jan", "start": "1927", "company": "City of Natchitoches", "party": "2–6", "customer": "Families, couples, retirees", "unique": "Three hundred thousand lights along a 33-block historic riverfront, with boat parades, fireworks and meat pies — the oldest holiday light display in the South.", "buzz": "It is a genuine small-town spectacle; parking is the challenge. Eat a Natchitoches meat pie while you walk.", "rating": 80, "id": "natchitoches-christmas-lights-natchitoches"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

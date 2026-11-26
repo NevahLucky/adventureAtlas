@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hawaii — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Hawaii, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Hawaii</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Hawaii</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="georgia.html">&larr; Georgia</a></span>
+    <span><a class="pager-link" href="idaho.html">Idaho &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="georgia.html">&larr; Georgia</a></span>
+    <span><a class="pager-link" href="idaho.html">Idaho &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Hawaii edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Hawaii",
+  abbr: "HI",
+  slug: "hawaii",
+  stats: {"count": 12, "counties": 5, "free": 0, "median": 35, "top": 94},
+  counties: ["Hawaii", "Honolulu", "Kalawao", "Kauai", "Maui"],
+  rows: [{"name": "Na Pali Coast Kayak", "city": "Hanalei", "county": "Kauai", "state": "Hawaii", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$250–$400", "cost_num": 300, "dur": "Full day", "dur_h": 9, "dates": "May–Sep", "start": "1980s", "company": "Na Pali kayak outfitters", "party": "2–4", "customer": "Strong paddlers, adventurers", "unique": "Seventeen miles of fluted green cliffs dropping into the Pacific, with sea caves, dolphins and a beach landing at Kalalau.", "buzz": "It is a serious paddle with open-ocean crossings; guides are excellent and the scenery is unmatched. Not for beginners.", "rating": 94, "id": "na-pali-coast-kayak-hanalei"}, {"name": "Hawaii Volcanoes National Park", "city": "Volcano", "county": "Hawaii", "state": "Hawaii", "cats": ["Nature", "Science", "Hiking"], "cost": "$30 vehicle", "cost_num": 30, "dur": "Full day", "dur_h": 7, "dates": "Year-round", "start": "1916", "company": "National Park Service", "party": "2–4", "customer": "Families, geology nerds, photographers", "unique": "An active volcano you can drive around, with steam vents, a lava tube and, when the eruption is on, glowing lava entering the sea.", "buzz": "Check the eruption status before you go; the crater rim drive is excellent regardless. Bring rain gear.", "rating": 93, "id": "hawaii-volcanoes-national-park-volcano"}, {"name": "Mauna Kea Stargazing", "city": "Waimea", "county": "Hawaii", "state": "Hawaii", "cats": ["Science", "Nature", "Spiritual"], "cost": "$100–$200 tour", "cost_num": 150, "dur": "4–5 hrs", "dur_h": 4.5, "dates": "Year-round", "start": "1968", "company": "Mauna Kea tour operators / self-drive", "party": "2–4", "customer": "Stargazers, families, couples", "unique": "A 13,796-foot summit above a third of the atmosphere, with observatories, sunset above the clouds and a sky that reveals the Milky Way's dust lanes.", "buzz": "Altitude sickness is real and tours handle the acclimatization; the summit at sunset is cold and unforgettable. Book a tour with parkas.", "rating": 93, "id": "mauna-kea-stargazing-waimea"}, {"name": "Manta Ray Night Snorkel", "city": "Kailua-Kona", "county": "Hawaii", "state": "Hawaii", "cats": ["Wildlife", "Water", "Nightlife"], "cost": "$100–$150", "cost_num": 120, "dur": "3 hrs", "dur_h": 3, "dates": "Year-round, nightly", "start": "1990s", "company": "Kona manta ray snorkel operators", "party": "2–4", "customer": "Families, snorkelers, couples", "unique": "Giant manta rays with 12-foot wingspans loop within inches of your mask at night, feeding on plankton in the beam of a surfboard light.", "buzz": "People call it the best wildlife encounter in Hawaii; the water is calm and the mantas are habituated. Book a small boat.", "rating": 92, "id": "manta-ray-night-snorkel-kailua-kona"}, {"name": "Haleakala Sunrise", "city": "Kula", "county": "Maui", "state": "Hawaii", "cats": ["Nature", "Spiritual", "Hiking"], "cost": "$30 + reservation", "cost_num": 30, "dur": "4–5 hrs", "dur_h": 4.5, "dates": "Year-round", "start": "1916", "company": "National Park Service", "party": "2–4", "customer": "Couples, families, photographers", "unique": "Watch the sun rise above the clouds from a 10,023-foot volcanic summit, then bike or hike down through a crater that looks like the moon.", "buzz": "The 3am alarm and the cold are real; reservations are required and sell out. The crater hike is better than the sunrise for some.", "rating": 91, "id": "haleakala-sunrise-kula"}, {"name": "Kalaupapa Mule Ride", "city": "Kalaupapa", "county": "Kalawao", "state": "Hawaii", "cats": ["Historical", "Wildlife", "Adventure"], "cost": "$200–$300", "cost_num": 250, "dur": "Full day", "dur_h": 7, "dates": "Mon–Sat, weather permitting", "start": "1873", "company": "Molokai Mule Ride", "party": "2–4", "customer": "History buffs, adventurous families", "unique": "Ride a mule down 1,700 feet of sea cliffs on a switchback trail into the isolated peninsula where Hansen's disease patients were exiled for a century.", "buzz": "The history is devastating and the ride is genuinely thrilling; the settlement tour is led by residents. Book far ahead.", "rating": 91, "id": "kalaupapa-mule-ride-kalaupapa"}, {"name": "Waimea Canyon", "city": "Waimea", "county": "Kauai", "state": "Hawaii", "cats": ["Nature", "Hiking", "Road Trip"], "cost": "Free–$30", "cost_num": 15, "dur": "Half day", "dur_h": 5, "dates": "Year-round", "start": "—", "company": "Kokee State Park", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "The Grand Canyon of the Pacific: a ten-mile gorge of red and green, with lookouts, goats on the cliffs and a trail into the kalalau valley.", "buzz": "The colors are unreal after rain; the drive up is steep and the clouds roll in by noon. Go early.", "rating": 91, "id": "waimea-canyon-waimea"}, {"name": "Pearl Harbor", "city": "Honolulu", "county": "Honolulu", "state": "Hawaii", "cats": ["Historical", "Museum", "Water"], "cost": "Free–$30", "cost_num": 15, "dur": "Half day", "dur_h": 5, "dates": "Year-round", "start": "1962", "company": "National Park Service / US Navy", "party": "2–6", "customer": "Families, history buffs, veterans", "unique": "The USS Arizona Memorial floats above the sunken battleship, with oil still seeping from the hull, plus the Missouri and a submarine you can board.", "buzz": "The Arizona is free but timed and somber; the aviation museum and the Missouri are the add-ons. Book the free tickets early.", "rating": 90, "id": "pearl-harbor-honolulu"}, {"name": "North Shore Surf", "city": "Haleiwa", "county": "Honolulu", "state": "Hawaii", "cats": ["Water", "Adrenaline", "Nature"], "cost": "Free–$100 lesson", "cost_num": 40, "dur": "Half day", "dur_h": 4, "dates": "Oct–Apr for big waves", "start": "—", "company": "Free / North Shore surf schools", "party": "2–4", "customer": "Surfers, spectators, young adults", "unique": "The Seven Mile Miracle: Pipeline, Sunset and Waimea in a row, where the world's best surfers ride waves that can close out the bay.", "buzz": "Watch from the beach in winter and surf the gentler breaks in summer; respect the locals and the reef.", "rating": 89, "id": "north-shore-surf-haleiwa"}, {"name": "Road to Hana", "city": "Hana", "county": "Maui", "state": "Hawaii", "cats": ["Road Trip", "Nature", "Water"], "cost": "Free–$30", "cost_num": 15, "dur": "Full day", "dur_h": 9, "dates": "Year-round", "start": "1926", "company": "Self-guided", "party": "2–4", "customer": "Families, couples, road-trippers", "unique": "Six hundred curves and fifty-nine one-lane bridges through rainforest, waterfalls and black-sand beaches, with banana bread stands and no hurry.", "buzz": "Start before 6am, drive one way and swim at the stops; the back road is rough and rental agreements may forbid it.", "rating": 89, "id": "road-to-hana-hana"}, {"name": "Molokini Snorkel", "city": "Kihei", "county": "Maui", "state": "Hawaii", "cats": ["Water", "Wildlife", "Family"], "cost": "$80–$130", "cost_num": 100, "dur": "4 hrs", "dur_h": 4, "dates": "Year-round; best morning", "start": "1970s", "company": "Maui snorkel tour operators", "party": "2–6", "customer": "Families, snorkelers, couples", "unique": "A partially submerged volcanic crater with 150-foot visibility, a coral reef inside the curve and turtles on the outside.", "buzz": "Morning trips beat the wind and the crowds; the crater is protected and the fish are tame. Seasickness is possible.", "rating": 87, "id": "molokini-snorkel-kihei"}, {"name": "Hanauma Bay", "city": "Honolulu", "county": "Honolulu", "state": "Hawaii", "cats": ["Water", "Wildlife", "Family"], "cost": "$25 + reservation", "cost_num": 27, "dur": "3 hrs", "dur_h": 3, "dates": "Wed–Sun, closed Tue", "start": "1967", "company": "City and County of Honolulu", "party": "2–6", "customer": "Families, snorkelers, tourists", "unique": "A flooded volcanic crater with a coral reef and tame reef fish, a short bus ride from Waikiki, with a marine education center and strict capacity limits.", "buzz": "Reservations open two days ahead and vanish; go at opening for clear water. The reef is recovering and the rules matter.", "rating": 85, "id": "hanauma-bay-honolulu"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

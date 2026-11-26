@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>District of Columbia — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in District of Columbia, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>District of Columbia</span></div>
+    <div class="state-title">
+      <div>
+        <h1>District of Columbia</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="delaware.html">&larr; Delaware</a></span>
+    <span><a class="pager-link" href="florida.html">Florida &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="delaware.html">&larr; Delaware</a></span>
+    <span><a class="pager-link" href="florida.html">Florida &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — District of Columbia edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "District of Columbia",
+  abbr: "DC",
+  slug: "district-of-columbia",
+  stats: {"count": 6, "counties": 1, "free": 5, "median": 0, "top": 91},
+  counties: ["District of Columbia"],
+  rows: [{"name": "National Air and Space Museum", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Museum", "Science", "Historical"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Year-round, timed passes", "start": "1946", "company": "Smithsonian Institution", "party": "2–6", "customer": "Families, kids, aviation nerds", "unique": "The Wright Flyer, the Spirit of St. Louis, a moon rock you can touch and the actual command module from Apollo 11, all free.", "buzz": "The renovated galleries are stunning; timed passes vanish, so reserve at 10am exactly 30 days out.", "rating": 91, "id": "national-air-and-space-museum-washington"}, {"name": "Library of Congress", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Architecture", "Historical", "Literary"], "cost": "Free", "cost_num": 0, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round, closed Sundays", "start": "1800", "company": "Library of Congress", "party": "2–4", "customer": "Readers, architecture fans, families", "unique": "The Main Reading Room and the Great Hall: mosaics, murals and marble, plus Jefferson's own library and a Gutenberg Bible behind glass.", "buzz": "The free timed-entry pass is the easiest win in DC; the reading room overlook is the photo. Don't miss the tunnel to the Capitol.", "rating": 88, "id": "library-of-congress-washington"}, {"name": "Kennedy Center Millennium Stage", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Performance", "Music"], "cost": "Free", "cost_num": 0, "dur": "1 hr", "dur_h": 1, "dates": "Year-round, most evenings", "start": "1971", "company": "John F. Kennedy Center for the Performing Arts", "party": "2–4", "customer": "Everyone, students, locals", "unique": "A free performance every single evening at 6pm, from gospel choirs to chamber music to experimental theater, in a marble hall over the Potomac.", "buzz": "Locals treat it as the best free cultural secret in the city; the rooftop terrace at sunset is its own attraction.", "rating": 86, "id": "kennedy-center-millennium-stage-washington"}, {"name": "Cherry Blossom Festival", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Festival", "Nature", "Community"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 4, "dates": "Late March–early April", "start": "1912", "company": "National Park Service", "party": "NA", "customer": "Everyone, photographers, families", "unique": "Three thousand cherry trees gifted by Tokyo in 1912 detonate into a pink ring around the Tidal Basin for ten days, with a parade and kite festival.", "buzz": "Peak bloom is unpredictable; locals check the NPS forecast daily and go at dawn. Parking is impossible — take Metro.", "rating": 85, "id": "cherry-blossom-festival-washington"}, {"name": "National Zoo", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Wildlife", "Family", "Science"], "cost": "Free", "cost_num": 0, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Year-round", "start": "1889", "company": "Smithsonian Institution", "party": "2–6", "customer": "Families, kids, locals", "unique": "Giant pandas when the loan agreement allows, a free zoo in Rock Creek Park, and the compact Asia Trail that puts you feet from a sloth bear.", "buzz": "Free entry makes it a DC staple; the pandas drive the crowds and the hill is steeper than it looks. Go at opening.", "rating": 83, "id": "national-zoo-washington"}, {"name": "International Spy Museum", "city": "Washington", "county": "District of Columbia", "state": "District of Columbia", "cats": ["Museum", "Puzzle", "Historical"], "cost": "$25–$30", "cost_num": 28, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "2002", "company": "International Spy Museum", "party": "2–4", "customer": "Families, teens, history nerds", "unique": "Tradecraft you can touch: a real Enigma, disguise stations, listening devices and the stories of spies who defected, lied and disappeared.", "buzz": "The interactive undercover assignment is a hit with teens; adults want more artifacts and less queue. Book a timed slot.", "rating": 80, "id": "international-spy-museum-washington"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

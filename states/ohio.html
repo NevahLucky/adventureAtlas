@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ohio — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Ohio, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Ohio</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Ohio</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="north-dakota.html">&larr; North Dakota</a></span>
+    <span><a class="pager-link" href="oklahoma.html">Oklahoma &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="north-dakota.html">&larr; North Dakota</a></span>
+    <span><a class="pager-link" href="oklahoma.html">Oklahoma &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Ohio edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Ohio",
+  abbr: "OH",
+  slug: "ohio",
+  stats: {"count": 8, "counties": 8, "free": 1, "median": 25, "top": 92},
+  counties: ["Adams", "Cuyahoga", "Erie", "Hocking", "Holmes", "Montgomery", "Ottawa", "Warren"],
+  rows: [{"name": "National Museum of the US Air Force", "city": "Dayton", "county": "Montgomery", "state": "Ohio", "cats": ["Museum", "Science", "Historical"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 5, "dates": "Year-round", "start": "1923", "company": "US Air Force", "party": "2–6", "customer": "Families, aviation nerds, veterans", "unique": "The largest military aviation museum in the world: B-17s, a B-2 stealth bomber, an SR-71 and the actual Memphis Belle, all free.", "buzz": "People plan two hours and stay five; the hangars are enormous and the volunteer veterans are a highlight. Free parking, too.", "rating": 92, "id": "national-museum-of-the-us-air-force-dayton"}, {"name": "Cedar Point", "city": "Sandusky", "county": "Erie", "state": "Ohio", "cats": ["Adrenaline", "Family"], "cost": "$70–$100", "cost_num": 85, "dur": "Full day", "dur_h": 9, "dates": "May–Oct", "start": "1870", "company": "Cedar Point", "party": "2–6", "customer": "Teens, coaster nerds, families", "unique": "The roller coaster capital of the world on a Lake Erie peninsula: 18 coasters, including dragster-style launches and a wooden hybrid that regularly tops global rankings.", "buzz": "Coaster fans plan entire trips around it; everyone warns about fast-lane pricing and closing-time traffic. Go midweek in early June.", "rating": 90, "id": "cedar-point-sandusky"}, {"name": "Hocking Hills", "city": "Logan", "county": "Hocking", "state": "Ohio", "cats": ["Hiking", "Nature", "Cave"], "cost": "Free–$15", "cost_num": 8, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1924", "company": "Ohio State Parks", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "Recess Cave, Old Man's Cave and Cedar Falls: a sandstone gorge system of waterfalls, hemlock forest and huge overhangs you can walk behind.", "buzz": "The trails are crowded on summer weekends and magical in winter; the Grandma Gatewood trail links the main falls. Book a cabin early.", "rating": 89, "id": "hocking-hills-logan"}, {"name": "Serpent Mound", "city": "Peebles", "county": "Adams", "state": "Ohio", "cats": ["Historical", "Spiritual", "Nature"], "cost": "$8", "cost_num": 8, "dur": "1.5 hrs", "dur_h": 1.5, "dates": "Year-round", "start": "c. 320 BC", "company": "Ohio History Connection", "party": "2–4", "customer": "History buffs, photographers, spiritual seekers", "unique": "A quarter-mile effigy of a serpent built by indigenous people two thousand years ago on a crater rim, aligned to the solstice, with no consensus on what it meant.", "buzz": "People describe a strange calm on the ridge; the museum is small and the site is best at sunrise or dusk.", "rating": 85, "id": "serpent-mound-peebles"}, {"name": "Rock and Roll Hall of Fame", "city": "Cleveland", "county": "Cuyahoga", "state": "Ohio", "cats": ["Music", "Museum", "Architecture"], "cost": "$35–$40", "cost_num": 38, "dur": "3–4 hrs", "dur_h": 3.5, "dates": "Year-round", "start": "1995", "company": "Rock and Roll Hall of Fame", "party": "2–4", "customer": "Music fans, families, boomers", "unique": "I.M. Pei's glass pyramid on the lake, holding Prince's guitar, Janis Joplin's Porsche and a hall of signatures that reads like a century of American noise.", "buzz": "The films and artifacts are stronger than the interactives; allow four hours. The lakefront setting is best at sunset.", "rating": 84, "id": "rock-and-roll-hall-of-fame-cleveland"}, {"name": "Kings Island", "city": "Mason", "county": "Warren", "state": "Ohio", "cats": ["Adrenaline", "Family"], "cost": "$50–$80", "cost_num": 65, "dur": "Full day", "dur_h": 8, "dates": "Apr–Oct", "start": "1972", "company": "Kings Island", "party": "2–6", "customer": "Families, teens, coaster fans", "unique": "The Beast, still the longest wooden coaster in the world, plus a kids' area and a water park in a wooded park north of Cincinnati.", "buzz": "The Beast at night is a genuine rite of passage; lines are manageable midweek. Food is standard park fare.", "rating": 82, "id": "kings-island-mason"}, {"name": "Amish Country", "city": "Berlin", "county": "Holmes", "state": "Ohio", "cats": ["Food & Drink", "Community", "Relaxing"], "cost": "Free–$30", "cost_num": 15, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1800s", "company": "Self-guided", "party": "2–6", "customer": "Families, food people, retirees", "unique": "The largest Amish settlement in the world: draft horses on the road, bulk-food stores, furniture workshops and a bakery culture that runs on lard and butter.", "buzz": "Go on a weekday, respect the no-photos signs, and eat at a family-style restaurant. The flea market is enormous on Thursdays.", "rating": 80, "id": "amish-country-berlin"}, {"name": "Put-in-Bay", "city": "Put-in-Bay", "county": "Ottawa", "state": "Ohio", "cats": ["Water", "Nightlife", "Historical"], "cost": "$20–$60", "cost_num": 35, "dur": "Full day", "dur_h": 7, "dates": "May–Oct", "start": "1854", "company": "Miller Ferry / self-guided", "party": "4–8", "customer": "Young adults, families, boaters", "unique": "A Lake Erie island reached by ferry, with golf carts, a 352-foot monument to a War of 1812 naval victory and a bar scene that gets loud by 3pm.", "buzz": "Rent a golf cart and circumnavigate the island; the wineries and the monument are the calm counterpoint. Ferries sell out on summer weekends.", "rating": 78, "id": "put-in-bay-put-in-bay"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

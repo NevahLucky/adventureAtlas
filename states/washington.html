@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Washington — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in Washington, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>Washington</span></div>
+    <div class="state-title">
+      <div>
+        <h1>Washington</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="virginia.html">&larr; Virginia</a></span>
+    <span><a class="pager-link" href="west-virginia.html">West Virginia &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="virginia.html">&larr; Virginia</a></span>
+    <span><a class="pager-link" href="west-virginia.html">West Virginia &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — Washington edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "Washington",
+  abbr: "WA",
+  slug: "washington",
+  stats: {"count": 9, "counties": 9, "free": 2, "median": 15, "top": 93},
+  counties: ["Chelan", "Cowlitz", "Island", "Jefferson", "King", "Pierce", "San Juan", "Whatcom", "Whitman"],
+  rows: [{"name": "Mount Rainier Skyline Trail", "city": "Paradise", "county": "Pierce", "state": "Washington", "cats": ["Hiking", "Nature"], "cost": "$30 vehicle", "cost_num": 30, "dur": "4–5 hrs", "dur_h": 4.5, "dates": "Jul–Sep", "start": "1899", "company": "National Park Service", "party": "2–4", "customer": "Hikers, families, photographers", "unique": "A 14,410-foot glaciated volcano with wildflower meadows at 6,000 feet, and a loop trail that puts Rainier, the Tatoosh Range and a waterfall in one frame.", "buzz": "The wildflowers in late July are legendary; the trail is crowded and the altitude is real. Start early for parking.", "rating": 93, "id": "mount-rainier-skyline-trail-paradise"}, {"name": "Hoh Rainforest", "city": "Forks", "county": "Jefferson", "state": "Washington", "cats": ["Nature", "Hiking", "Spiritual"], "cost": "$30 vehicle", "cost_num": 30, "dur": "Half day", "dur_h": 4, "dates": "Year-round", "start": "1938", "company": "Olympic National Park", "party": "2–4", "customer": "Families, photographers, nature people", "unique": "A temperate rainforest of moss-draped maples and Sitka spruce, with the Hall of Mosses and a river the color of green glass.", "buzz": "People whisper in the Hall of Mosses; it is genuinely otherworldly. Rain is likely and part of the experience.", "rating": 92, "id": "hoh-rainforest-forks"}, {"name": "North Cascades", "city": "Marblemount", "county": "Whatcom", "state": "Washington", "cats": ["Nature", "Hiking", "Road Trip"], "cost": "Free", "cost_num": 0, "dur": "Full day", "dur_h": 8, "dates": "Jun–Oct", "start": "1968", "company": "National Park Service", "party": "2–4", "customer": "Hikers, photographers, road-trippers", "unique": "Jagged peaks, turquoise glacial lakes and more glaciers than any other park in the lower 48, with a highway that crosses three dams and a pass.", "buzz": "People call it the American Alps and note how empty it is; the trails are steep and the weather changes fast.", "rating": 92, "id": "north-cascades-marblemount"}, {"name": "San Juan Islands Orca Kayak", "city": "Friday Harbor", "county": "San Juan", "state": "Washington", "cats": ["Wildlife", "Water", "Adventure"], "cost": "$100–$200", "cost_num": 150, "dur": "Full day", "dur_h": 6, "dates": "May–Sep", "start": "1980s", "company": "San Juan Island kayak outfitters", "party": "2–4", "customer": "Wildlife people, couples, families with teens", "unique": "Paddle the Salish Sea among the San Juan islands, with resident orcas, humpbacks, porpoises and bald eagles — and no guarantee of any of them.", "buzz": "Guides are excellent on whale-watch rules; the kayak is quieter and closer than a boat. Sightings are luck, so book two days.", "rating": 89, "id": "san-juan-islands-orca-kayak-friday-harbor"}, {"name": "Mount St. Helens", "city": "Castle Rock", "county": "Cowlitz", "state": "Washington", "cats": ["Nature", "Science", "Hiking"], "cost": "Free–$10", "cost_num": 10, "dur": "Half day", "dur_h": 5, "dates": "May–Oct", "start": "1982", "company": "US Forest Service", "party": "2–4", "customer": "Families, geology nerds, photographers", "unique": "The volcano that blew its top in 1980, with a crater, a lava dome, a buried forest and a visitor center that shows the blast minute by minute.", "buzz": "The Johnston Ridge view is extraordinary on a clear day; clouds can erase everything. Check the webcam before driving.", "rating": 86, "id": "mount-st-helens-castle-rock"}, {"name": "Pike Place Market", "city": "Seattle", "county": "King", "state": "Washington", "cats": ["Market", "Food & Drink", "Historical"], "cost": "Free–$30", "cost_num": 15, "dur": "2–3 hrs", "dur_h": 2.5, "dates": "Year-round", "start": "1907", "company": "Pike Place Market", "party": "2–4", "customer": "Everyone, food people, tourists", "unique": "A century-old public market on a bluff above the sound: fish throwing, the original Starbucks, a gum wall and a maze of levels that rewards wandering.", "buzz": "Go at 8am before the crowds and eat at a counter; the fish throw is a photo op, the produce is the real thing.", "rating": 86, "id": "pike-place-market-seattle"}, {"name": "Palouse", "city": "Pullman", "county": "Whitman", "state": "Washington", "cats": ["Road Trip", "Photography", "Nature"], "cost": "Free", "cost_num": 0, "dur": "Half day", "dur_h": 5, "dates": "May–Sep", "start": "—", "company": "Self-guided", "party": "NA", "customer": "Photographers, road-trippers", "unique": "Rolling loess hills planted in wheat, lentils and canola, forming green and gold waves that look like a painting from the ridge roads.", "buzz": "Photographers plan around harvest and sunrise; the back roads are gravel and the towns are tiny. Steptoe Butte is the viewpoint.", "rating": 85, "id": "palouse-pullman"}, {"name": "Deception Pass", "city": "Oak Harbor", "county": "Island", "state": "Washington", "cats": ["Nature", "Hiking", "Water"], "cost": "$10–$30", "cost_num": 15, "dur": "3 hrs", "dur_h": 3, "dates": "Year-round", "start": "1935", "company": "Washington State Parks", "party": "2–4", "customer": "Families, hikers, photographers", "unique": "A bridge 180 feet above a churning tidal channel between two islands, with cliffs, old-growth forest and sea lions below.", "buzz": "The bridge walk is free and thrilling; the currents are dangerous for swimming. Sunset from the bridge is the shot.", "rating": 84, "id": "deception-pass-oak-harbor"}, {"name": "Leavenworth", "city": "Leavenworth", "county": "Chelan", "state": "Washington", "cats": ["Quirky", "Nature", "Festival"], "cost": "Free–$40", "cost_num": 20, "dur": "Full day", "dur_h": 6, "dates": "Year-round; Christmas lighting Dec", "start": "1962", "company": "City of Leavenworth", "party": "2–6", "customer": "Families, couples, Oktoberfest crowds", "unique": "A failing logging town remade itself as a Bavarian village, with nutcrackers, bratwurst, accordion music and the Cascades as a backdrop.", "buzz": "It is kitsch executed with real commitment; Oktoberfest is a mob and the Christmas lights are genuinely charming.", "rating": 78, "id": "leavenworth-leavenworth"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

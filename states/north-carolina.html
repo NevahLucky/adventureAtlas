@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>North Carolina — Waypoint Atlas of Adventures</title>
+<meta name="description" content="Every adventure worth the trip in North Carolina, ranked, costed and filterable by county.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314181c'/%3E%3Ccircle cx='16' cy='13' r='5' fill='%23ac3f1c'/%3E%3Cpath d='M16 32l5-13h-10z' fill='%23ac3f1c'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/atlas.css">
+</head>
+<body data-page="state">
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="../index.html"><span class="dot"></span>Waypoint <small>Atlas of Adventures</small></a>
+    <nav class="nav">
+      <a href="../index.html#countries">Countries</a>
+      <a href="../index.html#states">All states</a>
+      <a href="../index.html#shortlist">Shortlist</a>
+      <a class="nav-cta" href="#table">The list</a>
+    </nav>
+  </div>
+</header>
+
+<div class="state-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="../index.html">Atlas</a> <span>/</span> <a href="../index.html#states">United States</a> <span>/</span> <span>North Carolina</span></div>
+    <div class="state-title">
+      <div>
+        <h1>North Carolina</h1>
+        <p class="sub" id="stateSub"></p>
+      </div>
+      <div class="state-stats" id="stateStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="pager">
+    <span><a class="pager-link" href="new-york.html">&larr; New York</a></span>
+    <span><a class="pager-link" href="north-dakota.html">North Dakota &rarr;</a></span>
+  </div>
+
+  <div class="toolbar" id="toolbar">
+    <div class="tb-row">
+      <span class="lbl">County</span>
+      <select class="input" id="fCounty"><option value="">All counties</option></select>
+      <span class="lbl" style="margin-left:8px">Duration</span>
+      <select class="input" id="fDur">
+        <option value="">Any length</option>
+        <option value="0-3">Under 3 hours</option>
+        <option value="3-6">3–6 hours</option>
+        <option value="6-12">A full day</option>
+        <option value="12-48">Overnight</option>
+        <option value="48-9999">Multi-day</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Budget</span>
+      <select class="input" id="fCost">
+        <option value="">Any cost</option>
+        <option value="0">Free only</option>
+        <option value="0-40">Under $40</option>
+        <option value="0-100">Under $100</option>
+        <option value="0-250">Under $250</option>
+        <option value="250-99999">$250+</option>
+      </select>
+      <span class="lbl" style="margin-left:8px">Party</span>
+      <select class="input" id="fParty">
+        <option value="">Any party</option>
+        <option value="solo">Good solo</option>
+        <option value="couple">Two people</option>
+        <option value="small">3–6 people</option>
+        <option value="big">7+ / group</option>
+        <option value="na">Doesn't matter</option>
+      </select>
+      <div class="tb-right">
+        <button class="mini-btn" id="fStar">&#9733; Shortlist</button>
+        <button class="mini-btn" id="btnCsv">CSV</button>
+        <button class="mini-btn" id="btnReset">Reset</button>
+      </div>
+    </div>
+    <div class="tb-row" id="catRow"></div>
+    <div class="tb-row">
+      <span class="lbl">Counties</span>
+      <div class="counties" id="countyChips"></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="tb-row">
+      <input class="input" id="q" type="search" placeholder="Search names, companies, categories, notes…" style="flex:1;min-width:200px">
+      <span class="counter" id="sortedBy" style="margin-left:0"></span>
+    </div>
+  </div>
+
+  <div class="table-shell" id="table">
+    <table class="atlas" id="atlas">
+      <colgroup>
+        <col style="width:22px">
+        <col style="width:188px">
+        <col style="width:94px">
+        <col style="width:104px">
+        <col style="width:82px">
+        <col style="width:74px">
+        <col style="width:58px">
+        <col style="width:98px">
+        <col style="width:56px">
+        <col style="width:118px">
+        <col style="width:92px">
+        <col style="width:176px">
+        <col style="width:166px">
+        <col style="width:78px">
+      </colgroup>
+      <thead id="head">
+        <tr>
+          <th data-k="star" title="Your shortlist">&#9733;</th>
+          <th data-k="name">Adventure</th>
+          <th data-k="county">County</th>
+          <th data-k="cats">Category</th>
+          <th data-k="cost_num">Cost</th>
+          <th data-k="dur_h">Duration</th>
+          <th data-k="party">Party</th>
+          <th data-k="dates">Season</th>
+          <th data-k="start">Est.</th>
+          <th data-k="company">Access</th>
+          <th data-k="customer">Customer</th>
+          <th data-k="unique">Why it's unique</th>
+          <th data-k="buzz">Reviews</th>
+          <th data-k="rating">Overall</th>
+        </tr>
+      </thead>
+      <tbody id="tb"><tr><td colspan="14" class="empty">Loading the atlas…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="notes" style="margin:34px 0 50px;border:1px solid var(--line);border-radius:4px">
+    <div class="wrap" style="padding:0 22px">
+      <div class="notes-grid">
+        <div><h4>How to read the score</h4><p>One number, 0–100, for how much a curious traveller with wide tastes would get out of it: novelty, thrill, craft, hospitality, freedom and value — biased toward young adults, not exclusive to them.</p></div>
+        <div><h4>Costs and dates</h4><p>Indicative per-person ranges for the activity itself, gear and standard guiding. Festivals and seasonal places list their window; always confirm the current year with the operator.</p></div>
+        <div><h4>Party size</h4><p>A suggestion, not a rule: “2–4” is where it sings, “NA” means it truly doesn't matter. Useful when you're assembling family versus friends.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pager" style="border-top:1px solid var(--line);margin-bottom:20px">
+    <span><a class="pager-link" href="new-york.html">&larr; New York</a></span>
+    <span><a class="pager-link" href="north-dakota.html">North Dakota &rarr;</a></span>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Waypoint — North Carolina edition. Costs are indicative; confirm with operators.</span>
+    <span><a href="../index.html#states">&larr; All states</a></span>
+  </div>
+</footer>
+
+<script>
+window.STATE = {
+  name: "North Carolina",
+  abbr: "NC",
+  slug: "north-carolina",
+  stats: {"count": 8, "counties": 7, "free": 2, "median": 12, "top": 87},
+  counties: ["Buncombe", "Burke", "Dare", "Hyde", "Swain", "Transylvania", "Wilkes"],
+  rows: [{"name": "Linville Gorge", "city": "Linville Falls", "county": "Burke", "state": "North Carolina", "cats": ["Hiking", "Nature", "Climbing"], "cost": "Free", "cost_num": 0, "dur": "Full day", "dur_h": 8, "dates": "May–Oct", "start": "1964", "company": "Pisgah National Forest", "party": "2–4", "customer": "Experienced hikers, climbers", "unique": "The Grand Canyon of North Carolina: a 12-mile wilderness gorge with no maintained trails, a 2,000-foot rim and the plunge pools of the Linville River.", "buzz": "Hikers warn that the gorge is genuinely dangerous — rescues are common — and call the view from Hawksbill the best in the state.", "rating": 87, "id": "linville-gorge-linville-falls"}, {"name": "MerleFest", "city": "Wilkesboro", "county": "Wilkes", "state": "North Carolina", "cats": ["Music", "Festival", "Community"], "cost": "$60–$200", "cost_num": 110, "dur": "4 days", "dur_h": 32, "dates": "Late April", "start": "1988", "company": "Wilkes Community College", "party": "2–6", "customer": "Music fans, families, retirees", "unique": "Four days of roots, bluegrass and Americana on the campus of a community college, founded in memory of Merle Watson and still stubbornly non-corporate.", "buzz": "Musicians love it and say so from the stage; the campus setting keeps it relaxed. Bring rain gear and a folding chair.", "rating": 87, "id": "merlefest-wilkesboro"}, {"name": "Biltmore", "city": "Asheville", "county": "Buncombe", "state": "North Carolina", "cats": ["Architecture", "Historical", "Nature"], "cost": "$75–$110", "cost_num": 90, "dur": "Full day", "dur_h": 6, "dates": "Year-round", "start": "1895", "company": "Biltmore Estate", "party": "2–4", "customer": "Families, design people, couples", "unique": "America's largest privately owned house — 250 rooms, a banquet hall with a seven-story ceiling, and 8,000 acres of designed landscape by Olmsted.", "buzz": "The house is awe-inspiring; the price and the wine-tasting upsell draw complaints. Book the rooftop or behind-the-scenes tour if you can.", "rating": 86, "id": "biltmore-asheville"}, {"name": "Ocracoke Island", "city": "Ocracoke", "county": "Hyde", "state": "North Carolina", "cats": ["Nature", "Water", "Relaxing"], "cost": "Free–$30 ferry", "cost_num": 15, "dur": "Full day", "dur_h": 7, "dates": "Year-round", "start": "1750s", "company": "Free / self-guided", "party": "2–6", "customer": "Families, beach people, cyclists", "unique": "A barrier island reachable only by ferry, with 16 miles of undeveloped national seashore, wild ponies across the inlet and a village of picket fences and golf carts.", "buzz": "People describe it as the Outer Banks before development; the ferry reservation is the only friction. Bikes beat cars.", "rating": 86, "id": "ocracoke-island-ocracoke"}, {"name": "Nantahala Gorge Rafting", "city": "Bryson City", "county": "Swain", "state": "North Carolina", "cats": ["Water", "Adrenaline"], "cost": "$50–$90", "cost_num": 65, "dur": "3 hrs", "dur_h": 3, "dates": "Apr–Oct", "start": "1972", "company": "Nantahala Outdoor Center", "party": "2–8", "customer": "Families, first-timers, young adults", "unique": "A dam-controlled Class II–III river through a deep gorge, warm enough to swim, with the NOC's riverside outfitter village as a base for ziplines and ropes courses.", "buzz": "The best first-rafting river in the Southeast; guides are patient with kids. The train that runs along the gorge is a bonus.", "rating": 85, "id": "nantahala-gorge-rafting-bryson-city"}, {"name": "Wright Brothers Memorial", "city": "Kill Devil Hills", "county": "Dare", "state": "North Carolina", "cats": ["Historical", "Science"], "cost": "$10", "cost_num": 10, "dur": "2 hrs", "dur_h": 2, "dates": "Year-round", "start": "1903", "company": "National Park Service", "party": "2–6", "customer": "Families, aviation nerds, history buffs", "unique": "The actual sand hill where the first powered flight left the ground, with a granite marker for each of the four flights and a replica camp building.", "buzz": "Rangers give short talks that make the engineering drama vivid; the wind is constant. Combine with Jockey's Ridge sand dunes.", "rating": 84, "id": "wright-brothers-memorial-kill-devil-hills"}, {"name": "Sliding Rock", "city": "Pisgah Forest", "county": "Transylvania", "state": "North Carolina", "cats": ["Water", "Adrenaline", "Nature"], "cost": "$5", "cost_num": 5, "dur": "2 hrs", "dur_h": 2, "dates": "May–Sep", "start": "—", "company": "Pisgah National Forest", "party": "2–6", "customer": "Families, teens, locals", "unique": "A 60-foot natural granite waterslide ending in an eight-foot plunge pool, with lifeguards and a queue of kids in innertubes.", "buzz": "Everyone screams, everyone does it twice. Water is 55 degrees year-round; go on a weekday morning and bring water shoes.", "rating": 83, "id": "sliding-rock-pisgah-forest"}, {"name": "Asheville Drum Circle", "city": "Asheville", "county": "Buncombe", "state": "North Carolina", "cats": ["Music", "Community", "Quirky"], "cost": "Free", "cost_num": 0, "dur": "3 hrs", "dur_h": 3, "dates": "Friday nights, Apr–Oct", "start": "2001", "company": "Free / self-guided", "party": "NA", "customer": "Families, young adults, locals", "unique": "Dozens of drummers, dancers and hula-hoopers take over a downtown plaza every Friday at dusk, with no organizer, no stage and no permit beyond the city's blessing.", "buzz": "It is joyful and completely uncurated; locals either love it or avoid downtown on Fridays. Bring a drum or just watch.", "rating": 80, "id": "asheville-drum-circle-asheville"}]
+};
+</script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

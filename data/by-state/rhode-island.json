@@ -1,0 +1,120 @@
+[
+ {
+  "name": "WaterFire Providence",
+  "city": "Providence",
+  "county": "Providence",
+  "state": "Rhode Island",
+  "cats": [
+   "Festival",
+   "Art",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "3–4 hrs",
+  "dur_h": 3,
+  "dates": "May–Nov, selected Saturdays",
+  "start": "1994",
+  "company": "WaterFire Providence",
+  "party": "2–8",
+  "customer": "Families, couples, students",
+  "unique": "Eighty bonfires floating down three rivers through downtown, scored with world music, while a hundred thousand people drift along the banks.",
+  "buzz": "It is genuinely magical and completely free; reviews warn about crowds and restaurant waits. Arrive by dusk and walk the whole loop.",
+  "rating": 89,
+  "id": "waterfire-providence-providence"
+ },
+ {
+  "name": "Newport Cliff Walk",
+  "city": "Newport",
+  "county": "Newport",
+  "state": "Rhode Island",
+  "cats": [
+   "Hiking",
+   "Architecture",
+   "Water"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year-round",
+  "start": "1975",
+  "company": "Free / self-guided",
+  "party": "NA",
+  "customer": "Couples, families, walkers",
+  "unique": "A 3.5-mile path squeezed between Gilded Age mansion backyards and a raw Atlantic ledge, with the Breakers rising over the fence at one end.",
+  "buzz": "Locals call it the best free thing in New England and warn that the southern half is real scrambling, not a boardwalk. Wear grip.",
+  "rating": 88,
+  "id": "newport-cliff-walk-newport"
+ },
+ {
+  "name": "Newport Folk Festival",
+  "city": "Newport",
+  "county": "Newport",
+  "state": "Rhode Island",
+  "cats": [
+   "Music",
+   "Festival"
+  ],
+  "cost": "$100–$250",
+  "cost_num": 150,
+  "dur": "3 days",
+  "dur_h": 24,
+  "dates": "Late July",
+  "start": "1959",
+  "company": "Newport Festivals Foundation",
+  "party": "2–6",
+  "customer": "Music fans, young adults, families",
+  "unique": "The festival where Dylan went electric, now a curated three-day bill at Fort Adams with harbor views and a no-corporate ethos that survived the decades.",
+  "buzz": "Sound and setting are praised; the fort's lawn is steep and the food lines long. Locals say volunteer or work it if you want the cheap way in.",
+  "rating": 86,
+  "id": "newport-folk-festival-newport"
+ },
+ {
+  "name": "Block Island Bluffs",
+  "city": "New Shoreham",
+  "county": "Washington",
+  "state": "Rhode Island",
+  "cats": [
+   "Nature",
+   "Cycling",
+   "Water"
+  ],
+  "cost": "$30 ferry + rental",
+  "cost_num": 55,
+  "dur": "Full day",
+  "dur_h": 6,
+  "dates": "May–Oct",
+  "start": "1661",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Couples, families, cyclists",
+  "unique": "Mohegan Bluffs drop 200 feet to a boulder beach, with a 19th-century granite lighthouse offshore and 25 miles of empty road to bike.",
+  "buzz": "The ferry is the bottleneck; book bikes on the island and skip bringing a car. Mansion Beach and the bluffs are the two musts.",
+  "rating": 84,
+  "id": "block-island-bluffs-new-shoreham"
+ },
+ {
+  "name": "Federal Hill Food Crawl",
+  "city": "Providence",
+  "county": "Providence",
+  "state": "Rhode Island",
+  "cats": [
+   "Food & Drink",
+   "Community"
+  ],
+  "cost": "$40–$70",
+  "cost_num": 55,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1900s",
+  "company": "Self-guided or Rhode Island Red Food Tours",
+  "party": "2–6",
+  "customer": "Food people, couples, young adults",
+  "unique": "Atwells Avenue's Italian-American quarter: strip-mall pastry counters, a century-old salumeria and a bakery that sells nothing but pizza strips.",
+  "buzz": "The consensus is to graze rather than commit to one restaurant; Pastiche for dessert and Tony's Colonial for supplies. Tour guides get warm reviews.",
+  "rating": 78,
+  "id": "federal-hill-food-crawl-providence"
+ }
+]
