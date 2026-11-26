@@ -238,9 +238,9 @@
     { k: "start", label: "Est.", w: "54px" },
     { k: "company", label: "Access", w: "112px" },
     { k: "customer", label: "Customer", w: "88px" },
-    { k: "unique", label: "Why it's unique", w: "170px" },
-    { k: "buzz", label: "Reviews", w: "158px" },
-    { k: "rating", label: "Overall", w: "76px" }
+    { k: "unique", label: "Why it's unique", w: "164px" },
+    { k: "buzz", label: "Reviews", w: "150px" },
+    { k: "rating", label: "Overall", w: "82px" }
   ];
 
   function ratingCell(v) {

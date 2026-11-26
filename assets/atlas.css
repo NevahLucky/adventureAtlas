@@ -234,7 +234,7 @@ select.input{min-width:0;padding:8px 10px;font-size:13px;border-radius:2px}
 .table-shell::-webkit-scrollbar{height:10px}
 .table-shell::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}
 .table-shell::-webkit-scrollbar-track{background:transparent}
-table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1346px}
+table.atlas{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;min-width:1338px}
 table.atlas thead th{
   background:var(--paper-2);text-align:left;
   font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);

@@ -1810,5 +1810,145 @@
   "drive_mi": 64,
   "drive_min_clemson": 100,
   "drive_mi_clemson": 84
+ },
+ "Bennettsville|South Carolina": {
+  "lat": 34.6173516,
+  "lon": -79.684768,
+  "name": "Bennettsville, Marlboro County, South Carolina, 29512, United States",
+  "drive_min": 105,
+  "drive_min_clemson": 229
+ },
+ "Bishopville|South Carolina": {
+  "lat": 34.2182107,
+  "lon": -80.2484056,
+  "name": "Bishopville, Lee County, South Carolina, United States",
+  "drive_min": 101,
+  "drive_min_clemson": 172
+ },
+ "Blackville|South Carolina": {
+  "lat": 33.3551173,
+  "lon": -81.2707218,
+  "name": "Blackville, Barnwell County, South Carolina, 29817, United States",
+  "drive_min": 141,
+  "drive_min_clemson": 182
+ },
+ "Cheraw|South Carolina": {
+  "lat": 34.6976564,
+  "lon": -79.8833971,
+  "name": "Cheraw, Chesterfield County, South Carolina, 29520, United States",
+  "drive_min": 89,
+  "drive_min_clemson": 219
+ },
+ "Darlington|South Carolina": {
+  "lat": 34.3609331,
+  "lon": -79.9438572,
+  "name": "Darlington County, South Carolina, United States",
+  "drive_min": 119,
+  "drive_min_clemson": 208
+ },
+ "Dillon|South Carolina": {
+  "lat": 34.4014089,
+  "lon": -79.3864339,
+  "name": "Dillon County, South Carolina, United States",
+  "drive_min": 138,
+  "drive_min_clemson": 223
+ },
+ "Edgefield|South Carolina": {
+  "lat": 33.7635851,
+  "lon": -81.9759066,
+  "name": "Edgefield County, South Carolina, United States",
+  "drive_min": 144,
+  "drive_min_clemson": 128
+ },
+ "Florence|South Carolina": {
+  "lat": 34.1984435,
+  "lon": -79.7671658,
+  "name": "Florence, Florence County, South Carolina, United States",
+  "drive_min": 126,
+  "drive_min_clemson": 199
+ },
+ "Hampton|South Carolina": {
+  "lat": 32.7861789,
+  "lon": -81.1237271,
+  "name": "Hampton County, South Carolina, United States",
+  "drive_min": 185,
+  "drive_min_clemson": 233
+ },
+ "Hardeeville|South Carolina": {
+  "lat": 32.2802665,
+  "lon": -81.0726108,
+  "name": "Hardeeville, Jasper County, South Carolina, 29936, United States",
+  "drive_min": 199,
+  "drive_min_clemson": 249
+ },
+ "McCormick|South Carolina": {
+  "lat": 33.8795325,
+  "lon": -82.2797719,
+  "name": "McCormick County, South Carolina, United States",
+  "drive_min": 153,
+  "drive_min_clemson": 96
+ },
+ "Moncks Corner|South Carolina": {
+  "lat": 33.1960027,
+  "lon": -80.0131374,
+  "name": "Moncks Corner, Berkeley County, South Carolina, United States",
+  "drive_min": 175,
+  "drive_min_clemson": 225
+ },
+ "Orangeburg|South Carolina": {
+  "lat": 33.4918203,
+  "lon": -80.8556476,
+  "name": "Orangeburg, Orangeburg County, South Carolina, 29115, United States",
+  "drive_min": 114,
+  "drive_min_clemson": 163
+ },
+ "Santee|South Carolina": {
+  "lat": 33.4751634,
+  "lon": -80.4864764,
+  "name": "Santee, Orangeburg County, South Carolina, United States",
+  "drive_min": 131,
+  "drive_min_clemson": 181
+ },
+ "St. Matthews|South Carolina": {
+  "lat": 33.664876,
+  "lon": -80.7778681,
+  "name": "St. Matthews, Calhoun County, South Carolina, 29135, United States",
+  "drive_min": 110,
+  "drive_min_clemson": 160
+ },
+ "Summerville|South Carolina": {
+  "lat": 33.0186699,
+  "lon": -80.1762704,
+  "name": "Summerville, Dorchester County, South Carolina, United States",
+  "drive_min": 158,
+  "drive_min_clemson": 207
+ },
+ "Sumter|South Carolina": {
+  "lat": 33.9204354,
+  "lon": -80.3414693,
+  "name": "Sumter, Sumter County, South Carolina, United States",
+  "drive_min": 111,
+  "drive_min_clemson": 185
+ },
+ "Ehrhardt|South Carolina": {
+  "lat": 33.0968264,
+  "lon": -81.0142681,
+  "name": "Ehrhardt, Bamberg County, South Carolina, 29081, United States",
+  "drive_min": 153,
+  "drive_min_clemson": 202
+ },
+ "Marion|South Carolina": {
+  "lat": 34.0572007,
+  "lon": -79.3987578,
+  "name": "Marion County, South Carolina, United States",
+  "drive_min": 164,
+  "drive_min_clemson": 236
+ },
+ "Kingstree|South Carolina": {
+  "lat": 33.6676643,
+  "lon": -79.8306265,
+  "name": "Kingstree, Williamsburg County, South Carolina, United States",
+  "drive_min": 159,
+  "drive_min_clemson": 233
  }
 }
