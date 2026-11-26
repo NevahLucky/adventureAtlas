@@ -334,5 +334,30 @@
   "id": "bishop-castle-rye",
   "state_abbr": "CO",
   "county_full": "Pueblo County"
+ },
+ {
+  "name": "Cook Street School of Culinary Arts",
+  "city": "Denver",
+  "county": "Denver",
+  "state": "Colorado",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$90–$180",
+  "cost_num": 130,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "1990s",
+  "company": "Cook Street",
+  "party": "2–6",
+  "customer": "Couples, friends, beginners",
+  "unique": "A professional culinary school with a public recreation program, where you cook a three course menu in a real kitchen and drink wine while you do it.",
+  "buzz": "The classes are hands on and the instructors are working chefs; the pasta and knife skills sessions are the favorites.",
+  "rating": 82,
+  "id": "cook-street-school-of-culinary-arts-denver",
+  "state_abbr": "CO",
+  "county_full": "Denver County"
  }
 ]

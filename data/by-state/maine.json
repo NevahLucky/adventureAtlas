@@ -50,6 +50,32 @@
   "county_full": "Piscataquis County"
  },
  {
+  "name": "Haystack Mountain School of Crafts",
+  "city": "Deer Isle",
+  "county": "Hancock",
+  "state": "Maine",
+  "cats": [
+   "Maker",
+   "Art",
+   "Nature"
+  ],
+  "cost": "$500–$1200",
+  "cost_num": 800,
+  "dur": "3–14 days",
+  "dur_h": 96,
+  "dates": "Jun–Sep",
+  "start": "1950",
+  "company": "Haystack",
+  "party": "1–2",
+  "customer": "Artists, craft people, retreat seekers",
+  "unique": "A modernist campus on a granite ledge over the Atlantic, where intensive craft workshops run for decades and the architecture is as memorable as the classes.",
+  "buzz": "People call it a pilgrimage; the location is remote and the schedule is intense. Scholarships exist and are worth asking about.",
+  "rating": 91,
+  "id": "haystack-mountain-school-of-crafts-deer-isle",
+  "state_abbr": "ME",
+  "county_full": "Hancock County"
+ },
+ {
   "name": "Schooner Sail on Penobscot Bay",
   "city": "Camden",
   "county": "Knox",

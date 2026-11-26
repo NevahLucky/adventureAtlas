@@ -1950,5 +1950,26 @@
   "name": "Kingstree, Williamsburg County, South Carolina, United States",
   "drive_min": 159,
   "drive_min_clemson": 233
+ },
+ "Dillsboro|North Carolina": {
+  "lat": 35.3700615,
+  "lon": -83.2506638,
+  "name": "Dillsboro, Jackson County, North Carolina, United States",
+  "drive_min": 172,
+  "drive_min_clemson": 87
+ },
+ "Penland|North Carolina": {
+  "lat": 35.9301208,
+  "lon": -82.1120638,
+  "name": "Penland, Mitchell County, North Carolina, 28977, United States",
+  "drive_min": 136,
+  "drive_min_clemson": 148
+ },
+ "Star|North Carolina": {
+  "lat": 35.4020838,
+  "lon": -79.7842049,
+  "name": "Star, Montgomery County, North Carolina, United States",
+  "drive_min": 99,
+  "drive_min_clemson": 214
  }
 }

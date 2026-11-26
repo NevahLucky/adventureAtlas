@@ -178,6 +178,31 @@
   "county_full": "Saline County"
  },
  {
+  "name": "The Chopping Block",
+  "city": "Chicago",
+  "county": "Cook",
+  "state": "Illinois",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$80–$175",
+  "cost_num": 120,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "1997",
+  "company": "The Chopping Block",
+  "party": "2–6",
+  "customer": "Couples, friends, beginners",
+  "unique": "A cooking school and shop where you make a full menu in a small group, from knife skills to braising, then sit down and eat it with the class.",
+  "buzz": "The teaching is practical and the groups are friendly; date night classes book out.",
+  "rating": 82,
+  "id": "the-chopping-block-chicago",
+  "state_abbr": "IL",
+  "county_full": "Cook County"
+ },
+ {
   "name": "Superdawg",
   "city": "Chicago",
   "county": "Cook",

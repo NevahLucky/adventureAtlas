@@ -179,6 +179,31 @@
   "county_full": "Fayette County"
  },
  {
+  "name": "Pittsburgh Glass Center",
+  "city": "Pittsburgh",
+  "county": "Allegheny",
+  "state": "Pennsylvania",
+  "cats": [
+   "Maker",
+   "Art"
+  ],
+  "cost": "$60–$200",
+  "cost_num": 120,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round, classes",
+  "start": "2001",
+  "company": "Pittsburgh Glass Center",
+  "party": "1–4",
+  "customer": "Beginners, couples, artists",
+  "unique": "A public access glass studio in a converted warehouse with classes in blowing, flameworking and casting, plus free gallery shows by resident artists.",
+  "buzz": "The teaching is patient and the facility is serious; weekend intro classes are the gateway.",
+  "rating": 85,
+  "id": "pittsburgh-glass-center-pittsburgh",
+  "state_abbr": "PA",
+  "county_full": "Allegheny County"
+ },
+ {
   "name": "Reading Terminal Market",
   "city": "Philadelphia",
   "county": "Philadelphia",
@@ -229,6 +254,32 @@
   "id": "mutter-museum-philadelphia",
   "state_abbr": "PA",
   "county_full": "Philadelphia County"
+ },
+ {
+  "name": "Touchstone Center for Crafts",
+  "city": "Farmington",
+  "county": "Fayette",
+  "state": "Pennsylvania",
+  "cats": [
+   "Maker",
+   "Art",
+   "Nature"
+  ],
+  "cost": "$250–$650",
+  "cost_num": 400,
+  "dur": "2–5 days",
+  "dur_h": 40,
+  "dates": "May–Oct",
+  "start": "1970s",
+  "company": "Touchstone",
+  "party": "1–2",
+  "customer": "Craft people, beginners, retirees",
+  "unique": "A craft campus in the Laurel Highlands with blacksmithing, glass, ceramics and wood workshops, plus lodging in cabins on the grounds.",
+  "buzz": "The classes are affordable and the setting is woodsy; it is close to Ohiopyle and Fallingwater for a combined trip.",
+  "rating": 84,
+  "id": "touchstone-center-for-crafts-farmington",
+  "state_abbr": "PA",
+  "county_full": "Fayette County"
  },
  {
   "name": "Field of Screams",

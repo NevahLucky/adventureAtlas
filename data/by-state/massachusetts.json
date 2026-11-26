@@ -50,6 +50,32 @@
   "county_full": "Berkshire County"
  },
  {
+  "name": "Artisan's Asylum",
+  "city": "Somerville",
+  "county": "Middlesex",
+  "state": "Massachusetts",
+  "cats": [
+   "Maker",
+   "Science",
+   "Community"
+  ],
+  "cost": "$80–$300",
+  "cost_num": 180,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "Artisan's Asylum",
+  "party": "1–4",
+  "customer": "Makers, beginners, engineers",
+  "unique": "A 100,000 square foot maker space with classes in welding, woodworking, robotics, glass and textiles, plus open studio time if you join.",
+  "buzz": "The range of skills under one roof is the point and the instructors are practical; intro classes are cheap.",
+  "rating": 85,
+  "id": "artisan-s-asylum-somerville",
+  "state_abbr": "MA",
+  "county_full": "Middlesex County"
+ },
+ {
   "name": "Mapparium",
   "city": "Boston",
   "county": "Suffolk",
@@ -100,6 +126,31 @@
   "id": "nantucket-by-bike-nantucket",
   "state_abbr": "MA",
   "county_full": "Nantucket County"
+ },
+ {
+  "name": "Snow Farm",
+  "city": "Williamsburg",
+  "county": "Hampshire",
+  "state": "Massachusetts",
+  "cats": [
+   "Maker",
+   "Art"
+  ],
+  "cost": "$300–$800",
+  "cost_num": 500,
+  "dur": "2–7 days",
+  "dur_h": 50,
+  "dates": "Apr–Oct",
+  "start": "1980s",
+  "company": "Snow Farm",
+  "party": "1–2",
+  "customer": "Craft people, beginners, couples",
+  "unique": "A craft school in the Berkshire foothills with glassblowing, blacksmithing, pottery and fiber workshops, plus affordable lodging and meals.",
+  "buzz": "People come back yearly; the glass program is strong and the vibe is unpretentious.",
+  "rating": 85,
+  "id": "snow-farm-williamsburg",
+  "state_abbr": "MA",
+  "county_full": "Hampshire County"
  },
  {
   "name": "Freedom Trail",

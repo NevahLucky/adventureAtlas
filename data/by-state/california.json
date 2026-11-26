@@ -333,6 +333,32 @@
   "county_full": "Los Angeles County"
  },
  {
+  "name": "The Crucible",
+  "city": "Oakland",
+  "county": "Alameda",
+  "state": "California",
+  "cats": [
+   "Maker",
+   "Adrenaline",
+   "Art"
+  ],
+  "cost": "$100–$400",
+  "cost_num": 220,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year round",
+  "start": "1999",
+  "company": "The Crucible",
+  "party": "1–4",
+  "customer": "Beginners, couples, makers",
+  "unique": "An industrial arts school where you can take a one day class in blacksmithing, welding, glass casting, neon or fire performance, with a faculty of working artists.",
+  "buzz": "The classes are physical and well taught and the fire arts are the draw; wear cotton and closed shoes.",
+  "rating": 88,
+  "id": "the-crucible-oakland",
+  "state_abbr": "CA",
+  "county_full": "Alameda County"
+ },
+ {
   "name": "Disneyland",
   "city": "Anaheim",
   "county": "Orange",
@@ -357,6 +383,32 @@
   "id": "disneyland-anaheim",
   "state_abbr": "CA",
   "county_full": "Orange County"
+ },
+ {
+  "name": "Museum of Neon Art",
+  "city": "Glendale",
+  "county": "Los Angeles",
+  "state": "California",
+  "cats": [
+   "Maker",
+   "Art",
+   "Museum"
+  ],
+  "cost": "$100–$250",
+  "cost_num": 160,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, classes",
+  "start": "1981",
+  "company": "MONA",
+  "party": "1–4",
+  "customer": "Design people, couples, beginners",
+  "unique": "A museum of neon signs and kinetic art that also teaches one day neon bending classes, where you shape glass tubing over a flame and leave with a glowing piece.",
+  "buzz": "The class is the reason to go and the museum is a bonus; bending neon is harder and more fun than it looks.",
+  "rating": 86,
+  "id": "museum-of-neon-art-glendale",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
  },
  {
   "name": "Sky Falconry",
@@ -437,6 +489,32 @@
   "county_full": "Orange County"
  },
  {
+  "name": "Aftelier Perfumes",
+  "city": "Berkeley",
+  "county": "Alameda",
+  "state": "California",
+  "cats": [
+   "Maker",
+   "Art",
+   "Date Night"
+  ],
+  "cost": "$150–$300",
+  "cost_num": 200,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "By booking",
+  "start": "2000s",
+  "company": "Aftelier",
+  "party": "2–4",
+  "customer": "Couples, design people, scent nerds",
+  "unique": "A perfumer's studio where you smell raw materials and blend your own fragrance in a small workshop, then take home a bottle of something nobody else owns.",
+  "buzz": "It is intimate and intensely sensory and the instructor explains the chemistry without jargon; a genuinely unusual gift.",
+  "rating": 84,
+  "id": "aftelier-perfumes-berkeley",
+  "state_abbr": "CA",
+  "county_full": "Alameda County"
+ },
+ {
   "name": "Coachella",
   "city": "Indio",
   "county": "Riverside",
@@ -487,6 +565,57 @@
   "id": "salvation-mountain-niland",
   "state_abbr": "CA",
   "county_full": "Imperial County"
+ },
+ {
+  "name": "The Gourmandise School",
+  "city": "Santa Monica",
+  "county": "Los Angeles",
+  "state": "California",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$90–$200",
+  "cost_num": 140,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "Gourmandise",
+  "party": "1–4",
+  "customer": "Food people, couples, locals",
+  "unique": "A baking and cooking school near the beach with classes in sourdough, croissants, pasta and seasonal cooking, taught in a bright open kitchen.",
+  "buzz": "The pastry classes are the strongest and the small groups mean real attention; book the bread series if you want a skill.",
+  "rating": 84,
+  "id": "the-gourmandise-school-santa-monica",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
+ },
+ {
+  "name": "Prey Taxidermy",
+  "city": "Los Angeles",
+  "county": "Los Angeles",
+  "state": "California",
+  "cats": [
+   "Maker",
+   "Quirky",
+   "Art"
+  ],
+  "cost": "$150–$350",
+  "cost_num": 220,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Classes by booking",
+  "start": "2010s",
+  "company": "Prey Taxidermy",
+  "party": "1–2",
+  "customer": "Curious people, artists, couples",
+  "unique": "A working taxidermy studio that teaches small classes in mouse and bird taxidermy, with a focus on craft and natural history rather than shock.",
+  "buzz": "People arrive squeamish and leave proud; the instruction is respectful and the results are surprisingly beautiful.",
+  "rating": 83,
+  "id": "prey-taxidermy-los-angeles",
+  "state_abbr": "CA",
+  "county_full": "Los Angeles County"
  },
  {
   "name": "Queen Mary",

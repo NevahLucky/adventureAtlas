@@ -1,5 +1,31 @@
 [
  {
+  "name": "Peters Valley School of Craft",
+  "city": "Layton",
+  "county": "Sussex",
+  "state": "New Jersey",
+  "cats": [
+   "Maker",
+   "Art",
+   "Nature"
+  ],
+  "cost": "$300–$700",
+  "cost_num": 450,
+  "dur": "2–5 days",
+  "dur_h": 40,
+  "dates": "May–Oct",
+  "start": "1970",
+  "company": "Peters Valley",
+  "party": "1–2",
+  "customer": "Craft people, beginners, couples",
+  "unique": "A craft school in a former village inside the Delaware Water Gap, with blacksmithing, pottery, fiber and glass workshops and cabins along a creek.",
+  "buzz": "The setting is beautiful and the classes are small; it is a quiet alternative to a big city workshop.",
+  "rating": 86,
+  "id": "peters-valley-school-of-craft-layton",
+  "state_abbr": "NJ",
+  "county_full": "Sussex County"
+ },
+ {
   "name": "Lakota Wolf Preserve",
   "city": "Columbia",
   "county": "Warren",

@@ -104,6 +104,31 @@
   "county_full": "Clark County"
  },
  {
+  "name": "Sky Combat Ace",
+  "city": "Las Vegas",
+  "county": "Clark",
+  "state": "Nevada",
+  "cats": [
+   "Air",
+   "Adrenaline"
+  ],
+  "cost": "$500–$1500",
+  "cost_num": 800,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2008",
+  "company": "Sky Combat Ace",
+  "party": "1–2",
+  "customer": "Thrill seekers, couples, groups",
+  "unique": "You fly the plane in a mock dogfight over the desert, with an instructor handling takeoff and landing while you pull Gs and chase another aircraft.",
+  "buzz": "It is as close to fighter pilot as a civilian can get and the instructors keep it safe; the video package is worth it.",
+  "rating": 89,
+  "id": "sky-combat-ace-las-vegas",
+  "state_abbr": "NV",
+  "county_full": "Clark County"
+ },
+ {
   "name": "Mint 400",
   "city": "Las Vegas",
   "county": "Clark",
@@ -154,6 +179,32 @@
   "id": "red-rock-canyon-las-vegas",
   "state_abbr": "NV",
   "county_full": "Clark County"
+ },
+ {
+  "name": "Soaring NV Glider Rides",
+  "city": "Minden",
+  "county": "Douglas",
+  "state": "Nevada",
+  "cats": [
+   "Air",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$200–$400",
+  "cost_num": 280,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Apr–Oct",
+  "start": "1980s",
+  "company": "Soaring NV",
+  "party": "1–2",
+  "customer": "Adventure seekers, couples, retirees",
+  "unique": "A sailplane ride over the Carson Valley where the engine is a tow plane and the silence after release is the whole point, with the Sierra as the backdrop.",
+  "buzz": "Pilots explain the thermals and let you take the stick; it is smoother and quieter than a small plane. Book the longer ride.",
+  "rating": 86,
+  "id": "soaring-nv-glider-rides-minden",
+  "state_abbr": "NV",
+  "county_full": "Douglas County"
  },
  {
   "name": "The Neon Museum",

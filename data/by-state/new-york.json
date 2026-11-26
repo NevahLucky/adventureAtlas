@@ -77,6 +77,32 @@
   "county_full": "New York County"
  },
  {
+  "name": "Corning Museum of Glass",
+  "city": "Corning",
+  "county": "Steuben",
+  "state": "New York",
+  "cats": [
+   "Maker",
+   "Museum",
+   "Art"
+  ],
+  "cost": "$40–$150",
+  "cost_num": 80,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1951",
+  "company": "Corning Museum of Glass",
+  "party": "1–4",
+  "customer": "Families, couples, craft people",
+  "unique": "The largest glass museum in the world, with a hot shop where you can make your own blown ornament or flameworked bead after walking through three thousand years of glass.",
+  "buzz": "The make your own sessions sell out and are worth booking first; the museum alone is a half day. Kids can do it too.",
+  "rating": 89,
+  "id": "corning-museum-of-glass-corning",
+  "state_abbr": "NY",
+  "county_full": "Steuben County"
+ },
+ {
   "name": "Storm King Art Center",
   "city": "New Windsor",
   "county": "Orange",
@@ -255,6 +281,31 @@
   "county_full": "Schuyler County"
  },
  {
+  "name": "Institute of Culinary Education",
+  "city": "New York",
+  "county": "New York",
+  "state": "New York",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$100–$250",
+  "cost_num": 150,
+  "dur": "4 hrs",
+  "dur_h": 4,
+  "dates": "Year round",
+  "start": "1975",
+  "company": "ICE",
+  "party": "1–4",
+  "customer": "Food people, couples, beginners",
+  "unique": "A professional culinary school that opens its kitchens to the public for single classes in knife skills, pasta, pastry and bread, taught by chefs who work in restaurants.",
+  "buzz": "The facilities are professional and the classes are efficient; you leave with technique, not just a recipe.",
+  "rating": 85,
+  "id": "institute-of-culinary-education-new-york",
+  "state_abbr": "NY",
+  "county_full": "New York County"
+ },
+ {
   "name": "Lake Placid Olympic Sites",
   "city": "Lake Placid",
   "county": "Essex",
@@ -279,6 +330,30 @@
   "id": "lake-placid-olympic-sites-lake-placid",
   "state_abbr": "NY",
   "county_full": "Essex County"
+ },
+ {
+  "name": "Murray's Cheese",
+  "city": "New York",
+  "county": "New York",
+  "state": "New York",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$75–$150",
+  "cost_num": 100,
+  "dur": "2 hrs",
+  "dates": "Year round",
+  "start": "1962",
+  "company": "Murray's Cheese",
+  "party": "2–4",
+  "customer": "Food people, couples, visitors",
+  "unique": "A Greenwich Village cheese shop with a classroom downstairs where you taste through six cheeses and learn why the same milk makes wildly different wheels.",
+  "buzz": "The instructors are opinionated in the best way and the tasting is generous; the cheese 101 class sells out.",
+  "rating": 85,
+  "id": "murray-s-cheese-new-york",
+  "state_abbr": "NY",
+  "county_full": "New York County"
  },
  {
   "name": "National Baseball Hall of Fame",
@@ -331,6 +406,58 @@
   "id": "sporting-clays-golf-with-a-shotgun-millbrook",
   "state_abbr": "NY",
   "county_full": "Dutchess County"
+ },
+ {
+  "name": "Brooklyn Brainery",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "state": "New York",
+  "cats": [
+   "Maker",
+   "Community",
+   "Quirky"
+  ],
+  "cost": "$20–$60",
+  "cost_num": 35,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "Brooklyn Brainery",
+  "party": "1–2",
+  "customer": "Curious people, students, locals",
+  "unique": "A tiny classroom that runs cheap one off classes on everything from pickling to lock picking to the history of the subway, taught by anyone with something to teach.",
+  "buzz": "The range is the appeal and the prices are low; classes are small and sell out fast.",
+  "rating": 83,
+  "id": "brooklyn-brainery-brooklyn",
+  "state_abbr": "NY",
+  "county_full": "Kings County"
+ },
+ {
+  "name": "Brooklyn Glass",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "state": "New York",
+  "cats": [
+   "Maker",
+   "Art",
+   "Date Night"
+  ],
+  "cost": "$100–$200",
+  "cost_num": 150,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "2010",
+  "company": "Brooklyn Glass",
+  "party": "1–4",
+  "customer": "Couples, friends, design people",
+  "unique": "A glassblowing studio in Gowanus where beginners make drinking glasses and vases in a two hour session, then pick them up after annealing.",
+  "buzz": "The instructors are working artists and the classes are small; it is a popular date night, so book early.",
+  "rating": 83,
+  "id": "brooklyn-glass-brooklyn",
+  "state_abbr": "NY",
+  "county_full": "Kings County"
  },
  {
   "name": "Coney Island Cyclone",

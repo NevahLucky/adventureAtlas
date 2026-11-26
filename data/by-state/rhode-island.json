@@ -103,6 +103,32 @@
   "county_full": "Washington County"
  },
  {
+  "name": "The Steel Yard",
+  "city": "Providence",
+  "county": "Providence",
+  "state": "Rhode Island",
+  "cats": [
+   "Maker",
+   "Art",
+   "Community"
+  ],
+  "cost": "$100–$350",
+  "cost_num": 200,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "The Steel Yard",
+  "party": "1–4",
+  "customer": "Makers, beginners, artists",
+  "unique": "An industrial arts center on a former steel site with blacksmithing, welding, ceramics and jewelry classes, plus public art projects made by members.",
+  "buzz": "The teaching is good and the space is honest; intro welding fills fast.",
+  "rating": 82,
+  "id": "the-steel-yard-providence",
+  "state_abbr": "RI",
+  "county_full": "Providence County"
+ },
+ {
   "name": "International Tennis Hall of Fame",
   "city": "Newport",
   "county": "Newport",

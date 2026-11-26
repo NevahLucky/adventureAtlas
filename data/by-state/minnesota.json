@@ -26,6 +26,32 @@
   "county_full": "St. Louis County"
  },
  {
+  "name": "Drive a Tank",
+  "city": "Kasota",
+  "county": "Le Sueur",
+  "state": "Minnesota",
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Quirky"
+  ],
+  "cost": "$500–$2000",
+  "cost_num": 900,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "2010s",
+  "company": "Drive a Tank",
+  "party": "1–4",
+  "customer": "Thrill seekers, groups, bucket listers",
+  "unique": "An armoured vehicle park where you can drive a real tank, crush a car and fire a machine gun, run by people who take safety and fun equally seriously.",
+  "buzz": "It is expensive and completely unforgettable; the car crush package is the one people book. Reservations required.",
+  "rating": 88,
+  "id": "drive-a-tank-kasota",
+  "state_abbr": "MN",
+  "county_full": "Le Sueur County"
+ },
+ {
   "name": "Paisley Park",
   "city": "Chanhassen",
   "county": "Carver",

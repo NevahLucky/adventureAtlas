@@ -947,6 +947,33 @@
   "county_full": "York County"
  },
  {
+  "name": "Charleston Cooks",
+  "city": "Charleston",
+  "county": "Charleston",
+  "state": "South Carolina",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$75–$150",
+  "cost_num": 110,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year round",
+  "start": "2000s",
+  "company": "Charleston Cooks",
+  "party": "2–6",
+  "customer": "Couples, families, visitors",
+  "unique": "A hands on cooking school where you make shrimp and grits, she crab soup and benne wafers, then eat what you cooked with wine.",
+  "buzz": "The classes are relaxed and the recipes are actually repeatable at home; book the lowcountry classics session.",
+  "rating": 83,
+  "drive_min": 178,
+  "drive_min_clemson": 228,
+  "id": "charleston-cooks-charleston",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
+ },
+ {
   "name": "Gulches Off Road Park",
   "city": "Laurens",
   "county": "Laurens",
@@ -1781,6 +1808,33 @@
   "id": "boykin-mill-boykin",
   "state_abbr": "SC",
   "county_full": "Kershaw County"
+ },
+ {
+  "name": "Callie's Hot Little Biscuit",
+  "city": "Charleston",
+  "county": "Charleston",
+  "state": "South Carolina",
+  "cats": [
+   "Food & Drink",
+   "Maker"
+  ],
+  "cost": "$10–$25",
+  "cost_num": 15,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "2005",
+  "company": "Callie's",
+  "party": "2–4",
+  "customer": "Families, food people, tourists",
+  "unique": "A biscuit shop that grew out of a mail order business and now teaches biscuit making, with a counter of ham biscuits and pimento cheese worth the line.",
+  "buzz": "The buttermilk biscuits are the benchmark and the classes are short and hands on; go early before the case empties.",
+  "rating": 80,
+  "drive_min": 178,
+  "drive_min_clemson": 228,
+  "id": "callie-s-hot-little-biscuit-charleston",
+  "state_abbr": "SC",
+  "county_full": "Charleston County"
  },
  {
   "name": "Fluor Field",

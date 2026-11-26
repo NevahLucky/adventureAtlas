@@ -182,6 +182,32 @@
   "county_full": "Emery County"
  },
  {
+  "name": "Point of the Mountain Paragliding",
+  "city": "Draper",
+  "county": "Salt Lake",
+  "state": "Utah",
+  "cats": [
+   "Air",
+   "Adrenaline",
+   "Nature"
+  ],
+  "cost": "$150–$300",
+  "cost_num": 220,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, weather permitting",
+  "start": "1990s",
+  "company": "Local paragliding schools",
+  "party": "1–2",
+  "customer": "Beginners, couples, thrill seekers",
+  "unique": "A ridge south of Salt Lake where the wind is so reliable that tandem flights launch all day and you can start a licensing course on the same hill.",
+  "buzz": "The view of the valley and the lake is enormous and the landing is gentler than people expect; morning air is smoothest.",
+  "rating": 88,
+  "id": "point-of-the-mountain-paragliding-draper",
+  "state_abbr": "UT",
+  "county_full": "Salt Lake County"
+ },
+ {
   "name": "Bonneville Salt Flats",
   "city": "Wendover",
   "county": "Tooele",

@@ -1,5 +1,33 @@
 [
  {
+  "name": "Penland School of Craft",
+  "city": "Penland",
+  "county": "Mitchell",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Art",
+   "Community"
+  ],
+  "cost": "$300–$900",
+  "cost_num": 600,
+  "dur": "3–8 days",
+  "dur_h": 72,
+  "dates": "Mar–Nov, workshop calendar",
+  "start": "1929",
+  "company": "Penland School of Craft",
+  "party": "1–2",
+  "customer": "Craft people, beginners, artists",
+  "unique": "A craft school on a mountain that has taught glass, clay, metal and textiles since 1929, with intensive workshops and housing on campus in the woods.",
+  "buzz": "People describe it as summer camp for adults with serious skills; classes fill months out. The glass studio is the hardest to get into.",
+  "rating": 92,
+  "drive_min": 136,
+  "drive_min_clemson": 148,
+  "id": "penland-school-of-craft-penland",
+  "state_abbr": "NC",
+  "county_full": "Mitchell County"
+ },
+ {
   "name": "Carolina Tiger Rescue",
   "city": "Pittsboro",
   "county": "Chatham",
@@ -336,6 +364,34 @@
   "county_full": "Durham County"
  },
  {
+  "name": "Jackson County Green Energy Park",
+  "city": "Dillsboro",
+  "county": "Jackson",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Science",
+   "Art"
+  ],
+  "cost": "$50–$100",
+  "cost_num": 75,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Classes by booking",
+  "start": "2000s",
+  "company": "Jackson County Green Energy Park",
+  "party": "1–4",
+  "customer": "Beginners, families with teens, curious people",
+  "unique": "A glassblowing studio heated by methane captured from a closed landfill, where you make a paperweight or ornament in a workshop that is half craft class and half waste to energy tour.",
+  "buzz": "The story is as good as the glass and the instructors explain the methane system while you work. Prices are low for a hot shop class.",
+  "rating": 87,
+  "drive_min": 172,
+  "drive_min_clemson": 87,
+  "id": "jackson-county-green-energy-park-dillsboro",
+  "state_abbr": "NC",
+  "county_full": "Jackson County"
+ },
+ {
   "name": "Linville Gorge",
   "city": "Linville Falls",
   "county": "Burke",
@@ -585,6 +641,34 @@
   "id": "dry-falls-highlands",
   "state_abbr": "NC",
   "county_full": "Macon County"
+ },
+ {
+  "name": "Hot Glass Alley",
+  "city": "Charlotte",
+  "county": "Mecklenburg",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Art",
+   "Date Night"
+  ],
+  "cost": "$65–$150",
+  "cost_num": 95,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round, classes by booking",
+  "start": "2010s",
+  "company": "Hot Glass Alley",
+  "party": "1–4",
+  "customer": "Couples, friends, beginners",
+  "unique": "A working glass studio in NoDa where you pick a color, sit at the bench and blow your own bowl or ornament with an instructor guiding your hands the whole way.",
+  "buzz": "The instructors keep it safe and funny, and you leave with something heavy and real. Book two weeks out for weekends.",
+  "rating": 86,
+  "drive_min": 22,
+  "drive_min_clemson": 132,
+  "id": "hot-glass-alley-charlotte",
+  "state_abbr": "NC",
+  "county_full": "Mecklenburg County"
  },
  {
   "name": "Lexington Barbecue Trail",
@@ -1056,6 +1140,34 @@
   "id": "price-s-chicken-coop-charlotte",
   "state_abbr": "NC",
   "county_full": "Mecklenburg County"
+ },
+ {
+  "name": "Starworks",
+  "city": "Star",
+  "county": "Montgomery",
+  "state": "North Carolina",
+  "cats": [
+   "Maker",
+   "Art",
+   "Community"
+  ],
+  "cost": "$100–$250",
+  "cost_num": 150,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year round, workshops",
+  "start": "2000s",
+  "company": "Starworks",
+  "party": "1–4",
+  "customer": "Craft people, couples, beginners",
+  "unique": "A former hosiery mill turned glass studio and ceramics center in a small town, with classes, artist residencies and a cafe that locals treat as the town square.",
+  "buzz": "The scale is surprising for a town of 800 and the classes are small; book ahead for glassblowing weekends.",
+  "rating": 84,
+  "drive_min": 99,
+  "drive_min_clemson": 214,
+  "id": "starworks-star",
+  "state_abbr": "NC",
+  "county_full": "Montgomery County"
  },
  {
   "name": "The Gorge Zipline",

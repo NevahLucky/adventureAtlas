@@ -28,6 +28,34 @@
   "county_full": "Sevier County"
  },
  {
+  "name": "Arrowmont School of Arts and Crafts",
+  "city": "Gatlinburg",
+  "county": "Sevier",
+  "state": "Tennessee",
+  "cats": [
+   "Maker",
+   "Art",
+   "Community"
+  ],
+  "cost": "$300–$800",
+  "cost_num": 500,
+  "dur": "3–7 days",
+  "dur_h": 60,
+  "dates": "Mar–Nov, workshop calendar",
+  "start": "1912",
+  "company": "Arrowmont",
+  "party": "1–2",
+  "customer": "Craft people, beginners, retirees",
+  "unique": "A craft school on a hill above Gatlinburg with workshops in wood, clay, fiber, metal and glass, and a gallery that is free to visit.",
+  "buzz": "The setting is quiet even when the town below is packed and the instructors are nationally known; housing and meals are on campus.",
+  "rating": 89,
+  "drive_min": 213,
+  "drive_min_clemson": 140,
+  "id": "arrowmont-school-of-arts-and-crafts-gatlinburg",
+  "state_abbr": "TN",
+  "county_full": "Sevier County"
+ },
+ {
   "name": "Windrock Park",
   "city": "Oliver Springs",
   "county": "Anderson",

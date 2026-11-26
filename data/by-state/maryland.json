@@ -26,6 +26,31 @@
   "county_full": "Baltimore City"
  },
  {
+  "name": "Baltimore Knife and Sword",
+  "city": "Baltimore",
+  "county": "Baltimore",
+  "state": "Maryland",
+  "cats": [
+   "Maker",
+   "Historical"
+  ],
+  "cost": "$150–$400",
+  "cost_num": 250,
+  "dur": "Full day",
+  "dur_h": 7,
+  "dates": "Classes by booking",
+  "start": "1990s",
+  "company": "Baltimore Knife and Sword",
+  "party": "1–4",
+  "customer": "Beginners, history nerds, couples",
+  "unique": "A working forge that makes swords and knives for film and museums, with day classes where you hammer out your own blade from a billet of steel.",
+  "buzz": "You leave with a knife you made and a new respect for smiths; the instructors are patient with total beginners. Book well ahead.",
+  "rating": 87,
+  "id": "baltimore-knife-and-sword-baltimore",
+  "state_abbr": "MD",
+  "county_full": "Baltimore County"
+ },
+ {
   "name": "Assateague Wild Ponies",
   "city": "Berlin",
   "county": "Worcester",

@@ -233,6 +233,31 @@
   "county_full": "Island County"
  },
  {
+  "name": "Seattle Glassblowing Studio",
+  "city": "Seattle",
+  "county": "King",
+  "state": "Washington",
+  "cats": [
+   "Maker",
+   "Art"
+  ],
+  "cost": "$100–$200",
+  "cost_num": 140,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year round",
+  "start": "1990s",
+  "company": "Seattle Glassblowing Studio",
+  "party": "1–4",
+  "customer": "Couples, families with teens, tourists",
+  "unique": "A hot shop near the waterfront where you can blow a float or a tumbler in a class, or watch a demo and buy work from local artists.",
+  "buzz": "The make your own class is the draw and the staff are good with nervous beginners; pieces ship if you are traveling.",
+  "rating": 82,
+  "id": "seattle-glassblowing-studio-seattle",
+  "state_abbr": "WA",
+  "county_full": "King County"
+ },
+ {
   "name": "Ye Olde Curiosity Shop",
   "city": "Seattle",
   "county": "King",
