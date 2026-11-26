@@ -6421,5 +6421,105 @@
   "lat": 37.6922361,
   "lon": -97.3375448,
   "name": "Wichita, Sedgwick County, Kansas, United States"
+ },
+ "Blue Mounds|Wisconsin": {
+  "lat": 43.0174097,
+  "lon": -89.8320348,
+  "name": "Village of Blue Mounds, Dane County, Wisconsin, United States"
+ },
+ "Dearborn|Michigan": {
+  "lat": 42.3222599,
+  "lon": -83.1763145,
+  "name": "Dearborn, Wayne County, Michigan, United States"
+ },
+ "Duluth|Minnesota": {
+  "lat": 46.7838287,
+  "lon": -92.1052679,
+  "name": "Duluth, Saint Louis County, Minnesota, United States"
+ },
+ "Fishers|Indiana": {
+  "lat": 39.9555928,
+  "lon": -86.0138729,
+  "name": "Fishers, Hamilton County, Indiana, United States"
+ },
+ "French Lick|Indiana": {
+  "lat": 38.5502547,
+  "lon": -86.6199659,
+  "name": "French Lick, Orange County, Indiana, United States"
+ },
+ "Galena|Illinois": {
+  "lat": 42.4157304,
+  "lon": -90.4294726,
+  "name": "Galena, West Galena Township, Jo Daviess County, Illinois, United States"
+ },
+ "Indianapolis|Indiana": {
+  "lat": 39.7683331,
+  "lon": -86.1583502,
+  "name": "Indianapolis, Center Township, Marion County, Indiana, United States"
+ },
+ "International Falls|Minnesota": {
+  "lat": 48.601033,
+  "lon": -93.4105904,
+  "name": "International Falls, Koochiching County, Minnesota, United States"
+ },
+ "Madison|Wisconsin": {
+  "lat": 43.07469,
+  "lon": -89.3841663,
+  "name": "Madison, Dane County, Wisconsin, United States"
+ },
+ "Minneapolis|Minnesota": {
+  "lat": 44.9772995,
+  "lon": -93.2654692,
+  "name": "Minneapolis, Hennepin County, Minnesota, United States"
+ },
+ "Nashville|Indiana": {
+  "lat": 39.207242,
+  "lon": -86.2469472,
+  "name": "Nashville, Brown County, Indiana, United States"
+ },
+ "Notre Dame|Indiana": {
+  "lat": 41.7045677,
+  "lon": -86.2382203,
+  "name": "University of Notre Dame du Lac, Hansel Lane, Notre Dame, Saint Joseph County, I"
+ },
+ "Oak Park|Illinois": {
+  "lat": 41.8878145,
+  "lon": -87.7887615,
+  "name": "Oak Park, Cook County, Illinois, United States"
+ },
+ "Ontonagon|Michigan": {
+  "lat": 46.6471877,
+  "lon": -89.3293792,
+  "name": "Ontonagon County, Michigan, United States"
+ },
+ "Park Rapids|Minnesota": {
+  "lat": 46.9221813,
+  "lon": -95.0586322,
+  "name": "Park Rapids, Hubbard County, Minnesota, United States"
+ },
+ "Powell|Ohio": {
+  "lat": 40.1578403,
+  "lon": -83.0751869,
+  "name": "Powell, Liberty Township, Delaware County, Ohio, United States"
+ },
+ "Rockville|Indiana": {
+  "lat": 39.7625404,
+  "lon": -87.2291809,
+  "name": "Rockville, Parke County, Indiana, 47872, United States"
+ },
+ "Toledo|Ohio": {
+  "lat": 41.6529143,
+  "lon": -83.5378173,
+  "name": "Toledo, Lucas County, Ohio, United States"
+ },
+ "West Allis|Wisconsin": {
+  "lat": 43.0166806,
+  "lon": -88.0070315,
+  "name": "West Allis, Milwaukee County, Wisconsin, United States"
+ },
+ "Wind Point|Wisconsin": {
+  "lat": 42.7844636,
+  "lon": -87.7661861,
+  "name": "Wind Point, Racine County, Wisconsin, United States"
  }
 }

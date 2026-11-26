@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 602 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+Current picture: 614 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
 North Carolina is 44 of 100.
 271 counties nationally still have a single entry, and those are the backlog.
 
@@ -153,7 +153,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,493 entries
+## Where it stands, 1,544 entries
 
 South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
 county, and all but Marlboro at five or more. It is the model for the other states.
@@ -173,22 +173,22 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 | Florida | 88 | 33 | | Alabama | 30 | 13 |
 | New York | 24 | 12 | | Mississippi | 28 | 15 |
 | Texas | 21 | 12 | | Arkansas | 27 | 15 |
-| West Virginia | 18 | 14 | | Minnesota | 8 | 7 |
+| West Virginia | 18 | 14 | | Minnesota | 18 | 9 |
 | Pennsylvania | 16 | 11 | | Wyoming | 8 | 6 |
 | Virginia | 36 | 21 | | Iowa | 18 | 13 |
 | Colorado | 14 | 11 | | Maine | 7 | 5 |
 | Arizona | 14 | 8 | | Rhode Island | 7 | 3 |
 | Oregon | 14 | 10 | | Maryland | 7 | 4 |
 | Louisiana | 32 | 17 | | District of Columbia | 7 | 1 |
-| Utah | 13 | 8 | | Indiana | 6 | 6 |
+| Utah | 13 | 8 | | Indiana | 15 | 10 |
 | Hawaii | 13 | 5 | | Kansas | 15 | 10 |
-| Ohio | 12 | 12 | | Montana | 6 | 6 |
+| Ohio | 20 | 14 | | Montana | 6 | 6 |
 | Washington | 12 | 9 | | Idaho | 6 | 5 |
 | Kentucky | 30 | 19 | | New Hampshire | 6 | 3 |
-| Wisconsin | 11 | 8 | | Vermont | 6 | 6 |
+| Wisconsin | 19 | 10 | | Vermont | 6 | 6 |
 | Alaska | 11 | 7 | | Delaware | 6 | 2 |
-| Illinois | 10 | 5 | | Oklahoma | 14 | 6 |
-| Michigan | 10 | 9 | | Nebraska | 14 | 8 |
+| Illinois | 20 | 6 | | Oklahoma | 14 | 6 |
+| Michigan | 16 | 10 | | Nebraska | 14 | 8 |
 | Missouri | 22 | 10 | | North Dakota | 5 | 4 |
 | South Dakota | 10 | 5 | | | | |
 
