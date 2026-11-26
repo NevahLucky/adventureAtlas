@@ -2230,7 +2230,11 @@
  "Cape Canaveral|Florida": {
   "lat": 28.4513556,
   "lon": -80.5283059,
-  "name": "Cape Canaveral, Brevard County, Florida, United States"
+  "name": "Cape Canaveral, Brevard County, Florida, United States",
+  "drive_min": 599,
+  "drive_mi": 532,
+  "drive_min_clemson": 648,
+  "drive_mi_clemson": 528
  },
  "Cape May|New Jersey": {
   "lat": 39.1765386,
@@ -2245,7 +2249,11 @@
  "Cassadaga|Florida": {
   "lat": 28.9663755,
   "lon": -81.235894,
-  "name": "Cassadaga, Volusia County, Florida, 32706, United States"
+  "name": "Cassadaga, Volusia County, Florida, 32706, United States",
+  "drive_min": 527,
+  "drive_mi": 474,
+  "drive_min_clemson": 576,
+  "drive_mi_clemson": 470
  },
  "Castile|New York": {
   "lat": 42.6289515,
@@ -2390,7 +2398,11 @@
  "Crystal River|Florida": {
   "lat": 28.902479,
   "lon": -82.5926012,
-  "name": "Crystal River, Citrus County, Florida, 34429, United States"
+  "name": "Crystal River, Citrus County, Florida, 34429, United States",
+  "drive_min": 575,
+  "drive_mi": 497,
+  "drive_min_clemson": 570,
+  "drive_mi_clemson": 507
  },
  "Custer|South Dakota": {
   "lat": 43.6726477,
@@ -2510,7 +2522,11 @@
  "Everglades City|Florida": {
   "lat": 25.8574788,
   "lon": -81.384961,
-  "name": "Everglades City, Collier County, Florida, 34101, United States"
+  "name": "Everglades City, Collier County, Florida, 34101, United States",
+  "drive_min": 826,
+  "drive_mi": 710,
+  "drive_min_clemson": 843,
+  "drive_mi_clemson": 765
  },
  "Fair Oaks|Indiana": {
   "lat": 41.0750361,
@@ -2680,7 +2696,11 @@
  "Homestead|Florida": {
   "lat": 25.4718946,
   "lon": -80.4759905,
-  "name": "Homestead, Miami-Dade County, Florida, United States"
+  "name": "Homestead, Miami-Dade County, Florida, United States",
+  "drive_min": 820,
+  "drive_mi": 742,
+  "drive_min_clemson": 869,
+  "drive_mi_clemson": 738
  },
  "Honolulu|Hawaii": {
   "lat": 21.304547,
@@ -2775,7 +2795,11 @@
  "Key West|Florida": {
   "lat": 24.5548262,
   "lon": -81.8020722,
-  "name": "Key West, Monroe County, Florida, United States"
+  "name": "Key West, Monroe County, Florida, United States",
+  "drive_min": 1017,
+  "drive_mi": 869,
+  "drive_min_clemson": 1066,
+  "drive_mi_clemson": 864
  },
  "Keystone|South Dakota": {
   "lat": 43.8928746,
@@ -2810,7 +2834,11 @@
  "Lake Wales|Florida": {
   "lat": 27.9014133,
   "lon": -81.5859099,
-  "name": "Lake Wales, Polk County, Florida, United States"
+  "name": "Lake Wales, Polk County, Florida, United States",
+  "drive_min": 631,
+  "drive_mi": 558,
+  "drive_min_clemson": 659,
+  "drive_mi_clemson": 584
  },
  "Las Vegas|Nevada": {
   "lat": 36.1674263,
@@ -2950,7 +2978,11 @@
  "Miami|Florida": {
   "lat": 25.7741566,
   "lon": -80.1935973,
-  "name": "Miami, Miami-Dade County, Florida, United States"
+  "name": "Miami, Miami-Dade County, Florida, United States",
+  "drive_min": 783,
+  "drive_mi": 709,
+  "drive_min_clemson": 833,
+  "drive_mi_clemson": 705
  },
  "Middle River|Maryland": {
   "lat": 39.3416961,
@@ -3170,7 +3202,11 @@
  "Ona|Florida": {
   "lat": 27.4819836,
   "lon": -81.9189734,
-  "name": "Ona, Hardee County, Florida, United States"
+  "name": "Ona, Hardee County, Florida, United States",
+  "drive_min": 687,
+  "drive_mi": 597,
+  "drive_min_clemson": 702,
+  "drive_mi_clemson": 607
  },
  "Oracle|Arizona": {
   "lat": 32.6099702,
@@ -3185,12 +3221,20 @@
  "Orange City|Florida": {
   "lat": 28.9488761,
   "lon": -81.2986741,
-  "name": "Orange City, Volusia County, Florida, 32763, United States"
+  "name": "Orange City, Volusia County, Florida, 32763, United States",
+  "drive_min": 528,
+  "drive_mi": 477,
+  "drive_min_clemson": 577,
+  "drive_mi_clemson": 473
  },
  "Orlando|Florida": {
   "lat": 28.5421218,
   "lon": -81.379045,
-  "name": "Orlando, Orange County, Florida, United States"
+  "name": "Orlando, Orange County, Florida, United States",
+  "drive_min": 561,
+  "drive_mi": 506,
+  "drive_min_clemson": 610,
+  "drive_mi_clemson": 501
  },
  "Oshkosh|Wisconsin": {
   "lat": 44.0206919,
@@ -3315,7 +3359,11 @@
  "Punta Gorda|Florida": {
   "lat": 26.9351529,
   "lon": -82.0512058,
-  "name": "Punta Gorda, Charlotte County, Florida, United States"
+  "name": "Punta Gorda, Charlotte County, Florida, United States",
+  "drive_min": 734,
+  "drive_mi": 658,
+  "drive_min_clemson": 732,
+  "drive_mi_clemson": 670
  },
  "Punxsutawney|Pennsylvania": {
   "lat": 40.9436303,
@@ -3460,7 +3508,11 @@
  "Sarasota|Florida": {
   "lat": 27.3365805,
   "lon": -82.5308545,
-  "name": "Sarasota, Sarasota County, Florida, United States"
+  "name": "Sarasota, Sarasota County, Florida, United States",
+  "drive_min": 691,
+  "drive_mi": 614,
+  "drive_min_clemson": 689,
+  "drive_mi_clemson": 627
  },
  "Seattle|Washington": {
   "lat": 47.6038321,
@@ -3535,7 +3587,11 @@
  "Spring Hill|Florida": {
   "lat": 28.4635266,
   "lon": -82.5363557,
-  "name": "Spring Hill, Hernando County, Florida, United States"
+  "name": "Spring Hill, Hernando County, Florida, United States",
+  "drive_min": 617,
+  "drive_mi": 540,
+  "drive_min_clemson": 615,
+  "drive_mi_clemson": 538
  },
  "Springdale|Utah": {
   "lat": 37.1888714,
@@ -3555,7 +3611,11 @@
  "St. Augustine|Florida": {
   "lat": 29.8946952,
   "lon": -81.3145395,
-  "name": "Saint Augustine, Saint Johns County, Florida, 32084, United States"
+  "name": "Saint Augustine, Saint Johns County, Florida, 32084, United States",
+  "drive_min": 451,
+  "drive_mi": 403,
+  "drive_min_clemson": 501,
+  "drive_mi_clemson": 398
  },
  "St. Francisville|Louisiana": {
   "lat": 30.7807244,
@@ -3580,7 +3640,11 @@
  "St. Petersburg|Florida": {
   "lat": 27.7712264,
   "lon": -82.6340259,
-  "name": "Saint Petersburg, Pinellas County, Florida, United States"
+  "name": "Saint Petersburg, Pinellas County, Florida, United States",
+  "drive_min": 662,
+  "drive_mi": 585,
+  "drive_min_clemson": 660,
+  "drive_mi_clemson": 597
  },
  "Stanton|Missouri": {
   "lat": 38.2745914,
@@ -3625,7 +3689,11 @@
  "Tarpon Springs|Florida": {
   "lat": 28.1470965,
   "lon": -82.756367,
-  "name": "Tarpon Springs, Pinellas County, Florida, 34689, United States"
+  "name": "Tarpon Springs, Pinellas County, Florida, 34689, United States",
+  "drive_min": 652,
+  "drive_mi": 569,
+  "drive_min_clemson": 649,
+  "drive_mi_clemson": 582
  },
  "Telluride|Colorado": {
   "lat": 37.9374939,
@@ -3795,7 +3863,11 @@
  "Williston|Florida": {
   "lat": 29.3880028,
   "lon": -82.4481694,
-  "name": "Williston, Levy County, Florida, United States"
+  "name": "Williston, Levy County, Florida, United States",
+  "drive_min": 520,
+  "drive_mi": 455,
+  "drive_min_clemson": 515,
+  "drive_mi_clemson": 465
  },
  "Wilmington|Delaware": {
   "lat": 39.738331,
@@ -3835,7 +3907,11 @@
  "Zephyrhills|Florida": {
   "lat": 28.2336196,
   "lon": -82.1811947,
-  "name": "Zephyrhills, Pasco County, Florida, 33542, United States"
+  "name": "Zephyrhills, Pasco County, Florida, 33542, United States",
+  "drive_min": 617,
+  "drive_mi": 540,
+  "drive_min_clemson": 615,
+  "drive_mi_clemson": 553
  },
  "Bamberg|South Carolina": {
   "lat": 33.2130154,
@@ -5304,5 +5380,455 @@
   "drive_mi": 421,
   "drive_min_clemson": 350,
   "drive_mi_clemson": 304
+ },
+ "Anna Maria|Florida": {
+  "lat": 27.529362,
+  "lon": -82.7324345,
+  "name": "Anna Maria island, Manatee County, Florida, 34216, United States",
+  "drive_min": 700,
+  "drive_mi": 611,
+  "drive_min_clemson": 698,
+  "drive_mi_clemson": 624
+ },
+ "Big Pine Key|Florida": {
+  "lat": 24.6698652,
+  "lon": -81.353969,
+  "name": "Big Pine Key, Monroe County, Florida, United States",
+  "drive_min": 964,
+  "drive_mi": 838,
+  "drive_min_clemson": 1014,
+  "drive_mi_clemson": 834
+ },
+ "Clearwater|Florida": {
+  "lat": 27.9658533,
+  "lon": -82.8001026,
+  "name": "Clearwater, Pinellas County, Florida, United States",
+  "drive_min": 667,
+  "drive_mi": 584,
+  "drive_min_clemson": 665,
+  "drive_mi_clemson": 596
+ },
+ "Cocoa Beach|Florida": {
+  "lat": 28.3184107,
+  "lon": -80.6094959,
+  "name": "Cocoa Beach, Brevard County, Florida, United States",
+  "drive_min": 591,
+  "drive_mi": 530,
+  "drive_min_clemson": 640,
+  "drive_mi_clemson": 526
+ },
+ "Coral Gables|Florida": {
+  "lat": 25.7331105,
+  "lon": -80.2585107,
+  "name": "Coral Gables, Miami-Dade County, Florida, United States",
+  "drive_min": 790,
+  "drive_mi": 714,
+  "drive_min_clemson": 840,
+  "drive_mi_clemson": 709
+ },
+ "Davie|Florida": {
+  "lat": 26.0628665,
+  "lon": -80.2331038,
+  "name": "Davie, Broward County, Florida, United States",
+  "drive_min": 758,
+  "drive_mi": 689,
+  "drive_min_clemson": 807,
+  "drive_mi_clemson": 684
+ },
+ "Daytona Beach|Florida": {
+  "lat": 29.2108147,
+  "lon": -81.0228331,
+  "name": "Daytona Beach, Volusia County, Florida, United States",
+  "drive_min": 508,
+  "drive_mi": 454,
+  "drive_min_clemson": 557,
+  "drive_mi_clemson": 450
+ },
+ "Delray Beach|Florida": {
+  "lat": 26.4614625,
+  "lon": -80.0728201,
+  "name": "Delray Beach, Palm Beach County, Florida, United States",
+  "drive_min": 729,
+  "drive_mi": 661,
+  "drive_min_clemson": 779,
+  "drive_mi_clemson": 657
+ },
+ "Destin|Florida": {
+  "lat": 30.3935337,
+  "lon": -86.4957834,
+  "name": "Destin, Okaloosa County, Florida, 32540, United States",
+  "drive_min": 681,
+  "drive_mi": 572,
+  "drive_min_clemson": 540,
+  "drive_mi_clemson": 455
+ },
+ "Fort Lauderdale|Florida": {
+  "lat": 26.1223084,
+  "lon": -80.1433786,
+  "name": "Fort Lauderdale, Broward County, Florida, United States",
+  "drive_min": 760,
+  "drive_mi": 686,
+  "drive_min_clemson": 809,
+  "drive_mi_clemson": 682
+ },
+ "Fort Myers|Florida": {
+  "lat": 26.640628,
+  "lon": -81.8723084,
+  "name": "Fort Myers, Lee County, Florida, United States",
+  "drive_min": 763,
+  "drive_mi": 680,
+  "drive_min_clemson": 761,
+  "drive_mi_clemson": 693
+ },
+ "Fort Pierce|Florida": {
+  "lat": 27.4467056,
+  "lon": -80.3256056,
+  "name": "Fort Pierce, Saint Lucie County, Florida, United States",
+  "drive_min": 650,
+  "drive_mi": 590,
+  "drive_min_clemson": 699,
+  "drive_mi_clemson": 585
+ },
+ "Gainesville|Florida": {
+  "lat": 29.6519684,
+  "lon": -82.3249846,
+  "name": "Gainesville, Alachua County, Florida, United States",
+  "drive_min": 489,
+  "drive_mi": 434,
+  "drive_min_clemson": 502,
+  "drive_mi_clemson": 450
+ },
+ "Hobe Sound|Florida": {
+  "lat": 27.080492,
+  "lon": -80.139918,
+  "name": "Hobe Sound, Gomez, Martin County, Florida, United States",
+  "drive_min": 690,
+  "drive_mi": 625,
+  "drive_min_clemson": 739,
+  "drive_mi_clemson": 621
+ },
+ "Jacksonville|Florida": {
+  "lat": 30.3262247,
+  "lon": -81.6579179,
+  "name": "Jacksonville, Duval County, Florida, United States",
+  "drive_min": 404,
+  "drive_mi": 366,
+  "drive_min_clemson": 453,
+  "drive_mi_clemson": 361
+ },
+ "Jacksonville Beach|Florida": {
+  "lat": 30.2946859,
+  "lon": -81.3931396,
+  "name": "Jacksonville Beach, Duval County, Florida, 32250, United States",
+  "drive_min": 425,
+  "drive_mi": 378,
+  "drive_min_clemson": 474,
+  "drive_mi_clemson": 374
+ },
+ "Juno Beach|Florida": {
+  "lat": 26.8815475,
+  "lon": -80.0539253,
+  "name": "Juno Beach, Palm Beach County, Florida, United States",
+  "drive_min": 702,
+  "drive_mi": 634,
+  "drive_min_clemson": 751,
+  "drive_mi_clemson": 630
+ },
+ "Key Largo|Florida": {
+  "lat": 25.087035,
+  "lon": -80.4472392,
+  "name": "Key Largo, Monroe County, Florida, United States",
+  "drive_min": 860,
+  "drive_mi": 770,
+  "drive_min_clemson": 910,
+  "drive_mi_clemson": 766
+ },
+ "Loxahatchee|Florida": {
+  "lat": 26.6831222,
+  "lon": -80.2593689,
+  "name": "Loxahatchee Groves, Palm Beach County, Florida, United States",
+  "drive_min": 715,
+  "drive_mi": 650,
+  "drive_min_clemson": 764,
+  "drive_mi_clemson": 645
+ },
+ "Micanopy|Florida": {
+  "lat": 29.5045307,
+  "lon": -82.27959,
+  "name": "Micanopy, Alachua County, Florida, United States",
+  "drive_min": 506,
+  "drive_mi": 444,
+  "drive_min_clemson": 506,
+  "drive_mi_clemson": 459
+ },
+ "Mount Dora|Florida": {
+  "lat": 28.8004955,
+  "lon": -81.6446961,
+  "name": "Mount Dora, Lake County, Florida, 32757, United States",
+  "drive_min": 563,
+  "drive_mi": 504,
+  "drive_min_clemson": 601,
+  "drive_mi_clemson": 533
+ },
+ "Naples|Florida": {
+  "lat": 26.1421976,
+  "lon": -81.7942944,
+  "name": "Naples, Collier County, Florida, United States",
+  "drive_min": 804,
+  "drive_mi": 720,
+  "drive_min_clemson": 802,
+  "drive_mi_clemson": 732
+ },
+ "Ocala|Florida": {
+  "lat": 29.1871986,
+  "lon": -82.1400923,
+  "name": "Ocala, Marion County, Florida, United States",
+  "drive_min": 526,
+  "drive_mi": 464,
+  "drive_min_clemson": 533,
+  "drive_mi_clemson": 483
+ },
+ "Palmetto Bay|Florida": {
+  "lat": 25.6217715,
+  "lon": -80.3247748,
+  "name": "Palmetto Bay, Miami-Dade County, Florida, United States",
+  "drive_min": 807,
+  "drive_mi": 725,
+  "drive_min_clemson": 857,
+  "drive_mi_clemson": 720
+ },
+ "Panama City Beach|Florida": {
+  "lat": 30.1765914,
+  "lon": -85.805386,
+  "name": "Panama City Beach, Bay County, Florida, United States",
+  "drive_min": 650,
+  "drive_mi": 537,
+  "drive_min_clemson": 509,
+  "drive_mi_clemson": 419
+ },
+ "Pensacola|Florida": {
+  "lat": 30.421309,
+  "lon": -87.2169149,
+  "name": "Pensacola, Escambia County, Florida, United States",
+  "drive_min": 654,
+  "drive_mi": 565,
+  "drive_min_clemson": 513,
+  "drive_mi_clemson": 448
+ },
+ "Pensacola Beach|Florida": {
+  "lat": 30.3342348,
+  "lon": -87.1350979,
+  "name": "Pensacola Beach, Escambia County, Florida, 32561, United States",
+  "drive_min": 671,
+  "drive_mi": 574,
+  "drive_min_clemson": 530,
+  "drive_mi_clemson": 456
+ },
+ "Ponce Inlet|Florida": {
+  "lat": 29.0963729,
+  "lon": -80.9369983,
+  "name": "Ponce Inlet, Volusia County, Florida, United States",
+  "drive_min": 526,
+  "drive_mi": 470,
+  "drive_min_clemson": 576,
+  "drive_mi_clemson": 466
+ },
+ "Sanibel|Florida": {
+  "lat": 26.4489695,
+  "lon": -82.0223137,
+  "name": "Sanibel, Lee County, Florida, United States",
+  "drive_min": 799,
+  "drive_mi": 700,
+  "drive_min_clemson": 796,
+  "drive_mi_clemson": 712
+ },
+ "Santa Rosa Beach|Florida": {
+  "lat": 30.3466423,
+  "lon": -86.2307992,
+  "name": "Santa Rosa Beach, Walton County, Florida, 32459, United States",
+  "drive_min": 660,
+  "drive_mi": 548,
+  "drive_min_clemson": 519,
+  "drive_mi_clemson": 430
+ },
+ "Sebastian|Florida": {
+  "lat": 27.817357,
+  "lon": -80.4694039,
+  "name": "Sebastian, Indian River County, Florida, 32958, United States",
+  "drive_min": 624,
+  "drive_mi": 561,
+  "drive_min_clemson": 673,
+  "drive_mi_clemson": 557
+ },
+ "Tallahassee|Florida": {
+  "lat": 30.4380832,
+  "lon": -84.2809332,
+  "name": "Tallahassee, Leon County, Florida, United States",
+  "drive_min": 558,
+  "drive_mi": 451,
+  "drive_min_clemson": 459,
+  "drive_mi_clemson": 379
+ },
+ "Tampa|Florida": {
+  "lat": 27.9449854,
+  "lon": -82.4583107,
+  "name": "Tampa, Hillsborough County, Florida, United States",
+  "drive_min": 635,
+  "drive_mi": 563,
+  "drive_min_clemson": 633,
+  "drive_mi_clemson": 575
+ },
+ "Titusville|Florida": {
+  "lat": 28.6126236,
+  "lon": -80.8079545,
+  "name": "Titusville, Brevard County, Florida, United States",
+  "drive_min": 551,
+  "drive_mi": 499,
+  "drive_min_clemson": 601,
+  "drive_mi_clemson": 495
+ },
+ "Weston|Florida": {
+  "lat": 26.1003392,
+  "lon": -80.399513,
+  "name": "Weston, Broward County, Florida, United States",
+  "drive_min": 773,
+  "drive_mi": 698,
+  "drive_min_clemson": 822,
+  "drive_mi_clemson": 693
+ },
+ "Winter Park|Florida": {
+  "lat": 28.5977707,
+  "lon": -81.3510264,
+  "name": "Winter Park, Orange County, Florida, United States",
+  "drive_min": 559,
+  "drive_mi": 503,
+  "drive_min_clemson": 608,
+  "drive_mi_clemson": 498
+ },
+ "Arlington|Virginia": {
+  "lat": 38.8769326,
+  "lon": -77.0893094,
+  "name": "Arlington County, Virginia, United States",
+  "drive_min": 477,
+  "drive_mi": 413,
+  "drive_min_clemson": 611,
+  "drive_mi_clemson": 525
+ },
+ "Cedar Key|Florida": {
+  "lat": 29.1377209,
+  "lon": -83.0359638,
+  "name": "Cedar Key, Levy County, Florida, United States",
+  "drive_min": 573,
+  "drive_mi": 492,
+  "drive_min_clemson": 561,
+  "drive_mi_clemson": 490
+ },
+ "Eglin AFB|Florida": {
+  "lat": 30.5776961,
+  "lon": -86.5139603,
+  "name": "Eglin Air Force Base, Okaloosa County, Florida, 32580, United States",
+  "drive_min": 665,
+  "drive_mi": 555,
+  "drive_min_clemson": 524,
+  "drive_mi_clemson": 438
+ },
+ "Homosassa|Florida": {
+  "lat": 28.782535,
+  "lon": -82.6065272,
+  "name": "Homosassa, Citrus County, Florida, 34448, United States",
+  "drive_min": 592,
+  "drive_mi": 507,
+  "drive_min_clemson": 588,
+  "drive_mi_clemson": 517
+ },
+ "Lakeland|Florida": {
+  "lat": 28.0394654,
+  "lon": -81.9498042,
+  "name": "Lakeland, Polk County, Florida, United States",
+  "drive_min": 626,
+  "drive_mi": 559,
+  "drive_min_clemson": 639,
+  "drive_mi_clemson": 567
+ },
+ "Leesburg|Virginia": {
+  "lat": 39.1154506,
+  "lon": -77.5645607,
+  "name": "Leesburg, Loudoun County, Virginia, United States",
+  "drive_min": 476,
+  "drive_mi": 413,
+  "drive_min_clemson": 608,
+  "drive_mi_clemson": 522
+ },
+ "Lexington|Virginia": {
+  "lat": 37.7840208,
+  "lon": -79.4428157,
+  "name": "Lexington, Virginia, United States",
+  "drive_min": 294,
+  "drive_mi": 255,
+  "drive_min_clemson": 427,
+  "drive_mi_clemson": 364
+ },
+ "Middlesboro|Virginia": {
+  "lat": 36.785093,
+  "lon": -76.164743,
+  "name": "Middlesboro Court, Virginia Beach, Virginia, 23464, United States",
+  "drive_min": 420,
+  "drive_mi": 351,
+  "drive_min_clemson": 554,
+  "drive_mi_clemson": 463
+ },
+ "Mount Vernon|Virginia": {
+  "lat": 38.710179,
+  "lon": -77.0888199,
+  "name": "George Washington's Mount Vernon, 3200, Mount Vernon Memorial Highway, Sulgrave ",
+  "drive_min": 470,
+  "drive_mi": 404,
+  "drive_min_clemson": 604,
+  "drive_mi_clemson": 516
+ },
+ "Norfolk|Virginia": {
+  "lat": 36.8493695,
+  "lon": -76.2899539,
+  "name": "Norfolk, Virginia, United States",
+  "drive_min": 414,
+  "drive_mi": 344,
+  "drive_min_clemson": 548,
+  "drive_mi_clemson": 456
+ },
+ "Port Richey|Florida": {
+  "lat": 28.2716755,
+  "lon": -82.7195451,
+  "name": "Port Richey, Pasco County, Florida, United States",
+  "drive_min": 643,
+  "drive_mi": 544,
+  "drive_min_clemson": 638,
+  "drive_mi_clemson": 554
+ },
+ "Vienna|Virginia": {
+  "lat": 38.9013729,
+  "lon": -77.2651762,
+  "name": "Vienna, Fairfax County, Virginia, United States",
+  "drive_min": 481,
+  "drive_mi": 416,
+  "drive_min_clemson": 614,
+  "drive_mi_clemson": 527
+ },
+ "Virginia Beach|Virginia": {
+  "lat": 36.8496579,
+  "lon": -75.9760751,
+  "name": "Virginia Beach, Virginia, United States",
+  "drive_min": 436,
+  "drive_mi": 361,
+  "drive_min_clemson": 570,
+  "drive_mi_clemson": 472
+ },
+ "Yorktown|Virginia": {
+  "lat": 37.2356655,
+  "lon": -76.5136495,
+  "name": "Yorktown, York County, Virginia, United States",
+  "drive_min": 414,
+  "drive_mi": 356,
+  "drive_min_clemson": 548,
+  "drive_mi_clemson": 468
  }
 }

@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 522 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
+Current picture: 546 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
 North Carolina is 44 of 100.
 271 counties nationally still have a single entry, and those are the backlog.
 
@@ -153,7 +153,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,268 entries
+## Where it stands, 1,351 entries
 
 South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
 county, and all but Marlboro at five or more. It is the model for the other states.
@@ -170,12 +170,12 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
 | Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
 | California | 30 | 18 | | Connecticut | 9 | 5 |
 | Tennessee | 70 | 16 | | New Jersey | 9 | 8 |
-| Florida | 25 | 16 | | Alabama | 9 | 6 |
+| Florida | 88 | 33 | | Alabama | 9 | 6 |
 | New York | 24 | 12 | | Mississippi | 9 | 8 |
 | Texas | 21 | 12 | | Arkansas | 9 | 9 |
 | West Virginia | 18 | 14 | | Minnesota | 8 | 7 |
 | Pennsylvania | 16 | 11 | | Wyoming | 8 | 6 |
-| Virginia | 16 | 13 | | Iowa | 7 | 7 |
+| Virginia | 36 | 21 | | Iowa | 7 | 7 |
 | Colorado | 14 | 11 | | Maine | 7 | 5 |
 | Arizona | 14 | 8 | | Rhode Island | 7 | 3 |
 | Oregon | 14 | 10 | | Maryland | 7 | 4 |
@@ -202,7 +202,12 @@ South Georgia, the mountains and the coast are covered at the county level. 119 
    Hertford, Bertie, Northampton, Warren, Person, Caswell, Rockingham, Alexander, Ashe, Alleghany.
 3. Tennessee. 16 of 95 counties have entries, all at three or more, 79 are blank. Next: the metro
    ring around Nashville and Memphis, then the Upper Cumberland and the rural west.
-4. Florida, Virginia, West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
+4. Florida. 33 of 67 counties have entries, 34 are blank. Next: the Panhandle and the interior.
+5. Virginia. 21 of 129 counties and independent cities have entries. Next: the Shenandoah Valley,
+   Southside and the Northern Neck.
+6. West Virginia, Alabama, Mississippi, Kentucky, Arkansas and Louisiana.
+7. The remaining states, thinnest first, using the coverage report to choose.
+8. Then a third country, using the same rules.
 5. The remaining states, thinnest first, using the coverage report to choose.
 6. Then a third country, using the same rules.
 

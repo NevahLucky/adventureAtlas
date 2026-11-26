@@ -1,6 +1,6 @@
 # Waypoint — An Atlas of Adventures Worth the Trip
 
-A static, dependency-free field guide to 1,268 singular things to do in the United States, from world class spectacles to the local dance hall.
+A static, dependency-free field guide to 1,351 singular things to do in the United States, from world class spectacles to the local dance hall.
 Browse by country → state → county, sort by any column, filter by budget, duration,
 party size and category, and keep a personal shortlist.
 
