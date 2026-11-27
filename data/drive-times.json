@@ -15722,5 +15722,167 @@
   "drive_mi": 392,
   "drive_min_clemson": 328,
   "drive_mi_clemson": 303
+ },
+ "Allardt|Tennessee": {
+  "lat": 36.3807797,
+  "lon": -84.8843258,
+  "name": "Allardt, Fentress County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 318,
+  "drive_mi": 325,
+  "drive_min_clemson": 281,
+  "drive_mi_clemson": 271
+ },
+ "Ashland City|Tennessee": {
+  "lat": 36.2742207,
+  "lon": -87.0641699,
+  "name": "Ashland City, Cheatham County, Middle Tennessee, Tennessee, 37015, United States",
+  "drive_min": 418,
+  "drive_mi": 447,
+  "drive_min_clemson": 348,
+  "drive_mi_clemson": 338
+ },
+ "Burns|Tennessee": {
+  "lat": 36.0533943,
+  "lon": -87.3125104,
+  "name": "Burns, Dickson County, Middle Tennessee, Tennessee, 37029, United States",
+  "drive_min": 426,
+  "drive_mi": 457,
+  "drive_min_clemson": 359,
+  "drive_mi_clemson": 355
+ },
+ "Byrdstown|Tennessee": {
+  "lat": 36.5745104,
+  "lon": -85.1288435,
+  "name": "Byrdstown, Pickett County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 353,
+  "drive_mi": 353,
+  "drive_min_clemson": 316,
+  "drive_mi_clemson": 298
+ },
+ "Crab Orchard|Tennessee": {
+  "lat": 35.908989,
+  "lon": -84.8774013,
+  "name": "Crab Orchard, Cumberland County, East Tennessee, Tennessee, United States",
+  "drive_min": 282,
+  "drive_mi": 302,
+  "drive_min_clemson": 245,
+  "drive_mi_clemson": 248
+ },
+ "Crossville|Tennessee": {
+  "lat": 35.949684,
+  "lon": -85.0274835,
+  "name": "Crossville, Cumberland County, East Tennessee, Tennessee, United States",
+  "drive_min": 292,
+  "drive_mi": 312,
+  "drive_min_clemson": 255,
+  "drive_mi_clemson": 220
+ },
+ "Cumberland Furnace|Tennessee": {
+  "lat": 36.2686661,
+  "lon": -87.3597314,
+  "name": "Cumberland Furnace, Dickson County, Middle Tennessee, Tennessee, 37051, United S",
+  "drive_min": 447,
+  "drive_mi": 469,
+  "drive_min_clemson": 376,
+  "drive_mi_clemson": 366
+ },
+ "Dover|Tennessee": {
+  "lat": 36.4878291,
+  "lon": -87.8383567,
+  "name": "Dover, Stewart County, Middle Tennessee, Tennessee, 37058, United States",
+  "drive_min": 475,
+  "drive_mi": 502,
+  "drive_min_clemson": 405,
+  "drive_mi_clemson": 394
+ },
+ "Erin|Tennessee": {
+  "lat": 36.3185829,
+  "lon": -87.693898,
+  "name": "Erin, Houston County, Middle Tennessee, Tennessee, 37061, United States",
+  "drive_min": 471,
+  "drive_mi": 495,
+  "drive_min_clemson": 397,
+  "drive_mi_clemson": 380
+ },
+ "Hurricane Mills|Tennessee": {
+  "lat": 35.9711736,
+  "lon": -87.781969,
+  "name": "Hurricane Mills, Humphreys County, Middle Tennessee, Tennessee, 37078, United St",
+  "drive_min": 465,
+  "drive_mi": 498,
+  "drive_min_clemson": 389,
+  "drive_mi_clemson": 386
+ },
+ "Jamestown|Tennessee": {
+  "lat": 36.4275699,
+  "lon": -84.9318919,
+  "name": "Jamestown, Fentress County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 324,
+  "drive_mi": 330,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 276
+ },
+ "Kingston Springs|Tennessee": {
+  "lat": 36.1020038,
+  "lon": -87.1150054,
+  "name": "Kingston Springs, Cheatham County, Middle Tennessee, Tennessee, 37082, United St",
+  "drive_min": 414,
+  "drive_mi": 445,
+  "drive_min_clemson": 344,
+  "drive_mi_clemson": 338
+ },
+ "Livingston|Tennessee": {
+  "lat": 36.3833961,
+  "lon": -85.3230221,
+  "name": "Livingston, Overton County, Middle Tennessee, Tennessee, 38570, United States",
+  "drive_min": 333,
+  "drive_mi": 350,
+  "drive_min_clemson": 296,
+  "drive_mi_clemson": 296
+ },
+ "McEwen|Tennessee": {
+  "lat": 36.1099172,
+  "lon": -87.6349344,
+  "name": "McEwen, Humphreys County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 452,
+  "drive_mi": 478,
+  "drive_min_clemson": 376,
+  "drive_mi_clemson": 366
+ },
+ "New Johnsonville|Tennessee": {
+  "lat": 36.0211715,
+  "lon": -87.9669765,
+  "name": "New Johnsonville, Humphreys County, Middle Tennessee, Tennessee, 37134, United S",
+  "drive_min": 478,
+  "drive_mi": 499,
+  "drive_min_clemson": 402,
+  "drive_mi_clemson": 386
+ },
+ "Pall Mall|Tennessee": {
+  "lat": 36.5506245,
+  "lon": -84.9677248,
+  "name": "Pall Mall, Fentress County, Middle Tennessee, Tennessee, 38577, United States",
+  "drive_min": 335,
+  "drive_mi": 340,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 286
+ },
+ "Pikeville|Tennessee": {
+  "lat": 35.6054921,
+  "lon": -85.1892276,
+  "name": "Pikeville, Bledsoe County, East Tennessee, Tennessee, United States",
+  "drive_min": 327,
+  "drive_mi": 339,
+  "drive_min_clemson": 229,
+  "drive_mi_clemson": 197
+ },
+ "Waverly|Tennessee": {
+  "lat": 36.0830353,
+  "lon": -87.7945789,
+  "name": "Waverly, Humphreys County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 464,
+  "drive_mi": 488,
+  "drive_min_clemson": 388,
+  "drive_mi_clemson": 376
  }
 }
