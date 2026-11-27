@@ -6753,5 +6753,176 @@
   "drive_mi": 733,
   "drive_min_clemson": 1027,
   "drive_mi_clemson": 845
+ },
+ "Albany|New York": {
+  "lat": 42.6511674,
+  "lon": -73.754968,
+  "name": "City of Albany, Albany County, New York, United States",
+  "drive_min": 903,
+  "drive_mi": 780,
+  "drive_min_clemson": 1035,
+  "drive_mi_clemson": 889
+ },
+ "Bear Mountain|New York": {
+  "lat": 41.3129068,
+  "lon": -74.0061627,
+  "name": "Bear Mountain, Town of Highlands, Orange County, New York, 10922, United States",
+  "drive_min": 808,
+  "drive_mi": 692,
+  "drive_min_clemson": 940,
+  "drive_mi_clemson": 801
+ },
+ "Cold Spring|New York": {
+  "lat": 41.4200938,
+  "lon": -73.9545831,
+  "name": "Village of Cold Spring, Town of Philipstown, Putnam County, New York, United Sta",
+  "drive_min": 818,
+  "drive_mi": 700,
+  "drive_min_clemson": 950,
+  "drive_mi_clemson": 809
+ },
+ "Garrison|New York": {
+  "lat": 41.3825364,
+  "lon": -73.9466505,
+  "name": "Garrison, Town of Philipstown, Putnam County, New York, 10997, United States",
+  "drive_min": 811,
+  "drive_mi": 697,
+  "drive_min_clemson": 943,
+  "drive_mi_clemson": 806
+ },
+ "Hyde Park|New York": {
+  "lat": 41.7841956,
+  "lon": -73.9373912,
+  "name": "Hyde Park, Haviland, Town of Hyde Park, Dutchess County, New York, United States",
+  "drive_min": 841,
+  "drive_mi": 724,
+  "drive_min_clemson": 973,
+  "drive_mi_clemson": 833
+ },
+ "Kingston|New York": {
+  "lat": 41.9287812,
+  "lon": -74.0023825,
+  "name": "City of Kingston, Ulster County, New York, United States",
+  "drive_min": 841,
+  "drive_mi": 728,
+  "drive_min_clemson": 974,
+  "drive_mi_clemson": 837
+ },
+ "New Paltz|New York": {
+  "lat": 41.7464972,
+  "lon": -74.0844894,
+  "name": "Town of New Paltz, Ulster County, New York, 12561, United States",
+  "drive_min": 827,
+  "drive_mi": 717,
+  "drive_min_clemson": 959,
+  "drive_mi_clemson": 826
+ },
+ "Newburgh|New York": {
+  "lat": 41.5000767,
+  "lon": -74.0098299,
+  "name": "City of Newburgh, Orange County, New York, United States",
+  "drive_min": 810,
+  "drive_mi": 703,
+  "drive_min_clemson": 943,
+  "drive_mi_clemson": 812
+ },
+ "Nyack|New York": {
+  "lat": 41.091121,
+  "lon": -73.9196794,
+  "name": "Village of Nyack, Town of Orangetown, Rockland County, New York, 10960, United S",
+  "drive_min": 787,
+  "drive_mi": 683,
+  "drive_min_clemson": 919,
+  "drive_mi_clemson": 791
+ },
+ "Poughkeepsie|New York": {
+  "lat": 41.7065539,
+  "lon": -73.9283672,
+  "name": "City of Poughkeepsie, Dutchess County, New York, 12601, United States",
+  "drive_min": 834,
+  "drive_mi": 719,
+  "drive_min_clemson": 967,
+  "drive_mi_clemson": 827
+ },
+ "Rye|New York": {
+  "lat": 40.9821371,
+  "lon": -73.6840902,
+  "name": "City of Rye, Westchester County, New York, 10580, United States",
+  "drive_min": 798,
+  "drive_mi": 668,
+  "drive_min_clemson": 932,
+  "drive_mi_clemson": 780
+ },
+ "Saratoga Springs|New York": {
+  "lat": 43.0822315,
+  "lon": -73.785373,
+  "name": "City of Saratoga Springs, Saratoga County, New York, 12866, United States",
+  "drive_min": 947,
+  "drive_mi": 814,
+  "drive_min_clemson": 1079,
+  "drive_mi_clemson": 922
+ },
+ "Saugerties|New York": {
+  "lat": 42.0775906,
+  "lon": -73.9529126,
+  "name": "Town of Saugerties, Ulster County, New York, United States",
+  "drive_min": 854,
+  "drive_mi": 738,
+  "drive_min_clemson": 986,
+  "drive_mi_clemson": 846
+ },
+ "Sloatsburg|New York": {
+  "lat": 41.1545395,
+  "lon": -74.192924,
+  "name": "Village of Sloatsburg, Town of Ramapo, Rockland County, New York, 10974, United ",
+  "drive_min": 775,
+  "drive_mi": 673,
+  "drive_min_clemson": 907,
+  "drive_mi_clemson": 782
+ },
+ "Tarrytown|New York": {
+  "lat": 41.0762077,
+  "lon": -73.8587461,
+  "name": "Village of Tarrytown, Town of Greenburgh, Westchester County, New York, 10591, U",
+  "drive_min": 795,
+  "drive_mi": 688,
+  "drive_min_clemson": 927,
+  "drive_mi_clemson": 797
+ },
+ "Troy|New York": {
+  "lat": 42.7284117,
+  "lon": -73.6917878,
+  "name": "City of Troy, Rensselaer County, New York, United States",
+  "drive_min": 914,
+  "drive_mi": 787,
+  "drive_min_clemson": 1046,
+  "drive_mi_clemson": 896
+ },
+ "Upper Nyack|New York": {
+  "lat": 41.1070404,
+  "lon": -73.9201371,
+  "name": "Village of Upper Nyack, Town of Clarkstown, Rockland County, New York, United St",
+  "drive_min": 789,
+  "drive_mi": 684,
+  "drive_min_clemson": 921,
+  "drive_mi_clemson": 792
+ },
+ "Washingtonville|New York": {
+  "lat": 41.4278716,
+  "lon": -74.1659798,
+  "name": "Village of Washingtonville, Town of Blooming Grove, Orange County, New York, 109",
+  "drive_min": 804,
+  "drive_mi": 695,
+  "drive_min_clemson": 936,
+  "drive_mi_clemson": 804
+ },
+ "Yonkers|New York": {
+  "lat": 40.9312099,
+  "lon": -73.8987469,
+  "name": "City of Yonkers, Westchester County, New York, United States",
+  "drive_min": 781,
+  "drive_mi": 654,
+  "drive_min_clemson": 915,
+  "drive_mi_clemson": 766
  }
 }
