@@ -1,5 +1,66 @@
 {
- "rounds": [],
+ "rounds": [
+  {
+   "id": "r1-la",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:Los Angeles"
+   ],
+   "file": "data/regions/california-r1-la.json"
+  },
+  {
+   "id": "r1-or",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:Orange"
+   ],
+   "file": "data/regions/california-r1-or.json"
+  },
+  {
+   "id": "r1-sd",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:San Diego"
+   ],
+   "file": "data/regions/california-r1-sd.json"
+  },
+  {
+   "id": "r1-sb",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:San Bernardino"
+   ],
+   "file": "data/regions/california-r1-sb.json"
+  },
+  {
+   "id": "r1-rv",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:Riverside"
+   ],
+   "file": "data/regions/california-r1-rv.json"
+  },
+  {
+   "id": "r1-sc",
+   "owner": "huesten",
+   "created": "2026-11-27T09:09:27+00:00",
+   "state": "California",
+   "counties": [
+    "California:Santa Clara"
+   ],
+   "file": "data/regions/california-r1-sc.json"
+  }
+ ],
  "ttl_minutes": 180,
- "updated": "2026-11-27T09:06:48+00:00"
+ "updated": "2026-11-27T09:09:27+00:00"
 }

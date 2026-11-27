@@ -18680,5 +18680,410 @@
   "drive_mi": 652,
   "drive_min_clemson": 628,
   "drive_mi_clemson": 681
+ },
+ "Acton|California": {
+  "lat": 34.4807415,
+  "lon": -118.1868379,
+  "name": "Acton, Los Angeles County, California, 93510, United States"
+ },
+ "Agua Dulce|California": {
+  "lat": 34.4963817,
+  "lon": -118.3256348,
+  "name": "Agua Dulce, Los Angeles County, California, United States"
+ },
+ "Avalon|California": {
+  "lat": 33.34221,
+  "lon": -118.3272612,
+  "name": "Avalon, Los Angeles County, California, 90704, United States"
+ },
+ "Azusa|California": {
+  "lat": 34.1338751,
+  "lon": -117.9056046,
+  "name": "Azusa, Los Angeles County, California, United States"
+ },
+ "Barstow|California": {
+  "lat": 34.8986215,
+  "lon": -117.0244313,
+  "name": "Barstow, San Bernardino County, California, United States"
+ },
+ "Big Bear Lake|California": {
+  "lat": 34.2440587,
+  "lon": -116.91018,
+  "name": "Big Bear Lake, San Bernardino County, California, 92315, United States"
+ },
+ "Blythe|California": {
+  "lat": 33.6134767,
+  "lon": -114.5937537,
+  "name": "Blythe, Riverside County, California, United States"
+ },
+ "Borrego Springs|California": {
+  "lat": 33.254858,
+  "lon": -116.3569487,
+  "name": "Borrego Springs, San Diego County, California, 92004, United States"
+ },
+ "Buena Park|California": {
+  "lat": 33.870413,
+  "lon": -117.9962165,
+  "name": "Buena Park, Orange County, California, United States"
+ },
+ "Cabazon|California": {
+  "lat": 33.9090305,
+  "lon": -116.7795345,
+  "name": "Cabazon, Riverside County, California, United States"
+ },
+ "Campo|California": {
+  "lat": 32.6526051,
+  "lon": -116.4716494,
+  "name": "Campo, Lake Morena Village, San Diego County, California, 91906, United States"
+ },
+ "Carlsbad|California": {
+  "lat": 33.1352045,
+  "lon": -117.329126,
+  "name": "Carlsbad, San Diego County, California, United States"
+ },
+ "Carson|California": {
+  "lat": 33.8322043,
+  "lon": -118.2517547,
+  "name": "Carson, Los Angeles County, California, United States"
+ },
+ "Chino|California": {
+  "lat": 34.0133561,
+  "lon": -117.690075,
+  "name": "Chino, San Bernardino County, California, United States"
+ },
+ "Chiriaco Summit|California": {
+  "lat": 33.6621678,
+  "lon": -115.7218902,
+  "name": "Chiriaco Summit, Riverside County, California, United States"
+ },
+ "Coachella|California": {
+  "lat": 33.6794956,
+  "lon": -116.17628,
+  "name": "Coachella, Riverside County, California, 92236, United States"
+ },
+ "Coronado|California": {
+  "lat": 32.6915199,
+  "lon": -117.1766947,
+  "name": "Coronado, San Diego County, California, United States"
+ },
+ "Costa Mesa|California": {
+  "lat": 33.6633386,
+  "lon": -117.903317,
+  "name": "Costa Mesa, Orange County, California, United States"
+ },
+ "Crestline|California": {
+  "lat": 34.2475425,
+  "lon": -117.2860221,
+  "name": "Crestline, San Bernardino County, California, 92322, United States"
+ },
+ "Cupertino|California": {
+  "lat": 37.3228934,
+  "lon": -122.0322895,
+  "name": "Cupertino, Santa Clara County, California, 95014, United States"
+ },
+ "Dana Point|California": {
+  "lat": 33.4669721,
+  "lon": -117.6981075,
+  "name": "Dana Point, Orange County, California, United States"
+ },
+ "Desert Hot Springs|California": {
+  "lat": 33.961124,
+  "lon": -116.5016784,
+  "name": "Desert Hot Springs, Riverside County, California, United States"
+ },
+ "Devore|California": {
+  "lat": 34.217346,
+  "lon": -117.4022524,
+  "name": "Devore, San Bernardino County, California, 92407, United States"
+ },
+ "El Segundo|California": {
+  "lat": 33.917028,
+  "lon": -118.4156337,
+  "name": "El Segundo, Los Angeles County, California, 90245, United States"
+ },
+ "Escondido|California": {
+  "lat": 33.1216751,
+  "lon": -117.0814849,
+  "name": "Escondido, San Diego County, California, United States"
+ },
+ "Essex|California": {
+  "lat": 34.7336097,
+  "lon": -115.2449794,
+  "name": "Essex, San Bernardino County, California, 92232, United States"
+ },
+ "Fullerton|California": {
+  "lat": 33.8708215,
+  "lon": -117.929416,
+  "name": "Fullerton, Orange County, California, United States"
+ },
+ "Garden Grove|California": {
+  "lat": 33.7746292,
+  "lon": -117.9463717,
+  "name": "Garden Grove, Orange County, California, United States"
+ },
+ "Gilroy|California": {
+  "lat": 37.0065078,
+  "lon": -121.5631723,
+  "name": "Gilroy, Santa Clara County, California, United States"
+ },
+ "Hemet|California": {
+  "lat": 33.7479929,
+  "lon": -116.9723886,
+  "name": "Hemet, Riverside County, California, United States"
+ },
+ "Idyllwild|California": {
+  "lat": 33.7402774,
+  "lon": -116.718942,
+  "name": "Idyllwild, Riverside County, California, 92549, United States"
+ },
+ "Joshua Tree|California": {
+  "lat": 34.123375,
+  "lon": -116.3128656,
+  "name": "Joshua Tree, San Bernardino County, California, United States"
+ },
+ "Julian|California": {
+  "lat": 33.0739633,
+  "lon": -116.5878464,
+  "name": "Julian, San Diego County, California, United States"
+ },
+ "La Jolla|California": {
+  "lat": 32.8458529,
+  "lon": -117.2575702,
+  "name": "La Jolla, San Diego, San Diego County, California, United States"
+ },
+ "La Quinta|California": {
+  "lat": 33.677474,
+  "lon": -116.2958789,
+  "name": "La Quinta, Riverside County, California, United States"
+ },
+ "Laguna Beach|California": {
+  "lat": 33.5426975,
+  "lon": -117.785366,
+  "name": "Laguna Beach, Orange County, California, United States"
+ },
+ "Lake Forest|California": {
+  "lat": 33.6469261,
+  "lon": -117.6859213,
+  "name": "Lake Forest, Orange County, California, United States"
+ },
+ "Lakeside|California": {
+  "lat": 32.8503194,
+  "lon": -116.8960084,
+  "name": "Lakeside, San Diego County, California, 92040, United States"
+ },
+ "Landers|California": {
+  "lat": 34.266114,
+  "lon": -116.3930703,
+  "name": "Landers, San Bernardino County, California, 92285, United States"
+ },
+ "Los Gatos|California": {
+  "lat": 37.226611,
+  "lon": -121.9746797,
+  "name": "Los Gatos, Santa Clara County, California, United States"
+ },
+ "Milpitas|California": {
+  "lat": 37.4332273,
+  "lon": -121.8989248,
+  "name": "Milpitas, Santa Clara County, California, 95035, United States"
+ },
+ "Morgan Hill|California": {
+  "lat": 37.130408,
+  "lon": -121.6544974,
+  "name": "Morgan Hill, Santa Clara County, California, United States"
+ },
+ "Morongo Valley|California": {
+  "lat": 34.0738965,
+  "lon": -116.5629156,
+  "name": "Morongo Valley, San Bernardino County, California, United States"
+ },
+ "Mount Laguna|California": {
+  "lat": 32.8711232,
+  "lon": -116.4242566,
+  "name": "Mount Laguna, San Diego County, California, 91948, United States"
+ },
+ "Mount Wilson|California": {
+  "lat": 34.2238723,
+  "lon": -118.0611872,
+  "name": "Mount Wilson, Los Angeles County, California, 91023, United States"
+ },
+ "Mountain View|California": {
+  "lat": 37.3893889,
+  "lon": -122.0832101,
+  "name": "Mountain View, Santa Clara County, California, United States"
+ },
+ "Murrieta|California": {
+  "lat": 33.560832,
+  "lon": -117.210656,
+  "name": "Murrieta, Riverside County, California, United States"
+ },
+ "Newport Beach|California": {
+  "lat": 33.6170092,
+  "lon": -117.9294401,
+  "name": "Newport Beach, Orange County, California, United States"
+ },
+ "Newport Coast|California": {
+  "lat": 33.5963719,
+  "lon": -117.826821,
+  "name": "Newport Coast, Newport Beach, Orange County, California, United States"
+ },
+ "Ontario|California": {
+  "lat": 34.0308819,
+  "lon": -117.6106533,
+  "name": "Ontario, San Bernardino County, California, United States"
+ },
+ "Orange|California": {
+  "lat": 33.750631,
+  "lon": -117.8722311,
+  "name": "Orange County, California, United States"
+ },
+ "Oro Grande|California": {
+  "lat": 34.5988813,
+  "lon": -117.3342134,
+  "name": "Oro Grande, San Bernardino County, California, 92368, United States"
+ },
+ "Pacific Palisades|California": {
+  "lat": 34.0480643,
+  "lon": -118.5264706,
+  "name": "Pacific Palisades, Los Angeles, Los Angeles County, California, 90272, United St"
+ },
+ "Palm Desert|California": {
+  "lat": 33.7288179,
+  "lon": -116.382571,
+  "name": "Palm Desert, Riverside County, California, United States"
+ },
+ "Palm Springs|California": {
+  "lat": 33.8246269,
+  "lon": -116.540303,
+  "name": "Palm Springs, Riverside County, California, United States"
+ },
+ "Palo Alto|California": {
+  "lat": 37.4443293,
+  "lon": -122.1598465,
+  "name": "Palo Alto, Santa Clara County, California, United States"
+ },
+ "Palomar Mountain|California": {
+  "lat": 33.3228128,
+  "lon": -116.8786359,
+  "name": "Palomar Mountain, San Diego County, California, 92060, United States"
+ },
+ "Pasadena|California": {
+  "lat": 34.1476507,
+  "lon": -118.144155,
+  "name": "Pasadena, Los Angeles County, California, United States"
+ },
+ "Perris|California": {
+  "lat": 33.7818729,
+  "lon": -117.2298477,
+  "name": "Perris, Riverside County, California, 92571, United States"
+ },
+ "Pioneertown|California": {
+  "lat": 34.188048,
+  "lon": -116.5018348,
+  "name": "Pioneertown, San Bernardino County, California, 92268, United States"
+ },
+ "Playa del Rey|California": {
+  "lat": 33.9541453,
+  "lon": -118.4388067,
+  "name": "Playa del Rey, Los Angeles, Los Angeles County, California, 90293, United States"
+ },
+ "Ramona|California": {
+  "lat": 33.0472806,
+  "lon": -116.8776005,
+  "name": "Ramona, San Diego County, California, 92065, United States"
+ },
+ "Rancho Mirage|California": {
+  "lat": 33.7583005,
+  "lon": -116.4347271,
+  "name": "Rancho Mirage, Riverside County, California, United States"
+ },
+ "Redlands|California": {
+  "lat": 34.0550328,
+  "lon": -117.1827445,
+  "name": "Redlands, San Bernardino County, California, United States"
+ },
+ "Rialto|California": {
+  "lat": 34.1064001,
+  "lon": -117.3703235,
+  "name": "Rialto, San Bernardino County, California, United States"
+ },
+ "Riverside|California": {
+  "lat": 33.9732079,
+  "lon": -117.3730926,
+  "name": "Riverside, Riverside County, California, United States"
+ },
+ "San Bernardino|California": {
+  "lat": 34.8253019,
+  "lon": -116.0833144,
+  "name": "San Bernardino County, California, United States"
+ },
+ "San Juan Capistrano|California": {
+  "lat": 33.5016932,
+  "lon": -117.6625509,
+  "name": "San Juan Capistrano, Orange County, California, United States"
+ },
+ "San Marino|California": {
+  "lat": 34.1215947,
+  "lon": -118.105739,
+  "name": "San Marino, Los Angeles County, California, 91108, United States"
+ },
+ "Santa Ana|California": {
+  "lat": 33.7494951,
+  "lon": -117.873221,
+  "name": "Santa Ana, Orange County, California, United States"
+ },
+ "Santa Clara|California": {
+  "lat": 37.2333253,
+  "lon": -121.6846349,
+  "name": "Santa Clara County, California, United States"
+ },
+ "Santa Clarita|California": {
+  "lat": 34.4127963,
+  "lon": -118.5538088,
+  "name": "Santa Clarita, Los Angeles County, California, United States"
+ },
+ "Saratoga|California": {
+  "lat": 37.2638324,
+  "lon": -122.0230146,
+  "name": "Saratoga, Santa Clara County, California, 95070, United States"
+ },
+ "Stanford|California": {
+  "lat": 37.4265407,
+  "lon": -122.1703055,
+  "name": "Stanford, Palo Alto, Santa Clara County, California, United States"
+ },
+ "Temecula|California": {
+  "lat": 33.4946353,
+  "lon": -117.147366,
+  "name": "Temecula, Riverside County, California, United States"
+ },
+ "Tustin|California": {
+  "lat": 33.7458511,
+  "lon": -117.826166,
+  "name": "Tustin, Orange County, California, United States"
+ },
+ "Venice|California": {
+  "lat": 33.995044,
+  "lon": -118.4668875,
+  "name": "Venice, Los Angeles, Los Angeles County, California, 90291, United States"
+ },
+ "Watts|California": {
+  "lat": 33.9405897,
+  "lon": -118.2428984,
+  "name": "Watts, Los Angeles, Los Angeles County, California, 90059, United States"
+ },
+ "Westminster|California": {
+  "lat": 33.7578725,
+  "lon": -117.9859054,
+  "name": "Westminster, Orange County, California, United States"
+ },
+ "Yermo|California": {
+  "lat": 34.906701,
+  "lon": -116.8230266,
+  "name": "Yermo, San Bernardino County, California, 92398, United States"
+ },
+ "Yorba Linda|California": {
+  "lat": 33.8901096,
+  "lon": -117.8249705,
+  "name": "Yorba Linda, Orange County, California, United States"
  }
 }
