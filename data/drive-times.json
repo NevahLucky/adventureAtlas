@@ -2101,7 +2101,11 @@
  "Austin|Minnesota": {
   "lat": 43.6679992,
   "lon": -92.9746498,
-  "name": "Austin, Mower County, Minnesota, 55912, United States"
+  "name": "Austin, Mower County, Minnesota, 55912, United States",
+  "drive_min": 1302,
+  "drive_mi": 1114,
+  "drive_min_clemson": 1256,
+  "drive_mi_clemson": 1067
  },
  "Austin|Texas": {
   "lat": 30.2649261,
@@ -2265,7 +2269,11 @@
  "Bloomington|Minnesota": {
   "lat": 44.8322405,
   "lon": -93.3204872,
-  "name": "Bloomington, Hennepin County, Minnesota, United States"
+  "name": "Bloomington, Hennepin County, Minnesota, United States",
+  "drive_min": 1355,
+  "drive_mi": 1186,
+  "drive_min_clemson": 1314,
+  "drive_mi_clemson": 1122
  },
  "Boston|Massachusetts": {
   "lat": 42.3588336,
@@ -2487,7 +2495,11 @@
  "Chanhassen|Minnesota": {
   "lat": 44.8618403,
   "lon": -93.5307207,
-  "name": "Chanhassen, Carver County, Minnesota, 55317, United States"
+  "name": "Chanhassen, Carver County, Minnesota, 55317, United States",
+  "drive_min": 1363,
+  "drive_mi": 1194,
+  "drive_min_clemson": 1323,
+  "drive_mi_clemson": 1130
  },
  "Chatsworth|New Jersey": {
   "lat": 39.8176178,
@@ -2769,7 +2781,11 @@
  "Detroit|Michigan": {
   "lat": 42.3315509,
   "lon": -83.0466403,
-  "name": "Detroit, Wayne County, Michigan, United States"
+  "name": "Detroit, Wayne County, Michigan, United States",
+  "drive_min": 754,
+  "drive_mi": 656,
+  "drive_min_clemson": 813,
+  "drive_mi_clemson": 682
  },
  "Devils Tower|Wyoming": {
   "lat": 44.5906122,
@@ -2842,12 +2858,20 @@
  "Ely|Minnesota": {
   "lat": 47.901571,
   "lon": -91.8572479,
-  "name": "Ely, Saint Louis County, Minnesota, 55731, United States"
+  "name": "Ely, Saint Louis County, Minnesota, 55731, United States",
+  "drive_min": 1565,
+  "drive_mi": 1350,
+  "drive_min_clemson": 1524,
+  "drive_mi_clemson": 1286
  },
  "Empire|Michigan": {
   "lat": 44.811108,
   "lon": -86.060093,
-  "name": "Empire, Leelanau County, Michigan, 49630, United States"
+  "name": "Empire, Leelanau County, Michigan, 49630, United States",
+  "drive_min": 1035,
+  "drive_mi": 888,
+  "drive_min_clemson": 1091,
+  "drive_mi_clemson": 899
  },
  "Estes Park|Colorado": {
   "lat": 40.3771926,
@@ -2897,7 +2921,11 @@
  "Falcon Heights|Minnesota": {
   "lat": 44.9898128,
   "lon": -93.1762507,
-  "name": "Falcon Heights, Ramsey County, Minnesota, 55108, United States"
+  "name": "Falcon Heights, Ramsey County, Minnesota, 55108, United States",
+  "drive_min": 1345,
+  "drive_mi": 1176,
+  "drive_min_clemson": 1304,
+  "drive_mi_clemson": 1111
  },
  "Farmington|Pennsylvania": {
   "lat": 39.8071471,
@@ -2961,7 +2989,11 @@
  "Frankenmuth|Michigan": {
   "lat": 43.3323684,
   "lon": -83.7392288,
-  "name": "Frankenmuth, Saginaw County, Michigan, United States"
+  "name": "Frankenmuth, Saginaw County, Michigan, United States",
+  "drive_min": 826,
+  "drive_mi": 712,
+  "drive_min_clemson": 883,
+  "drive_mi_clemson": 749
  },
  "Fredericksburg|Texas": {
   "lat": 30.2752011,
@@ -3052,7 +3084,11 @@
  "Grand Rapids|Michigan": {
   "lat": 42.9632425,
   "lon": -85.6678639,
-  "name": "Grand Rapids, Kent County, Michigan, United States"
+  "name": "Grand Rapids, Kent County, Michigan, United States",
+  "drive_min": 882,
+  "drive_mi": 767,
+  "drive_min_clemson": 910,
+  "drive_mi_clemson": 743
  },
  "Green Bay|Wisconsin": {
   "lat": 44.5126379,
@@ -3259,7 +3295,11 @@
  "Kasota|Minnesota": {
   "lat": 44.2924667,
   "lon": -93.9649575,
-  "name": "Kasota, Le Sueur County, Minnesota, United States"
+  "name": "Kasota, Le Sueur County, Minnesota, United States",
+  "drive_min": 1383,
+  "drive_mi": 1207,
+  "drive_min_clemson": 1342,
+  "drive_mi_clemson": 1143
  },
  "Kayenta|Arizona": {
   "lat": 36.7218463,
@@ -3469,7 +3509,11 @@
  "Mackinac Island|Michigan": {
   "lat": 45.8657607,
   "lon": -84.6305313,
-  "name": "Mackinac Island, Mackinac County, Michigan, 49757, United States"
+  "name": "Mackinac Island, Mackinac County, Michigan, 49757, United States",
+  "drive_min": 1030,
+  "drive_mi": 914,
+  "drive_min_clemson": 1087,
+  "drive_mi_clemson": 951
  },
  "Mammoth Lakes|California": {
   "lat": 37.6432525,
@@ -3501,7 +3545,11 @@
  "Manistique|Michigan": {
   "lat": 45.95779,
   "lon": -86.246419,
-  "name": "Manistique, Schoolcraft County, Michigan, United States"
+  "name": "Manistique, Schoolcraft County, Michigan, United States",
+  "drive_min": 1130,
+  "drive_mi": 1000,
+  "drive_min_clemson": 1187,
+  "drive_mi_clemson": 1037
  },
  "Mansfield|Ohio": {
   "lat": 40.75839,
@@ -3715,7 +3763,11 @@
  "Munising|Michigan": {
   "lat": 46.4100035,
   "lon": -86.6494698,
-  "name": "Munising, Alger County, Michigan, 49862, United States"
+  "name": "Munising, Alger County, Michigan, 49862, United States",
+  "drive_min": 1166,
+  "drive_mi": 1031,
+  "drive_min_clemson": 1223,
+  "drive_mi_clemson": 1068
  },
  "Murfreesboro|Arkansas": {
   "lat": 34.0623308,
@@ -4027,7 +4079,11 @@
  "Paradise|Michigan": {
   "lat": 46.6275215,
   "lon": -85.0375869,
-  "name": "Paradise, Whitefish Township, Chippewa County, Michigan, 49768, United States"
+  "name": "Paradise, Whitefish Township, Chippewa County, Michigan, 49768, United States",
+  "drive_min": 1099,
+  "drive_mi": 976,
+  "drive_min_clemson": 1155,
+  "drive_mi_clemson": 1013
  },
  "Paradise|Washington": {
   "lat": 46.7863468,
@@ -4647,7 +4703,11 @@
  "St. Paul|Minnesota": {
   "lat": 44.9497487,
   "lon": -93.0931028,
-  "name": "Saint Paul, Ramsey County, Minnesota, United States"
+  "name": "Saint Paul, Ramsey County, Minnesota, United States",
+  "drive_min": 1331,
+  "drive_mi": 1168,
+  "drive_min_clemson": 1291,
+  "drive_mi_clemson": 1104
  },
  "St. Petersburg|Florida": {
   "lat": 27.7712264,
@@ -4792,7 +4852,11 @@
  "Traverse City|Michigan": {
   "lat": 44.7606481,
   "lon": -85.6165976,
-  "name": "Traverse City, Grand Traverse County, Michigan, United States"
+  "name": "Traverse City, Grand Traverse County, Michigan, United States",
+  "drive_min": 1010,
+  "drive_mi": 874,
+  "drive_min_clemson": 1066,
+  "drive_mi_clemson": 884
  },
  "Tucson|Arizona": {
   "lat": 32.2228765,
@@ -4833,7 +4897,11 @@
  "Two Harbors|Minnesota": {
   "lat": 47.0257139,
   "lon": -91.6730523,
-  "name": "Two Harbors, Lake County, Minnesota, 55616, United States"
+  "name": "Two Harbors, Lake County, Minnesota, 55616, United States",
+  "drive_min": 1459,
+  "drive_mi": 1265,
+  "drive_min_clemson": 1418,
+  "drive_mi_clemson": 1201
  },
  "Unity|Maine": {
   "lat": 44.6112692,
@@ -7522,12 +7590,20 @@
  "Dearborn|Michigan": {
   "lat": 42.3222599,
   "lon": -83.1763145,
-  "name": "Dearborn, Wayne County, Michigan, United States"
+  "name": "Dearborn, Wayne County, Michigan, United States",
+  "drive_min": 749,
+  "drive_mi": 652,
+  "drive_min_clemson": 808,
+  "drive_mi_clemson": 678
  },
  "Duluth|Minnesota": {
   "lat": 46.7838287,
   "lon": -92.1052679,
-  "name": "Duluth, Saint Louis County, Minnesota, United States"
+  "name": "Duluth, Saint Louis County, Minnesota, United States",
+  "drive_min": 1420,
+  "drive_mi": 1238,
+  "drive_min_clemson": 1379,
+  "drive_mi_clemson": 1173
  },
  "Fishers|Indiana": {
   "lat": 39.9555928,
@@ -7568,7 +7644,11 @@
  "International Falls|Minnesota": {
   "lat": 48.601033,
   "lon": -93.4105904,
-  "name": "International Falls, Koochiching County, Minnesota, United States"
+  "name": "International Falls, Koochiching County, Minnesota, United States",
+  "drive_min": 1622,
+  "drive_mi": 1400,
+  "drive_min_clemson": 1582,
+  "drive_mi_clemson": 1336
  },
  "Madison|Wisconsin": {
   "lat": 43.07469,
@@ -7578,7 +7658,11 @@
  "Minneapolis|Minnesota": {
   "lat": 44.9772995,
   "lon": -93.2654692,
-  "name": "Minneapolis, Hennepin County, Minnesota, United States"
+  "name": "Minneapolis, Hennepin County, Minnesota, United States",
+  "drive_min": 1345,
+  "drive_mi": 1178,
+  "drive_min_clemson": 1304,
+  "drive_mi_clemson": 1114
  },
  "Nashville|Indiana": {
   "lat": 39.207242,
@@ -7610,12 +7694,20 @@
  "Ontonagon|Michigan": {
   "lat": 46.6471877,
   "lon": -89.3293792,
-  "name": "Ontonagon County, Michigan, United States"
+  "name": "Ontonagon County, Michigan, United States",
+  "drive_min": 1388,
+  "drive_mi": 1181,
+  "drive_min_clemson": 1372,
+  "drive_mi_clemson": 1108
  },
  "Park Rapids|Minnesota": {
   "lat": 46.9221813,
   "lon": -95.0586322,
-  "name": "Park Rapids, Hubbard County, Minnesota, United States"
+  "name": "Park Rapids, Hubbard County, Minnesota, United States",
+  "drive_min": 1570,
+  "drive_mi": 1365,
+  "drive_min_clemson": 1530,
+  "drive_mi_clemson": 1301
  },
  "Powell|Ohio": {
   "lat": 40.1578403,
@@ -12755,5 +12847,194 @@
   "drive_mi": 982,
   "drive_min_clemson": 958,
   "drive_mi_clemson": 864
+ },
+ "Ann Arbor|Michigan": {
+  "lat": 42.2813722,
+  "lon": -83.7484616,
+  "name": "Ann Arbor, Washtenaw County, Michigan, United States",
+  "drive_min": 743,
+  "drive_mi": 634,
+  "drive_min_clemson": 800,
+  "drive_mi_clemson": 672
+ },
+ "Bloomfield Hills|Michigan": {
+  "lat": 42.583645,
+  "lon": -83.2454883,
+  "name": "Bloomfield Hills, Oakland County, Michigan, 48304, United States",
+  "drive_min": 782,
+  "drive_mi": 674,
+  "drive_min_clemson": 841,
+  "drive_mi_clemson": 700
+ },
+ "Chaska|Minnesota": {
+  "lat": 44.7894072,
+  "lon": -93.6021791,
+  "name": "Chaska, Carver County, Minnesota, 55318, United States",
+  "drive_min": 1371,
+  "drive_mi": 1200,
+  "drive_min_clemson": 1331,
+  "drive_mi_clemson": 1136
+ },
+ "Comstock|Michigan": {
+  "lat": 42.2867083,
+  "lon": -85.5133374,
+  "name": "Comstock, Comstock Charter Township, Kalamazoo County, Michigan, 49048, United S",
+  "drive_min": 827,
+  "drive_mi": 706,
+  "drive_min_clemson": 853,
+  "drive_mi_clemson": 699
+ },
+ "East Lansing|Michigan": {
+  "lat": 42.7320307,
+  "lon": -84.4721678,
+  "name": "East Lansing, Ingham County, Michigan, United States",
+  "drive_min": 809,
+  "drive_mi": 696,
+  "drive_min_clemson": 866,
+  "drive_mi_clemson": 733
+ },
+ "Grand Marais|Minnesota": {
+  "lat": 47.750467,
+  "lon": -90.334675,
+  "name": "Grand Marais, Cook County, Minnesota, United States",
+  "drive_min": 1570,
+  "drive_mi": 1348,
+  "drive_min_clemson": 1529,
+  "drive_mi_clemson": 1284
+ },
+ "Kalamazoo|Michigan": {
+  "lat": 42.291707,
+  "lon": -85.5872286,
+  "name": "Kalamazoo, Kalamazoo County, Michigan, United States",
+  "drive_min": 831,
+  "drive_mi": 711,
+  "drive_min_clemson": 857,
+  "drive_mi_clemson": 703
+ },
+ "Lansing|Michigan": {
+  "lat": 42.7338254,
+  "lon": -84.5546295,
+  "name": "Lansing, Ingham County, Michigan, United States",
+  "drive_min": 811,
+  "drive_mi": 700,
+  "drive_min_clemson": 865,
+  "drive_mi_clemson": 713
+ },
+ "Mankato|Minnesota": {
+  "lat": 44.1658533,
+  "lon": -94.0028013,
+  "name": "Mankato, Blue Earth County, Minnesota, 56001, United States",
+  "drive_min": 1375,
+  "drive_mi": 1201,
+  "drive_min_clemson": 1334,
+  "drive_mi_clemson": 1137
+ },
+ "Petoskey|Michigan": {
+  "lat": 45.373343,
+  "lon": -84.95533,
+  "name": "Petoskey, Emmet County, Michigan, United States",
+  "drive_min": 1012,
+  "drive_mi": 886,
+  "drive_min_clemson": 1068,
+  "drive_mi_clemson": 923
+ },
+ "Portage|Michigan": {
+  "lat": 42.2011538,
+  "lon": -85.5800022,
+  "name": "Portage, Kalamazoo County, Michigan, United States",
+  "drive_min": 834,
+  "drive_mi": 713,
+  "drive_min_clemson": 860,
+  "drive_mi_clemson": 705
+ },
+ "Rochester|Michigan": {
+  "lat": 42.680588,
+  "lon": -83.1338214,
+  "name": "Rochester, Oakland County, Michigan, 48307, United States",
+  "drive_min": 786,
+  "drive_mi": 681,
+  "drive_min_clemson": 845,
+  "drive_mi_clemson": 707
+ },
+ "Rochester|Minnesota": {
+  "lat": 44.0234387,
+  "lon": -92.4630182,
+  "name": "Rochester, Olmsted County, Minnesota, United States",
+  "drive_min": 1277,
+  "drive_mi": 1117,
+  "drive_min_clemson": 1237,
+  "drive_mi_clemson": 1053
+ },
+ "Royal Oak|Michigan": {
+  "lat": 42.4894801,
+  "lon": -83.1446485,
+  "name": "Royal Oak, Oakland County, Michigan, United States",
+  "drive_min": 771,
+  "drive_mi": 669,
+  "drive_min_clemson": 830,
+  "drive_mi_clemson": 695
+ },
+ "Saugatuck|Michigan": {
+  "lat": 42.6549244,
+  "lon": -86.2040552,
+  "name": "Saugatuck, Allegan County, Michigan, United States",
+  "drive_min": 894,
+  "drive_mi": 752,
+  "drive_min_clemson": 892,
+  "drive_mi_clemson": 743
+ },
+ "Silver Bay|Minnesota": {
+  "lat": 47.2942968,
+  "lon": -91.2573708,
+  "name": "Silver Bay, Lake County, Minnesota, United States",
+  "drive_min": 1497,
+  "drive_mi": 1293,
+  "drive_min_clemson": 1457,
+  "drive_mi_clemson": 1229
+ },
+ "St. Cloud|Minnesota": {
+  "lat": 45.5616075,
+  "lon": -94.1642004,
+  "name": "Saint Cloud, Stearns County, Minnesota, United States",
+  "drive_min": 1420,
+  "drive_mi": 1243,
+  "drive_min_clemson": 1379,
+  "drive_mi_clemson": 1179
+ },
+ "Stillwater|Minnesota": {
+  "lat": 45.0559126,
+  "lon": -92.807572,
+  "name": "Stillwater, Washington County, Minnesota, United States",
+  "drive_min": 1322,
+  "drive_mi": 1159,
+  "drive_min_clemson": 1282,
+  "drive_mi_clemson": 1095
+ },
+ "Taylors Falls|Minnesota": {
+  "lat": 45.4018452,
+  "lon": -92.6525303,
+  "name": "Taylors Falls, Chisago County, Minnesota, United States",
+  "drive_min": 1357,
+  "drive_mi": 1176,
+  "drive_min_clemson": 1317,
+  "drive_mi_clemson": 1112
+ },
+ "Wabasha|Minnesota": {
+  "lat": 44.2767596,
+  "lon": -92.2018164,
+  "name": "Wabasha County, Minnesota, United States",
+  "drive_min": 1295,
+  "drive_mi": 1114,
+  "drive_min_clemson": 1255,
+  "drive_mi_clemson": 1050
+ },
+ "Waite Park|Minnesota": {
+  "lat": 45.5537128,
+  "lon": -94.2334634,
+  "name": "Waite Park, Stearns County, Minnesota, 56387, United States",
+  "drive_min": 1421,
+  "drive_mi": 1247,
+  "drive_min_clemson": 1381,
+  "drive_mi_clemson": 1183
  }
 }
