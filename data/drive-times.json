@@ -2219,7 +2219,11 @@
  "Bristol|Connecticut": {
   "lat": 41.6711752,
   "lon": -72.9430128,
-  "name": "Bristol, Naugatuck Valley Planning Region, Connecticut, United States"
+  "name": "Bristol, Naugatuck Valley Planning Region, Connecticut, United States",
+  "drive_min": 894,
+  "drive_mi": 742,
+  "drive_min_clemson": 1028,
+  "drive_mi_clemson": 854
  },
  "Brookfield|Illinois": {
   "lat": 41.8228378,
@@ -2577,7 +2581,11 @@
  "East Haddam|Connecticut": {
   "lat": 41.4528584,
   "lon": -72.4613331,
-  "name": "East Haddam, Lower Connecticut River Valley Planning Region, Connecticut, United"
+  "name": "East Haddam, Lower Connecticut River Valley Planning Region, Connecticut, United",
+  "drive_min": 918,
+  "drive_mi": 752,
+  "drive_min_clemson": 1052,
+  "drive_mi_clemson": 864
  },
  "Ely|Minnesota": {
   "lat": 47.901571,
@@ -2747,7 +2755,11 @@
  "Groton|Connecticut": {
   "lat": 41.34655,
   "lon": -72.0388786,
-  "name": "Groton, Southeastern Connecticut Planning Region, Connecticut, United States"
+  "name": "Groton, Southeastern Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 928,
+  "drive_mi": 767,
+  "drive_min_clemson": 1062,
+  "drive_mi_clemson": 878
  },
  "Haleiwa|Hawaii": {
   "lat": 21.5935975,
@@ -2776,7 +2788,11 @@
  "Hartford|Connecticut": {
   "lat": 41.7661621,
   "lon": -72.6732726,
-  "name": "Hartford, Capitol Planning Region, Connecticut, United States"
+  "name": "Hartford, Capitol Planning Region, Connecticut, United States",
+  "drive_min": 908,
+  "drive_mi": 753,
+  "drive_min_clemson": 1042,
+  "drive_mi_clemson": 865
  },
  "Helena|Montana": {
   "lat": 46.5927425,
@@ -3249,7 +3265,11 @@
  "Mystic|Connecticut": {
   "lat": 41.3560375,
   "lon": -71.9573331,
-  "name": "Mystic, Stonington, Southeastern Connecticut Planning Region, Connecticut, 06388"
+  "name": "Mystic, Stonington, Southeastern Connecticut Planning Region, Connecticut, 06388",
+  "drive_min": 934,
+  "drive_mi": 772,
+  "drive_min_clemson": 1068,
+  "drive_mi_clemson": 884
  },
  "Nageezi|New Mexico": {
   "lat": 36.2667656,
@@ -3291,7 +3311,11 @@
  "New Haven|Connecticut": {
   "lat": 41.3082138,
   "lon": -72.9250518,
-  "name": "New Haven, South Central Connecticut Planning Region, Connecticut, United States"
+  "name": "New Haven, South Central Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 866,
+  "drive_mi": 717,
+  "drive_min_clemson": 1000,
+  "drive_mi_clemson": 829
  },
  "New Orleans|Louisiana": {
   "lat": 29.9574657,
@@ -3357,7 +3381,11 @@
  "Norwalk|Connecticut": {
   "lat": 41.1175966,
   "lon": -73.4078968,
-  "name": "Norwalk, Western Connecticut Planning Region, Connecticut, United States"
+  "name": "Norwalk, Western Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 823,
+  "drive_mi": 686,
+  "drive_min_clemson": 956,
+  "drive_mi_clemson": 797
  },
  "Oak Harbor|Washington": {
   "lat": 48.2931559,
@@ -3424,7 +3452,11 @@
  "Orange|Connecticut": {
   "lat": 41.2784304,
   "lon": -73.0256609,
-  "name": "Orange, South Central Connecticut Planning Region, Connecticut, 06477, United St"
+  "name": "Orange, South Central Connecticut Planning Region, Connecticut, 06477, United St",
+  "drive_min": 858,
+  "drive_mi": 712,
+  "drive_min_clemson": 992,
+  "drive_mi_clemson": 824
  },
  "Orange City|Florida": {
   "lat": 28.9488761,
@@ -4181,7 +4213,11 @@
  "Wolcott|Connecticut": {
   "lat": 41.6023196,
   "lon": -72.9867718,
-  "name": "Wolcott, Naugatuck Valley Planning Region, Connecticut, 06716, United States"
+  "name": "Wolcott, Naugatuck Valley Planning Region, Connecticut, 06716, United States",
+  "drive_min": 884,
+  "drive_mi": 735,
+  "drive_min_clemson": 1018,
+  "drive_mi_clemson": 847
  },
  "Yosemite|California": {
   "lat": 37.8393004,
@@ -4326,7 +4362,11 @@
  "Greenwich|Connecticut": {
   "lat": 41.0264862,
   "lon": -73.6284598,
-  "name": "Greenwich, Western Connecticut Planning Region, Connecticut, United States"
+  "name": "Greenwich, Western Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 804,
+  "drive_mi": 672,
+  "drive_min_clemson": 938,
+  "drive_mi_clemson": 784
  },
  "Georgetown|South Carolina": {
   "lat": 33.4392245,
@@ -8227,5 +8267,158 @@
   "drive_mi": 639,
   "drive_min_clemson": 871,
   "drive_mi_clemson": 748
+ },
+ "Bridgeport|Connecticut": {
+  "lat": 41.1792695,
+  "lon": -73.1887863,
+  "name": "Bridgeport, Greater Bridgeport Planning Region, Connecticut, United States",
+  "drive_min": 840,
+  "drive_mi": 699,
+  "drive_min_clemson": 974,
+  "drive_mi_clemson": 810
+ },
+ "Coventry|Connecticut": {
+  "lat": 41.7700987,
+  "lon": -72.3050803,
+  "name": "Coventry, Capitol Planning Region, Connecticut, 06238, United States",
+  "drive_min": 935,
+  "drive_mi": 772,
+  "drive_min_clemson": 1069,
+  "drive_mi_clemson": 883
+ },
+ "Essex|Connecticut": {
+  "lat": 41.353432,
+  "lon": -72.3906406,
+  "name": "Essex, Lower Connecticut River Valley Planning Region, Connecticut, United State",
+  "drive_min": 907,
+  "drive_mi": 748,
+  "drive_min_clemson": 1041,
+  "drive_mi_clemson": 860
+ },
+ "Kent|Connecticut": {
+  "lat": 41.7246894,
+  "lon": -73.476921,
+  "name": "Kent, Northwest Hills Planning Region, Connecticut, United States",
+  "drive_min": 872,
+  "drive_mi": 743,
+  "drive_min_clemson": 1004,
+  "drive_mi_clemson": 851
+ },
+ "Lakeville|Connecticut": {
+  "lat": 41.9575327,
+  "lon": -73.4502336,
+  "name": "Lakeville, Salisbury, Northwest Hills Planning Region, Connecticut, 06039, Unite",
+  "drive_min": 887,
+  "drive_mi": 758,
+  "drive_min_clemson": 1019,
+  "drive_mi_clemson": 867
+ },
+ "Litchfield|Connecticut": {
+  "lat": 41.747319,
+  "lon": -73.1887243,
+  "name": "Litchfield, Northwest Hills Planning Region, Connecticut, United States",
+  "drive_min": 887,
+  "drive_mi": 736,
+  "drive_min_clemson": 1021,
+  "drive_mi_clemson": 848
+ },
+ "Madison|Connecticut": {
+  "lat": 41.2794282,
+  "lon": -72.5983151,
+  "name": "Madison, South Central Connecticut Planning Region, Connecticut, 06443, United S",
+  "drive_min": 887,
+  "drive_mi": 734,
+  "drive_min_clemson": 1021,
+  "drive_mi_clemson": 846
+ },
+ "Mansfield|Connecticut": {
+  "lat": 41.7778327,
+  "lon": -72.2110623,
+  "name": "Mansfield, Capitol Planning Region, Connecticut, United States",
+  "drive_min": 943,
+  "drive_mi": 781,
+  "drive_min_clemson": 1077,
+  "drive_mi_clemson": 893
+ },
+ "New London|Connecticut": {
+  "lat": 41.3556187,
+  "lon": -72.0997804,
+  "name": "New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United",
+  "drive_min": 922,
+  "drive_mi": 763,
+  "drive_min_clemson": 1056,
+  "drive_mi_clemson": 875
+ },
+ "Stafford Springs|Connecticut": {
+  "lat": 41.9538545,
+  "lon": -72.30314,
+  "name": "Stafford Springs, Stafford, Capitol Planning Region, Connecticut, 06076, United ",
+  "drive_min": 941,
+  "drive_mi": 778,
+  "drive_min_clemson": 1075,
+  "drive_mi_clemson": 890
+ },
+ "Thompson|Connecticut": {
+  "lat": 41.9587089,
+  "lon": -71.8625715,
+  "name": "Thompson, Northeastern Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 971,
+  "drive_mi": 808,
+  "drive_min_clemson": 1105,
+  "drive_mi_clemson": 920
+ },
+ "Waterford|Connecticut": {
+  "lat": 41.343025,
+  "lon": -72.1290542,
+  "name": "Waterford, Southeastern Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 920,
+  "drive_mi": 761,
+  "drive_min_clemson": 1054,
+  "drive_mi_clemson": 873
+ },
+ "Westport|Connecticut": {
+  "lat": 41.1414855,
+  "lon": -73.3578955,
+  "name": "Westport, Western Connecticut Planning Region, Connecticut, 06880, United States",
+  "drive_min": 828,
+  "drive_mi": 689,
+  "drive_min_clemson": 961,
+  "drive_mi_clemson": 801
+ },
+ "Willimantic|Connecticut": {
+  "lat": 41.7155216,
+  "lon": -72.2177238,
+  "name": "Willimantic, Windham, Southeastern Connecticut Planning Region, Connecticut, 062",
+  "drive_min": 939,
+  "drive_mi": 778,
+  "drive_min_clemson": 1073,
+  "drive_mi_clemson": 889
+ },
+ "Wilton|Connecticut": {
+  "lat": 41.1953739,
+  "lon": -73.4378988,
+  "name": "Wilton, Western Connecticut Planning Region, Connecticut, 06897, United States",
+  "drive_min": 833,
+  "drive_mi": 692,
+  "drive_min_clemson": 967,
+  "drive_mi_clemson": 803
+ },
+ "Winsted|Connecticut": {
+  "lat": 41.9275199,
+  "lon": -73.071788,
+  "name": "Winsted, Winchester, Northwest Hills Planning Region, Connecticut, 06098, United",
+  "drive_min": 911,
+  "drive_mi": 752,
+  "drive_min_clemson": 1044,
+  "drive_mi_clemson": 864
+ },
+ "Woodstock|Connecticut": {
+  "lat": 41.9484332,
+  "lon": -71.974147,
+  "name": "Woodstock, Northeastern Connecticut Planning Region, Connecticut, United States",
+  "drive_min": 968,
+  "drive_mi": 796,
+  "drive_min_clemson": 1102,
+  "drive_mi_clemson": 908
  }
 }
