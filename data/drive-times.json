@@ -15983,5 +15983,131 @@
   "drive_mi": 602,
   "drive_min_clemson": 480,
   "drive_mi_clemson": 480
+ },
+ "Caryville|Tennessee": {
+  "lat": 36.2989682,
+  "lon": -84.2232612,
+  "name": "Caryville, Campbell County, East Tennessee, Tennessee, United States",
+  "drive_min": 255,
+  "drive_mi": 273,
+  "drive_min_clemson": 218,
+  "drive_mi_clemson": 219
+ },
+ "Chestnut Hill|Tennessee": {
+  "lat": 35.9300938,
+  "lon": -83.3401621,
+  "name": "Chestnut Hill, Jefferson County, East Tennessee, Tennessee, United States",
+  "drive_min": 194,
+  "drive_mi": 206,
+  "drive_min_clemson": 157,
+  "drive_mi_clemson": 152
+ },
+ "Cosby|Tennessee": {
+  "lat": 35.8173184,
+  "lon": -83.2468213,
+  "name": "Cosby, Cocke County, East Tennessee, Tennessee, 37722, United States",
+  "drive_min": 187,
+  "drive_mi": 194,
+  "drive_min_clemson": 150,
+  "drive_mi_clemson": 140
+ },
+ "Dandridge|Tennessee": {
+  "lat": 36.0153693,
+  "lon": -83.4148895,
+  "name": "Dandridge, Jefferson County, East Tennessee, Tennessee, United States",
+  "drive_min": 201,
+  "drive_mi": 212,
+  "drive_min_clemson": 164,
+  "drive_mi_clemson": 158
+ },
+ "Hartford|Tennessee": {
+  "lat": 35.8167646,
+  "lon": -83.1432066,
+  "name": "Hartford, Cocke County, East Tennessee, Tennessee, 37753, United States",
+  "drive_min": 173,
+  "drive_mi": 184,
+  "drive_min_clemson": 136,
+  "drive_mi_clemson": 130
+ },
+ "Huntsville|Tennessee": {
+  "lat": 36.4092361,
+  "lon": -84.4907123,
+  "name": "Huntsville, Scott County, East Tennessee, Tennessee, United States",
+  "drive_min": 283,
+  "drive_mi": 296,
+  "drive_min_clemson": 246,
+  "drive_mi_clemson": 242
+ },
+ "Jefferson City|Tennessee": {
+  "lat": 36.122311,
+  "lon": -83.4923961,
+  "name": "Jefferson City, Jefferson County, East Tennessee, Tennessee, 37760, United State",
+  "drive_min": 209,
+  "drive_mi": 221,
+  "drive_min_clemson": 172,
+  "drive_mi_clemson": 167
+ },
+ "LaFollette|Tennessee": {
+  "lat": 36.3828571,
+  "lon": -84.1199251,
+  "name": "La Follette, Campbell County, East Tennessee, Tennessee, United States",
+  "drive_min": 263,
+  "drive_mi": 280,
+  "drive_min_clemson": 226,
+  "drive_mi_clemson": 226
+ },
+ "Middlesboro|Tennessee": {
+  "lat": 36.4142435,
+  "lon": -84.0386175,
+  "name": "Old Middlesboro Highway, Fincastle, Campbell County, East Tennessee, Tennessee, ",
+  "drive_min": 270,
+  "drive_mi": 286,
+  "drive_min_clemson": 233,
+  "drive_mi_clemson": 231
+ },
+ "Newport|Tennessee": {
+  "lat": 35.9670412,
+  "lon": -83.1876578,
+  "name": "Newport, Cocke County, East Tennessee, Tennessee, 37821, United States",
+  "drive_min": 187,
+  "drive_mi": 197,
+  "drive_min_clemson": 150,
+  "drive_mi_clemson": 143
+ },
+ "Oneida|Tennessee": {
+  "lat": 36.4981341,
+  "lon": -84.5127162,
+  "name": "Oneida, Scott County, East Tennessee, Tennessee, 37841, United States",
+  "drive_min": 293,
+  "drive_mi": 302,
+  "drive_min_clemson": 256,
+  "drive_mi_clemson": 248
+ },
+ "Petros|Tennessee": {
+  "lat": 36.0959109,
+  "lon": -84.4424335,
+  "name": "Petros, Morgan County, East Tennessee, Tennessee, 37845, United States",
+  "drive_min": 273,
+  "drive_mi": 283,
+  "drive_min_clemson": 236,
+  "drive_mi_clemson": 229
+ },
+ "Tazewell|Tennessee": {
+  "lat": 36.45425,
+  "lon": -83.569352,
+  "name": "Tazewell, Claiborne County, East Tennessee, Tennessee, United States",
+  "drive_min": 248,
+  "drive_mi": 257,
+  "drive_min_clemson": 211,
+  "drive_mi_clemson": 203
+ },
+ "Wartburg|Tennessee": {
+  "lat": 36.1048089,
+  "lon": -84.5973031,
+  "name": "Wartburg, Morgan County, East Tennessee, Tennessee, United States",
+  "drive_min": 280,
+  "drive_mi": 289,
+  "drive_min_clemson": 243,
+  "drive_mi_clemson": 235
  }
 }
