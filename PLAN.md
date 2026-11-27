@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 982 of 3143 counties covered, 2,672 entries. Every state and district now has at
+Current picture: 975 of 3143 counties covered, 2,672 entries. Every state and district now has at
 least thirty entries. 280 counties nationally still have a single entry, and those are the backlog,
 along with the 1,000+ counties with no entry at all.
 
@@ -171,23 +171,23 @@ and plains states are the thinnest per county now, with 280 single-entry countie
 | Arizona | 44 | 15 | Utah | 43 | 15 |
 | Maryland | 43 | 16 | Massachusetts | 42 | 14 |
 | Washington | 42 | 15 | Oregon | 42 | 21 |
-| New Mexico | 40 | 17 | Nevada | 39 | 17 |
-| Connecticut | 39 | 8 | Arkansas | 37 | 23 |
-| Wyoming | 36 | 21 | Virginia | 36 | 20 |
-| Wisconsin | 35 | 20 | Alaska | 35 | 14 |
-| Minnesota | 34 | 16 | Mississippi | 34 | 20 |
-| Vermont | 33 | 13 | Iowa | 32 | 21 |
-| Montana | 32 | 17 | Louisiana | 32 | 17 |
-| North Dakota | 31 | 15 | New Hampshire | 31 | 10 |
-| Oklahoma | 31 | 19 | Ohio | 30 | 17 |
-| Indiana | 30 | 16 | Illinois | 30 | 11 |
-| Michigan | 30 | 16 | Missouri | 30 | 14 |
-| Kansas | 30 | 19 | Nebraska | 30 | 17 |
-| Idaho | 30 | 18 | Rhode Island | 30 | 5 |
-| Delaware | 30 | 3 | District of Columbia | 30 | 1 |
-| Hawaii | 30 | 5 | Kentucky | 30 | 19 |
-| Alabama | 30 | 13 | South Dakota | 28 | 12 |
-| West Virginia | 18 | 14 | | | |
+| New Mexico | 40 | 17 | South Dakota | 39 | 17 |
+| Nevada | 39 | 17 | Connecticut | 39 | 8 |
+| Arkansas | 37 | 23 | Wyoming | 36 | 21 |
+| Virginia | 36 | 20 | Wisconsin | 35 | 20 |
+| Alaska | 35 | 14 | Minnesota | 34 | 16 |
+| Mississippi | 34 | 20 | Vermont | 33 | 13 |
+| Iowa | 32 | 21 | Montana | 32 | 17 |
+| Louisiana | 32 | 17 | North Dakota | 31 | 15 |
+| New Hampshire | 31 | 10 | Oklahoma | 31 | 19 |
+| Ohio | 30 | 17 | Indiana | 30 | 16 |
+| Illinois | 30 | 11 | Michigan | 30 | 16 |
+| Missouri | 30 | 14 | Kansas | 30 | 19 |
+| Nebraska | 30 | 17 | Idaho | 30 | 18 |
+| Rhode Island | 30 | 5 | Delaware | 30 | 3 |
+| District of Columbia | 30 | 1 | Hawaii | 30 | 5 |
+| West Virginia | 30 | 20 | Kentucky | 30 | 19 |
+| Alabama | 30 | 13 | | | |
 
 ## Queue, county by county
 
