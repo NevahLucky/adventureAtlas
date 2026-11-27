@@ -15344,5 +15344,95 @@
   "drive_mi": 211,
   "drive_min_clemson": 176,
   "drive_mi_clemson": 171
+ },
+ "Fort Valley|Georgia": {
+  "lat": 32.5537585,
+  "lon": -83.8874084,
+  "name": "Fort Valley, Peach County, Georgia, 31030, United States",
+  "drive_min": 286,
+  "drive_mi": 297,
+  "drive_min_clemson": 202,
+  "drive_mi_clemson": 201
+ },
+ "Georgetown|Georgia": {
+  "lat": 31.884605,
+  "lon": -85.1074308,
+  "name": "Georgetown, Quitman County, Georgia, United States",
+  "drive_min": 379,
+  "drive_mi": 398,
+  "drive_min_clemson": 267,
+  "drive_mi_clemson": 281
+ },
+ "Gibson|Georgia": {
+  "lat": 33.2334789,
+  "lon": -82.5954083,
+  "name": "Gibson, Glascock County, Georgia, 30810, United States",
+  "drive_min": 183,
+  "drive_mi": 193,
+  "drive_min_clemson": 155,
+  "drive_mi_clemson": 128
+ },
+ "Metter|Georgia": {
+  "lat": 32.397118,
+  "lon": -82.0601196,
+  "name": "Metter, Candler County, Georgia, 30439, United States",
+  "drive_min": 226,
+  "drive_mi": 226,
+  "drive_min_clemson": 218,
+  "drive_mi_clemson": 216
+ },
+ "Montezuma|Georgia": {
+  "lat": 32.2997975,
+  "lon": -84.0301627,
+  "name": "Montezuma, Macon County, Georgia, 31063, United States",
+  "drive_min": 311,
+  "drive_mi": 318,
+  "drive_min_clemson": 228,
+  "drive_mi_clemson": 222
+ },
+ "Musella|Georgia": {
+  "lat": 32.800711,
+  "lon": -84.0365529,
+  "name": "Musella, Crawford County, Georgia, United States",
+  "drive_min": 292,
+  "drive_mi": 298,
+  "drive_min_clemson": 199,
+  "drive_mi_clemson": 179
+ },
+ "Nahunta|Georgia": {
+  "lat": 31.20439,
+  "lon": -81.981226,
+  "name": "Nahunta, Brantley County, Georgia, 31553, United States",
+  "drive_min": 302,
+  "drive_mi": 328,
+  "drive_min_clemson": 310,
+  "drive_mi_clemson": 299
+ },
+ "Newton|Georgia": {
+  "lat": 33.5715512,
+  "lon": -83.8446101,
+  "name": "Newton County, Georgia, United States",
+  "drive_min": 229,
+  "drive_mi": 253,
+  "drive_min_clemson": 132,
+  "drive_mi_clemson": 121
+ },
+ "Oglethorpe|Georgia": {
+  "lat": 33.8702684,
+  "lon": -83.1049381,
+  "name": "Oglethorpe County, Georgia, United States",
+  "drive_min": 205,
+  "drive_mi": 177,
+  "drive_min_clemson": 97,
+  "drive_mi_clemson": 79
+ },
+ "Roberta|Georgia": {
+  "lat": 32.7219973,
+  "lon": -84.0130926,
+  "name": "Roberta, Crawford County, Georgia, United States",
+  "drive_min": 299,
+  "drive_mi": 303,
+  "drive_min_clemson": 205,
+  "drive_mi_clemson": 185
  }
 }
