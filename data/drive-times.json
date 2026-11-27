@@ -16496,5 +16496,131 @@
   "drive_mi": 267,
   "drive_min_clemson": 200,
   "drive_mi_clemson": 172
+ },
+ "Centerville|Tennessee": {
+  "lat": 35.7786827,
+  "lon": -87.4668475,
+  "name": "Centerville, Hickman County, Middle Tennessee, Tennessee, 37033, United States",
+  "drive_min": 460,
+  "drive_mi": 489,
+  "drive_min_clemson": 368,
+  "drive_mi_clemson": 358
+ },
+ "Chapel Hill|Tennessee": {
+  "lat": 35.6264581,
+  "lon": -86.6933305,
+  "name": "Chapel Hill, Marshall County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 419,
+  "drive_mi": 447,
+  "drive_min_clemson": 324,
+  "drive_mi_clemson": 297
+ },
+ "Columbia|Tennessee": {
+  "lat": 35.6148165,
+  "lon": -87.0338464,
+  "name": "Columbia, Maury County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 432,
+  "drive_mi": 464,
+  "drive_min_clemson": 340,
+  "drive_mi_clemson": 333
+ },
+ "Elkton|Tennessee": {
+  "lat": 35.0523054,
+  "lon": -86.888615,
+  "name": "Elkton, Giles County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 461,
+  "drive_mi": 498,
+  "drive_min_clemson": 332,
+  "drive_mi_clemson": 308
+ },
+ "Ethridge|Tennessee": {
+  "lat": 35.32369,
+  "lon": -87.3036262,
+  "name": "Ethridge, Lawrence County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 464,
+  "drive_mi": 494,
+  "drive_min_clemson": 363,
+  "drive_mi_clemson": 334
+ },
+ "Fayetteville|Tennessee": {
+  "lat": 35.1520267,
+  "lon": -86.5705509,
+  "name": "Fayetteville, Lincoln County, Middle Tennessee, Tennessee, 37334, United States",
+  "drive_min": 427,
+  "drive_mi": 449,
+  "drive_min_clemson": 299,
+  "drive_mi_clemson": 278
+ },
+ "Hohenwald|Tennessee": {
+  "lat": 35.5478514,
+  "lon": -87.5519629,
+  "name": "Hohenwald, Lewis County, Middle Tennessee, Tennessee, 38462, United States",
+  "drive_min": 468,
+  "drive_mi": 497,
+  "drive_min_clemson": 375,
+  "drive_mi_clemson": 366
+ },
+ "Kelso|Tennessee": {
+  "lat": 35.125917,
+  "lon": -86.4686039,
+  "name": "Kelso, Lincoln County, Middle Tennessee, Tennessee, 37348, United States",
+  "drive_min": 420,
+  "drive_mi": 442,
+  "drive_min_clemson": 292,
+  "drive_mi_clemson": 272
+ },
+ "Lawrenceburg|Tennessee": {
+  "lat": 35.2423023,
+  "lon": -87.3347389,
+  "name": "Lawrenceburg, Lawrence County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 471,
+  "drive_mi": 500,
+  "drive_min_clemson": 355,
+  "drive_mi_clemson": 328
+ },
+ "Lewisburg|Tennessee": {
+  "lat": 35.4492404,
+  "lon": -86.7888887,
+  "name": "Lewisburg, Marshall County, Middle Tennessee, Tennessee, 37091, United States",
+  "drive_min": 439,
+  "drive_mi": 462,
+  "drive_min_clemson": 330,
+  "drive_mi_clemson": 307
+ },
+ "Linden|Tennessee": {
+  "lat": 35.6172918,
+  "lon": -87.8394705,
+  "name": "Linden, Perry County, Middle Tennessee, Tennessee, 37096, United States",
+  "drive_min": 479,
+  "drive_mi": 510,
+  "drive_min_clemson": 396,
+  "drive_mi_clemson": 385
+ },
+ "Pulaski|Tennessee": {
+  "lat": 35.1998023,
+  "lon": -87.0308412,
+  "name": "Pulaski, Giles County, Middle Tennessee, Tennessee, 38478, United States",
+  "drive_min": 457,
+  "drive_mi": 491,
+  "drive_min_clemson": 332,
+  "drive_mi_clemson": 309
+ },
+ "Spring Hill|Tennessee": {
+  "lat": 35.751179,
+  "lon": -86.9300023,
+  "name": "Spring Hill, Maury County, Middle Tennessee, Tennessee, 37174, United States",
+  "drive_min": 419,
+  "drive_mi": 450,
+  "drive_min_clemson": 327,
+  "drive_mi_clemson": 319
+ },
+ "Waynesboro|Tennessee": {
+  "lat": 35.3198362,
+  "lon": -87.7629269,
+  "name": "Waynesboro, Wayne County, Middle Tennessee, Tennessee, 38485, United States",
+  "drive_min": 496,
+  "drive_mi": 518,
+  "drive_min_clemson": 384,
+  "drive_mi_clemson": 357
  }
 }
