@@ -8299,6 +8299,37 @@
   "county_full": "Unicoi County"
  },
  {
+  "name": "Union County Museum and Genealogical Library",
+  "city": "Maynardville",
+  "county": "Union",
+  "state": "Tennessee",
+  "cats": [
+   "Museum",
+   "Music",
+   "History",
+   "Free"
+  ],
+  "cost": "Free, donations welcome",
+  "cost_num": 0,
+  "dur": "45-90 min",
+  "dur_h": 1,
+  "dates": "Sunday afternoons, Monday and Tuesday",
+  "start": "—",
+  "company": "Union County Museum",
+  "party": "NA",
+  "customer": "Music fans, genealogists, local historians",
+  "unique": "A county museum with an unexpected music room, holding memorabilia from Roy Acuff, Chet Atkins, Carl Smith and Kenny Chesney, all of whom came out of Union County, alongside Civil War artifacts and a genealogy library.",
+  "buzz": "The music case is the reason people drive over and the volunteers are the reason they stay. Four country music names from one small mountain county is the story.",
+  "rating": 72,
+  "drive_min": 255,
+  "drive_min_clemson": 217,
+  "id": "union-county-museum-and-genealogical-library-maynardville",
+  "state_abbr": "TN",
+  "lat": 36.2497114,
+  "lon": -83.7988651,
+  "county_full": "Union County"
+ },
+ {
   "name": "West Tennessee Agricultural Museum",
   "city": "Milan",
   "county": "Gibson",

@@ -16919,5 +16919,113 @@
   "drive_mi": 391,
   "drive_min_clemson": 293,
   "drive_mi_clemson": 276
+ },
+ "Bayboro|North Carolina": {
+  "lat": 35.1429445,
+  "lon": -76.7702093,
+  "name": "Bayboro, Pamlico County, North Carolina, United States",
+  "drive_min": 302,
+  "drive_mi": 287,
+  "drive_min_clemson": 417,
+  "drive_mi_clemson": 433
+ },
+ "Columbia|North Carolina": {
+  "lat": 35.9176633,
+  "lon": -76.2521521,
+  "name": "Columbia, Tyrrell County, North Carolina, 27925, United States",
+  "drive_min": 312,
+  "drive_mi": 335,
+  "drive_min_clemson": 419,
+  "drive_mi_clemson": 446
+ },
+ "Edenton|North Carolina": {
+  "lat": 36.057938,
+  "lon": -76.6077213,
+  "name": "Edenton, Chowan County, North Carolina, 27932, United States",
+  "drive_min": 301,
+  "drive_mi": 320,
+  "drive_min_clemson": 407,
+  "drive_mi_clemson": 431
+ },
+ "Gatesville|North Carolina": {
+  "lat": 36.4085245,
+  "lon": -76.7531617,
+  "name": "Gatesville, Gates County, North Carolina, 27938, United States",
+  "drive_min": 304,
+  "drive_mi": 304,
+  "drive_min_clemson": 410,
+  "drive_mi_clemson": 415
+ },
+ "Goldsboro|North Carolina": {
+  "lat": 35.3848841,
+  "lon": -77.9927651,
+  "name": "Goldsboro, Wayne County, North Carolina, United States",
+  "drive_min": 219,
+  "drive_mi": 204,
+  "drive_min_clemson": 334,
+  "drive_mi_clemson": 343
+ },
+ "Kinston|North Carolina": {
+  "lat": 35.2626635,
+  "lon": -77.5816353,
+  "name": "Kinston, Lenoir County, North Carolina, United States",
+  "drive_min": 248,
+  "drive_mi": 236,
+  "drive_min_clemson": 363,
+  "drive_mi_clemson": 382
+ },
+ "Minnesott Beach|North Carolina": {
+  "lat": 34.9687716,
+  "lon": -76.8116033,
+  "name": "Minnesott Beach, Pamlico County, North Carolina, United States",
+  "drive_min": 316,
+  "drive_mi": 295,
+  "drive_min_clemson": 431,
+  "drive_mi_clemson": 441
+ },
+ "Mount Olive|North Carolina": {
+  "lat": 35.1965532,
+  "lon": -78.0663788,
+  "name": "Mount Olive, Wayne County, North Carolina, United States",
+  "drive_min": 216,
+  "drive_mi": 198,
+  "drive_min_clemson": 331,
+  "drive_mi_clemson": 337
+ },
+ "Oriental|North Carolina": {
+  "lat": 35.0250678,
+  "lon": -76.6958825,
+  "name": "Oriental, Pamlico County, North Carolina, United States",
+  "drive_min": 318,
+  "drive_mi": 297,
+  "drive_min_clemson": 433,
+  "drive_mi_clemson": 444
+ },
+ "Pollocksville|North Carolina": {
+  "lat": 35.0059914,
+  "lon": -77.2210654,
+  "name": "Pollocksville, Jones County, North Carolina, 28573, United States",
+  "drive_min": 286,
+  "drive_mi": 280,
+  "drive_min_clemson": 395,
+  "drive_mi_clemson": 403
+ },
+ "Seven Springs|North Carolina": {
+  "lat": 35.2266001,
+  "lon": -77.8465107,
+  "name": "Seven Springs, Wayne County, North Carolina, United States",
+  "drive_min": 235,
+  "drive_mi": 210,
+  "drive_min_clemson": 349,
+  "drive_mi_clemson": 350
+ },
+ "Trenton|North Carolina": {
+  "lat": 35.0636588,
+  "lon": -77.3534758,
+  "name": "Trenton, Jones County, North Carolina, United States",
+  "drive_min": 273,
+  "drive_mi": 258,
+  "drive_min_clemson": 388,
+  "drive_mi_clemson": 404
  }
 }
