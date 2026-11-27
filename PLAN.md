@@ -138,14 +138,14 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 1,207 of 3,143 counties covered, 3,500 entries. Every state and district has at
+Current picture: 1,241 of 3,143 counties covered, 3,604 entries. Every state and district has at
 least thirty entries. 283 counties nationally still have a single entry, and those are the backlog.
 
 Three states are finished. Georgia is 159 of 159 counties with 594 entries. North Carolina is 100 of
 100 with 337 entries, every county at three or more except Alexander and Davie at two. Tennessee is
 95 of 95 with 362 entries, every county at three or more except Van Buren at two, where Fall Creek
 Falls is counted once under Bledsoe because that is the park's address. South Carolina is 46 of 46
-with 287 entries. All four have had the duplicate sweep.
+with 287 entries. Florida is 67 of 67 with 192 entries, no single-entry counties, 23 at two. All four have had the duplicate sweep.
 
 ## The radius tool
 
