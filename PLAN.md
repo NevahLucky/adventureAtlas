@@ -138,13 +138,14 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 1,119 of 3,143 counties covered, 3,202 entries. Every state and district now has at
+Current picture: 1,207 of 3,143 counties covered, 3,500 entries. Every state and district has at
 least thirty entries. 283 counties nationally still have a single entry, and those are the backlog.
-Georgia is finished: 159 of 159 counties, 594 entries, every county at three or more except
-Chattahoochee at two. Tennessee is at 41 of 95 counties, 170 entries, with the Memphis ring
-(Fayette, Tipton, Haywood, Lauderdale, Hardeman), the eastern mountain counties and the
-Nashville-adjacent counties still blank.
 
+Three states are finished. Georgia is 159 of 159 counties with 594 entries. North Carolina is 100 of
+100 with 337 entries, every county at three or more except Alexander and Davie at two. Tennessee is
+95 of 95 with 362 entries, every county at three or more except Van Buren at two, where Fall Creek
+Falls is counted once under Bledsoe because that is the park's address. South Carolina is 46 of 46
+with 287 entries. All four have had the duplicate sweep.
 
 ## The radius tool
 
@@ -157,60 +158,32 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 2,672 entries
+## Where it stands, 3,500 entries
 
-South Carolina is still the deepest state: 287 entries across all 46 counties, minimum four per
-county. New York is at 157 entries in 44 of 62 counties, Pennsylvania at 89 in 32 of 67, and
-Georgia at 164 in 40 of 159. Every state has at least 30 entries; the Northeast and the mountain
-and plains states are the thinnest per county now, with 280 single-entry counties to revisit.
+The four finished states are Georgia (594 in 159 counties), North Carolina (337 in 100), Tennessee
+(362 in 95) and South Carolina (287 in 46). Behind them the thickest are New York (157 in 44 of 62),
+Pennsylvania (89 in 32 of 67), Florida (88 in 33 of 67) and California (60 in 28 of 58).
 
-| State | Entries | Counties | | State | Entries | Counties |
-|---|---:|---:|---|---|---:|---:|
-| South Carolina | 287 | 46 | North Carolina | 231 | 66 |
-| Georgia | 164 | 40 | New York | 157 | 44 |
-| Pennsylvania | 89 | 32 | Florida | 88 | 33 |
-| Tennessee | 70 | 16 | California | 60 | 28 |
-| New Jersey | 53 | 21 | Texas | 52 | 17 |
-| Maine | 45 | 16 | Colorado | 44 | 21 |
-| Arizona | 44 | 15 | Utah | 43 | 15 |
-| Maryland | 43 | 16 | Massachusetts | 42 | 14 |
-| Washington | 42 | 15 | Oregon | 42 | 21 |
-| New Mexico | 40 | 17 | South Dakota | 39 | 17 |
-| Nevada | 39 | 17 | Connecticut | 39 | 8 |
-| Arkansas | 37 | 23 | Wyoming | 36 | 21 |
-| Virginia | 36 | 20 | Wisconsin | 35 | 20 |
-| Alaska | 35 | 14 | Minnesota | 34 | 16 |
-| Mississippi | 34 | 20 | Vermont | 33 | 13 |
-| Iowa | 32 | 21 | Montana | 32 | 17 |
-| Louisiana | 32 | 17 | North Dakota | 31 | 15 |
-| New Hampshire | 31 | 10 | Oklahoma | 31 | 19 |
-| Ohio | 30 | 17 | Indiana | 30 | 16 |
-| Illinois | 30 | 11 | Michigan | 30 | 16 |
-| Missouri | 30 | 14 | Kansas | 30 | 19 |
-| Nebraska | 30 | 17 | Idaho | 30 | 18 |
-| Rhode Island | 30 | 5 | Delaware | 30 | 3 |
-| District of Columbia | 30 | 1 | Hawaii | 30 | 5 |
-| West Virginia | 30 | 20 | Kentucky | 30 | 19 |
-| Alabama | 30 | 13 | | | |
+The thinnest by coverage, which is the queue: Texas 17 of 254, Virginia 20 of 133, Illinois 11 of
+102, Missouri 14 of 115, Kentucky 19 of 120, Kansas 19 of 105, Indiana 16 of 92, Nebraska 17 of 93,
+Minnesota 16 of 87, Michigan 16 of 83, Ohio 17 of 88. `python3 scripts/coverage.py` is the live
+number; do not trust a table in this file to stay current.
 
 ## Queue, county by county
 
-1. Georgia. 40 of 159 counties have entries, all at three or more. Next: the remaining 119 counties,
-   starting with the rural south and west (Crisp, Colquitt, Tift, Sumter, Ben Hill, Coffee, Emanuel,
-   Toombs, Bulloch, Screven) and the northeast (Habersham, Stephens, Franklin, Hart, Elbert).
-2. North Carolina. 66 of 100 counties have entries, all at three or more, 34 are blank. Next: Wayne,
-   Lenoir, Greene, Jones, Pamlico, Tyrrell, Currituck, Camden, Pasquotank, Perquimans, Chowan, Gates,
-   Hertford, Bertie, Northampton, Warren, Person, Caswell, Rockingham, Alexander, Ashe, Alleghany.
-3. Tennessee. 16 of 95 counties have entries, all at three or more, 79 are blank. Next: the metro
-   ring around Nashville and Memphis, then the Upper Cumberland and the rural west.
-4. Florida. 33 of 67 counties have entries, 34 are blank. Next: the Panhandle and the interior.
-5. Virginia. 21 of 129 counties and independent cities have entries. Next: the Shenandoah Valley,
-   Southside and the Northern Neck.
-6. West Virginia. 18 entries in 18 counties, then the Midwest and Plains states, thinnest first.
-7. The remaining states, thinnest first, using the coverage report to choose.
-8. Then a third country, using the same rules.
-5. The remaining states, thinnest first, using the coverage report to choose.
+1. Florida. 33 of 67 counties have entries, 34 blank, 88 entries. Next: the Panhandle (Holmes,
+   Washington, Jackson, Calhoun, Gulf, Liberty, Wakulla, Taylor, Lafayette, Dixie), then the interior.
+2. Virginia. 20 of 133 counties and independent cities, 36 entries, 11 single-entry counties. Next:
+   the Shenandoah Valley (Page, Shenandoah, Rockingham, Augusta), Southside and the Northern Neck.
+3. Texas. 17 of 254 counties and only 52 entries. The largest single gap in the atlas. Go metro by
+   metro and county by county, starting with the smaller metros and the Hill Country.
+4. The Midwest and Plains, thinnest first: Illinois, Missouri, Kentucky, Kansas, Indiana, Nebraska.
+5. The mid-Atlantic and Northeast depth pass: Pennsylvania 32 of 67, New York 44 of 62, then the
+   New England states that are complete but thin.
 6. Then a third country, using the same rules.
+
+Fill single-entry counties and two-entry counties before starting a new state where the choice is
+close. A county at one is a research failure, not a finished county.
 
 ## Verification
 

@@ -21,8 +21,10 @@
   "company": "Tennessee State Parks",
   "party": "NA",
   "customer": "Hikers, campers, photographers, cavers",
-  "unique": "A park built by the Civilian Conservation Corps inside a twenty thousand acre state forest, with sandstone arches, a lake, log and stone cabins from the 1930s and a cave system that makes the place a caving destination rather than a picnic ground.",
-  "buzz": "The CCC stone work and the arch are what people photograph and the cave tours are why cavers know the name. It is quiet, high and cool, and the campground renovation has thinned the summer crowd.",
+  "unique": [
+   "A park built by the Civilian Conservation Corps inside a twenty thousand acre state forest, with sandstone arches, a lake, log and stone cabins from the 1930s, a cave system, and the Hidden Passage loop that follows the gorge rim past rock shelters and overlooks."
+  ],
+  "buzz": "The CCC stone work and the arch are what people photograph and the Hidden Passage loop is the hike they come back for. It is quiet, high and cool, and the campground renovation has thinned the summer crowd.",
   "rating": 82
  },
  {

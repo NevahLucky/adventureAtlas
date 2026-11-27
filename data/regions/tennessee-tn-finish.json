@@ -539,5 +539,29 @@
   "unique": "A tiny square with a 1900s courthouse, a monument and the storefronts of a town of a thousand people that serves as the base for Fall Creek Falls and the plateau's back roads.",
   "buzz": "Two blocks and one store. Everybody passing through on the way to the falls drives by it and almost nobody stops.",
   "rating": 60
+ },
+ {
+  "name": "Byrdstown Courthouse Square",
+  "city": "Byrdstown",
+  "county": "Pickett",
+  "state": "Tennessee",
+  "cats": [
+   "Walk",
+   "History",
+   "Community",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30-45 min",
+  "dur_h": 1,
+  "dates": "Year round",
+  "start": "—",
+  "company": "Town of Byrdstown",
+  "party": "NA",
+  "customer": "Walkers, lake visitors, park campers",
+  "unique": "A one block square with a 1930s courthouse and a couple of stores, in the county seat that sits between Dale Hollow Lake and the Pickett State Forest and serves as the last stop for supplies before either.",
+  "buzz": "Two minutes of square and a grocery store that stays open for the lake crowd. Everybody headed to the water or the trails drives through it.",
+  "rating": 60
  }
 ]
