@@ -2125,7 +2125,11 @@
  "Benton|Pennsylvania": {
   "lat": 41.1950837,
   "lon": -76.3835528,
-  "name": "Benton, Columbia County, Pennsylvania, 17814, United States"
+  "name": "Benton, Columbia County, Pennsylvania, 17814, United States",
+  "drive_min": 687,
+  "drive_mi": 579,
+  "drive_min_clemson": 819,
+  "drive_mi_clemson": 687
  },
  "Bentonville|Arkansas": {
   "lat": 36.3728608,
@@ -2314,7 +2318,11 @@
  "Centralia|Pennsylvania": {
   "lat": 40.8042311,
   "lon": -76.3408766,
-  "name": "Centralia, Columbia County, Pennsylvania, 17927, United States"
+  "name": "Centralia, Columbia County, Pennsylvania, 17927, United States",
+  "drive_min": 633,
+  "drive_mi": 552,
+  "drive_min_clemson": 766,
+  "drive_mi_clemson": 660
  },
  "Chanhassen|Minnesota": {
   "lat": 44.8618403,
@@ -2598,7 +2606,11 @@
  "Farmington|Pennsylvania": {
   "lat": 39.8071471,
   "lon": -79.5655338,
-  "name": "Farmington, Wharton Township, Fayette County, Pennsylvania, 15437, United States"
+  "name": "Farmington, Wharton Township, Fayette County, Pennsylvania, 15437, United States",
+  "drive_min": 486,
+  "drive_mi": 425,
+  "drive_min_clemson": 614,
+  "drive_mi_clemson": 524
  },
  "Fish Creek|Wisconsin": {
   "lat": 45.1277686,
@@ -2667,7 +2679,11 @@
  "Gettysburg|Pennsylvania": {
   "lat": 39.8308973,
   "lon": -77.231012,
-  "name": "Gettysburg, Adams County, Pennsylvania, United States"
+  "name": "Gettysburg, Adams County, Pennsylvania, United States",
+  "drive_min": 532,
+  "drive_mi": 455,
+  "drive_min_clemson": 664,
+  "drive_mi_clemson": 564
  },
  "Glendale|California": {
   "lat": 34.1469416,
@@ -2854,7 +2870,11 @@
  "Kennett Square|Pennsylvania": {
   "lat": 39.8467414,
   "lon": -75.7116997,
-  "name": "Kennett Square, Chester County, Pennsylvania, United States"
+  "name": "Kennett Square, Chester County, Pennsylvania, United States",
+  "drive_min": 628,
+  "drive_mi": 525,
+  "drive_min_clemson": 761,
+  "drive_mi_clemson": 637
  },
  "Key West|Florida": {
   "lat": 24.5548262,
@@ -2935,7 +2955,11 @@
  "Lehighton|Pennsylvania": {
   "lat": 40.8339907,
   "lon": -75.7135568,
-  "name": "Lehighton, Carbon County, Pennsylvania, 18235, United States"
+  "name": "Lehighton, Carbon County, Pennsylvania, 18235, United States",
+  "drive_min": 668,
+  "drive_mi": 575,
+  "drive_min_clemson": 801,
+  "drive_mi_clemson": 684
  },
  "Lenox|Massachusetts": {
   "lat": 42.3568223,
@@ -3076,7 +3100,11 @@
  "Mill Run|Pennsylvania": {
   "lat": 39.9511859,
   "lon": -79.454481,
-  "name": "Mill Run, Springfield Township, Fayette County, Pennsylvania, 15464, United Stat"
+  "name": "Mill Run, Springfield Township, Fayette County, Pennsylvania, 15464, United Stat",
+  "drive_min": 510,
+  "drive_mi": 440,
+  "drive_min_clemson": 638,
+  "drive_mi_clemson": 539
  },
  "Millbrook|New York": {
   "lat": 41.7865038,
@@ -3154,7 +3182,11 @@
  "Mountville|Pennsylvania": {
   "lat": 40.0392642,
   "lon": -76.4307964,
-  "name": "Mountville, Lancaster County, Pennsylvania, United States"
+  "name": "Mountville, Lancaster County, Pennsylvania, United States",
+  "drive_min": 608,
+  "drive_mi": 529,
+  "drive_min_clemson": 740,
+  "drive_mi_clemson": 638
  },
  "Munising|Michigan": {
   "lat": 46.4100035,
@@ -3311,7 +3343,11 @@
  "Ohiopyle|Pennsylvania": {
   "lat": 39.8699324,
   "lon": -79.4929336,
-  "name": "Ohiopyle, Fayette County, Pennsylvania, United States"
+  "name": "Ohiopyle, Fayette County, Pennsylvania, United States",
+  "drive_min": 497,
+  "drive_mi": 431,
+  "drive_min_clemson": 626,
+  "drive_mi_clemson": 531
  },
  "Oklahoma City|Oklahoma": {
   "lat": 35.4729886,
@@ -3408,7 +3444,11 @@
  "Philadelphia|Pennsylvania": {
   "lat": 39.9527237,
   "lon": -75.1635262,
-  "name": "Philadelphia, Philadelphia County, Pennsylvania, United States"
+  "name": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+  "drive_min": 659,
+  "drive_mi": 553,
+  "drive_min_clemson": 793,
+  "drive_mi_clemson": 664
  },
  "Phoenix|Arizona": {
   "lat": 33.4484367,
@@ -3428,7 +3468,11 @@
  "Pittsburgh|Pennsylvania": {
   "lat": 40.4406968,
   "lon": -80.0025666,
-  "name": "Pittsburgh, Allegheny County, Pennsylvania, United States"
+  "name": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+  "drive_min": 534,
+  "drive_mi": 463,
+  "drive_min_clemson": 663,
+  "drive_mi_clemson": 563
  },
  "Plymouth|Massachusetts": {
   "lat": 41.9426657,
@@ -3496,7 +3540,11 @@
  "Punxsutawney|Pennsylvania": {
   "lat": 40.9436303,
   "lon": -78.971078,
-  "name": "Punxsutawney, Jefferson County, Pennsylvania, 15767, United States"
+  "name": "Punxsutawney, Jefferson County, Pennsylvania, 15767, United States",
+  "drive_min": 596,
+  "drive_mi": 518,
+  "drive_min_clemson": 724,
+  "drive_mi_clemson": 617
  },
  "Put-in-Bay|Ohio": {
   "lat": 41.6518884,
@@ -3665,7 +3713,11 @@
  "Shartlesville|Pennsylvania": {
   "lat": 40.5130092,
   "lon": -76.104772,
-  "name": "Shartlesville, Upper Bern Township, Berks County, Pennsylvania, 19554, United St"
+  "name": "Shartlesville, Upper Bern Township, Berks County, Pennsylvania, 19554, United St",
+  "drive_min": 611,
+  "drive_mi": 537,
+  "drive_min_clemson": 743,
+  "drive_mi_clemson": 646
  },
  "Shelburne|Vermont": {
   "lat": 44.3784953,
@@ -3713,7 +3765,11 @@
  "Spring City|Pennsylvania": {
   "lat": 40.1778276,
   "lon": -75.5456439,
-  "name": "Spring City, Chester County, Pennsylvania, United States"
+  "name": "Spring City, Chester County, Pennsylvania, United States",
+  "drive_min": 659,
+  "drive_mi": 569,
+  "drive_min_clemson": 791,
+  "drive_mi_clemson": 678
  },
  "Spring Green|Wisconsin": {
   "lat": 43.1769367,
@@ -7284,5 +7340,140 @@
   "drive_mi": 876,
   "drive_min_clemson": 1195,
   "drive_mi_clemson": 984
+ },
+ "Allentown|Pennsylvania": {
+  "lat": 40.6022552,
+  "lon": -75.4716115,
+  "name": "Allentown, Lehigh County, Pennsylvania, United States",
+  "drive_min": 657,
+  "drive_mi": 573,
+  "drive_min_clemson": 789,
+  "drive_mi_clemson": 681
+ },
+ "Bethlehem|Pennsylvania": {
+  "lat": 40.6178915,
+  "lon": -75.3786521,
+  "name": "Bethlehem, Northampton County, Pennsylvania, United States",
+  "drive_min": 665,
+  "drive_mi": 579,
+  "drive_min_clemson": 798,
+  "drive_mi_clemson": 688
+ },
+ "Bushkill|Pennsylvania": {
+  "lat": 41.093429,
+  "lon": -75.0018401,
+  "name": "Bushkill, Lehman Township, Pike County, Pennsylvania, 18314, United States",
+  "drive_min": 731,
+  "drive_mi": 624,
+  "drive_min_clemson": 863,
+  "drive_mi_clemson": 733
+ },
+ "Carlisle|Pennsylvania": {
+  "lat": 40.201499,
+  "lon": -77.1890783,
+  "name": "Carlisle, Cumberland County, Pennsylvania, 17013, United States",
+  "drive_min": 535,
+  "drive_mi": 473,
+  "drive_min_clemson": 667,
+  "drive_mi_clemson": 582
+ },
+ "Delaware Water Gap|Pennsylvania": {
+  "lat": 40.9845252,
+  "lon": -75.1439573,
+  "name": "Delaware Water Gap, Monroe County, Pennsylvania, 18327, United States",
+  "drive_min": 710,
+  "drive_mi": 613,
+  "drive_min_clemson": 842,
+  "drive_mi_clemson": 722
+ },
+ "Easton|Pennsylvania": {
+  "lat": 40.6916081,
+  "lon": -75.2099866,
+  "name": "Easton, Northampton County, Pennsylvania, United States",
+  "drive_min": 676,
+  "drive_mi": 587,
+  "drive_min_clemson": 808,
+  "drive_mi_clemson": 696
+ },
+ "Erie|Pennsylvania": {
+  "lat": 42.1294712,
+  "lon": -80.0852695,
+  "name": "Erie, Erie County, Pennsylvania, United States",
+  "drive_min": 669,
+  "drive_mi": 585,
+  "drive_min_clemson": 798,
+  "drive_mi_clemson": 684
+ },
+ "Gardners|Pennsylvania": {
+  "lat": 40.0056483,
+  "lon": -77.2069266,
+  "name": "Gardners, Tyrone Township, Adams County, Pennsylvania, 17324, United States",
+  "drive_min": 544,
+  "drive_mi": 469,
+  "drive_min_clemson": 677,
+  "drive_mi_clemson": 578
+ },
+ "Harrisburg|Pennsylvania": {
+  "lat": 40.2663107,
+  "lon": -76.8861122,
+  "name": "Harrisburg, Dauphin County, Pennsylvania, United States",
+  "drive_min": 563,
+  "drive_mi": 494,
+  "drive_min_clemson": 695,
+  "drive_mi_clemson": 602
+ },
+ "Lancaster|Pennsylvania": {
+  "lat": 40.0379958,
+  "lon": -76.3056707,
+  "name": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+  "drive_min": 610,
+  "drive_mi": 531,
+  "drive_min_clemson": 742,
+  "drive_mi_clemson": 640
+ },
+ "Long Pond|Pennsylvania": {
+  "lat": 41.053422,
+  "lon": -75.4629636,
+  "name": "Long Pond, Tunkhannock Township, Monroe County, Pennsylvania, 18334, United Stat",
+  "drive_min": 698,
+  "drive_mi": 607,
+  "drive_min_clemson": 830,
+  "drive_mi_clemson": 716
+ },
+ "Scranton|Pennsylvania": {
+  "lat": 41.4086874,
+  "lon": -75.6621294,
+  "name": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "drive_min": 703,
+  "drive_mi": 611,
+  "drive_min_clemson": 835,
+  "drive_mi_clemson": 720
+ },
+ "Strasburg|Pennsylvania": {
+  "lat": 39.9831559,
+  "lon": -76.1841226,
+  "name": "Strasburg, Lancaster County, Pennsylvania, 17579, United States",
+  "drive_min": 621,
+  "drive_mi": 539,
+  "drive_min_clemson": 753,
+  "drive_mi_clemson": 647
+ },
+ "West Mifflin|Pennsylvania": {
+  "lat": 40.3634026,
+  "lon": -79.8664375,
+  "name": "West Mifflin, Allegheny County, Pennsylvania, 15122, United States",
+  "drive_min": 528,
+  "drive_mi": 454,
+  "drive_min_clemson": 657,
+  "drive_mi_clemson": 553
+ },
+ "York|Pennsylvania": {
+  "lat": 39.962493,
+  "lon": -76.7276989,
+  "name": "York, York County, Pennsylvania, 17401, United States",
+  "drive_min": 582,
+  "drive_mi": 491,
+  "drive_min_clemson": 714,
+  "drive_mi_clemson": 600
  }
 }
