@@ -18653,5 +18653,32 @@
   "lat": 30.4007508,
   "lon": -98.7014248,
   "name": "Willow City, Gillespie County, Texas, 78675, United States"
+ },
+ "Jupiter|Florida": {
+  "lat": 26.9342246,
+  "lon": -80.0942087,
+  "name": "Jupiter, Palm Beach County, Florida, 33458, United States",
+  "drive_min": 567,
+  "drive_mi": 636,
+  "drive_min_clemson": 614,
+  "drive_mi_clemson": 666
+ },
+ "Palm Beach|Florida": {
+  "lat": 26.6279798,
+  "lon": -80.4494174,
+  "name": "Palm Beach County, Florida, United States",
+  "drive_min": 651,
+  "drive_mi": 670,
+  "drive_min_clemson": 698,
+  "drive_mi_clemson": 700
+ },
+ "West Palm Beach|Florida": {
+  "lat": 26.715364,
+  "lon": -80.0532942,
+  "name": "West Palm Beach, Palm Beach County, Florida, United States",
+  "drive_min": 581,
+  "drive_mi": 652,
+  "drive_min_clemson": 628,
+  "drive_mi_clemson": 681
  }
 }
