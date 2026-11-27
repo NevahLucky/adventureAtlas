@@ -16226,5 +16226,122 @@
   "drive_mi": 597,
   "drive_min_clemson": 479,
   "drive_mi_clemson": 485
+ },
+ "Bean Station|Tennessee": {
+  "lat": 36.3436559,
+  "lon": -83.2840492,
+  "name": "Bean Station, Grainger County, East Tennessee, Tennessee, United States",
+  "drive_min": 224,
+  "drive_mi": 235,
+  "drive_min_clemson": 187,
+  "drive_mi_clemson": 180
+ },
+ "Elizabethton|Tennessee": {
+  "lat": 36.3487756,
+  "lon": -82.2107617,
+  "name": "Elizabethton, Carter County, East Tennessee, Tennessee, United States",
+  "drive_min": 174,
+  "drive_mi": 171,
+  "drive_min_clemson": 161,
+  "drive_mi_clemson": 154
+ },
+ "Erwin|Tennessee": {
+  "lat": 36.1451082,
+  "lon": -82.4168055,
+  "name": "Erwin, Unicoi County, East Tennessee, Tennessee, 37650, United States",
+  "drive_min": 173,
+  "drive_mi": 183,
+  "drive_min_clemson": 140,
+  "drive_mi_clemson": 133
+ },
+ "Greeneville|Tennessee": {
+  "lat": 36.1631981,
+  "lon": -82.8310464,
+  "name": "Greeneville, Greene County, East Tennessee, Tennessee, 37744, United States",
+  "drive_min": 192,
+  "drive_mi": 192,
+  "drive_min_clemson": 158,
+  "drive_mi_clemson": 143
+ },
+ "Kyles Ford|Tennessee": {
+  "lat": 36.5700701,
+  "lon": -83.0418742,
+  "name": "Kyles Ford, Hancock County, East Tennessee, Tennessee, 37765, United States",
+  "drive_min": 251,
+  "drive_mi": 238,
+  "drive_min_clemson": 217,
+  "drive_mi_clemson": 189
+ },
+ "Morristown|Tennessee": {
+  "lat": 36.2139814,
+  "lon": -83.2948923,
+  "name": "Morristown, Hamblen County, East Tennessee, Tennessee, United States",
+  "drive_min": 215,
+  "drive_mi": 224,
+  "drive_min_clemson": 178,
+  "drive_mi_clemson": 170
+ },
+ "Mountain City|Tennessee": {
+  "lat": 36.4745636,
+  "lon": -81.804838,
+  "name": "Mountain City, Johnson County, East Tennessee, Tennessee, 37638, United States",
+  "drive_min": 144,
+  "drive_mi": 136,
+  "drive_min_clemson": 203,
+  "drive_mi_clemson": 184
+ },
+ "Roan Mountain|Tennessee": {
+  "lat": 36.1962305,
+  "lon": -82.0703999,
+  "name": "Roan Mountain, Carter County, East Tennessee, Tennessee, 37687, United States",
+  "drive_min": 152,
+  "drive_mi": 136,
+  "drive_min_clemson": 173,
+  "drive_mi_clemson": 159
+ },
+ "Rogersville|Tennessee": {
+  "lat": 36.407317,
+  "lon": -83.0054423,
+  "name": "Rogersville, Hawkins County, East Tennessee, Tennessee, 37857, United States",
+  "drive_min": 227,
+  "drive_mi": 220,
+  "drive_min_clemson": 194,
+  "drive_mi_clemson": 170
+ },
+ "Rutledge|Tennessee": {
+  "lat": 36.2808512,
+  "lon": -83.51477,
+  "name": "Rutledge, Grainger County, East Tennessee, Tennessee, 37861, United States",
+  "drive_min": 229,
+  "drive_mi": 237,
+  "drive_min_clemson": 192,
+  "drive_mi_clemson": 182
+ },
+ "Shady Valley|Tennessee": {
+  "lat": 36.5190204,
+  "lon": -81.9285818,
+  "name": "Shady Valley, Johnson County, East Tennessee, Tennessee, 37688, United States",
+  "drive_min": 155,
+  "drive_mi": 147,
+  "drive_min_clemson": 194,
+  "drive_mi_clemson": 177
+ },
+ "Sneedville|Tennessee": {
+  "lat": 36.5297243,
+  "lon": -83.217546,
+  "name": "Sneedville, Hancock County, East Tennessee, Tennessee, 37869, United States",
+  "drive_min": 250,
+  "drive_mi": 255,
+  "drive_min_clemson": 213,
+  "drive_mi_clemson": 201
+ },
+ "Tusculum|Tennessee": {
+  "lat": 36.176627,
+  "lon": -82.74627,
+  "name": "Tusculum, Greene County, East Tennessee, Tennessee, United States",
+  "drive_min": 201,
+  "drive_mi": 197,
+  "drive_min_clemson": 167,
+  "drive_mi_clemson": 147
  }
 }
