@@ -15245,5 +15245,60 @@
   "drive_mi": 312,
   "drive_min_clemson": 193,
   "drive_mi_clemson": 196
+ },
+ "Appling|Georgia": {
+  "lat": 31.7771435,
+  "lon": -82.2996274,
+  "name": "Appling County, Georgia, United States"
+ },
+ "Crawfordville|Georgia": {
+  "lat": 33.5539938,
+  "lon": -82.8961899,
+  "name": "Crawfordville, Taliaferro County, Georgia, 30631, United States"
+ },
+ "Eatonton|Georgia": {
+  "lat": 33.3267128,
+  "lon": -83.388485,
+  "name": "Eatonton, Putnam County, Georgia, 31024, United States"
+ },
+ "Grovetown|Georgia": {
+  "lat": 33.4504157,
+  "lon": -82.1981764,
+  "name": "Grovetown, Columbia County, Georgia, United States"
+ },
+ "Juliette|Georgia": {
+  "lat": 33.1095315,
+  "lon": -83.8087659,
+  "name": "Juliette, Monroe County, Georgia, United States"
+ },
+ "Lincolnton|Georgia": {
+  "lat": 33.7924993,
+  "lon": -82.4793806,
+  "name": "Lincolnton, Lincoln County, Georgia, United States"
+ },
+ "Martinez|Georgia": {
+  "lat": 33.5183165,
+  "lon": -82.0978253,
+  "name": "Martinez, Columbia County, Georgia, United States"
+ },
+ "Monticello|Georgia": {
+  "lat": 33.3044654,
+  "lon": -83.684096,
+  "name": "Monticello, Jasper County, Georgia, United States"
+ },
+ "Sparta|Georgia": {
+  "lat": 33.2757006,
+  "lon": -82.9762589,
+  "name": "Sparta, Hancock County, Georgia, United States"
+ },
+ "Thomson|Georgia": {
+  "lat": 33.4663248,
+  "lon": -82.5026089,
+  "name": "Thomson, McDuffie County, Georgia, 30824, United States"
+ },
+ "Washington|Georgia": {
+  "lat": 32.9619979,
+  "lon": -82.7748026,
+  "name": "Washington County, Georgia, United States"
  }
 }
