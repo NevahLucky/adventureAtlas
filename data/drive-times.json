@@ -2287,7 +2287,11 @@
  "Buena Vista|Colorado": {
   "lat": 38.8422178,
   "lon": -106.1311288,
-  "name": "Buena Vista, Chaffee County, Colorado, 81211, United States"
+  "name": "Buena Vista, Chaffee County, Colorado, 81211, United States",
+  "drive_min": 1838,
+  "drive_mi": 1652,
+  "drive_min_clemson": 1757,
+  "drive_mi_clemson": 1592
  },
  "Burney|California": {
   "lat": 40.8884145,
@@ -2457,7 +2461,11 @@
  "Colorado Springs|Colorado": {
   "lat": 38.8339578,
   "lon": -104.825348,
-  "name": "Colorado Springs, El Paso County, Colorado, United States"
+  "name": "Colorado Springs, El Paso County, Colorado, United States",
+  "drive_min": 1717,
+  "drive_mi": 1559,
+  "drive_min_clemson": 1636,
+  "drive_mi_clemson": 1499
  },
  "Columbia|New Jersey": {
   "lat": 40.9257935,
@@ -2499,7 +2507,11 @@
  "Cortez|Colorado": {
   "lat": 37.3494528,
   "lon": -108.584073,
-  "name": "Cortez, Montezuma County, Colorado, 81321, United States"
+  "name": "Cortez, Montezuma County, Colorado, 81321, United States",
+  "drive_min": 2037,
+  "drive_mi": 1879,
+  "drive_min_clemson": 1896,
+  "drive_mi_clemson": 1761
  },
  "Cottonwood Falls|Kansas": {
   "lat": 38.3722364,
@@ -2599,7 +2611,11 @@
  "Denver|Colorado": {
   "lat": 39.7392364,
   "lon": -104.984862,
-  "name": "Denver, Colorado, United States"
+  "name": "Denver, Colorado, United States",
+  "drive_min": 1720,
+  "drive_mi": 1575,
+  "drive_min_clemson": 1639,
+  "drive_mi_clemson": 1515
  },
  "Des Moines|Iowa": {
   "lat": 41.5868654,
@@ -2643,7 +2659,11 @@
  "Durango|Colorado": {
   "lat": 37.2769484,
   "lon": -107.8766,
-  "name": "Durango, La Plata County, Colorado, United States"
+  "name": "Durango, La Plata County, Colorado, United States",
+  "drive_min": 1992,
+  "drive_mi": 1842,
+  "drive_min_clemson": 1851,
+  "drive_mi_clemson": 1725
  },
  "Dyersville|Iowa": {
   "lat": 42.4844602,
@@ -2672,7 +2692,11 @@
  "Estes Park|Colorado": {
   "lat": 40.3771926,
   "lon": -105.523216,
-  "name": "Estes Park, Larimer County, Colorado, 80517, United States"
+  "name": "Estes Park, Larimer County, Colorado, 80517, United States",
+  "drive_min": 1795,
+  "drive_mi": 1634,
+  "drive_min_clemson": 1714,
+  "drive_mi_clemson": 1574
  },
  "Eureka Springs|Arkansas": {
   "lat": 36.4000796,
@@ -3371,12 +3395,20 @@
  "Morrison|Colorado": {
   "lat": 39.6535988,
   "lon": -105.191099,
-  "name": "Morrison, Jefferson County, Colorado, United States"
+  "name": "Morrison, Jefferson County, Colorado, United States",
+  "drive_min": 1735,
+  "drive_mi": 1590,
+  "drive_min_clemson": 1654,
+  "drive_mi_clemson": 1530
  },
  "Mosca|Colorado": {
   "lat": 37.651236,
   "lon": -105.8711855,
-  "name": "Mosca, Alamosa County, Colorado, United States"
+  "name": "Mosca, Alamosa County, Colorado, United States",
+  "drive_min": 1851,
+  "drive_mi": 1703,
+  "drive_min_clemson": 1710,
+  "drive_mi_clemson": 1585
  },
  "Mountain View|Arkansas": {
   "lat": 35.8684075,
@@ -3656,7 +3688,11 @@
  "Ouray|Colorado": {
   "lat": 38.146044,
   "lon": -107.7414887,
-  "name": "Ouray County, Colorado, United States"
+  "name": "Ouray County, Colorado, United States",
+  "drive_min": 2065,
+  "drive_mi": 1821,
+  "drive_min_clemson": 1962,
+  "drive_mi_clemson": 1764
  },
  "Page|Arizona": {
   "lat": 36.9148305,
@@ -3879,7 +3915,11 @@
  "Rye|Colorado": {
   "lat": 37.9236194,
   "lon": -104.9302662,
-  "name": "Rye, Pueblo County, Colorado, United States"
+  "name": "Rye, Pueblo County, Colorado, United States",
+  "drive_min": 1786,
+  "drive_mi": 1647,
+  "drive_min_clemson": 1645,
+  "drive_mi_clemson": 1530
  },
  "Salem|Massachusetts": {
   "lat": 42.5214439,
@@ -4238,7 +4278,11 @@
  "Telluride|Colorado": {
   "lat": 37.9374939,
   "lon": -107.812285,
-  "name": "Telluride, San Miguel County, Colorado, 81435, United States"
+  "name": "Telluride, San Miguel County, Colorado, 81435, United States",
+  "drive_min": 2126,
+  "drive_mi": 1860,
+  "drive_min_clemson": 2023,
+  "drive_mi_clemson": 1803
  },
  "Terlingua|Texas": {
   "lat": 29.321586,
@@ -9784,5 +9828,131 @@
   "drive_mi": 2698,
   "drive_min_clemson": 2728,
   "drive_mi_clemson": 2581
+ },
+ "Almont|Colorado": {
+  "lat": 38.6647149,
+  "lon": -106.8461506,
+  "name": "Almont, Gunnison County, Colorado, 81210, United States",
+  "drive_min": 1955,
+  "drive_mi": 1740,
+  "drive_min_clemson": 1852,
+  "drive_mi_clemson": 1683
+ },
+ "Aspen|Colorado": {
+  "lat": 39.1911128,
+  "lon": -106.82356,
+  "name": "Aspen, Pitkin County, Colorado, United States",
+  "drive_min": 1955,
+  "drive_mi": 1772,
+  "drive_min_clemson": 1874,
+  "drive_mi_clemson": 1711
+ },
+ "Beaver Creek|Colorado": {
+  "lat": 39.6048976,
+  "lon": -106.5149787,
+  "name": "Beaver Creek, Eagle County, Colorado, 81620, United States",
+  "drive_min": 1845,
+  "drive_mi": 1682,
+  "drive_min_clemson": 1764,
+  "drive_mi_clemson": 1622
+ },
+ "Boulder|Colorado": {
+  "lat": 40.0149856,
+  "lon": -105.270545,
+  "name": "Boulder, Boulder County, Colorado, United States",
+  "drive_min": 1740,
+  "drive_mi": 1594,
+  "drive_min_clemson": 1659,
+  "drive_mi_clemson": 1534
+ },
+ "Breckenridge|Colorado": {
+  "lat": 39.4829124,
+  "lon": -106.0465486,
+  "name": "Breckenridge, Summit County, Colorado, United States",
+  "drive_min": 1818,
+  "drive_mi": 1653,
+  "drive_min_clemson": 1737,
+  "drive_mi_clemson": 1593
+ },
+ "Cañon City|Colorado": {
+  "lat": 38.4422506,
+  "lon": -105.2348795,
+  "name": "Cañon City, Fremont County, Colorado, 81212, United States",
+  "drive_min": 1774,
+  "drive_mi": 1603,
+  "drive_min_clemson": 1693,
+  "drive_mi_clemson": 1543
+ },
+ "Crested Butte|Colorado": {
+  "lat": 38.8698201,
+  "lon": -106.984043,
+  "name": "Crested Butte, Gunnison County, Colorado, United States",
+  "drive_min": 1980,
+  "drive_mi": 1757,
+  "drive_min_clemson": 1878,
+  "drive_mi_clemson": 1701
+ },
+ "Cripple Creek|Colorado": {
+  "lat": 38.7466555,
+  "lon": -105.1783149,
+  "name": "Cripple Creek, Teller County, Colorado, United States",
+  "drive_min": 1790,
+  "drive_mi": 1603,
+  "drive_min_clemson": 1709,
+  "drive_mi_clemson": 1543
+ },
+ "Fruita|Colorado": {
+  "lat": 39.1588826,
+  "lon": -108.7336414,
+  "name": "Fruita, Mesa County, Colorado, 81521, United States",
+  "drive_min": 1997,
+  "drive_mi": 1827,
+  "drive_min_clemson": 1916,
+  "drive_mi_clemson": 1767
+ },
+ "Glenwood Springs|Colorado": {
+  "lat": 39.5466381,
+  "lon": -107.3246941,
+  "name": "Glenwood Springs, Garfield County, Colorado, 81601, United States",
+  "drive_min": 1896,
+  "drive_mi": 1730,
+  "drive_min_clemson": 1815,
+  "drive_mi_clemson": 1670
+ },
+ "Grand Junction|Colorado": {
+  "lat": 39.0672568,
+  "lon": -108.56448,
+  "name": "Grand Junction, Mesa County, Colorado, United States",
+  "drive_min": 1992,
+  "drive_mi": 1817,
+  "drive_min_clemson": 1911,
+  "drive_mi_clemson": 1757
+ },
+ "Gunnison|Colorado": {
+  "lat": 38.6476702,
+  "lon": -107.0603126,
+  "name": "Gunnison County, Colorado, United States",
+  "drive_min": 2059,
+  "drive_mi": 1749,
+  "drive_min_clemson": 1956,
+  "drive_mi_clemson": 1692
+ },
+ "Mesa|Colorado": {
+  "lat": 39.0589084,
+  "lon": -108.565996,
+  "name": "Mesa County, Colorado, United States",
+  "drive_min": 1993,
+  "drive_mi": 1818,
+  "drive_min_clemson": 1912,
+  "drive_mi_clemson": 1758
+ },
+ "Vail|Colorado": {
+  "lat": 39.6438028,
+  "lon": -106.3888231,
+  "name": "Vail, Eagle County, Colorado, 81657, United States",
+  "drive_min": 1832,
+  "drive_mi": 1671,
+  "drive_min_clemson": 1751,
+  "drive_mi_clemson": 1611
  }
 }
