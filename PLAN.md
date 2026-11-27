@@ -146,9 +146,9 @@ python3 scripts/gaps.py --state Florida
 python3 scripts/gaps.py --at 3               # the counties filled to the old threshold
 ```
 
-Current picture: 1,274 of 3,143 counties covered, 3,780 entries. Every state and district has at
-least thirty entries. 266 counties nationally still have a single entry, and 3,008 counties sit
-under their floor, 13,122 entries short. `coverage.py` prints the coverage table and `gaps.py`
+Current picture: 1,277 of 3,143 counties covered, 3,819 entries. Every state and district has at
+least thirty entries. 265 counties nationally still have a single entry, and 3,004 counties sit
+under their floor, 13,103 entries short. `coverage.py` prints the coverage table and `gaps.py`
 prints the depth table; the numbers in this file go stale, those two commands do not.
 
 Five states have every county covered: Georgia (594 in 159), North Carolina (337 in 100), Tennessee
@@ -169,14 +169,14 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 3,780 entries
+## Where it stands, 3,819 entries
 
 Five states are covered: Georgia (594 in 159 counties), North Carolina (337 in 100), Tennessee (362
 in 95), South Carolina (287 in 46) and Florida (192 in 67). None of the five is deep. Behind them the
 thickest are Virginia (212 in 53 of 133), New York (157 in 44 of 62) and Pennsylvania (89 in 32 of 67).
 
-Coverage is no longer the queue. Depth is. 3,008 counties sit under their floor, 13,122 entries short,
-and the order by entries missing is Texas 1,337, Missouri 584, Kentucky 584, Illinois 546, Virginia
+Coverage is no longer the queue. Depth is. 3,004 counties sit under their floor, 13,103 entries short,
+and the order by entries missing is Texas 1,318, Missouri 584, Kentucky 584, Illinois 546, Virginia
 525, Kansas 516, Ohio 466, Iowa 464, Indiana 458, Nebraska 456, Michigan 427, Minnesota 401, Florida
 262. `python3 scripts/gaps.py` is the live number.
 
@@ -187,7 +187,7 @@ and the order by entries missing is Texas 1,337, Missouri 584, Kentucky 584, Ill
    Hillsborough, Duval, Orange and Pinellas, all between three and five.
 2. The other covered states, by how short they are: South Carolina 24 entries, Tennessee 189,
    North Carolina 213, Georgia 284.
-3. Texas, coverage and depth together. 17 of 254 counties and 52 entries, the largest single gap in
+3. Texas, coverage and depth together. 20 of 254 counties and 91 entries, the largest single gap in
    the atlas. Region by region: the Hill Country (Kerr, Gillespie, Bandera, Kendall, Llano, Burnet,
    Blanco), then Wichita Falls, Abilene, Tyler, Waco, the Valley, then the Panhandle.
 4. The Midwest and Plains, thinnest first: Illinois, Missouri, Kentucky, Kansas, Indiana, Nebraska.
