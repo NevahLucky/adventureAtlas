@@ -15884,5 +15884,104 @@
   "drive_mi": 488,
   "drive_min_clemson": 388,
   "drive_mi_clemson": 376
+ },
+ "Buchanan|Tennessee": {
+  "lat": 36.4369999,
+  "lon": -88.2083713,
+  "name": "Buchanan, Henry County, West Tennessee, Tennessee, United States",
+  "drive_min": 500,
+  "drive_mi": 524,
+  "drive_min_clemson": 430,
+  "drive_mi_clemson": 416
+ },
+ "Counce|Tennessee": {
+  "lat": 35.0423075,
+  "lon": -88.2733741,
+  "name": "Counce, Hardin County, West Tennessee, Tennessee, 38326, United States",
+  "drive_min": 515,
+  "drive_mi": 526,
+  "drive_min_clemson": 403,
+  "drive_mi_clemson": 409
+ },
+ "Jackson|Tennessee": {
+  "lat": 35.6144446,
+  "lon": -88.8177418,
+  "name": "Jackson, Madison County, West Tennessee, Tennessee, United States",
+  "drive_min": 511,
+  "drive_mi": 551,
+  "drive_min_clemson": 435,
+  "drive_mi_clemson": 439
+ },
+ "Paris|Tennessee": {
+  "lat": 36.3019461,
+  "lon": -88.3258578,
+  "name": "Paris, Henry County, West Tennessee, Tennessee, United States",
+  "drive_min": 508,
+  "drive_mi": 542,
+  "drive_min_clemson": 432,
+  "drive_mi_clemson": 430
+ },
+ "Pinson|Tennessee": {
+  "lat": 35.4900756,
+  "lon": -88.7206103,
+  "name": "Pinson, Madison County, West Tennessee, Tennessee, 38366, United States",
+  "drive_min": 523,
+  "drive_mi": 562,
+  "drive_min_clemson": 447,
+  "drive_mi_clemson": 450
+ },
+ "Pocahontas|Tennessee": {
+  "lat": 35.0525874,
+  "lon": -88.8036667,
+  "name": "Pocahontas, Hardeman County, West Tennessee, Tennessee, 38061, United States",
+  "drive_min": 543,
+  "drive_mi": 554,
+  "drive_min_clemson": 437,
+  "drive_mi_clemson": 476
+ },
+ "Savannah|Tennessee": {
+  "lat": 35.2248034,
+  "lon": -88.2492037,
+  "name": "Savannah, Hardin County, West Tennessee, Tennessee, United States",
+  "drive_min": 526,
+  "drive_mi": 559,
+  "drive_min_clemson": 418,
+  "drive_mi_clemson": 388
+ },
+ "Selmer|Tennessee": {
+  "lat": 35.1700744,
+  "lon": -88.5923645,
+  "name": "Selmer, McNairy County, West Tennessee, Tennessee, 38375, United States",
+  "drive_min": 530,
+  "drive_mi": 546,
+  "drive_min_clemson": 424,
+  "drive_mi_clemson": 467
+ },
+ "Shiloh|Tennessee": {
+  "lat": 35.1153617,
+  "lon": -88.3617085,
+  "name": "Shiloh, Hardin County, West Tennessee, Tennessee, 38376, United States",
+  "drive_min": 528,
+  "drive_mi": 535,
+  "drive_min_clemson": 416,
+  "drive_mi_clemson": 418
+ },
+ "Tiptonville|Tennessee": {
+  "lat": 36.3777031,
+  "lon": -89.4853267,
+  "name": "Tiptonville, Lake County, West Tennessee, Tennessee, 38079, United States",
+  "drive_min": 591,
+  "drive_mi": 632,
+  "drive_min_clemson": 514,
+  "drive_mi_clemson": 510
+ },
+ "Union City|Tennessee": {
+  "lat": 36.4242303,
+  "lon": -89.0570096,
+  "name": "Union City, Obion County, West Tennessee, Tennessee, United States",
+  "drive_min": 553,
+  "drive_mi": 602,
+  "drive_min_clemson": 480,
+  "drive_mi_clemson": 480
  }
 }
