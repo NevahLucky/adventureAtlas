@@ -19,7 +19,9 @@
   "customer": "Teens, coaster nerds, families",
   "unique": "The roller coaster capital of the world on a Lake Erie peninsula: 18 coasters, including dragster style launches and a wooden hybrid that regularly tops global rankings.",
   "buzz": "Coaster fans plan entire trips around it; everyone warns about fast lane pricing and closing time traffic. Go midweek in early June.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 654,
+  "drive_min_clemson": 735
  },
  {
   "name": "Rock and Roll Hall of Fame",
@@ -42,7 +44,9 @@
   "customer": "Music fans, families, boomers",
   "unique": "I.M. Pei's glass pyramid on the lake, holding Prince's guitar, Janis Joplin's Porsche and a hall of signatures that reads like a century of American noise.",
   "buzz": "The films and artifacts are stronger than the interactives; allow four hours. The lakefront setting is best at sunset.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 603,
+  "drive_min_clemson": 732
  },
  {
   "name": "Hocking Hills",
@@ -65,7 +69,9 @@
   "customer": "Families, hikers, photographers",
   "unique": "Recess Cave, Old Man's Cave and Cedar Falls: a sandstone gorge system of waterfalls, hemlock forest and huge overhangs you can walk behind.",
   "buzz": "The trails are crowded on summer weekends and magical in winter; the Grandma Gatewood trail links the main falls. Book a cabin early.",
-  "rating": 89
+  "rating": 89,
+  "drive_min": 584,
+  "drive_min_clemson": 663
  },
  {
   "name": "Serpent Mound",
@@ -88,7 +94,9 @@
   "customer": "History buffs, photographers, spiritual seekers",
   "unique": "A quarter mile effigy of a serpent built by indigenous people two thousand years ago on a crater rim, aligned to the solstice, with no consensus on what it meant.",
   "buzz": "People describe a strange calm on the ridge; the museum is small and the site is best at sunrise or dusk.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 485,
+  "drive_min_clemson": 538
  },
  {
   "name": "Amish Country",
@@ -111,7 +119,9 @@
   "customer": "Families, food people, retirees",
   "unique": "The largest Amish settlement in the world: draft horses on the road, bulk food stores, furniture workshops and a bakery culture that runs on lard and butter.",
   "buzz": "Go on a weekday, respect the no photos signs, and eat at a family style restaurant. The flea market is enormous on Thursdays.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 534,
+  "drive_min_clemson": 663
  },
  {
   "name": "Kings Island",
@@ -133,7 +143,9 @@
   "customer": "Families, teens, coaster fans",
   "unique": "The Beast, still the longest wooden coaster in the world, plus a kids' area and a water park in a wooded park north of Cincinnati.",
   "buzz": "The Beast at night is a genuine rite of passage; lines are manageable midweek. Food is standard park fare.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 553,
+  "drive_min_clemson": 550
  },
  {
   "name": "National Museum of the US Air Force",
@@ -156,7 +168,9 @@
   "customer": "Families, aviation nerds, veterans",
   "unique": "The largest military aviation museum in the world: B-17s, a B-2 stealth bomber, an SR-71 and the actual Memphis Belle, all free.",
   "buzz": "People plan two hours and stay five; the hangars are enormous and the volunteer veterans are a highlight. Free parking, too.",
-  "rating": 92
+  "rating": 92,
+  "drive_min": 546,
+  "drive_min_clemson": 581
  },
  {
   "name": "Put-in-Bay",
@@ -179,7 +193,9 @@
   "customer": "Young adults, families, boaters",
   "unique": "A Lake Erie island reached by ferry, with golf carts, a 352-foot monument to a War of 1812 naval victory and a bar scene that gets loud by 3pm.",
   "buzz": "Rent a golf cart and circumnavigate the island; the wineries and the monument are the calm counterpoint. Ferries sell out on summer weekends.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 682,
+  "drive_min_clemson": 793
  },
  {
   "name": "Indy 500",
@@ -1268,7 +1284,9 @@
   "customer": "Families, tourists, history buffs",
   "unique": "A 630-foot stainless steel catenary arch with a tram that squeezes you into a pod and lifts you to a window the size of a shoebox over the Mississippi.",
   "buzz": "The tram is claustrophobic and the view is worth it; the museum underneath is excellent and free. Book timed tickets.",
-  "rating": 83
+  "rating": 83,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "City Museum",
@@ -1291,7 +1309,9 @@
   "customer": "Families, kids, adventurous adults",
   "unique": "A ten story former shoe factory turned into a climbable sculpture of salvaged industrial junk: tunnels, a school bus hanging off the roof and a slide that drops five stories.",
   "buzz": "Kids disappear into the tunnels for hours; adults need closed shoes and a tolerance for tight spaces. The rooftop is extra.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "Kansas City Barbecue Crawl",
@@ -1313,7 +1333,9 @@
   "customer": "Food people, families, locals",
   "unique": "Burnt ends, sauce dipped ribs and a style built on hickory and a tomato molasses sauce that is sweeter than Texas and thicker than Memphis.",
   "buzz": "Joe's Kansas City and Arthur Bryant's are the canonical stops; locals argue about Gates. Order burnt ends and a Big Red.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 1104,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Silver Dollar City",
@@ -1336,7 +1358,9 @@
   "customer": "Families, coaster fans, retirees",
   "unique": "An 1880s-themed park built over a natural cave, with craftsmen blowing glass and forging iron between world class coasters like Outlaw Run.",
   "buzz": "The theming is genuinely charming and the coasters are excellent; Christmas lights are a regional pilgrimage. Branson traffic is real.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 1016,
+  "drive_min_clemson": 900
  },
  {
   "name": "Ozark Float Trip",
@@ -1359,7 +1383,9 @@
   "customer": "Families, college kids, locals",
   "unique": "A Missouri institution: a raft, a cooler and a slow river through Ozark hills, with gravel bars for stopping and no schedule at all.",
   "buzz": "The Huzzah and Current rivers are the classics; weekends get rowdy and the water is cold. Book the shuttle and bring a dry bag.",
-  "rating": 83
+  "rating": 83,
+  "drive_min": 942,
+  "drive_min_clemson": 861
  },
  {
   "name": "Meramec Caverns",
@@ -1382,7 +1408,9 @@
   "customer": "Families, road trippers, kids",
   "unique": "A five story cavern lit in neon, billed on barn roofs for a hundred miles, with a sound and light show and a Jesse James outlaw legend.",
   "buzz": "It is unabashedly old school roadside Americana; the formations are impressive and the show is kitsch. Kids love it.",
-  "rating": 75
+  "rating": 75,
+  "drive_min": 893,
+  "drive_min_clemson": 812
  },
  {
   "name": "St. Louis Zoo",
@@ -1405,7 +1433,9 @@
   "customer": "Families, kids, locals",
   "unique": "One of the last great free zoos, with a walk through penguin house, a grizzly exhibit and a 1904 Flight Cage from the World's Fair.",
   "buzz": "Free admission and genuinely good exhibits; parking costs more than most zoos' entry. Go at opening.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "Ha Ha Tonka",
@@ -1428,7 +1458,9 @@
   "customer": "Hikers, photographers, families",
   "unique": "A stone castle ruin on a bluff above the Lake of the Ozarks, with a spring, a natural bridge and a waterfall in a dolomite canyon.",
   "buzz": "The castle ruin is eerier and more beautiful than expected; the spring trail is a steep stair climb. Sunset is the time.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1019,
+  "drive_min_clemson": 938
  },
  {
   "name": "Cosmosphere",
@@ -14263,7 +14295,9 @@
   "customer": "Design people, families, photographers",
   "unique": "Two warehouses of neon, bulb and painted signs from the last century, with a Main Street of storefronts and a workshop where restorers bring dead signs back to light.",
   "buzz": "The neon room is a photographer's dream and the history of sign making is unexpectedly interesting; allow ninety minutes.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 563,
+  "drive_min_clemson": 517
  },
  {
   "name": "Loveland Castle",
@@ -14286,7 +14320,9 @@
   "customer": "Families, castle fans, road trippers",
   "unique": "A medieval style castle built by hand from river stones by a scoutmaster and his troop, with a dungeon, a great hall and a sword in a stone.",
   "buzz": "It is homemade and earnest and kids love it; the story of the builder is the best part. Cheap and quick.",
-  "rating": 74
+  "rating": 74,
+  "drive_min": 561,
+  "drive_min_clemson": 549
  },
  {
   "name": "Fair Oaks Farms",
@@ -14459,7 +14495,9 @@
   "customer": "Families, locals, tourists",
   "unique": "A 1913 soda fountain and sandwich counter in a north city neighborhood, famous for a five pound milkshake challenge and a bacon sandwich that defeats most people.",
   "buzz": "The malts are the real draw and the heart attack burger is a stunt; the line moves and the neighborhood is worth supporting.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "World's Largest Ball of Twine",
@@ -15824,7 +15862,9 @@
   "customer": "Film fans, ghost hunters, history buffs",
   "unique": "A towering Romanesque prison used in The Shawshank Redemption, with cell blocks six tiers high, solitary confinement and overnight paranormal investigations.",
   "buzz": "The architecture is stunning and the Shawshank connection brings film people; the ghost tours are a separate, spookier ticket.",
-  "rating": 88
+  "rating": 88,
+  "drive_min": 588,
+  "drive_min_clemson": 675
  },
  {
   "name": "The Myrtles",
@@ -16046,7 +16086,9 @@
   "buzz": "The scale is impressive and the details reward curiosity; it is less narrative than Meow Wolf and more playground. Good for teens.",
   "rating": 85,
   "party": "1–4",
-  "customer": "Young adults, friends, families with teens"
+  "customer": "Young adults, friends, families with teens",
+  "drive_min": 519,
+  "drive_min_clemson": 600
  },
  {
   "name": "13th Gate Escape",
@@ -16168,7 +16210,9 @@
   "customer": "Ghost hunters, history buffs, couples",
   "unique": "A brewery family's mansion where several members died by suicide, now a restaurant and inn with ghost tours, dinner theater and overnight rooms that guests leave early.",
   "buzz": "The dinner mystery is campy and the history is genuinely tragic; overnight guests report doors and footsteps. Book the tour before you commit to a room.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "The Stanley Hotel",
@@ -36473,7 +36517,9 @@
   "customer": "Families, walkers, visitors",
   "unique": "A 1,300 acre park larger than Central Park, holding the zoo, the art museum, the science center, a lake and miles of trails, most of them free.",
   "buzz": "You can spend a whole day here without paying admission. The boathouse and the art museum are the anchors.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "Anheuser-Busch Brewery Tour",
@@ -36496,7 +36542,9 @@
   "customer": "Visitors, groups, beer fans",
   "unique": "A tour of the historic brewery with the red brick buildings, the Clydesdale stables and a tasting at the end.",
   "buzz": "The Clydesdales are the highlight and the tour is free. Book ahead and bring ID.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "Missouri Botanical Garden",
@@ -36519,7 +36567,9 @@
   "customer": "Gardeners, families, couples",
   "unique": "A 79 acre garden with a Victorian conservatory, a Japanese garden, a climatron dome and an extensive orchid collection.",
   "buzz": "The Climatron and the Japanese garden are the highlights. Spring and fall are the best seasons.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "Cathedral Basilica of Saint Louis",
@@ -36542,7 +36592,9 @@
   "customer": "Architecture fans, visitors",
   "unique": "A Romanesque cathedral with the largest mosaic collection in the world, 41 million pieces covering the ceiling in gold and color.",
   "buzz": "The mosaics are astonishing and it is free. Go on a weekday for quiet.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 822,
+  "drive_min_clemson": 741
  },
  {
   "name": "National WWI Museum and Memorial",
@@ -36565,7 +36617,9 @@
   "customer": "History people, families",
   "unique": "The national museum of the First World War, with trenches, weapons, personal letters and a tower with a view of the city.",
   "buzz": "One of the best war museums in the country, and the tower is worth the climb. Allow three hours.",
-  "rating": 88
+  "rating": 88,
+  "drive_min": 1104,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Nelson-Atkins Museum of Art",
@@ -36588,7 +36642,9 @@
   "customer": "Art people, families, couples",
   "unique": "A free encyclopedic museum with a strong Asian collection, European painting and the giant shuttlecocks on the lawn.",
   "buzz": "Free and world class, with a beautiful lawn and a good cafe. The shuttlecocks are the photo.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 1104,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Union Station",
@@ -36611,7 +36667,9 @@
   "customer": "Families, history people",
   "unique": "A 1914 Beaux Arts train station with a grand hall, a science center, a planetarium and a model train gallery.",
   "buzz": "The grand hall is the photo and the model trains are the kid draw. Free to walk through.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1104,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Arabia Steamboat Museum",
@@ -36634,7 +36692,9 @@
   "customer": "History people, families",
   "unique": "Cargo from a steamboat that sank in 1856, recovered intact from a cornfield, with tools, dishes, clothing and food still preserved.",
   "buzz": "The everyday objects are the fascinating part, and the recovery story is improbable. Good for kids.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1104,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Wonders of Wildlife",
@@ -36657,7 +36717,9 @@
   "customer": "Families, anglers, animal people",
   "unique": "A massive wildlife museum and aquarium with sharks, otters, a swamp, a cave and mounted animals from around the world.",
   "buzz": "Bigger and better than expected, with live animals and a real aquarium. Allow half a day.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 990,
+  "drive_min_clemson": 909
  },
  {
   "name": "Hermann Wine Trail",
@@ -36680,7 +36742,9 @@
   "customer": "Couples, groups, wine people",
   "unique": "A Missouri River town settled by German immigrants, with a brick main street and a cluster of wineries along the valley.",
   "buzz": "The wines are sweet and the town is charming. Book a designated driver or a shuttle.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 924,
+  "drive_min_clemson": 843
  },
  {
   "name": "Mark Twain Boyhood Home",
@@ -36703,7 +36767,9 @@
   "customer": "Readers, families, history people",
   "unique": "The house where Samuel Clemens grew up, with the whitewashed fence, the museum and the river town that became Tom Sawyer's St. Petersburg.",
   "buzz": "For readers it is a pilgrimage, and the town leans into it. The fence painting is a photo op for kids.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 963,
+  "drive_min_clemson": 882
  },
  {
   "name": "Table Rock Lake",
@@ -36726,7 +36792,9 @@
   "customer": "Boaters, families, anglers",
   "unique": "A clear Ozark lake with coves, marinas, swimming and bass fishing, next to the Branson strip but a world away.",
   "buzz": "The lake is the quiet alternative to the shows, with good swimming and rental boats.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1016,
+  "drive_min_clemson": 900
  },
  {
   "name": "Pappajohn Sculpture Park",
@@ -37499,7 +37567,9 @@
   "customer": "Families, history people",
   "unique": "Three museums in the Art Deco Union Terminal: natural history, Cincinnati history and a children's museum.",
   "buzz": "The building is worth the trip alone, and the history museum has a great model of the city.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 563,
+  "drive_min_clemson": 517
  },
  {
   "name": "Cincinnati Zoo",
@@ -37521,7 +37591,9 @@
   "customer": "Families with kids",
   "unique": "The second oldest zoo in the country, with hippos, gorillas, a train and the Fiona the hippo story.",
   "buzz": "Well laid out and shady, with the hippo exhibit as the draw. Allow half a day.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 563,
+  "drive_min_clemson": 517
  },
  {
   "name": "Columbus Zoo and Aquarium",
@@ -37544,7 +37616,9 @@
   "customer": "Families with kids",
   "unique": "A zoo and aquarium with polar bears, manatees, a water park and a golf course, on the Scioto River.",
   "buzz": "The manatee rescue and the polar bears are the highlights, and the water park makes it a full day.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 539,
+  "drive_min_clemson": 619
  },
  {
   "name": "Franklin Park Conservatory",
@@ -37567,7 +37641,9 @@
   "customer": "Gardeners, families, art people",
   "unique": "A glasshouse with biomes from rainforest to desert, plus a butterfly garden and a collection of Chihuly glass.",
   "buzz": "The Chihuly glass among the plants is the draw, and the butterfly house is a kid favorite.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 519,
+  "drive_min_clemson": 600
  },
  {
   "name": "Cleveland Museum of Art",
@@ -37590,7 +37666,9 @@
   "customer": "Art people, families",
   "unique": "A free encyclopedic museum with Asian art, medieval armor, Impressionism and a sculpture garden.",
   "buzz": "Free and world class, with a beautiful building and a good cafe. One of the best museums in the country.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 603,
+  "drive_min_clemson": 732
  },
  {
   "name": "West Side Market",
@@ -37613,7 +37691,9 @@
   "customer": "Food people, families, locals",
   "unique": "A 1912 market hall with a vaulted ceiling, butcher stalls, pierogi stands and produce vendors under one roof.",
   "buzz": "The building is beautiful and the food is cheap. Go hungry and bring cash.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 603,
+  "drive_min_clemson": 732
  },
  {
   "name": "Great Lakes Science Center",
@@ -37636,7 +37716,9 @@
   "customer": "Families, science people",
   "unique": "A science center on the lake with a NASA Glenn visitor center, a domed theater and hands on exhibits.",
   "buzz": "The NASA exhibits are the draw and the lakefront location is nice. Good for kids.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 603,
+  "drive_min_clemson": 732
  },
  {
   "name": "Toledo Museum of Art",
@@ -37659,7 +37741,9 @@
   "customer": "Art people, families",
   "unique": "A free art museum with a strong glass collection, Old Masters and a sculpture garden, in a Greek Revival building.",
   "buzz": "The glass collection is the local specialty and the museum is free. A surprise for a mid sized city.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 689,
+  "drive_min_clemson": 746
  },
  {
   "name": "Henry Ford Museum",
@@ -63858,5 +63942,754 @@
   "rating": 76,
   "drive_min": 2625,
   "drive_min_clemson": 2544
+ },
+ {
+  "name": "COSI",
+  "city": "Columbus",
+  "county": "Franklin",
+  "state": "Ohio",
+  "cats": [
+   "Science",
+   "Family",
+   "Museum"
+  ],
+  "cost": "$25",
+  "cost_num": 25,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Daily",
+  "start": "1964",
+  "company": "COSI",
+  "party": "2–5",
+  "customer": "Families, school groups, science people",
+  "unique": "A science center on the Scioto with a giant screen theater, a gadget gallery and a working lab where visitors do experiments.",
+  "buzz": "The hands on labs and the dinosaur gallery are the family stops; the building and the riverfront park are worth the walk.",
+  "rating": 80,
+  "drive_min": 519,
+  "drive_min_clemson": 600
+ },
+ {
+  "name": "Columbus Museum of Art",
+  "city": "Columbus",
+  "county": "Franklin",
+  "state": "Ohio",
+  "cats": [
+   "Art",
+   "Museum",
+   "Architecture"
+  ],
+  "cost": "$18",
+  "cost_num": 18,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sun",
+  "start": "1878",
+  "company": "Columbus Museum of Art",
+  "party": "2–4",
+  "customer": "Art people, families, students",
+  "unique": "A museum with a strong American collection, a sculpture garden and a center for creativity where visitors make things, in a 1931 building.",
+  "buzz": "The American galleries and the sculpture garden are the route; the hands on center is the family surprise.",
+  "rating": 78,
+  "drive_min": 519,
+  "drive_min_clemson": 600
+ },
+ {
+  "name": "Findlay Market",
+  "city": "Cincinnati",
+  "county": "Hamilton",
+  "state": "Ohio",
+  "cats": [
+   "Market",
+   "Food & Drink",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1855",
+  "company": "Findlay Market",
+  "party": "2–4",
+  "customer": "Cooks, locals, food people",
+  "unique": "The oldest continuously operating public market in the state, in a 1855 iron market house with butchers, a spice shop and a Belgian waffle stand.",
+  "buzz": "The market is the local Saturday ritual and the surrounding Over the Rhine blocks have changed fast; go early for the produce.",
+  "rating": 78,
+  "drive_min": 563,
+  "drive_min_clemson": 517
+ },
+ {
+  "name": "Cincinnati Art Museum",
+  "city": "Cincinnati",
+  "county": "Hamilton",
+  "state": "Ohio",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sun",
+  "start": "1881",
+  "company": "Cincinnati Art Museum",
+  "party": "2–4",
+  "customer": "Art people, families, students",
+  "unique": "A free encyclopedic museum in Eden Park with a strong collection of Old Masters, Asian art and a wing of Cincinnati artists.",
+  "buzz": "The free admission is the local pride and the ancient galleries are quiet; the park around it is a good walk.",
+  "rating": 82,
+  "drive_min": 563,
+  "drive_min_clemson": 517
+ },
+ {
+  "name": "Cleveland Museum of Natural History",
+  "city": "Cleveland",
+  "county": "Cuyahoga",
+  "state": "Ohio",
+  "cats": [
+   "Museum",
+   "Science",
+   "Fossils"
+  ],
+  "cost": "$15",
+  "cost_num": 15,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Tue–Sun",
+  "start": "1920",
+  "company": "Cleveland Museum of Natural History",
+  "party": "2–5",
+  "customer": "Families, dinosaur kids, science people",
+  "unique": "A museum with a 70 foot titanosaur, a planetarium and a wildlife gallery, recently renovated around a glass atrium.",
+  "buzz": "The dinosaur hall and the planetarium are the family stops; the museum is on the same campus as the art museum and the botanical garden.",
+  "rating": 80,
+  "drive_min": 603,
+  "drive_min_clemson": 732
+ },
+ {
+  "name": "Carillon Historical Park",
+  "city": "Dayton",
+  "county": "Montgomery",
+  "state": "Ohio",
+  "cats": [
+   "History",
+   "Industry",
+   "Family"
+  ],
+  "cost": "$12",
+  "cost_num": 12,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Daily",
+  "start": "1950",
+  "company": "Dayton History",
+  "party": "2–5",
+  "customer": "History families, engineering fans, school groups",
+  "unique": "A park of moved buildings around a carillon, with the 1905 Wright Flyer III, a 1930s print shop and a working brewery.",
+  "buzz": "The Wright Flyer and the carillon concerts are the reasons to come and the park is bigger than it looks; the brewery pours samples.",
+  "rating": 80,
+  "drive_min": 546,
+  "drive_min_clemson": 581
+ },
+ {
+  "name": "Dayton Art Institute",
+  "city": "Dayton",
+  "county": "Montgomery",
+  "state": "Ohio",
+  "cats": [
+   "Art",
+   "Museum",
+   "Architecture"
+  ],
+  "cost": "Free–$15",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1930",
+  "company": "Dayton Art Institute",
+  "party": "2–4",
+  "customer": "Art people, students, families",
+  "unique": "A museum on a bluff above the Great Miami with a collection from ancient to American, in a building modeled on the Villa d'Este.",
+  "buzz": "The building and the American galleries are the reasons to stop; admission is free on some days and the collection is broader than expected.",
+  "rating": 76,
+  "drive_min": 546,
+  "drive_min_clemson": 581
+ },
+ {
+  "name": "Stan Hywet Hall",
+  "city": "Akron",
+  "county": "Summit",
+  "state": "Ohio",
+  "cats": [
+   "Architecture",
+   "Garden",
+   "History"
+  ],
+  "cost": "$15",
+  "cost_num": 15,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sun, Apr–Dec",
+  "start": "1915",
+  "company": "Stan Hywet Hall and Gardens",
+  "party": "2–4",
+  "customer": "House tour people, gardeners, families",
+  "unique": "A Tudor revival mansion built by the Goodyear founder, with 65 rooms, a Japanese garden and a conservatory, on 70 acres.",
+  "buzz": "The house and the gardens are the two halves and the holiday lights fill the grounds; the tour is long enough to plan two hours.",
+  "rating": 80,
+  "drive_min": 559,
+  "drive_min_clemson": 688
+ },
+ {
+  "name": "Pro Football Hall of Fame",
+  "city": "Canton",
+  "county": "Stark",
+  "state": "Ohio",
+  "cats": [
+   "Sports",
+   "Museum",
+   "Family"
+  ],
+  "cost": "$30",
+  "cost_num": 30,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Daily",
+  "start": "1963",
+  "company": "Pro Football Hall of Fame",
+  "party": "2–5",
+  "customer": "Football fans, families, groups",
+  "unique": "The busts of every inducted player in a long gallery, plus a locker room of artifacts and a field where you can run drills.",
+  "buzz": "The bust gallery is the emotional stop and the interactive field is the family draw; the August enshrinement is the big week.",
+  "rating": 82,
+  "drive_min": 532,
+  "drive_min_clemson": 660
+ },
+ {
+  "name": "Butler Institute of American Art",
+  "city": "Youngstown",
+  "county": "Mahoning",
+  "state": "Ohio",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1919",
+  "company": "Butler Institute of American Art",
+  "party": "2–4",
+  "customer": "Art people, students, families",
+  "unique": "The first museum devoted entirely to American art, with a Winslow Homer, a Hopper and a gallery of regional painting, free on the Youngstown State campus.",
+  "buzz": "The collection is stronger than the city's reputation suggests and it is free; the building is a 1919 marble temple.",
+  "rating": 78,
+  "drive_min": 601,
+  "drive_min_clemson": 730
+ },
+ {
+  "name": "Museum of Art and Archaeology",
+  "city": "Columbia",
+  "county": "Boone",
+  "state": "Missouri",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sun",
+  "start": "1957",
+  "company": "University of Missouri",
+  "party": "2–4",
+  "customer": "Art people, students, families",
+  "unique": "A university museum with ancient Greek pottery, a mummy and American painting, free in a building on the Columbia campus.",
+  "buzz": "The ancient collection is the surprise and the museum is free; it is small and the campus is a pleasant walk.",
+  "rating": 74,
+  "drive_min": 970,
+  "drive_min_clemson": 889
+ },
+ {
+  "name": "Fantastic Caverns",
+  "city": "Springfield",
+  "county": "Greene",
+  "state": "Missouri",
+  "cats": [
+   "Cave",
+   "Family",
+   "Nature"
+  ],
+  "cost": "$25",
+  "cost_num": 25,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Daily",
+  "start": "1867",
+  "company": "Fantastic Caverns",
+  "party": "2–5",
+  "customer": "Families, cave people, road trippers",
+  "unique": "The only cave in the country you tour by jeep drawn tram, riding through a underground river passage without leaving your seat.",
+  "buzz": "The ride is the reason children love it and the cave is accessible for people who cannot walk far; the tour is about an hour.",
+  "rating": 76,
+  "drive_min": 990,
+  "drive_min_clemson": 909
+ },
+ {
+  "name": "Patee House Museum",
+  "city": "St. Joseph",
+  "county": "Buchanan",
+  "state": "Missouri",
+  "cats": [
+   "Museum",
+   "History",
+   "Quirky"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Daily, Apr–Oct",
+  "start": "1858",
+  "company": "Patee House Museum",
+  "party": "2–5",
+  "customer": "History families, Pony Express fans, road trippers",
+  "unique": "A 1858 hotel that was the Pony Express headquarters, now a museum with a railroad, a stagecoach and a recreation of a frontier main street.",
+  "buzz": "The street scene and the Pony Express story are the reasons to come; it is old fashioned and good with children.",
+  "rating": 78,
+  "drive_min": 1166,
+  "drive_min_clemson": 1085
+ },
+ {
+  "name": "Jesse James Home",
+  "city": "St. Joseph",
+  "county": "Buchanan",
+  "state": "Missouri",
+  "cats": [
+   "History",
+   "Dark Tourism",
+   "Quirky"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Daily, Apr–Oct",
+  "start": "1882",
+  "company": "Patee House Museum",
+  "party": "2–4",
+  "customer": "Outlaw history fans, families, road trippers",
+  "unique": "The small house where Jesse James was shot in 1882, with the bullet hole in the wall and the story of how his widow sold tours.",
+  "buzz": "The house is small and the bullet hole is the artifact; it is a quick stop next to the Patee House.",
+  "rating": 72,
+  "drive_min": 1166,
+  "drive_min_clemson": 1085
+ },
+ {
+  "name": "Missouri State Capitol",
+  "city": "Jefferson City",
+  "county": "Cole",
+  "state": "Missouri",
+  "cats": [
+   "Architecture",
+   "History",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily",
+  "start": "1917",
+  "company": "State of Missouri",
+  "party": "2–4",
+  "customer": "Architecture people, school groups, travelers",
+  "unique": "A limestone capitol above the Missouri River with a mural by Thomas Hart Benton in the lounge and a museum on the first floor.",
+  "buzz": "The Benton mural is the reason art people stop and the view from the river steps is the photograph; tours are free.",
+  "rating": 80,
+  "drive_min": 977,
+  "drive_min_clemson": 896
+ },
+ {
+  "name": "Jefferson Landing",
+  "city": "Jefferson City",
+  "county": "Cole",
+  "state": "Missouri",
+  "cats": [
+   "History",
+   "Architecture",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "45 min",
+  "dur_h": 0.75,
+  "dates": "Wed–Sun",
+  "start": "1850s",
+  "company": "Missouri State Parks",
+  "party": "2–4",
+  "customer": "History people, families, river watchers",
+  "unique": "A restored 1850s river landing with a store and a house built into the levee, where the Santa Fe Trail trade began.",
+  "buzz": "The buildings and the river view are the stop and it is free; the levee wall itself is the interesting engineering.",
+  "rating": 72,
+  "drive_min": 977,
+  "drive_min_clemson": 896
+ },
+ {
+  "name": "St. Charles Main Street",
+  "city": "St. Charles",
+  "county": "St. Charles",
+  "state": "Missouri",
+  "cats": [
+   "History",
+   "Walk",
+   "Food & Drink"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1800s",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Walkers, history fans, couples",
+  "unique": "A brick main street of 1800s buildings on the Missouri, the first state capital and the start of the Lewis and Clark trail, with a riverfront park.",
+  "buzz": "The street and the Katy Trail trailhead are the two reasons to come and the shops are touristy; the fall festival is the local event.",
+  "rating": 78,
+  "drive_min": 862,
+  "drive_min_clemson": 781
+ },
+ {
+  "name": "Rockcliffe Mansion",
+  "city": "Hannibal",
+  "county": "Marion",
+  "state": "Missouri",
+  "cats": [
+   "Architecture",
+   "History"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily, Apr–Oct",
+  "start": "1899",
+  "company": "Rockcliffe Mansion",
+  "party": "2–4",
+  "customer": "House tour people, history fans, families",
+  "unique": "A 30 room mansion on a bluff above the Mississippi, with original furnishings and a view over Hannibal, left empty for decades and restored.",
+  "buzz": "The house and the river view are the tour and the story of its abandonment is the interest; it pairs with the Mark Twain sites.",
+  "rating": 76,
+  "drive_min": 963,
+  "drive_min_clemson": 882
+ },
+ {
+  "name": "Museum of Idaho",
+  "city": "Idaho Falls",
+  "county": "Bonneville",
+  "state": "Idaho",
+  "cats": [
+   "Museum",
+   "History",
+   "Science"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sat",
+  "start": "2003",
+  "company": "Museum of Idaho",
+  "party": "2–5",
+  "customer": "Families, history people, school groups",
+  "unique": "A regional museum with a walk through Idaho history, a children's discovery area and traveling exhibits, in a converted warehouse downtown.",
+  "buzz": "The history walk is good with children and the traveling shows are the reason locals return; it is small and cheap.",
+  "rating": 74,
+  "drive_min": 2331,
+  "drive_min_clemson": 2250
+ },
+ {
+  "name": "Hells Gate State Park",
+  "city": "Lewiston",
+  "county": "Nez Perce",
+  "state": "Idaho",
+  "cats": [
+   "Water",
+   "History",
+   "Camping"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1970s",
+  "company": "Idaho Department of Parks and Recreation",
+  "party": "2–5",
+  "customer": "Boaters, anglers, history fans",
+  "unique": "A park on the Snake River at the lower end of Hells Canyon, where Lewis and Clark came through, with a jet boat launch and a beach.",
+  "buzz": "The jet boats into Hells Canyon leave from here and the river is the biggest thing in the park; the campground is shaded.",
+  "rating": 76,
+  "drive_min": 2795,
+  "drive_min_clemson": 2714
+ },
+ {
+  "name": "Nez Perce National Historical Park",
+  "city": "Spalding",
+  "county": "Nez Perce",
+  "state": "Idaho",
+  "cats": [
+   "Native",
+   "History",
+   "Museum"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1965",
+  "company": "National Park Service",
+  "party": "2–4",
+  "customer": "History people, families, school groups",
+  "unique": "The heart of a park that stretches across four states, with a museum of Nez Perce beadwork, a mission site and the story of the 1877 war.",
+  "buzz": "The museum and the ranger talks are the reason to start here before following the trail; the collection is from the tribe and the interpretation is theirs.",
+  "rating": 80,
+  "drive_min": 2784,
+  "drive_min_clemson": 2703
+ },
+ {
+  "name": "Idaho Museum of Natural History",
+  "city": "Pocatello",
+  "county": "Bannock",
+  "state": "Idaho",
+  "cats": [
+   "Museum",
+   "Fossils",
+   "Science"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sat",
+  "start": "1934",
+  "company": "Idaho State University",
+  "party": "2–5",
+  "customer": "Dinosaur kids, families, science people",
+  "unique": "A museum with a giant short faced bear, a saber tooth cat and the fossils of the Snake River plain, on the Pocatello campus.",
+  "buzz": "The Ice Age mammals are the family draw and the collection is serious; it is small and cheap.",
+  "rating": 74,
+  "drive_min": 2296,
+  "drive_min_clemson": 2214
+ },
+ {
+  "name": "Shoshone Falls",
+  "city": "Twin Falls",
+  "county": "Twin Falls",
+  "state": "Idaho",
+  "cats": [
+   "Views",
+   "Water",
+   "Nature"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round; flow best spring",
+  "start": "—",
+  "company": "City of Twin Falls",
+  "party": "2–4",
+  "customer": "Photographers, families, road trippers",
+  "unique": "A 212 foot waterfall on the Snake River, taller than Niagara, dropping into a canyon in the middle of the desert.",
+  "buzz": "The flow is diverted for irrigation and is strongest in spring; the overlook is a short walk and the park has a swimming area below.",
+  "rating": 84,
+  "drive_min": 2376,
+  "drive_min_clemson": 2295
+ },
+ {
+  "name": "City of Rocks National Reserve",
+  "city": "Almo",
+  "county": "Cassia",
+  "state": "Idaho",
+  "cats": [
+   "Climbing",
+   "Geology",
+   "Camping"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "May–Oct",
+  "start": "1988",
+  "company": "National Park Service",
+  "party": "2–4",
+  "customer": "Climbers, photographers, campers",
+  "unique": "A field of granite spires where the California Trail passed, now a climbing destination with routes on 600 foot rock and a dark sky.",
+  "buzz": "Climbers come for the granite cracks and the landscape is strange and quiet; the roads are gravel and the nearest town is small.",
+  "rating": 86,
+  "drive_min": 2362,
+  "drive_min_clemson": 2280
+ },
+ {
+  "name": "Minidoka National Historic Site",
+  "city": "Jerome",
+  "county": "Minidoka",
+  "state": "Idaho",
+  "cats": [
+   "History",
+   "Civil Rights",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "2001",
+  "company": "National Park Service",
+  "party": "2–4",
+  "customer": "History people, students, civil rights pilgrims",
+  "unique": "The remains of a World War II camp where 13,000 Japanese Americans were incarcerated, with a reconstructed barrack, a guard tower and the original root cellar.",
+  "buzz": "The site is sparse and the stories are the exhibit; rangers lead walks and the isolation is part of the lesson.",
+  "rating": 82,
+  "drive_min": 2386,
+  "drive_min_clemson": 2305
+ },
+ {
+  "name": "Sun Valley Museum of Art",
+  "city": "Ketchum",
+  "county": "Blaine",
+  "state": "Idaho",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1971",
+  "company": "Sun Valley Museum of Art",
+  "party": "2–4",
+  "customer": "Art people, visitors, families",
+  "unique": "A small art museum in Ketchum with contemporary shows, a craft program and a lecture series, free to the public.",
+  "buzz": "The shows rotate and the museum is the cultural center of the valley; it is free and takes an hour.",
+  "rating": 72,
+  "drive_min": 2464,
+  "drive_min_clemson": 2383
+ },
+ {
+  "name": "Sacajawea Interpretive Center",
+  "city": "Salmon",
+  "county": "Lemhi",
+  "state": "Idaho",
+  "cats": [
+   "History",
+   "Native",
+   "Nature"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Oct",
+  "start": "2003",
+  "company": "City of Salmon",
+  "party": "2–4",
+  "customer": "History people, families, travelers",
+  "unique": "A center on the Lemhi River telling the story of Sacajawea's childhood with the Lemhi Shoshone, with trails along the river and a reconstructed camp.",
+  "buzz": "The interpretation is from the tribe and the setting is the valley she grew up in; it is a good stop before the Lemhi Pass drive.",
+  "rating": 76,
+  "drive_min": 2524,
+  "drive_min_clemson": 2443
+ },
+ {
+  "name": "Payette Lake",
+  "city": "McCall",
+  "county": "Valley",
+  "state": "Idaho",
+  "cats": [
+   "Water",
+   "Beach",
+   "Snow"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "Free / self-guided",
+  "party": "2–6",
+  "customer": "Boaters, skiers, families",
+  "unique": "A glacial lake ringed by pine and mountains with a town beach, a winter carnival with snow sculptures and a ski hill above it.",
+  "buzz": "The summer lake and the winter carnival are the two seasons; the town is small and the water is cold and clear.",
+  "rating": 80,
+  "drive_min": 2638,
+  "drive_min_clemson": 2557
+ },
+ {
+  "name": "Bruneau Dunes State Park",
+  "city": "Mountain Home",
+  "county": "Elmore",
+  "state": "Idaho",
+  "cats": [
+   "Nature",
+   "Camping",
+   "Geology"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1968",
+  "company": "Idaho Department of Parks and Recreation",
+  "party": "2–4",
+  "customer": "Sandboarders, stargazers, families",
+  "unique": "One of the tallest single structure sand dunes in North America at 470 feet, with a lake, a campground and an observatory.",
+  "buzz": "Sandboarding down the dune is the family fun and the dark sky is the night reason; the sand is hot in summer and the wind is constant.",
+  "rating": 78,
+  "drive_min": 2447,
+  "drive_min_clemson": 2366
+ },
+ {
+  "name": "Priest Lake",
+  "city": "Nordman",
+  "county": "Bonner",
+  "state": "Idaho",
+  "cats": [
+   "Water",
+   "Nature",
+   "Camping"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "May–Oct",
+  "start": "—",
+  "company": "Idaho Department of Parks and Recreation",
+  "party": "2–6",
+  "customer": "Boaters, campers, families",
+  "unique": "A clear lake in the Selkirk Mountains with huckleberry picking, a state park beach and a road that ends at the Canadian border.",
+  "buzz": "The lake is quieter than Coeur d'Alene and the water is clear; the drive is long and the nearest town is small.",
+  "rating": 78,
+  "drive_min": 2799,
+  "drive_min_clemson": 2718
  }
 ]

@@ -2245,7 +2245,11 @@
  "Berlin|Ohio": {
   "lat": 40.561178,
   "lon": -81.7943353,
-  "name": "Berlin, Berlin Township, Holmes County, Ohio, 44610, United States"
+  "name": "Berlin, Berlin Township, Holmes County, Ohio, 44610, United States",
+  "drive_min": 534,
+  "drive_mi": 469,
+  "drive_min_clemson": 663,
+  "drive_mi_clemson": 568
  },
  "Bethel|New York": {
   "lat": 41.6834224,
@@ -2313,7 +2317,11 @@
  "Branson|Missouri": {
   "lat": 36.6440772,
   "lon": -93.2169256,
-  "name": "Branson, Taney County, Missouri, United States"
+  "name": "Branson, Taney County, Missouri, United States",
+  "drive_min": 1016,
+  "drive_mi": 876,
+  "drive_min_clemson": 900,
+  "drive_mi_clemson": 785
  },
  "Bretton Woods|New Hampshire": {
   "lat": 44.2599728,
@@ -2399,7 +2407,11 @@
  "Camdenton|Missouri": {
   "lat": 38.008141,
   "lon": -92.7443403,
-  "name": "Camdenton, Camden County, Missouri, United States"
+  "name": "Camdenton, Camden County, Missouri, United States",
+  "drive_min": 1019,
+  "drive_mi": 866,
+  "drive_min_clemson": 938,
+  "drive_mi_clemson": 806
  },
  "Cannon Beach|Oregon": {
   "lat": 45.8900275,
@@ -2548,7 +2560,11 @@
  "Cincinnati|Ohio": {
   "lat": 39.1012809,
   "lon": -84.5127405,
-  "name": "Cincinnati, Hamilton County, Ohio, United States"
+  "name": "Cincinnati, Hamilton County, Ohio, United States",
+  "drive_min": 563,
+  "drive_mi": 469,
+  "drive_min_clemson": 517,
+  "drive_mi_clemson": 422
  },
  "Clarksdale|Mississippi": {
   "lat": 34.2006479,
@@ -2562,7 +2578,11 @@
  "Cleveland|Ohio": {
   "lat": 41.4996574,
   "lon": -81.6936772,
-  "name": "Cleveland, Cuyahoga County, Ohio, United States"
+  "name": "Cleveland, Cuyahoga County, Ohio, United States",
+  "drive_min": 603,
+  "drive_mi": 525,
+  "drive_min_clemson": 732,
+  "drive_mi_clemson": 624
  },
  "Cody|Wyoming": {
   "lat": 44.5263107,
@@ -2603,7 +2623,11 @@
  "Columbus|Ohio": {
   "lat": 39.9622601,
   "lon": -83.0007065,
-  "name": "Columbus, Franklin County, Ohio, United States"
+  "name": "Columbus, Franklin County, Ohio, United States",
+  "drive_min": 519,
+  "drive_mi": 442,
+  "drive_min_clemson": 600,
+  "drive_mi_clemson": 481
  },
  "Cooperstown|New York": {
   "lat": 42.7006303,
@@ -2743,7 +2767,11 @@
  "Dayton|Ohio": {
   "lat": 39.7589478,
   "lon": -84.1916069,
-  "name": "Dayton, Montgomery County, Ohio, United States"
+  "name": "Dayton, Montgomery County, Ohio, United States",
+  "drive_min": 546,
+  "drive_mi": 473,
+  "drive_min_clemson": 581,
+  "drive_mi_clemson": 476
  },
  "Deadwood|South Dakota": {
   "lat": 44.3743812,
@@ -3314,7 +3342,11 @@
  "Kansas City|Missouri": {
   "lat": 39.100105,
   "lon": -94.5781416,
-  "name": "Kansas City, Jackson County, Missouri, United States"
+  "name": "Kansas City, Jackson County, Missouri, United States",
+  "drive_min": 1104,
+  "drive_mi": 972,
+  "drive_min_clemson": 1023,
+  "drive_mi_clemson": 912
  },
  "Kasota|Minnesota": {
   "lat": 44.2924667,
@@ -3505,7 +3537,11 @@
  "Logan|Ohio": {
   "lat": 40.4430521,
   "lon": -83.7414465,
-  "name": "Logan County, Ohio, United States"
+  "name": "Logan County, Ohio, United States",
+  "drive_min": 584,
+  "drive_mi": 500,
+  "drive_min_clemson": 663,
+  "drive_mi_clemson": 538
  },
  "Long Beach|California": {
   "lat": 33.7690164,
@@ -3528,7 +3564,11 @@
  "Loveland|Ohio": {
   "lat": 39.2689476,
   "lon": -84.263826,
-  "name": "Loveland, Hamilton County, Ohio, United States"
+  "name": "Loveland, Hamilton County, Ohio, United States",
+  "drive_min": 561,
+  "drive_mi": 485,
+  "drive_min_clemson": 549,
+  "drive_mi_clemson": 443
  },
  "Mackinac Island|Michigan": {
   "lat": 45.8657607,
@@ -3578,7 +3618,11 @@
  "Mansfield|Ohio": {
   "lat": 40.75839,
   "lon": -82.5154471,
-  "name": "Mansfield, Richland County, Ohio, United States"
+  "name": "Mansfield, Richland County, Ohio, United States",
+  "drive_min": 588,
+  "drive_mi": 515,
+  "drive_min_clemson": 675,
+  "drive_mi_clemson": 547
  },
  "Maquoketa|Iowa": {
   "lat": 42.0690915,
@@ -3628,7 +3672,11 @@
  "Mason|Ohio": {
   "lat": 39.3600586,
   "lon": -84.309939,
-  "name": "Mason, Warren County, Ohio, United States"
+  "name": "Mason, Warren County, Ohio, United States",
+  "drive_min": 553,
+  "drive_mi": 481,
+  "drive_min_clemson": 550,
+  "drive_mi_clemson": 446
  },
  "Medora|North Dakota": {
   "lat": 46.9139028,
@@ -4146,7 +4194,11 @@
  "Peebles|Ohio": {
   "lat": 38.9489593,
   "lon": -83.4056828,
-  "name": "Peebles, Meigs Township, Adams County, Ohio, United States"
+  "name": "Peebles, Meigs Township, Adams County, Ohio, United States",
+  "drive_min": 485,
+  "drive_mi": 417,
+  "drive_min_clemson": 538,
+  "drive_mi_clemson": 438
  },
  "Pendleton|Oregon": {
   "lat": 45.672075,
@@ -4313,7 +4365,11 @@
  "Put-in-Bay|Ohio": {
   "lat": 41.6518884,
   "lon": -82.8186814,
-  "name": "Put-in-Bay, Put-in-Bay Township, Ottawa County, Ohio, United States"
+  "name": "Put-in-Bay, Put-in-Bay Township, Ottawa County, Ohio, United States",
+  "drive_min": 682,
+  "drive_mi": 573,
+  "drive_min_clemson": 793,
+  "drive_mi_clemson": 606
  },
  "Rapid City|South Dakota": {
   "lat": 44.0806041,
@@ -4381,7 +4437,11 @@
  "Rolla|Missouri": {
   "lat": 37.9509324,
   "lon": -91.7708076,
-  "name": "Rolla, Phelps County, Missouri, United States"
+  "name": "Rolla, Phelps County, Missouri, United States",
+  "drive_min": 942,
+  "drive_mi": 830,
+  "drive_min_clemson": 861,
+  "drive_mi_clemson": 770
  },
  "Roswell|New Mexico": {
   "lat": 33.3943282,
@@ -4494,7 +4554,11 @@
  "Sandusky|Ohio": {
   "lat": 41.2951563,
   "lon": -83.1555438,
-  "name": "Sandusky County, Ohio, United States"
+  "name": "Sandusky County, Ohio, United States",
+  "drive_min": 654,
+  "drive_mi": 547,
+  "drive_min_clemson": 735,
+  "drive_mi_clemson": 580
  },
  "Santa Claus|Indiana": {
   "lat": 38.1184147,
@@ -4742,7 +4806,11 @@
  "St. Louis|Missouri": {
   "lat": 38.6254063,
   "lon": -90.190009,
-  "name": "Saint Louis, Missouri, United States"
+  "name": "Saint Louis, Missouri, United States",
+  "drive_min": 822,
+  "drive_mi": 725,
+  "drive_min_clemson": 741,
+  "drive_mi_clemson": 665
  },
  "St. Paul|Minnesota": {
   "lat": 44.9497487,
@@ -4765,7 +4833,11 @@
  "Stanton|Missouri": {
   "lat": 38.2745914,
   "lon": -91.105567,
-  "name": "Stanton, Franklin County, Missouri, 63079, United States"
+  "name": "Stanton, Franklin County, Missouri, 63079, United States",
+  "drive_min": 893,
+  "drive_mi": 786,
+  "drive_min_clemson": 812,
+  "drive_mi_clemson": 726
  },
  "Sturgis|South Dakota": {
   "lat": 44.414477,
@@ -7544,7 +7616,11 @@
  "Hannibal|Missouri": {
   "lat": 39.7082498,
   "lon": -91.3587413,
-  "name": "Hannibal, Marion County, Missouri, 63401, United States"
+  "name": "Hannibal, Marion County, Missouri, 63401, United States",
+  "drive_min": 963,
+  "drive_mi": 841,
+  "drive_min_clemson": 882,
+  "drive_mi_clemson": 781
  },
  "Harpers Ferry|Iowa": {
   "lat": 43.2006041,
@@ -7558,7 +7634,11 @@
  "Hermann|Missouri": {
   "lat": 38.7042119,
   "lon": -91.4373845,
-  "name": "Hermann, Gasconade County, Missouri, United States"
+  "name": "Hermann, Gasconade County, Missouri, United States",
+  "drive_min": 924,
+  "drive_mi": 803,
+  "drive_min_clemson": 843,
+  "drive_mi_clemson": 743
  },
  "Iowa City|Iowa": {
   "lat": 41.6612561,
@@ -7636,7 +7716,11 @@
  "Springfield|Missouri": {
   "lat": 37.2081729,
   "lon": -93.2922715,
-  "name": "Springfield, Greene County, Missouri, United States"
+  "name": "Springfield, Greene County, Missouri, United States",
+  "drive_min": 990,
+  "drive_mi": 850,
+  "drive_min_clemson": 909,
+  "drive_mi_clemson": 790
  },
  "Topeka|Kansas": {
   "lat": 39.049011,
@@ -7812,7 +7896,11 @@
  "Powell|Ohio": {
   "lat": 40.1578403,
   "lon": -83.0751869,
-  "name": "Powell, Liberty Township, Delaware County, Ohio, United States"
+  "name": "Powell, Liberty Township, Delaware County, Ohio, United States",
+  "drive_min": 539,
+  "drive_mi": 457,
+  "drive_min_clemson": 619,
+  "drive_mi_clemson": 496
  },
  "Rockville|Indiana": {
   "lat": 39.7625404,
@@ -7826,7 +7914,11 @@
  "Toledo|Ohio": {
   "lat": 41.6529143,
   "lon": -83.5378173,
-  "name": "Toledo, Lucas County, Ohio, United States"
+  "name": "Toledo, Lucas County, Ohio, United States",
+  "drive_min": 689,
+  "drive_mi": 587,
+  "drive_min_clemson": 746,
+  "drive_mi_clemson": 625
  },
  "West Allis|Wisconsin": {
   "lat": 43.0166806,
@@ -13484,5 +13576,167 @@
   "drive_mi": 828,
   "drive_min_clemson": 1131,
   "drive_mi_clemson": 940
+ },
+ "Akron|Ohio": {
+  "lat": 41.083064,
+  "lon": -81.518485,
+  "name": "Akron, Summit County, Ohio, United States",
+  "drive_min": 559,
+  "drive_mi": 495,
+  "drive_min_clemson": 688,
+  "drive_mi_clemson": 594
+ },
+ "Almo|Idaho": {
+  "lat": 42.1001924,
+  "lon": -113.6336192,
+  "name": "Almo, Cassia County, Idaho, 83312, United States",
+  "drive_min": 2362,
+  "drive_mi": 2169,
+  "drive_min_clemson": 2280,
+  "drive_mi_clemson": 2109
+ },
+ "Canton|Ohio": {
+  "lat": 40.7985464,
+  "lon": -81.3749508,
+  "name": "Canton, Stark County, Ohio, United States",
+  "drive_min": 532,
+  "drive_mi": 473,
+  "drive_min_clemson": 660,
+  "drive_mi_clemson": 572
+ },
+ "Columbia|Missouri": {
+  "lat": 38.951883,
+  "lon": -92.3337366,
+  "name": "Columbia, Columbia Township, Boone County, Missouri, United States",
+  "drive_min": 970,
+  "drive_mi": 848,
+  "drive_min_clemson": 889,
+  "drive_mi_clemson": 788
+ },
+ "Jefferson City|Missouri": {
+  "lat": 38.577359,
+  "lon": -92.1724265,
+  "name": "Jefferson City, Cole County, Missouri, United States",
+  "drive_min": 977,
+  "drive_mi": 856,
+  "drive_min_clemson": 896,
+  "drive_mi_clemson": 796
+ },
+ "Jerome|Idaho": {
+  "lat": 42.702266,
+  "lon": -114.286704,
+  "name": "Jerome County, Idaho, United States",
+  "drive_min": 2386,
+  "drive_mi": 2222,
+  "drive_min_clemson": 2305,
+  "drive_mi_clemson": 2162
+ },
+ "Ketchum|Idaho": {
+  "lat": 43.680741,
+  "lon": -114.363662,
+  "name": "Ketchum, Blaine County, Idaho, United States",
+  "drive_min": 2464,
+  "drive_mi": 2298,
+  "drive_min_clemson": 2383,
+  "drive_mi_clemson": 2238
+ },
+ "Lewiston|Idaho": {
+  "lat": 46.4195913,
+  "lon": -117.0216144,
+  "name": "Lewiston, Nez Perce County, Idaho, United States",
+  "drive_min": 2795,
+  "drive_mi": 2555,
+  "drive_min_clemson": 2714,
+  "drive_mi_clemson": 2495
+ },
+ "McCall|Idaho": {
+  "lat": 44.9110458,
+  "lon": -116.098281,
+  "name": "McCall, Valley County, Idaho, 83638, United States",
+  "drive_min": 2638,
+  "drive_mi": 2452,
+  "drive_min_clemson": 2557,
+  "drive_mi_clemson": 2392
+ },
+ "Mountain Home|Idaho": {
+  "lat": 43.1318937,
+  "lon": -115.6939827,
+  "name": "Mountain Home, Elmore County, Idaho, United States",
+  "drive_min": 2447,
+  "drive_mi": 2302,
+  "drive_min_clemson": 2366,
+  "drive_mi_clemson": 2242
+ },
+ "Nordman|Idaho": {
+  "lat": 48.6318369,
+  "lon": -116.9441206,
+  "name": "Nordman, Bonner County, Idaho, United States",
+  "drive_min": 2799,
+  "drive_mi": 2590,
+  "drive_min_clemson": 2718,
+  "drive_mi_clemson": 2529
+ },
+ "Pocatello|Idaho": {
+  "lat": 42.8620287,
+  "lon": -112.450627,
+  "name": "Pocatello, Bannock County, Idaho, United States",
+  "drive_min": 2296,
+  "drive_mi": 2110,
+  "drive_min_clemson": 2214,
+  "drive_mi_clemson": 2050
+ },
+ "Salmon|Idaho": {
+  "lat": 45.1759213,
+  "lon": -113.895773,
+  "name": "Salmon, Lemhi County, Idaho, United States",
+  "drive_min": 2524,
+  "drive_mi": 2274,
+  "drive_min_clemson": 2443,
+  "drive_mi_clemson": 2214
+ },
+ "Spalding|Idaho": {
+  "lat": 46.4472533,
+  "lon": -116.8174402,
+  "name": "Spalding / ’iyiwewiy, Nez Perce County, Idaho, 83540, United States",
+  "drive_min": 2784,
+  "drive_mi": 2547,
+  "drive_min_clemson": 2703,
+  "drive_mi_clemson": 2487
+ },
+ "St. Charles|Missouri": {
+  "lat": 38.7877791,
+  "lon": -90.6747372,
+  "name": "Saint Charles County, Missouri, United States",
+  "drive_min": 862,
+  "drive_mi": 755,
+  "drive_min_clemson": 781,
+  "drive_mi_clemson": 695
+ },
+ "St. Joseph|Missouri": {
+  "lat": 39.7686055,
+  "lon": -94.8466322,
+  "name": "Saint Joseph, Buchanan County, Missouri, United States",
+  "drive_min": 1166,
+  "drive_mi": 1029,
+  "drive_min_clemson": 1085,
+  "drive_mi_clemson": 969
+ },
+ "Twin Falls|Idaho": {
+  "lat": 42.5558542,
+  "lon": -114.4700684,
+  "name": "Twin Falls, Twin Falls County, Idaho, 83301, United States",
+  "drive_min": 2376,
+  "drive_mi": 2224,
+  "drive_min_clemson": 2295,
+  "drive_mi_clemson": 2164
+ },
+ "Youngstown|Ohio": {
+  "lat": 41.1035786,
+  "lon": -80.6520161,
+  "name": "Youngstown, Mahoning County, Ohio, United States",
+  "drive_min": 601,
+  "drive_mi": 523,
+  "drive_min_clemson": 730,
+  "drive_mi_clemson": 622
  }
 }
