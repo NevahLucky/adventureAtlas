@@ -15569,5 +15569,77 @@
   "drive_mi": 288,
   "drive_min_clemson": 198,
   "drive_mi_clemson": 192
+ },
+ "Blairsville|Georgia": {
+  "lat": 34.8759067,
+  "lon": -83.958371,
+  "name": "Blairsville, Union County, Georgia, United States",
+  "drive_min": 234,
+  "drive_mi": 220,
+  "drive_min_clemson": 97,
+  "drive_mi_clemson": 87
+ },
+ "Gordon|Georgia": {
+  "lat": 34.5019651,
+  "lon": -84.8986308,
+  "name": "Gordon County, Georgia, United States",
+  "drive_min": 286,
+  "drive_mi": 297,
+  "drive_min_clemson": 174,
+  "drive_mi_clemson": 181
+ },
+ "Hiawassee|Georgia": {
+  "lat": 34.947959,
+  "lon": -83.7569922,
+  "name": "Hiawassee, Towns County, Georgia, United States",
+  "drive_min": 220,
+  "drive_mi": 209,
+  "drive_min_clemson": 80,
+  "drive_mi_clemson": 70
+ },
+ "Irwinton|Georgia": {
+  "lat": 32.8112594,
+  "lon": -83.1726541,
+  "name": "Irwinton, Wilkinson County, Georgia, United States",
+  "drive_min": 240,
+  "drive_mi": 251,
+  "drive_min_clemson": 175,
+  "drive_mi_clemson": 175
+ },
+ "Jasper|Georgia": {
+  "lat": 33.3254635,
+  "lon": -83.6868559,
+  "name": "Jasper County, Georgia, United States",
+  "drive_min": 237,
+  "drive_mi": 255,
+  "drive_min_clemson": 143,
+  "drive_mi_clemson": 137
+ },
+ "Leesburg|Georgia": {
+  "lat": 31.7324556,
+  "lon": -84.1711966,
+  "name": "Leesburg, Lee County, Georgia, United States",
+  "drive_min": 352,
+  "drive_mi": 370,
+  "drive_min_clemson": 269,
+  "drive_mi_clemson": 273
+ },
+ "Talking Rock|Georgia": {
+  "lat": 34.5248245,
+  "lon": -84.491494,
+  "name": "Talking Rock, Pickens County, Georgia, United States",
+  "drive_min": 271,
+  "drive_mi": 260,
+  "drive_min_clemson": 150,
+  "drive_mi_clemson": 123
+ },
+ "Warrenton|Georgia": {
+  "lat": 33.4070837,
+  "lon": -82.6620781,
+  "name": "Warrenton, Warren County, Georgia, United States",
+  "drive_min": 173,
+  "drive_mi": 186,
+  "drive_min_clemson": 137,
+  "drive_mi_clemson": 107
  }
 }
