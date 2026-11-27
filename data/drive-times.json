@@ -2214,7 +2214,11 @@
  "Bretton Woods|New Hampshire": {
   "lat": 44.2599728,
   "lon": -71.4430242,
-  "name": "Bretton Woods, Carroll, Coös County, New Hampshire, 03575, United States"
+  "name": "Bretton Woods, Carroll, Coös County, New Hampshire, 03575, United States",
+  "drive_min": 1196,
+  "drive_mi": 981,
+  "drive_min_clemson": 1330,
+  "drive_mi_clemson": 1093
  },
  "Bristol|Connecticut": {
   "lat": 41.6711752,
@@ -2501,7 +2505,11 @@
  "Dalton|New Hampshire": {
   "lat": 44.415493,
   "lon": -71.6944969,
-  "name": "Dalton, Coös County, New Hampshire, United States"
+  "name": "Dalton, Coös County, New Hampshire, United States",
+  "drive_min": 1182,
+  "drive_mi": 975,
+  "drive_min_clemson": 1315,
+  "drive_mi_clemson": 1086
  },
  "Davis|Oklahoma": {
   "lat": 34.5034796,
@@ -3039,7 +3047,11 @@
  "Lincoln|New Hampshire": {
   "lat": 44.044533,
   "lon": -71.6684165,
-  "name": "Lincoln, Grafton County, New Hampshire, 03251, United States"
+  "name": "Lincoln, Grafton County, New Hampshire, 03251, United States",
+  "drive_min": 1158,
+  "drive_mi": 961,
+  "drive_min_clemson": 1292,
+  "drive_mi_clemson": 1073
  },
  "Little Rock|Arkansas": {
   "lat": 34.7465071,
@@ -3383,7 +3395,11 @@
  "North Conway|New Hampshire": {
   "lat": 44.037776,
   "lon": -71.1238246,
-  "name": "North Conway, Conway, Carroll County, New Hampshire, 03860, United States"
+  "name": "North Conway, Conway, Carroll County, New Hampshire, 03860, United States",
+  "drive_min": 1205,
+  "drive_mi": 982,
+  "drive_min_clemson": 1338,
+  "drive_mi_clemson": 1094
  },
  "North Freedom|Wisconsin": {
   "lat": 43.4602946,
@@ -3717,7 +3733,11 @@
  "Salem|New Hampshire": {
   "lat": 42.7884957,
   "lon": -71.2009035,
-  "name": "Salem, Rockingham County, New Hampshire, 03079, United States"
+  "name": "Salem, Rockingham County, New Hampshire, 03079, United States",
+  "drive_min": 1053,
+  "drive_mi": 872,
+  "drive_min_clemson": 1186,
+  "drive_mi_clemson": 984
  },
  "Salt Lake City|Utah": {
   "lat": 40.7596198,
@@ -8636,5 +8656,185 @@
   "drive_mi": 778,
   "drive_min_clemson": 1076,
   "drive_mi_clemson": 890
+ },
+ "Canterbury|New Hampshire": {
+  "lat": 43.337165,
+  "lon": -71.565628,
+  "name": "Canterbury, Merrimack County, New Hampshire, 03224, United States",
+  "drive_min": 1105,
+  "drive_mi": 910,
+  "drive_min_clemson": 1239,
+  "drive_mi_clemson": 1022
+ },
+ "Charlestown|New Hampshire": {
+  "lat": 43.238147,
+  "lon": -72.4248232,
+  "name": "Charlestown, Sullivan County, New Hampshire, 03603, United States",
+  "drive_min": 1049,
+  "drive_mi": 872,
+  "drive_min_clemson": 1183,
+  "drive_mi_clemson": 983
+ },
+ "Chesterfield|New Hampshire": {
+  "lat": 42.8873038,
+  "lon": -72.4703661,
+  "name": "Chesterfield, Cheshire County, New Hampshire, United States",
+  "drive_min": 1022,
+  "drive_mi": 845,
+  "drive_min_clemson": 1155,
+  "drive_mi_clemson": 957
+ },
+ "Concord|New Hampshire": {
+  "lat": 43.207178,
+  "lon": -71.537476,
+  "name": "Concord, Merrimack County, New Hampshire, United States",
+  "drive_min": 1089,
+  "drive_mi": 898,
+  "drive_min_clemson": 1223,
+  "drive_mi_clemson": 1010
+ },
+ "Cornish|New Hampshire": {
+  "lat": 43.4646175,
+  "lon": -72.3689049,
+  "name": "Cornish, Sullivan County, New Hampshire, United States",
+  "drive_min": 1067,
+  "drive_mi": 886,
+  "drive_min_clemson": 1201,
+  "drive_mi_clemson": 998
+ },
+ "Dover|New Hampshire": {
+  "lat": 43.1981117,
+  "lon": -70.8739761,
+  "name": "Dover, Strafford County, New Hampshire, 03820, United States",
+  "drive_min": 1099,
+  "drive_mi": 911,
+  "drive_min_clemson": 1233,
+  "drive_mi_clemson": 1023
+ },
+ "Gilford|New Hampshire": {
+  "lat": 43.54805,
+  "lon": -71.407013,
+  "name": "Gilford, Belknap County, New Hampshire, 03249, United States",
+  "drive_min": 1131,
+  "drive_mi": 929,
+  "drive_min_clemson": 1265,
+  "drive_mi_clemson": 1040
+ },
+ "Glen|New Hampshire": {
+  "lat": 44.1105541,
+  "lon": -71.1818781,
+  "name": "Glen, Bartlett, Carroll County, New Hampshire, 03938, United States",
+  "drive_min": 1215,
+  "drive_mi": 988,
+  "drive_min_clemson": 1349,
+  "drive_mi_clemson": 1100
+ },
+ "Hampton|New Hampshire": {
+  "lat": 42.9417199,
+  "lon": -70.8378746,
+  "name": "Hampton, Rockingham County, New Hampshire, 03842, United States",
+  "drive_min": 1077,
+  "drive_mi": 892,
+  "drive_min_clemson": 1211,
+  "drive_mi_clemson": 1004
+ },
+ "Jaffrey|New Hampshire": {
+  "lat": 42.8149899,
+  "lon": -72.0235305,
+  "name": "Jaffrey, Cheshire County, New Hampshire, 03452, United States",
+  "drive_min": 1051,
+  "drive_mi": 858,
+  "drive_min_clemson": 1185,
+  "drive_mi_clemson": 970
+ },
+ "Jefferson|New Hampshire": {
+  "lat": 44.419445,
+  "lon": -71.4747452,
+  "name": "Jefferson, Coös County, New Hampshire, 03583, United States",
+  "drive_min": 1200,
+  "drive_mi": 982,
+  "drive_min_clemson": 1334,
+  "drive_mi_clemson": 1094
+ },
+ "Keene|New Hampshire": {
+  "lat": 42.933597,
+  "lon": -72.2784264,
+  "name": "Keene, Cheshire County, New Hampshire, United States",
+  "drive_min": 1034,
+  "drive_mi": 848,
+  "drive_min_clemson": 1168,
+  "drive_mi_clemson": 960
+ },
+ "Manchester|New Hampshire": {
+  "lat": 42.9956397,
+  "lon": -71.4547891,
+  "name": "Manchester, Hillsborough County, New Hampshire, United States",
+  "drive_min": 1071,
+  "drive_mi": 882,
+  "drive_min_clemson": 1204,
+  "drive_mi_clemson": 994
+ },
+ "Milford|New Hampshire": {
+  "lat": 42.8355775,
+  "lon": -71.6495345,
+  "name": "Milford, Hillsborough County, New Hampshire, 03055, United States",
+  "drive_min": 1048,
+  "drive_mi": 858,
+  "drive_min_clemson": 1182,
+  "drive_mi_clemson": 969
+ },
+ "Moultonborough|New Hampshire": {
+  "lat": 43.7552444,
+  "lon": -71.396024,
+  "name": "Moultonborough, Carroll County, New Hampshire, United States",
+  "drive_min": 1158,
+  "drive_mi": 948,
+  "drive_min_clemson": 1292,
+  "drive_mi_clemson": 1059
+ },
+ "Newbury|New Hampshire": {
+  "lat": 43.3213132,
+  "lon": -72.0362956,
+  "name": "Newbury, Merrimack County, New Hampshire, 03255, United States",
+  "drive_min": 1090,
+  "drive_mi": 897,
+  "drive_min_clemson": 1223,
+  "drive_mi_clemson": 1009
+ },
+ "North Hampton|New Hampshire": {
+  "lat": 42.9689814,
+  "lon": -70.8359489,
+  "name": "North Hampton, Rockingham County, New Hampshire, 03862, United States",
+  "drive_min": 1082,
+  "drive_mi": 894,
+  "drive_min_clemson": 1216,
+  "drive_mi_clemson": 1006
+ },
+ "North Woodstock|New Hampshire": {
+  "lat": 44.0313095,
+  "lon": -71.6868203,
+  "name": "North Woodstock, Woodstock, Grafton County, New Hampshire, 03262, United States",
+  "drive_min": 1159,
+  "drive_mi": 961,
+  "drive_min_clemson": 1292,
+  "drive_mi_clemson": 1073
+ },
+ "Pinkham Notch|New Hampshire": {
+  "lat": 44.2572018,
+  "lon": -71.2529911,
+  "name": "Pinkham Notch, Pinkham's Grant, Coös County, New Hampshire, 03589, United States",
+  "drive_min": 1234,
+  "drive_mi": 1000,
+  "drive_min_clemson": 1367,
+  "drive_mi_clemson": 1112
+ },
+ "Weirs Beach|New Hampshire": {
+  "lat": 43.6082596,
+  "lon": -71.4599785,
+  "name": "Weirs Beach, Laconia, Belknap County, New Hampshire, 03247, United States",
+  "drive_min": 1141,
+  "drive_mi": 934,
+  "drive_min_clemson": 1274,
+  "drive_mi_clemson": 1046
  }
 }
