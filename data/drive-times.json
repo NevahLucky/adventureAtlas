@@ -17396,5 +17396,104 @@
   "drive_mi": 152,
   "drive_min_clemson": 261,
   "drive_mi_clemson": 263
+ },
+ "Apalachicola|Florida": {
+  "lat": 29.7255084,
+  "lon": -84.9827725,
+  "name": "Apalachicola, Franklin County, Florida, 32320, United States",
+  "drive_min": 550,
+  "drive_mi": 521,
+  "drive_min_clemson": 464,
+  "drive_mi_clemson": 454
+ },
+ "Bonifay|Florida": {
+  "lat": 30.7918559,
+  "lon": -85.6796533,
+  "name": "Bonifay, Holmes County, Florida, United States",
+  "drive_min": 478,
+  "drive_mi": 486,
+  "drive_min_clemson": 365,
+  "drive_mi_clemson": 369
+ },
+ "Bristol|Florida": {
+  "lat": 30.4321947,
+  "lon": -84.9765067,
+  "name": "Bristol, Liberty County, Florida, United States",
+  "drive_min": 486,
+  "drive_mi": 487,
+  "drive_min_clemson": 403,
+  "drive_mi_clemson": 391
+ },
+ "Chipley|Florida": {
+  "lat": 30.7818584,
+  "lon": -85.538541,
+  "name": "Chipley, Washington County, Florida, United States",
+  "drive_min": 474,
+  "drive_mi": 481,
+  "drive_min_clemson": 361,
+  "drive_mi_clemson": 364
+ },
+ "Eastpoint|Florida": {
+  "lat": 29.752006,
+  "lon": -84.8684746,
+  "name": "Eastpoint, Franklin County, Florida, United States",
+  "drive_min": 544,
+  "drive_mi": 514,
+  "drive_min_clemson": 458,
+  "drive_mi_clemson": 447
+ },
+ "Marianna|Florida": {
+  "lat": 30.7743596,
+  "lon": -85.2268735,
+  "name": "Marianna, Jackson County, Florida, 32447, United States",
+  "drive_min": 483,
+  "drive_mi": 472,
+  "drive_min_clemson": 358,
+  "drive_mi_clemson": 366
+ },
+ "Milton|Florida": {
+  "lat": 30.6324149,
+  "lon": -87.0396881,
+  "name": "Milton, Santa Rosa County, Florida, United States",
+  "drive_min": 518,
+  "drive_mi": 539,
+  "drive_min_clemson": 406,
+  "drive_mi_clemson": 423
+ },
+ "Navarre|Florida": {
+  "lat": 30.4019789,
+  "lon": -86.8700821,
+  "name": "Navarre, Santa Rosa County, Florida, 32566, United States",
+  "drive_min": 554,
+  "drive_mi": 589,
+  "drive_min_clemson": 442,
+  "drive_mi_clemson": 473
+ },
+ "Ponce de Leon|Florida": {
+  "lat": 30.7229671,
+  "lon": -85.9374357,
+  "name": "Ponce de Leon, Holmes County, Florida, United States",
+  "drive_min": 496,
+  "drive_mi": 504,
+  "drive_min_clemson": 383,
+  "drive_mi_clemson": 388
+ },
+ "Port St. Joe|Florida": {
+  "lat": 29.8118757,
+  "lon": -85.302974,
+  "name": "Port Saint Joe, Gulf County, Florida, United States",
+  "drive_min": 554,
+  "drive_mi": 544,
+  "drive_min_clemson": 447,
+  "drive_mi_clemson": 444
+ },
+ "St. George Island|Florida": {
+  "lat": 29.6926135,
+  "lon": -84.7805281,
+  "name": "Saint George Island, Franklin County, Florida, United States",
+  "drive_min": 564,
+  "drive_mi": 526,
+  "drive_min_clemson": 478,
+  "drive_mi_clemson": 459
  }
 }
