@@ -2002,7 +2002,11 @@
  "Alliance|Nebraska": {
   "lat": 42.0971897,
   "lon": -102.8707145,
-  "name": "Alliance, Box Butte County, Nebraska, 69301, United States"
+  "name": "Alliance, Box Butte County, Nebraska, 69301, United States",
+  "drive_min": 1744,
+  "drive_mi": 1535,
+  "drive_min_clemson": 1663,
+  "drive_mi_clemson": 1475
  },
  "Alpine|California": {
   "lat": 38.5893934,
@@ -2079,7 +2083,11 @@
  "Atchison|Kansas": {
   "lat": 39.545816,
   "lon": -95.3326052,
-  "name": "Atchison County, Kansas, United States"
+  "name": "Atchison County, Kansas, United States",
+  "drive_min": 1188,
+  "drive_mi": 1037,
+  "drive_min_clemson": 1107,
+  "drive_mi_clemson": 977
  },
  "Atlantic City|New Jersey": {
   "lat": 39.3642852,
@@ -2457,7 +2465,11 @@
  "Cawker City|Kansas": {
   "lat": 39.51251,
   "lon": -98.433672,
-  "name": "Cawker City, Mitchell County, Kansas, United States"
+  "name": "Cawker City, Mitchell County, Kansas, United States",
+  "drive_min": 1370,
+  "drive_mi": 1205,
+  "drive_min_clemson": 1289,
+  "drive_mi_clemson": 1145
  },
  "Centralia|Pennsylvania": {
   "lat": 40.8042311,
@@ -2608,7 +2620,11 @@
  "Cottonwood Falls|Kansas": {
   "lat": 38.3722364,
   "lon": -96.5427845,
-  "name": "Cottonwood Falls, Chase County, Kansas, United States"
+  "name": "Cottonwood Falls, Chase County, Kansas, United States",
+  "drive_min": 1244,
+  "drive_mi": 1101,
+  "drive_min_clemson": 1163,
+  "drive_mi_clemson": 1040
  },
  "Crater Lake|Oregon": {
   "lat": 42.9415231,
@@ -2622,7 +2638,11 @@
  "Crawford|Nebraska": {
   "lat": 42.6867264,
   "lon": -103.4133215,
-  "name": "Crawford, Dawes County, Nebraska, United States"
+  "name": "Crawford, Dawes County, Nebraska, United States",
+  "drive_min": 1814,
+  "drive_mi": 1621,
+  "drive_min_clemson": 1733,
+  "drive_mi_clemson": 1560
  },
  "Crazy Horse|South Dakota": {
   "lat": 42.8688893,
@@ -2755,7 +2775,11 @@
  "Dodge City|Kansas": {
   "lat": 37.7527982,
   "lon": -100.0170787,
-  "name": "Dodge City, Ford County, Kansas, 67801, United States"
+  "name": "Dodge City, Ford County, Kansas, 67801, United States",
+  "drive_min": 1461,
+  "drive_mi": 1248,
+  "drive_min_clemson": 1342,
+  "drive_mi_clemson": 1235
  },
  "Draper|Utah": {
   "lat": 40.5247777,
@@ -3154,7 +3178,11 @@
  "Hutchinson|Kansas": {
   "lat": 38.0608444,
   "lon": -97.9297743,
-  "name": "Hutchinson, Reno County, Kansas, United States"
+  "name": "Hutchinson, Reno County, Kansas, United States",
+  "drive_min": 1332,
+  "drive_mi": 1143,
+  "drive_min_clemson": 1216,
+  "drive_mi_clemson": 1133
  },
  "Indianola|Mississippi": {
   "lat": 33.4509513,
@@ -3233,7 +3261,11 @@
  "Kearney|Nebraska": {
   "lat": 40.4906216,
   "lon": -98.9472344,
-  "name": "Kearney County, Nebraska, United States"
+  "name": "Kearney County, Nebraska, United States",
+  "drive_min": 1467,
+  "drive_mi": 1302,
+  "drive_min_clemson": 1386,
+  "drive_mi_clemson": 1242
  },
  "Kennett Square|Pennsylvania": {
   "lat": 39.8467414,
@@ -3366,7 +3398,11 @@
  "Lincoln|Nebraska": {
   "lat": 40.8088861,
   "lon": -96.7077751,
-  "name": "Lincoln, Lancaster County, Nebraska, United States"
+  "name": "Lincoln, Lancaster County, Nebraska, United States",
+  "drive_min": 1325,
+  "drive_mi": 1169,
+  "drive_min_clemson": 1244,
+  "drive_mi_clemson": 1109
  },
  "Lincoln|New Hampshire": {
   "lat": 44.044533,
@@ -3840,7 +3876,11 @@
  "Oakley|Kansas": {
   "lat": 39.126385,
   "lon": -100.855611,
-  "name": "Oakley, Logan County, Kansas, United States"
+  "name": "Oakley, Logan County, Kansas, United States",
+  "drive_min": 1462,
+  "drive_mi": 1323,
+  "drive_min_clemson": 1381,
+  "drive_mi_clemson": 1263
  },
  "Ocean Springs|Mississippi": {
   "lat": 30.4112904,
@@ -3877,7 +3917,11 @@
  "Omaha|Nebraska": {
   "lat": 41.2587459,
   "lon": -95.9383758,
-  "name": "Omaha, Douglas County, Nebraska, United States"
+  "name": "Omaha, Douglas County, Nebraska, United States",
+  "drive_min": 1308,
+  "drive_mi": 1159,
+  "drive_min_clemson": 1226,
+  "drive_mi_clemson": 1099
  },
  "Ona|Florida": {
   "lat": 27.4819836,
@@ -7303,7 +7347,11 @@
  "Gering|Nebraska": {
   "lat": 41.8226927,
   "lon": -103.66037,
-  "name": "Gering, Scotts Bluff County, Nebraska, United States"
+  "name": "Gering, Scotts Bluff County, Nebraska, United States",
+  "drive_min": 1747,
+  "drive_mi": 1562,
+  "drive_min_clemson": 1666,
+  "drive_mi_clemson": 1502
  },
  "Hannibal|Missouri": {
   "lat": 39.7082498,
@@ -7328,12 +7376,20 @@
  "Lawrence|Kansas": {
   "lat": 38.9719137,
   "lon": -95.2359403,
-  "name": "Lawrence, Douglas County, Kansas, United States"
+  "name": "Lawrence, Douglas County, Kansas, United States",
+  "drive_min": 1148,
+  "drive_mi": 1011,
+  "drive_min_clemson": 1067,
+  "drive_mi_clemson": 951
  },
  "Lindsborg|Kansas": {
   "lat": 38.5736176,
   "lon": -97.6744838,
-  "name": "Lindsborg, McPherson County, Kansas, United States"
+  "name": "Lindsborg, McPherson County, Kansas, United States",
+  "drive_min": 1308,
+  "drive_mi": 1168,
+  "drive_min_clemson": 1227,
+  "drive_mi_clemson": 1108
  },
  "Medicine Park|Oklahoma": {
   "lat": 34.7274797,
@@ -7358,7 +7414,11 @@
  "Royal|Nebraska": {
   "lat": 42.3320541,
   "lon": -98.1248228,
-  "name": "Royal, Antelope County, Nebraska, United States"
+  "name": "Royal, Antelope County, Nebraska, United States",
+  "drive_min": 1498,
+  "drive_mi": 1322,
+  "drive_min_clemson": 1417,
+  "drive_mi_clemson": 1262
  },
  "Sioux City|Iowa": {
   "lat": 42.4966815,
@@ -7373,7 +7433,11 @@
  "Topeka|Kansas": {
   "lat": 39.049011,
   "lon": -95.677556,
-  "name": "Topeka, Shawnee County, Kansas, United States"
+  "name": "Topeka, Shawnee County, Kansas, United States",
+  "drive_min": 1171,
+  "drive_mi": 1034,
+  "drive_min_clemson": 1089,
+  "drive_mi_clemson": 974
  },
  "Urbandale|Iowa": {
   "lat": 41.6274511,
@@ -7383,12 +7447,20 @@
  "Valentine|Nebraska": {
   "lat": 42.8746752,
   "lon": -100.5506158,
-  "name": "Valentine, Cherry County, Nebraska, United States"
+  "name": "Valentine, Cherry County, Nebraska, United States",
+  "drive_min": 1664,
+  "drive_mi": 1459,
+  "drive_min_clemson": 1583,
+  "drive_mi_clemson": 1399
  },
  "Wichita|Kansas": {
   "lat": 37.6922361,
   "lon": -97.3375448,
-  "name": "Wichita, Sedgwick County, Kansas, United States"
+  "name": "Wichita, Sedgwick County, Kansas, United States",
+  "drive_min": 1277,
+  "drive_mi": 1095,
+  "drive_min_clemson": 1159,
+  "drive_mi_clemson": 1083
  },
  "Blue Mounds|Wisconsin": {
   "lat": 43.0174097,
@@ -12247,5 +12319,176 @@
   "drive_mi": 1315,
   "drive_min_clemson": 1393,
   "drive_mi_clemson": 1255
+ },
+ "Abilene|Kansas": {
+  "lat": 38.917252,
+  "lon": -97.21377,
+  "name": "Abilene, Dickinson County, Kansas, 67410, United States",
+  "drive_min": 1261,
+  "drive_mi": 1122,
+  "drive_min_clemson": 1180,
+  "drive_mi_clemson": 1062
+ },
+ "Ashland|Nebraska": {
+  "lat": 41.0391711,
+  "lon": -96.3683917,
+  "name": "Ashland, Ashland Township, Saunders County, Nebraska, 68003, United States",
+  "drive_min": 1323,
+  "drive_mi": 1170,
+  "drive_min_clemson": 1241,
+  "drive_mi_clemson": 1110
+ },
+ "Bayard|Nebraska": {
+  "lat": 41.7555151,
+  "lon": -103.3242879,
+  "name": "Bayard, Morrill County, Nebraska, 69353, United States",
+  "drive_min": 1728,
+  "drive_mi": 1545,
+  "drive_min_clemson": 1647,
+  "drive_mi_clemson": 1485
+ },
+ "Beatrice|Nebraska": {
+  "lat": 40.266429,
+  "lon": -96.747369,
+  "name": "Beatrice, Gage County, Nebraska, United States",
+  "drive_min": 1323,
+  "drive_mi": 1155,
+  "drive_min_clemson": 1242,
+  "drive_mi_clemson": 1095
+ },
+ "Bellevue|Nebraska": {
+  "lat": 41.1365122,
+  "lon": -95.8937398,
+  "name": "Bellevue, Sarpy County, Nebraska, United States",
+  "drive_min": 1297,
+  "drive_mi": 1150,
+  "drive_min_clemson": 1216,
+  "drive_mi_clemson": 1090
+ },
+ "Chadron|Nebraska": {
+  "lat": 42.8309807,
+  "lon": -103.0003729,
+  "name": "Chadron, Precinct 01, Dawes County, Nebraska, United States",
+  "drive_min": 1808,
+  "drive_mi": 1617,
+  "drive_min_clemson": 1727,
+  "drive_mi_clemson": 1557
+ },
+ "Colby|Kansas": {
+  "lat": 39.3959655,
+  "lon": -101.0526881,
+  "name": "Colby, Thomas County, Kansas, 67701, United States",
+  "drive_min": 1483,
+  "drive_mi": 1344,
+  "drive_min_clemson": 1402,
+  "drive_mi_clemson": 1284
+ },
+ "Garden City|Kansas": {
+  "lat": 37.9716898,
+  "lon": -100.8726618,
+  "name": "Garden City, Finney County, Kansas, 67846, United States",
+  "drive_min": 1524,
+  "drive_mi": 1347,
+  "drive_min_clemson": 1410,
+  "drive_mi_clemson": 1287
+ },
+ "Grand Island|Nebraska": {
+  "lat": 40.924271,
+  "lon": -98.338685,
+  "name": "Grand Island, Hall County, Nebraska, United States",
+  "drive_min": 1426,
+  "drive_mi": 1261,
+  "drive_min_clemson": 1345,
+  "drive_mi_clemson": 1201
+ },
+ "Great Bend|Kansas": {
+  "lat": 38.3625063,
+  "lon": -98.7804087,
+  "name": "Great Bend, Barton County, Kansas, 67350, United States",
+  "drive_min": 1372,
+  "drive_mi": 1223,
+  "drive_min_clemson": 1285,
+  "drive_mi_clemson": 1192
+ },
+ "Hastings|Nebraska": {
+  "lat": 40.5861322,
+  "lon": -98.3898883,
+  "name": "Hastings, Adams County, Nebraska, United States",
+  "drive_min": 1433,
+  "drive_mi": 1259,
+  "drive_min_clemson": 1352,
+  "drive_mi_clemson": 1199
+ },
+ "Hays|Kansas": {
+  "lat": 38.8709984,
+  "lon": -99.3311525,
+  "name": "Hays, Ellis County, Kansas, 67601, United States",
+  "drive_min": 1379,
+  "drive_mi": 1239,
+  "drive_min_clemson": 1298,
+  "drive_mi_clemson": 1179
+ },
+ "Manhattan|Kansas": {
+  "lat": 39.1836082,
+  "lon": -96.5716694,
+  "name": "Manhattan, Riley County, Kansas, United States",
+  "drive_min": 1232,
+  "drive_mi": 1092,
+  "drive_min_clemson": 1151,
+  "drive_mi_clemson": 1032
+ },
+ "Nebraska City|Nebraska": {
+  "lat": 40.676526,
+  "lon": -95.858694,
+  "name": "Nebraska City, Otoe County, Nebraska, 68410, United States",
+  "drive_min": 1264,
+  "drive_mi": 1119,
+  "drive_min_clemson": 1183,
+  "drive_mi_clemson": 1059
+ },
+ "North Platte|Nebraska": {
+  "lat": 41.1368333,
+  "lon": -100.7612819,
+  "name": "North Platte, Lincoln County, Nebraska, United States",
+  "drive_min": 1556,
+  "drive_mi": 1393,
+  "drive_min_clemson": 1475,
+  "drive_mi_clemson": 1333
+ },
+ "Overland Park|Kansas": {
+  "lat": 38.9742502,
+  "lon": -94.6851702,
+  "name": "Overland Park, Johnson County, Kansas, United States",
+  "drive_min": 1122,
+  "drive_mi": 986,
+  "drive_min_clemson": 1041,
+  "drive_mi_clemson": 926
+ },
+ "Salina|Kansas": {
+  "lat": 38.8402805,
+  "lon": -97.6114237,
+  "name": "Salina, Saline County, Kansas, 67401, United States",
+  "drive_min": 1286,
+  "drive_mi": 1146,
+  "drive_min_clemson": 1205,
+  "drive_mi_clemson": 1086
+ },
+ "West Mineral|Kansas": {
+  "lat": 37.2842249,
+  "lon": -94.9230182,
+  "name": "West Mineral, Cherokee County, Kansas, 66782, United States",
+  "drive_min": 1108,
+  "drive_mi": 951,
+  "drive_min_clemson": 1027,
+  "drive_mi_clemson": 891
+ },
+ "Wood River|Nebraska": {
+  "lat": 40.821054,
+  "lon": -98.600621,
+  "name": "Wood River, Hall County, Nebraska, United States",
+  "drive_min": 1434,
+  "drive_mi": 1270,
+  "drive_min_clemson": 1353,
+  "drive_mi_clemson": 1210
  }
 }
