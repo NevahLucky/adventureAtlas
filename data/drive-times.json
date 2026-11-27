@@ -11758,5 +11758,140 @@
   "lat": 20.8905443,
   "lon": -156.503093,
   "name": "Wailuku, Maui County, Hawaii, United States"
+ },
+ "Bristol|Maine": {
+  "lat": 43.9574526,
+  "lon": -69.509244,
+  "name": "Bristol, Lincoln County, Maine, United States",
+  "drive_min": 1224,
+  "drive_mi": 1010,
+  "drive_min_clemson": 1357,
+  "drive_mi_clemson": 1121
+ },
+ "Browns Mills|New Jersey": {
+  "lat": 39.9720442,
+  "lon": -74.5693581,
+  "name": "Browns Mills, Pemberton Township, Burlington County, New Jersey, 08015, United S",
+  "drive_min": 698,
+  "drive_mi": 583,
+  "drive_min_clemson": 831,
+  "drive_mi_clemson": 695
+ },
+ "Cape May Point|New Jersey": {
+  "lat": 38.936015,
+  "lon": -74.9673264,
+  "name": "Cape May Point, Cape May County, New Jersey, 08212, United States",
+  "drive_min": 733,
+  "drive_mi": 603,
+  "drive_min_clemson": 867,
+  "drive_mi_clemson": 714
+ },
+ "Caribou|Maine": {
+  "lat": 46.8606301,
+  "lon": -68.0116807,
+  "name": "Caribou, Aroostook County, Maine, 04736, United States",
+  "drive_min": 1486,
+  "drive_mi": 1251,
+  "drive_min_clemson": 1620,
+  "drive_mi_clemson": 1363
+ },
+ "Cockeysville|Maryland": {
+  "lat": 39.4837588,
+  "lon": -76.6235105,
+  "name": "Cockeysville, The Lakes, Baltimore County, Maryland, United States",
+  "drive_min": 561,
+  "drive_mi": 483,
+  "drive_min_clemson": 693,
+  "drive_mi_clemson": 592
+ },
+ "Elkton|Maryland": {
+  "lat": 39.6065073,
+  "lon": -75.8330934,
+  "name": "Elkton, Cecil County, Maryland, 21922, United States",
+  "drive_min": 601,
+  "drive_mi": 506,
+  "drive_min_clemson": 735,
+  "drive_mi_clemson": 618
+ },
+ "Flintstone|Maryland": {
+  "lat": 39.703508,
+  "lon": -78.5762388,
+  "name": "Flintstone, Gilpin, Flintstone, Allegany County, Maryland, United States",
+  "drive_min": 517,
+  "drive_mi": 446,
+  "drive_min_clemson": 649,
+  "drive_mi_clemson": 555
+ },
+ "Grantsville|Maryland": {
+  "lat": 39.6991282,
+  "lon": -79.1577212,
+  "name": "Grantsville, Garrett County, Maryland, United States",
+  "drive_min": 498,
+  "drive_mi": 439,
+  "drive_min_clemson": 626,
+  "drive_mi_clemson": 538
+ },
+ "Ho-Ho-Kus|New Jersey": {
+  "lat": 40.9976524,
+  "lon": -74.110284,
+  "name": "Ho-Ho-Kus, Bergen County, New Jersey, United States",
+  "drive_min": 772,
+  "drive_mi": 668,
+  "drive_min_clemson": 904,
+  "drive_mi_clemson": 777
+ },
+ "Hoboken|New Jersey": {
+  "lat": 40.7433066,
+  "lon": -74.0323752,
+  "name": "Hoboken, Hudson County, New Jersey, 07030, United States",
+  "drive_min": 760,
+  "drive_mi": 638,
+  "drive_min_clemson": 894,
+  "drive_mi_clemson": 750
+ },
+ "Lambertville|New Jersey": {
+  "lat": 40.3656188,
+  "lon": -74.9454055,
+  "name": "Lambertville, Hunterdon County, New Jersey, 08530, United States",
+  "drive_min": 706,
+  "drive_mi": 613,
+  "drive_min_clemson": 838,
+  "drive_mi_clemson": 722
+ },
+ "Oceanville|New Jersey": {
+  "lat": 39.475613,
+  "lon": -74.4569753,
+  "name": "Oceanville, Smithville, Galloway Township, Atlantic County, New Jersey, United S",
+  "drive_min": 714,
+  "drive_mi": 586,
+  "drive_min_clemson": 848,
+  "drive_mi_clemson": 698
+ },
+ "Rangeley|Maine": {
+  "lat": 44.9653284,
+  "lon": -70.6430257,
+  "name": "Rangeley, Franklin County, Maine, United States",
+  "drive_min": 1296,
+  "drive_mi": 1065,
+  "drive_min_clemson": 1430,
+  "drive_mi_clemson": 1177
+ },
+ "Sewell|New Jersey": {
+  "lat": 39.770683,
+  "lon": -75.1438863,
+  "name": "Sewell, Mantua Township, Gloucester County, New Jersey, United States",
+  "drive_min": 651,
+  "drive_mi": 546,
+  "drive_min_clemson": 785,
+  "drive_mi_clemson": 658
+ },
+ "Wheaton|Maryland": {
+  "lat": 39.0497933,
+  "lon": -77.0522851,
+  "name": "Wheaton, Montgomery County, Maryland, 20902, United States",
+  "drive_min": 500,
+  "drive_mi": 429,
+  "drive_min_clemson": 634,
+  "drive_mi_clemson": 541
  }
 }
