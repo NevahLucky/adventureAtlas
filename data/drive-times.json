@@ -18224,5 +18224,104 @@
   "drive_mi": 331,
   "drive_min_clemson": 428,
   "drive_mi_clemson": 442
+ },
+ "Big Stone Gap|Virginia": {
+  "lat": 36.8677938,
+  "lon": -82.7742267,
+  "name": "Big Stone Gap, Wise County, Virginia, United States",
+  "drive_min": 242,
+  "drive_mi": 225,
+  "drive_min_clemson": 213,
+  "drive_mi_clemson": 207
+ },
+ "Cleveland|Virginia": {
+  "lat": 36.9440023,
+  "lon": -82.1518927,
+  "name": "Cleveland, Russell County, Virginia, 24225, United States",
+  "drive_min": 210,
+  "drive_mi": 190,
+  "drive_min_clemson": 230,
+  "drive_mi_clemson": 223
+ },
+ "Clintwood|Virginia": {
+  "lat": 37.1501067,
+  "lon": -82.4559846,
+  "name": "Clintwood, Dickenson County, Virginia, 24228, United States",
+  "drive_min": 250,
+  "drive_mi": 223,
+  "drive_min_clemson": 248,
+  "drive_mi_clemson": 239
+ },
+ "Coeburn|Virginia": {
+  "lat": 36.9439917,
+  "lon": -82.4640401,
+  "name": "Coeburn, Wise County, Virginia, 24230, United States",
+  "drive_min": 222,
+  "drive_mi": 203,
+  "drive_min_clemson": 231,
+  "drive_mi_clemson": 209
+ },
+ "Ewing|Virginia": {
+  "lat": 36.638855,
+  "lon": -83.4262612,
+  "name": "Ewing, Lee County, Virginia, United States",
+  "drive_min": 274,
+  "drive_mi": 275,
+  "drive_min_clemson": 237,
+  "drive_mi_clemson": 221
+ },
+ "Grundy|Virginia": {
+  "lat": 37.2783758,
+  "lon": -82.0998105,
+  "name": "Grundy, Buchanan County, Virginia, 24614, United States",
+  "drive_min": 248,
+  "drive_mi": 256,
+  "drive_min_clemson": 279,
+  "drive_mi_clemson": 261
+ },
+ "Haysi|Virginia": {
+  "lat": 37.205387,
+  "lon": -82.2940326,
+  "name": "Haysi, Dickenson County, Virginia, United States",
+  "drive_min": 257,
+  "drive_mi": 228,
+  "drive_min_clemson": 270,
+  "drive_mi_clemson": 245
+ },
+ "Honaker|Virginia": {
+  "lat": 37.016222,
+  "lon": -81.9742921,
+  "name": "Honaker, Russell County, Virginia, United States",
+  "drive_min": 218,
+  "drive_mi": 199,
+  "drive_min_clemson": 238,
+  "drive_mi_clemson": 232
+ },
+ "Norton|Virginia": {
+  "lat": 36.9336934,
+  "lon": -82.6298965,
+  "name": "Norton, Virginia, 24273, United States",
+  "drive_min": 232,
+  "drive_mi": 213,
+  "drive_min_clemson": 220,
+  "drive_mi_clemson": 215
+ },
+ "Saint Paul|Virginia": {
+  "lat": 36.9053822,
+  "lon": -82.3109761,
+  "name": "St. Paul, Wise County, Virginia, 22442, United States",
+  "drive_min": 209,
+  "drive_mi": 192,
+  "drive_min_clemson": 222,
+  "drive_mi_clemson": 209
+ },
+ "Tazewell|Virginia": {
+  "lat": 37.1236041,
+  "lon": -81.5684129,
+  "name": "Tazewell County, Virginia, United States",
+  "drive_min": 200,
+  "drive_mi": 211,
+  "drive_min_clemson": 256,
+  "drive_mi_clemson": 251
  }
 }
