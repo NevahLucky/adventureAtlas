@@ -2172,7 +2172,11 @@
  "Benson|Arizona": {
   "lat": 31.9679895,
   "lon": -110.2943314,
-  "name": "Benson, Cochise County, Arizona, United States"
+  "name": "Benson, Cochise County, Arizona, United States",
+  "drive_min": 2044,
+  "drive_mi": 1931,
+  "drive_min_clemson": 1903,
+  "drive_mi_clemson": 1813
  },
  "Benton|Pennsylvania": {
   "lat": 41.1950837,
@@ -2475,7 +2479,11 @@
  "Chinle|Arizona": {
   "lat": 36.1501434,
   "lon": -109.5670685,
-  "name": "Chinle, Apache County, Arizona, United States"
+  "name": "Chinle, Apache County, Arizona, United States",
+  "drive_min": 2001,
+  "drive_mi": 1861,
+  "drive_min_clemson": 1860,
+  "drive_mi_clemson": 1743
  },
  "Cincinnati|Ohio": {
   "lat": 39.1012809,
@@ -2927,7 +2935,11 @@
  "Grand Canyon|Arizona": {
   "lat": 36.0980405,
   "lon": -112.0962787,
-  "name": "Grand Canyon, Coconino County, Arizona, United States"
+  "name": "Grand Canyon, Coconino County, Arizona, United States",
+  "drive_min": 2173,
+  "drive_mi": 2042,
+  "drive_min_clemson": 2032,
+  "drive_mi_clemson": 1924
  },
  "Grand Rapids|Michigan": {
   "lat": 42.9632425,
@@ -3124,7 +3136,11 @@
  "Kayenta|Arizona": {
   "lat": 36.7218463,
   "lon": -110.253872,
-  "name": "Kayenta, Navajo County, Arizona, United States"
+  "name": "Kayenta, Navajo County, Arizona, United States",
+  "drive_min": 2106,
+  "drive_mi": 1937,
+  "drive_min_clemson": 1965,
+  "drive_mi_clemson": 1819
  },
  "Kearney|Nebraska": {
   "lat": 40.4906216,
@@ -3755,7 +3771,11 @@
  "Oracle|Arizona": {
   "lat": 32.6099702,
   "lon": -110.7651843,
-  "name": "Oracle, Pinal County, Arizona, 82623, United States"
+  "name": "Oracle, Pinal County, Arizona, 82623, United States",
+  "drive_min": 2151,
+  "drive_mi": 2014,
+  "drive_min_clemson": 2010,
+  "drive_mi_clemson": 1896
  },
  "Orange|Connecticut": {
   "lat": 41.2784304,
@@ -3801,7 +3821,11 @@
  "Page|Arizona": {
   "lat": 36.9148305,
   "lon": -111.457294,
-  "name": "Page, Coconino County, Arizona, United States"
+  "name": "Page, Coconino County, Arizona, United States",
+  "drive_min": 2185,
+  "drive_mi": 2026,
+  "drive_min_clemson": 2044,
+  "drive_mi_clemson": 1908
  },
  "Palmer|Alaska": {
   "lat": 61.5995703,
@@ -3849,12 +3873,20 @@
  "Phoenix|Arizona": {
   "lat": 33.4484367,
   "lon": -112.074141,
-  "name": "Phoenix, Maricopa County, Arizona, United States"
+  "name": "Phoenix, Maricopa County, Arizona, United States",
+  "drive_min": 2211,
+  "drive_mi": 2050,
+  "drive_min_clemson": 2070,
+  "drive_mi_clemson": 1932
  },
  "Picacho|Arizona": {
   "lat": 32.716176,
   "lon": -111.4953971,
-  "name": "Picacho, Pinal County, Arizona, 85241, United States"
+  "name": "Picacho, Pinal County, Arizona, 85241, United States",
+  "drive_min": 2150,
+  "drive_mi": 2028,
+  "drive_min_clemson": 2008,
+  "drive_mi_clemson": 1910
  },
  "Pinedale|Wyoming": {
   "lat": 42.8671325,
@@ -4202,7 +4234,11 @@
  "Sedona|Arizona": {
   "lat": 34.8688613,
   "lon": -111.7614394,
-  "name": "Sedona, Coconino County, Arizona, United States"
+  "name": "Sedona, Coconino County, Arizona, United States",
+  "drive_min": 2120,
+  "drive_mi": 1982,
+  "drive_min_clemson": 1979,
+  "drive_mi_clemson": 1865
  },
  "Seward|Alaska": {
   "lat": 60.1013952,
@@ -4401,7 +4437,11 @@
  "Supai|Arizona": {
   "lat": 36.223782,
   "lon": -112.6929268,
-  "name": "Supai, Coconino County, Arizona, United States"
+  "name": "Supai, Coconino County, Arizona, United States",
+  "drive_min": 2389,
+  "drive_mi": 2127,
+  "drive_min_clemson": 2248,
+  "drive_mi_clemson": 2009
  },
  "Syracuse|Utah": {
   "lat": 41.0895938,
@@ -4479,7 +4519,11 @@
  "Tombstone|Arizona": {
   "lat": 31.714229,
   "lon": -110.0652028,
-  "name": "Tombstone, Cochise County, Arizona, 85638, United States"
+  "name": "Tombstone, Cochise County, Arizona, 85638, United States",
+  "drive_min": 2080,
+  "drive_mi": 1955,
+  "drive_min_clemson": 1939,
+  "drive_mi_clemson": 1837
  },
  "Traverse City|Michigan": {
   "lat": 44.7606481,
@@ -4489,7 +4533,11 @@
  "Tucson|Arizona": {
   "lat": 32.2228765,
   "lon": -110.974847,
-  "name": "Tucson, Pima County, Arizona, United States"
+  "name": "Tucson, Pima County, Arizona, United States",
+  "drive_min": 2094,
+  "drive_mi": 1978,
+  "drive_min_clemson": 1953,
+  "drive_mi_clemson": 1861
  },
  "Tulsa|Oklahoma": {
   "lat": 36.1563122,
@@ -4661,7 +4709,11 @@
  "Williams|Arizona": {
   "lat": 35.2508504,
   "lon": -112.187294,
-  "name": "Williams, Coconino County, Arizona, United States"
+  "name": "Williams, Coconino County, Arizona, United States",
+  "drive_min": 2100,
+  "drive_mi": 1988,
+  "drive_min_clemson": 1959,
+  "drive_mi_clemson": 1870
  },
  "Williamsburg|Massachusetts": {
   "lat": 42.3926274,
@@ -4693,7 +4745,11 @@
  "Winslow|Arizona": {
   "lat": 35.0241984,
   "lon": -110.6973463,
-  "name": "Winslow, Navajo County, Arizona, 86047, United States"
+  "name": "Winslow, Navajo County, Arizona, 86047, United States",
+  "drive_min": 2008,
+  "drive_mi": 1897,
+  "drive_min_clemson": 1867,
+  "drive_mi_clemson": 1779
  },
  "Winterset|Iowa": {
   "lat": 41.3347631,
@@ -10980,5 +11036,176 @@
   "drive_mi": 2365,
   "drive_min_clemson": 2571,
   "drive_mi_clemson": 2301
+ },
+ "Camp Verde|Arizona": {
+  "lat": 34.5636358,
+  "lon": -111.854317,
+  "name": "Camp Verde, Yavapai County, Arizona, 86322, United States",
+  "drive_min": 2125,
+  "drive_mi": 2010,
+  "drive_min_clemson": 1984,
+  "drive_mi_clemson": 1892
+ },
+ "Cibola|Arizona": {
+  "lat": 33.3608922,
+  "lon": -114.6832458,
+  "name": "Cibola, La Paz County, Arizona, 85328, United States",
+  "drive_min": 2408,
+  "drive_mi": 2258,
+  "drive_min_clemson": 2266,
+  "drive_mi_clemson": 2140
+ },
+ "Clifton|Arizona": {
+  "lat": 33.0508966,
+  "lon": -109.296182,
+  "name": "Clifton, Greenlee County, Arizona, 85540, United States",
+  "drive_min": 2022,
+  "drive_mi": 1887,
+  "drive_min_clemson": 1881,
+  "drive_mi_clemson": 1769
+ },
+ "Flagstaff|Arizona": {
+  "lat": 35.1987522,
+  "lon": -111.651822,
+  "name": "Flagstaff, Coconino County, Arizona, United States",
+  "drive_min": 2067,
+  "drive_mi": 1954,
+  "drive_min_clemson": 1926,
+  "drive_mi_clemson": 1837
+ },
+ "Hereford|Arizona": {
+  "lat": 31.4384325,
+  "lon": -110.0978554,
+  "name": "Hereford, Cochise County, Arizona, United States",
+  "drive_min": 2104,
+  "drive_mi": 1958,
+  "drive_min_clemson": 1963,
+  "drive_mi_clemson": 1840
+ },
+ "Holbrook|Arizona": {
+  "lat": 34.9037105,
+  "lon": -110.1593261,
+  "name": "Holbrook, Navajo County, Arizona, 86025, United States",
+  "drive_min": 1976,
+  "drive_mi": 1865,
+  "drive_min_clemson": 1835,
+  "drive_mi_clemson": 1747
+ },
+ "Jerome|Arizona": {
+  "lat": 34.7489107,
+  "lon": -112.1137716,
+  "name": "Jerome, Yavapai County, Arizona, 86331, United States",
+  "drive_min": 2156,
+  "drive_mi": 2029,
+  "drive_min_clemson": 2015,
+  "drive_mi_clemson": 1911
+ },
+ "Lake Havasu City|Arizona": {
+  "lat": 34.4755537,
+  "lon": -114.3285898,
+  "name": "Lake Havasu City, Mohave County, Arizona, United States",
+  "drive_min": 2280,
+  "drive_mi": 2161,
+  "drive_min_clemson": 2138,
+  "drive_mi_clemson": 2043
+ },
+ "Oatman|Arizona": {
+  "lat": 35.0263915,
+  "lon": -114.383569,
+  "name": "Oatman, Mohave County, Arizona, 86433, United States",
+  "drive_min": 2265,
+  "drive_mi": 2129,
+  "drive_min_clemson": 2124,
+  "drive_mi_clemson": 2011
+ },
+ "Patagonia|Arizona": {
+  "lat": 31.5402016,
+  "lon": -110.753927,
+  "name": "Patagonia, Santa Cruz County, Arizona, 85624, United States",
+  "drive_min": 2112,
+  "drive_mi": 1985,
+  "drive_min_clemson": 1971,
+  "drive_mi_clemson": 1867
+ },
+ "Peach Springs|Arizona": {
+  "lat": 35.5253105,
+  "lon": -113.4415829,
+  "name": "Hàkđugwi:v, Mohave County, Arizona, United States",
+  "drive_min": 2188,
+  "drive_mi": 2068,
+  "drive_min_clemson": 2047,
+  "drive_mi_clemson": 1951
+ },
+ "Pine|Arizona": {
+  "lat": 34.3942871,
+  "lon": -111.4562363,
+  "name": "Pine, Gila County, Arizona, United States",
+  "drive_min": 2117,
+  "drive_mi": 1971,
+  "drive_min_clemson": 1976,
+  "drive_mi_clemson": 1853
+ },
+ "Quartzsite|Arizona": {
+  "lat": 33.6669903,
+  "lon": -114.21681,
+  "name": "Quartzsite, La Paz County, Arizona, United States",
+  "drive_min": 2336,
+  "drive_mi": 2213,
+  "drive_min_clemson": 2195,
+  "drive_mi_clemson": 2095
+ },
+ "Roosevelt|Arizona": {
+  "lat": 33.6675548,
+  "lon": -111.1343213,
+  "name": "Roosevelt, Gila County, Arizona, United States",
+  "drive_min": 2170,
+  "drive_mi": 2010,
+  "drive_min_clemson": 2029,
+  "drive_mi_clemson": 1892
+ },
+ "Safford|Arizona": {
+  "lat": 32.8332254,
+  "lon": -109.7131818,
+  "name": "Safford, Graham County, Arizona, United States",
+  "drive_min": 2029,
+  "drive_mi": 1898,
+  "drive_min_clemson": 1888,
+  "drive_mi_clemson": 1780
+ },
+ "Show Low|Arizona": {
+  "lat": 34.2542084,
+  "lon": -110.029832,
+  "name": "Show Low, Navajo County, Arizona, 85901, United States",
+  "drive_min": 2036,
+  "drive_mi": 1912,
+  "drive_min_clemson": 1895,
+  "drive_mi_clemson": 1794
+ },
+ "Tumacacori|Arizona": {
+  "lat": 31.568702,
+  "lon": -111.0523126,
+  "name": "Tumacacori, Santa Cruz County, Arizona, 85640, United States",
+  "drive_min": 2138,
+  "drive_mi": 2007,
+  "drive_min_clemson": 1997,
+  "drive_mi_clemson": 1889
+ },
+ "Willcox|Arizona": {
+  "lat": 32.2529138,
+  "lon": -109.8315759,
+  "name": "Willcox, Cochise County, Arizona, 85643, United States",
+  "drive_min": 2011,
+  "drive_mi": 1896,
+  "drive_min_clemson": 1870,
+  "drive_mi_clemson": 1778
+ },
+ "Yuma|Arizona": {
+  "lat": 32.7210307,
+  "lon": -114.6203217,
+  "name": "Yuma, Yuma County, Arizona, United States",
+  "drive_min": 2337,
+  "drive_mi": 2216,
+  "drive_min_clemson": 2196,
+  "drive_mi_clemson": 2098
  }
 }
