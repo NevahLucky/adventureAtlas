@@ -2312,7 +2312,11 @@
  "Brookfield|Illinois": {
   "lat": 41.8228378,
   "lon": -87.848085,
-  "name": "Brookfield, Proviso Township, Cook County, Illinois, 60513, United States"
+  "name": "Brookfield, Proviso Township, Cook County, Illinois, 60513, United States",
+  "drive_min": 899,
+  "drive_mi": 772,
+  "drive_min_clemson": 858,
+  "drive_mi_clemson": 708
  },
  "Brooklyn|New York": {
   "lat": 40.6526006,
@@ -2490,7 +2494,11 @@
  "Chicago|Illinois": {
   "lat": 41.8755616,
   "lon": -87.6244212,
-  "name": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+  "name": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+  "drive_min": 886,
+  "drive_mi": 764,
+  "drive_min_clemson": 845,
+  "drive_mi_clemson": 700
  },
  "Chinle|Arizona": {
   "lat": 36.1501434,
@@ -2532,7 +2540,11 @@
  "Collinsville|Illinois": {
   "lat": 38.6703267,
   "lon": -89.9845476,
-  "name": "Collinsville, Madison County, Illinois, 62234, United States"
+  "name": "Collinsville, Madison County, Illinois, 62234, United States",
+  "drive_min": 813,
+  "drive_mi": 717,
+  "drive_min_clemson": 732,
+  "drive_mi_clemson": 657
  },
  "Colorado Springs|Colorado": {
   "lat": 38.8339578,
@@ -2615,7 +2627,11 @@
  "Crazy Horse|South Dakota": {
   "lat": 42.8688893,
   "lon": -97.6029939,
-  "name": "Crazy Horse, Boy Scout Road, Ziskov South Township, Yankton County, South Dakota"
+  "name": "Crazy Horse, Boy Scout Road, Ziskov South Township, Yankton County, South Dakota",
+  "drive_min": 1506,
+  "drive_mi": 1331,
+  "drive_min_clemson": 1424,
+  "drive_mi_clemson": 1271
  },
  "Creswell|Oregon": {
   "lat": 43.9179023,
@@ -2647,7 +2663,11 @@
  "Custer|South Dakota": {
   "lat": 43.6726477,
   "lon": -103.5101597,
-  "name": "Custer County, South Dakota, United States"
+  "name": "Custer County, South Dakota, United States",
+  "drive_min": 1893,
+  "drive_mi": 1728,
+  "drive_min_clemson": 1811,
+  "drive_mi_clemson": 1668
  },
  "Dallas|Texas": {
   "lat": 32.7762719,
@@ -2680,7 +2700,11 @@
  "Deadwood|South Dakota": {
   "lat": 44.3743812,
   "lon": -103.7290723,
-  "name": "Deadwood, Lawrence County, South Dakota, United States"
+  "name": "Deadwood, Lawrence County, South Dakota, United States",
+  "drive_min": 1856,
+  "drive_mi": 1718,
+  "drive_min_clemson": 1774,
+  "drive_mi_clemson": 1658
  },
  "Deer Isle|Maine": {
   "lat": 44.224044,
@@ -3071,7 +3095,11 @@
  "Herod|Illinois": {
   "lat": 37.5803268,
   "lon": -88.4361547,
-  "name": "Herod, Pope County, Illinois, 62947, United States"
+  "name": "Herod, Pope County, Illinois, 62947, United States",
+  "drive_min": 706,
+  "drive_mi": 607,
+  "drive_min_clemson": 624,
+  "drive_mi_clemson": 547
  },
  "Homestead|Florida": {
   "lat": 25.4718946,
@@ -3108,7 +3136,11 @@
  "Hot Springs|South Dakota": {
   "lat": 43.431646,
   "lon": -103.474363,
-  "name": "Hot Springs, Fall River County, South Dakota, 57747, United States"
+  "name": "Hot Springs, Fall River County, South Dakota, 57747, United States",
+  "drive_min": 1869,
+  "drive_mi": 1670,
+  "drive_min_clemson": 1788,
+  "drive_mi_clemson": 1610
  },
  "Houston|Texas": {
   "lat": 29.7589382,
@@ -3224,7 +3256,11 @@
  "Keystone|South Dakota": {
   "lat": 43.8928746,
   "lon": -103.4257231,
-  "name": "Keystone, Pennington County, South Dakota, 57751, United States"
+  "name": "Keystone, Pennington County, South Dakota, 57751, United States",
+  "drive_min": 1841,
+  "drive_mi": 1699,
+  "drive_min_clemson": 1760,
+  "drive_mi_clemson": 1639
  },
  "Kihei|Hawaii": {
   "lat": 20.7476261,
@@ -3551,7 +3587,11 @@
  "Mitchell|South Dakota": {
   "lat": 43.70953,
   "lon": -98.025379,
-  "name": "Mitchell, Mitchell Township, Davison County, South Dakota, 57301, United States"
+  "name": "Mitchell, Mitchell Township, Davison County, South Dakota, 57301, United States",
+  "drive_min": 1557,
+  "drive_mi": 1405,
+  "drive_min_clemson": 1476,
+  "drive_mi_clemson": 1345
  },
  "Moab|Utah": {
   "lat": 38.5738096,
@@ -3814,7 +3854,11 @@
  "Oglesby|Illinois": {
   "lat": 41.2953127,
   "lon": -89.0595266,
-  "name": "Oglesby, LaSalle County, Illinois, 61348, United States"
+  "name": "Oglesby, LaSalle County, Illinois, 61348, United States",
+  "drive_min": 932,
+  "drive_mi": 798,
+  "drive_min_clemson": 886,
+  "drive_mi_clemson": 751
  },
  "Ohiopyle|Pennsylvania": {
   "lat": 39.8699324,
@@ -4106,7 +4150,11 @@
  "Rapid City|South Dakota": {
   "lat": 44.0806041,
   "lon": -103.228023,
-  "name": "Rapid City, Pennington County, South Dakota, United States"
+  "name": "Rapid City, Pennington County, South Dakota, United States",
+  "drive_min": 1817,
+  "drive_mi": 1680,
+  "drive_min_clemson": 1736,
+  "drive_mi_clemson": 1620
  },
  "Rawlins|Wyoming": {
   "lat": 41.7907878,
@@ -4465,7 +4513,11 @@
  "Springfield|Illinois": {
   "lat": 39.7990175,
   "lon": -89.6439575,
-  "name": "Springfield, Sangamon County, Illinois, United States"
+  "name": "Springfield, Sangamon County, Illinois, United States",
+  "drive_min": 900,
+  "drive_mi": 777,
+  "drive_min_clemson": 819,
+  "drive_mi_clemson": 717
  },
  "St. Albans|Vermont": {
   "lat": 44.8107911,
@@ -4530,7 +4582,11 @@
  "Sturgis|South Dakota": {
   "lat": 44.414477,
   "lon": -103.509139,
-  "name": "Sturgis, Meade County, South Dakota, 57785, United States"
+  "name": "Sturgis, Meade County, South Dakota, 57785, United States",
+  "drive_min": 1841,
+  "drive_mi": 1705,
+  "drive_min_clemson": 1760,
+  "drive_mi_clemson": 1645
  },
  "Stuttgart|Arkansas": {
   "lat": 34.5003748,
@@ -4746,7 +4802,11 @@
  "Wall|South Dakota": {
   "lat": 43.992421,
   "lon": -102.239981,
-  "name": "Wall, Pennington County, South Dakota, United States"
+  "name": "Wall, Pennington County, South Dakota, United States",
+  "drive_min": 1762,
+  "drive_mi": 1625,
+  "drive_min_clemson": 1681,
+  "drive_mi_clemson": 1565
  },
  "Wallace|Idaho": {
   "lat": 47.4716008,
@@ -7358,7 +7418,11 @@
  "Galena|Illinois": {
   "lat": 42.4157304,
   "lon": -90.4294726,
-  "name": "Galena, West Galena Township, Jo Daviess County, Illinois, United States"
+  "name": "Galena, West Galena Township, Jo Daviess County, Illinois, United States",
+  "drive_min": 1095,
+  "drive_mi": 929,
+  "drive_min_clemson": 1054,
+  "drive_mi_clemson": 865
  },
  "Indianapolis|Indiana": {
   "lat": 39.7683331,
@@ -7393,7 +7457,11 @@
  "Oak Park|Illinois": {
   "lat": 41.8878145,
   "lon": -87.7887615,
-  "name": "Oak Park, Cook County, Illinois, United States"
+  "name": "Oak Park, Cook County, Illinois, United States",
+  "drive_min": 899,
+  "drive_mi": 772,
+  "drive_min_clemson": 859,
+  "drive_mi_clemson": 708
  },
  "Ontonagon|Michigan": {
   "lat": 46.6471877,
@@ -12053,5 +12121,131 @@
   "drive_mi": 1830,
   "drive_min_clemson": 1984,
   "drive_mi_clemson": 1766
+ },
+ "Aberdeen|South Dakota": {
+  "lat": 45.4649805,
+  "lon": -98.487813,
+  "name": "Aberdeen, Aberdeen Township, Brown County, South Dakota, 57401, United States",
+  "drive_min": 1691,
+  "drive_mi": 1470,
+  "drive_min_clemson": 1616,
+  "drive_mi_clemson": 1476
+ },
+ "Bloomington|Illinois": {
+  "lat": 40.4797828,
+  "lon": -88.9939147,
+  "name": "Bloomington, McLean County, Illinois, United States",
+  "drive_min": 868,
+  "drive_mi": 736,
+  "drive_min_clemson": 822,
+  "drive_mi_clemson": 689
+ },
+ "Brookings|South Dakota": {
+  "lat": 44.311461,
+  "lon": -96.79844,
+  "name": "Brookings, Brookings Township, Brookings County, South Dakota, United States",
+  "drive_min": 1543,
+  "drive_mi": 1390,
+  "drive_min_clemson": 1462,
+  "drive_mi_clemson": 1330
+ },
+ "Champaign|Illinois": {
+  "lat": 40.1164841,
+  "lon": -88.2430932,
+  "name": "Champaign, Champaign County, Illinois, United States",
+  "drive_min": 815,
+  "drive_mi": 687,
+  "drive_min_clemson": 769,
+  "drive_mi_clemson": 640
+ },
+ "Monticello|Illinois": {
+  "lat": 40.026295,
+  "lon": -88.567956,
+  "name": "Monticello, Piatt County, Illinois, 61856, United States",
+  "drive_min": 840,
+  "drive_mi": 710,
+  "drive_min_clemson": 794,
+  "drive_mi_clemson": 663
+ },
+ "Peoria|Illinois": {
+  "lat": 40.6938609,
+  "lon": -89.5891008,
+  "name": "Peoria, Peoria County, Illinois, United States",
+  "drive_min": 908,
+  "drive_mi": 776,
+  "drive_min_clemson": 862,
+  "drive_mi_clemson": 729
+ },
+ "Pierre|South Dakota": {
+  "lat": 44.3683644,
+  "lon": -100.351136,
+  "name": "Pierre, Buckeye Township, Hughes County, South Dakota, 57501, United States",
+  "drive_min": 1704,
+  "drive_mi": 1557,
+  "drive_min_clemson": 1623,
+  "drive_mi_clemson": 1497
+ },
+ "Quincy|Illinois": {
+  "lat": 39.9356016,
+  "lon": -91.4098727,
+  "name": "Quincy, Adams County, Illinois, United States",
+  "drive_min": 995,
+  "drive_mi": 868,
+  "drive_min_clemson": 914,
+  "drive_mi_clemson": 808
+ },
+ "Rockford|Illinois": {
+  "lat": 42.2713945,
+  "lon": -89.093966,
+  "name": "Rockford, Rockford Township, Winnebago County, Illinois, United States",
+  "drive_min": 990,
+  "drive_mi": 852,
+  "drive_min_clemson": 949,
+  "drive_mi_clemson": 787
+ },
+ "Sioux Falls|South Dakota": {
+  "lat": 43.5476008,
+  "lon": -96.7293629,
+  "name": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States",
+  "drive_min": 1493,
+  "drive_mi": 1337,
+  "drive_min_clemson": 1412,
+  "drive_mi_clemson": 1277
+ },
+ "Spearfish|South Dakota": {
+  "lat": 44.4893896,
+  "lon": -103.8609632,
+  "name": "Spearfish, Lawrence County, South Dakota, United States",
+  "drive_min": 1862,
+  "drive_mi": 1725,
+  "drive_min_clemson": 1781,
+  "drive_mi_clemson": 1665
+ },
+ "Urbana|Illinois": {
+  "lat": 40.1117174,
+  "lon": -88.207301,
+  "name": "Urbana, Champaign County, Illinois, United States",
+  "drive_min": 811,
+  "drive_mi": 686,
+  "drive_min_clemson": 765,
+  "drive_mi_clemson": 639
+ },
+ "Watertown|South Dakota": {
+  "lat": 44.899211,
+  "lon": -97.115289,
+  "name": "Watertown, Elmira Township, Codington County, South Dakota, 57201, United States",
+  "drive_min": 1591,
+  "drive_mi": 1441,
+  "drive_min_clemson": 1510,
+  "drive_mi_clemson": 1381
+ },
+ "Yankton|South Dakota": {
+  "lat": 42.8712938,
+  "lon": -97.3967011,
+  "name": "Yankton, Mission Hill South Township, Yankton County, South Dakota, 57078, Unite",
+  "drive_min": 1474,
+  "drive_mi": 1315,
+  "drive_min_clemson": 1393,
+  "drive_mi_clemson": 1255
  }
 }
