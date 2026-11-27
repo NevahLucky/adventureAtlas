@@ -2427,7 +2427,11 @@
  "Castle Rock|Washington": {
   "lat": 46.2739907,
   "lon": -122.904918,
-  "name": "Castle Rock, Cowlitz County, Washington, 98611, United States"
+  "name": "Castle Rock, Cowlitz County, Washington, 98611, United States",
+  "drive_min": 3008,
+  "drive_mi": 2821,
+  "drive_min_clemson": 2927,
+  "drive_mi_clemson": 2761
  },
  "Catoosa|Oklahoma": {
   "lat": 36.188987,
@@ -2834,7 +2838,11 @@
  "Forks|Washington": {
   "lat": 47.950222,
   "lon": -124.386165,
-  "name": "Forks, Clallam County, Washington, United States"
+  "name": "Forks, Clallam County, Washington, United States",
+  "drive_min": 3265,
+  "drive_mi": 3013,
+  "drive_min_clemson": 3184,
+  "drive_mi_clemson": 2953
  },
  "Fort Bragg|California": {
   "lat": 39.4436579,
@@ -3238,7 +3246,11 @@
  "Leavenworth|Washington": {
   "lat": 47.5969138,
   "lon": -120.661081,
-  "name": "Leavenworth, Chelan County, Washington, United States"
+  "name": "Leavenworth, Chelan County, Washington, United States",
+  "drive_min": 2942,
+  "drive_mi": 2727,
+  "drive_min_clemson": 2861,
+  "drive_mi_clemson": 2667
  },
  "Lehighton|Pennsylvania": {
   "lat": 40.8339907,
@@ -3368,7 +3380,11 @@
  "Marblemount|Washington": {
   "lat": 48.534909,
   "lon": -121.4350657,
-  "name": "Marblemount, Skagit County, Washington, United States"
+  "name": "Marblemount, Skagit County, Washington, United States",
+  "drive_min": 3092,
+  "drive_mi": 2804,
+  "drive_min_clemson": 3011,
+  "drive_mi_clemson": 2744
  },
  "Marfa|Texas": {
   "lat": 30.3117621,
@@ -3710,7 +3726,11 @@
  "Oak Harbor|Washington": {
   "lat": 48.2931559,
   "lon": -122.643224,
-  "name": "Oak Harbor, Island County, Washington, United States"
+  "name": "Oak Harbor, Island County, Washington, United States",
+  "drive_min": 3132,
+  "drive_mi": 2896,
+  "drive_min_clemson": 3051,
+  "drive_mi_clemson": 2836
  },
  "Oakland|California": {
   "lat": 37.8044557,
@@ -3840,7 +3860,11 @@
  "Paradise|Washington": {
   "lat": 46.7863468,
   "lon": -121.7360372,
-  "name": "Paradise, Pierce County, Washington, United States"
+  "name": "Paradise, Pierce County, Washington, United States",
+  "drive_min": 3016,
+  "drive_mi": 2782,
+  "drive_min_clemson": 2935,
+  "drive_mi_clemson": 2722
  },
  "Park City|Utah": {
   "lat": 40.6460921,
@@ -3978,7 +4002,11 @@
  "Pullman|Washington": {
   "lat": 46.7295818,
   "lon": -117.1799363,
-  "name": "Pullman, Whitman County, Washington, United States"
+  "name": "Pullman, Whitman County, Washington, United States",
+  "drive_min": 2801,
+  "drive_mi": 2593,
+  "drive_min_clemson": 2720,
+  "drive_mi_clemson": 2533
  },
  "Punta Gorda|Florida": {
   "lat": 26.9351529,
@@ -4229,7 +4257,11 @@
  "Seattle|Washington": {
   "lat": 47.6038321,
   "lon": -122.330062,
-  "name": "Seattle, King County, Washington, United States"
+  "name": "Seattle, King County, Washington, United States",
+  "drive_min": 3020,
+  "drive_mi": 2813,
+  "drive_min_clemson": 2938,
+  "drive_mi_clemson": 2753
  },
  "Sedona|Arizona": {
   "lat": 34.8688613,
@@ -4298,7 +4330,11 @@
  "Snoqualmie|Washington": {
   "lat": 47.5289527,
   "lon": -121.827093,
-  "name": "Snoqualmie, King County, Washington, 98065, United States"
+  "name": "Snoqualmie, King County, Washington, 98065, United States",
+  "drive_min": 2993,
+  "drive_mi": 2788,
+  "drive_min_clemson": 2912,
+  "drive_mi_clemson": 2728
  },
  "Somerville|Massachusetts": {
   "lat": 42.3875968,
@@ -11207,5 +11243,158 @@
   "drive_mi": 2216,
   "drive_min_clemson": 2196,
   "drive_mi_clemson": 2098
+ },
+ "Aberdeen|Washington": {
+  "lat": 46.975371,
+  "lon": -123.815722,
+  "name": "Aberdeen, Grays Harbor County, Washington, 98520, United States",
+  "drive_min": 3116,
+  "drive_mi": 2906,
+  "drive_min_clemson": 3035,
+  "drive_mi_clemson": 2846
+ },
+ "Bellingham|Washington": {
+  "lat": 48.7544012,
+  "lon": -122.478836,
+  "name": "Bellingham, Whatcom County, Washington, United States",
+  "drive_min": 3120,
+  "drive_mi": 2896,
+  "drive_min_clemson": 3038,
+  "drive_mi_clemson": 2836
+ },
+ "Chelan|Washington": {
+  "lat": 47.8012197,
+  "lon": -120.6276904,
+  "name": "Chelan County, Washington, United States",
+  "drive_min": 2973,
+  "drive_mi": 2744,
+  "drive_min_clemson": 2892,
+  "drive_mi_clemson": 2684
+ },
+ "Everett|Washington": {
+  "lat": 47.9793437,
+  "lon": -122.2127011,
+  "name": "Everett, Snohomish County, Washington, United States",
+  "drive_min": 3049,
+  "drive_mi": 2835,
+  "drive_min_clemson": 2967,
+  "drive_mi_clemson": 2775
+ },
+ "Glacier|Washington": {
+  "lat": 48.890405,
+  "lon": -121.9405606,
+  "name": "Glacier, Whatcom County, Washington, United States",
+  "drive_min": 3164,
+  "drive_mi": 2919,
+  "drive_min_clemson": 3083,
+  "drive_mi_clemson": 2859
+ },
+ "Moxee|Washington": {
+  "lat": 46.5537388,
+  "lon": -120.383116,
+  "name": "Moxee, Yakima County, Washington, United States",
+  "drive_min": 2864,
+  "drive_mi": 2684,
+  "drive_min_clemson": 2782,
+  "drive_mi_clemson": 2624
+ },
+ "Mukilteo|Washington": {
+  "lat": 47.9474034,
+  "lon": -122.3036992,
+  "name": "Mukilteo, Snohomish County, Washington, United States",
+  "drive_min": 3048,
+  "drive_mi": 2833,
+  "drive_min_clemson": 2967,
+  "drive_mi_clemson": 2773
+ },
+ "Neah Bay|Washington": {
+  "lat": 48.359173,
+  "lon": -124.6108094,
+  "name": "Neah Bay, Clallam County, Washington, 98357, United States",
+  "drive_min": 3304,
+  "drive_mi": 3001,
+  "drive_min_clemson": 3222,
+  "drive_mi_clemson": 2941
+ },
+ "Port Angeles|Washington": {
+  "lat": 48.118146,
+  "lon": -123.430741,
+  "name": "Port Angeles, Clallam County, Washington, 98362, United States",
+  "drive_min": 3184,
+  "drive_mi": 2931,
+  "drive_min_clemson": 3103,
+  "drive_mi_clemson": 2871
+ },
+ "Quinault|Washington": {
+  "lat": 47.4670312,
+  "lon": -123.8454552,
+  "name": "Quinault, Grays Harbor County, Washington, 98575, United States",
+  "drive_min": 3182,
+  "drive_mi": 2950,
+  "drive_min_clemson": 3101,
+  "drive_mi_clemson": 2890
+ },
+ "Sequim|Washington": {
+  "lat": 48.0849312,
+  "lon": -123.1096706,
+  "name": "Sequim, Clallam County, Washington, United States",
+  "drive_min": 3162,
+  "drive_mi": 2916,
+  "drive_min_clemson": 3081,
+  "drive_mi_clemson": 2856
+ },
+ "Spokane|Washington": {
+  "lat": 47.6571934,
+  "lon": -117.42351,
+  "name": "Spokane, Spokane County, Washington, United States",
+  "drive_min": 2715,
+  "drive_mi": 2535,
+  "drive_min_clemson": 2634,
+  "drive_mi_clemson": 2475
+ },
+ "Tacoma|Washington": {
+  "lat": 47.2455013,
+  "lon": -122.438329,
+  "name": "Tacoma, Pierce County, Washington, United States",
+  "drive_min": 3039,
+  "drive_mi": 2826,
+  "drive_min_clemson": 2958,
+  "drive_mi_clemson": 2766
+ },
+ "Toppenish|Washington": {
+  "lat": 46.3775015,
+  "lon": -120.308938,
+  "name": "Toppenish, Yakima County, Washington, United States",
+  "drive_min": 2849,
+  "drive_mi": 2673,
+  "drive_min_clemson": 2767,
+  "drive_mi_clemson": 2613
+ },
+ "Walla Walla|Washington": {
+  "lat": 46.2055155,
+  "lon": -118.5174284,
+  "name": "Walla Walla County, Washington, United States",
+  "drive_min": 2795,
+  "drive_mi": 2608,
+  "drive_min_clemson": 2714,
+  "drive_mi_clemson": 2548
+ },
+ "Westport|Washington": {
+  "lat": 46.889789,
+  "lon": -124.110419,
+  "name": "Westport, Grays Harbor County, Washington, 98595, United States",
+  "drive_min": 3155,
+  "drive_mi": 2927,
+  "drive_min_clemson": 3074,
+  "drive_mi_clemson": 2867
+ },
+ "Yakima|Washington": {
+  "lat": 46.601557,
+  "lon": -120.510842,
+  "name": "Yakima, Yakima County, Washington, United States",
+  "drive_min": 2868,
+  "drive_mi": 2690,
+  "drive_min_clemson": 2787,
+  "drive_mi_clemson": 2630
  }
 }
