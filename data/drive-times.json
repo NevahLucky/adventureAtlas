@@ -18080,5 +18080,68 @@
   "drive_mi": 349,
   "drive_min_clemson": 430,
   "drive_mi_clemson": 457
+ },
+ "Fishersville|Virginia": {
+  "lat": 38.103325,
+  "lon": -78.9853107,
+  "name": "Fishersville, Augusta County, Virginia, 22939, United States",
+  "drive_min": 273,
+  "drive_mi": 290,
+  "drive_min_clemson": 378,
+  "drive_mi_clemson": 398
+ },
+ "Fort Defiance|Virginia": {
+  "lat": 38.2404078,
+  "lon": -78.9719724,
+  "name": "Fort Defiance, Mount Sidney, Augusta County, Virginia, 24467, United States",
+  "drive_min": 277,
+  "drive_mi": 296,
+  "drive_min_clemson": 382,
+  "drive_mi_clemson": 404
+ },
+ "Grottoes|Virginia": {
+  "lat": 38.2673517,
+  "lon": -78.8258585,
+  "name": "Grottoes, Rockingham County, Virginia, United States",
+  "drive_min": 286,
+  "drive_mi": 305,
+  "drive_min_clemson": 391,
+  "drive_mi_clemson": 414
+ },
+ "Lyndhurst|Virginia": {
+  "lat": 38.018939,
+  "lon": -78.9570182,
+  "name": "Lyndhurst, Augusta County, Virginia, United States",
+  "drive_min": 284,
+  "drive_mi": 291,
+  "drive_min_clemson": 389,
+  "drive_mi_clemson": 400
+ },
+ "Mount Crawford|Virginia": {
+  "lat": 38.3564677,
+  "lon": -78.9418566,
+  "name": "Mount Crawford, Rockingham County, Virginia, United States",
+  "drive_min": 284,
+  "drive_mi": 305,
+  "drive_min_clemson": 389,
+  "drive_mi_clemson": 414
+ },
+ "Mount Solon|Virginia": {
+  "lat": 38.3448488,
+  "lon": -79.085032,
+  "name": "Mount Solon, Augusta County, Virginia, 22843, United States",
+  "drive_min": 294,
+  "drive_mi": 308,
+  "drive_min_clemson": 399,
+  "drive_mi_clemson": 416
+ },
+ "Waynesboro|Virginia": {
+  "lat": 38.0686668,
+  "lon": -78.8893999,
+  "name": "Waynesboro, Virginia, 22980, United States",
+  "drive_min": 278,
+  "drive_mi": 296,
+  "drive_min_clemson": 383,
+  "drive_mi_clemson": 404
  }
 }
