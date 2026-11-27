@@ -2004,7 +2004,11 @@
  "Amarillo|Texas": {
   "lat": 35.20729,
   "lon": -101.8371192,
-  "name": "Amarillo, Potter County, Texas, United States"
+  "name": "Amarillo, Potter County, Texas, United States",
+  "drive_min": 1451,
+  "drive_mi": 1348,
+  "drive_min_clemson": 1310,
+  "drive_mi_clemson": 1230
  },
  "Anaheim|California": {
   "lat": 33.8347516,
@@ -2066,7 +2070,11 @@
  "Austin|Texas": {
   "lat": 30.2649261,
   "lon": -97.7474086,
-  "name": "Austin, Travis County, Texas, United States"
+  "name": "Austin, Travis County, Texas, United States",
+  "drive_min": 1298,
+  "drive_mi": 1165,
+  "drive_min_clemson": 1157,
+  "drive_mi_clemson": 1047
  },
  "Avery Island|Louisiana": {
   "lat": 29.8985393,
@@ -2297,7 +2305,11 @@
  "Canyon|Texas": {
   "lat": 34.9789849,
   "lon": -101.9281915,
-  "name": "Canyon, Randall County, Texas, 79016, United States"
+  "name": "Canyon, Randall County, Texas, 79016, United States",
+  "drive_min": 1470,
+  "drive_mi": 1365,
+  "drive_min_clemson": 1329,
+  "drive_mi_clemson": 1247
  },
  "Cape Canaveral|Florida": {
   "lat": 28.4513556,
@@ -2516,7 +2528,11 @@
  "Dallas|Texas": {
   "lat": 32.7762719,
   "lon": -96.7968559,
-  "name": "Dallas, Dallas County, Texas, United States"
+  "name": "Dallas, Dallas County, Texas, United States",
+  "drive_min": 1132,
+  "drive_mi": 1025,
+  "drive_min_clemson": 991,
+  "drive_mi_clemson": 908
  },
  "Dalton|New Hampshire": {
   "lat": 44.415493,
@@ -2593,7 +2609,11 @@
  "Dripping Springs|Texas": {
   "lat": 30.1902067,
   "lon": -98.0866781,
-  "name": "Dripping Springs, Hays County, Texas, United States"
+  "name": "Dripping Springs, Hays County, Texas, United States",
+  "drive_min": 1325,
+  "drive_mi": 1186,
+  "drive_min_clemson": 1184,
+  "drive_mi_clemson": 1068
  },
  "Dundee|Oregon": {
   "lat": 45.2781659,
@@ -2708,7 +2728,11 @@
  "Fort Worth|Texas": {
   "lat": 32.753177,
   "lon": -97.3327459,
-  "name": "Fort Worth, Tarrant County, Texas, United States"
+  "name": "Fort Worth, Tarrant County, Texas, United States",
+  "drive_min": 1170,
+  "drive_mi": 1057,
+  "drive_min_clemson": 1029,
+  "drive_mi_clemson": 940
  },
  "Frankenmuth|Michigan": {
   "lat": 43.3323684,
@@ -2718,7 +2742,11 @@
  "Fredericksburg|Texas": {
   "lat": 30.2752011,
   "lon": -98.8719843,
-  "name": "Fredericksburg, Gillespie County, Texas, United States"
+  "name": "Fredericksburg, Gillespie County, Texas, United States",
+  "drive_min": 1386,
+  "drive_mi": 1229,
+  "drive_min_clemson": 1245,
+  "drive_mi_clemson": 1112
  },
  "Friday Harbor|Washington": {
   "lat": 48.5342662,
@@ -2881,7 +2909,11 @@
  "Houston|Texas": {
   "lat": 29.7589382,
   "lon": -95.3676974,
-  "name": "Houston, Harris County, Texas, United States"
+  "name": "Houston, Harris County, Texas, United States",
+  "drive_min": 1149,
+  "drive_mi": 1035,
+  "drive_min_clemson": 1008,
+  "drive_mi_clemson": 917
  },
  "Hutchinson|Kansas": {
   "lat": 38.0608444,
@@ -3161,7 +3193,11 @@
  "Marfa|Texas": {
   "lat": 30.3117621,
   "lon": -104.023146,
-  "name": "Marfa, Presidio County, Texas, 79843, United States"
+  "name": "Marfa, Presidio County, Texas, 79843, United States",
+  "drive_min": 1681,
+  "drive_mi": 1547,
+  "drive_min_clemson": 1540,
+  "drive_mi_clemson": 1429
  },
  "Margate|New Jersey": {
   "lat": 39.327894,
@@ -3362,7 +3398,11 @@
  "New Braunfels|Texas": {
   "lat": 29.7028266,
   "lon": -98.1257348,
-  "name": "New Braunfels, Comal County, Texas, United States"
+  "name": "New Braunfels, Comal County, Texas, United States",
+  "drive_min": 1338,
+  "drive_mi": 1208,
+  "drive_min_clemson": 1197,
+  "drive_mi_clemson": 1090
  },
  "New Haven|Connecticut": {
   "lat": 41.3082138,
@@ -3643,7 +3683,11 @@
  "Port Lavaca|Texas": {
   "lat": 28.6149968,
   "lon": -96.6260892,
-  "name": "Port Lavaca, Calhoun County, Texas, United States"
+  "name": "Port Lavaca, Calhoun County, Texas, United States",
+  "drive_min": 1317,
+  "drive_mi": 1161,
+  "drive_min_clemson": 1176,
+  "drive_mi_clemson": 1044
  },
  "Portage|Alaska": {
   "lat": 61.669634,
@@ -3800,7 +3844,11 @@
  "San Antonio|Texas": {
   "lat": 29.4246002,
   "lon": -98.4951405,
-  "name": "San Antonio, Bexar County, Texas, United States"
+  "name": "San Antonio, Bexar County, Texas, United States",
+  "drive_min": 1355,
+  "drive_mi": 1229,
+  "drive_min_clemson": 1214,
+  "drive_mi_clemson": 1111
  },
  "San Clemente|California": {
   "lat": 33.4270275,
@@ -4099,7 +4147,11 @@
  "Terlingua|Texas": {
   "lat": 29.321586,
   "lon": -103.616019,
-  "name": "Terlingua, Brewster County, Texas, United States"
+  "name": "Terlingua, Brewster County, Texas, United States",
+  "drive_min": 1786,
+  "drive_mi": 1602,
+  "drive_min_clemson": 1645,
+  "drive_mi_clemson": 1485
  },
  "Terrebonne|Oregon": {
   "lat": 44.3554551,
@@ -9340,5 +9392,68 @@
   "drive_mi": 442,
   "drive_min_clemson": 640,
   "drive_mi_clemson": 551
+ },
+ "Alamo|Texas": {
+  "lat": 26.1836854,
+  "lon": -98.1230638,
+  "name": "Alamo, Hidalgo County, Texas, 78516, United States",
+  "drive_min": 1544,
+  "drive_mi": 1383,
+  "drive_min_clemson": 1403,
+  "drive_mi_clemson": 1265
+ },
+ "Corpus Christi|Texas": {
+  "lat": 27.7635302,
+  "lon": -97.4033191,
+  "name": "Corpus Christi, Nueces County, Texas, United States",
+  "drive_min": 1394,
+  "drive_mi": 1245,
+  "drive_min_clemson": 1253,
+  "drive_mi_clemson": 1127
+ },
+ "El Paso|Texas": {
+  "lat": 31.7601001,
+  "lon": -106.4870476,
+  "name": "El Paso, El Paso County, Texas, United States",
+  "drive_min": 1766,
+  "drive_mi": 1661,
+  "drive_min_clemson": 1625,
+  "drive_mi_clemson": 1543
+ },
+ "Galveston|Texas": {
+  "lat": 29.3872254,
+  "lon": -94.992736,
+  "name": "Galveston County, Texas, United States",
+  "drive_min": 1168,
+  "drive_mi": 1044,
+  "drive_min_clemson": 1027,
+  "drive_mi_clemson": 926
+ },
+ "Lubbock|Texas": {
+  "lat": 33.5855677,
+  "lon": -101.8470215,
+  "name": "Lubbock, Lubbock County, Texas, United States",
+  "drive_min": 1488,
+  "drive_mi": 1372,
+  "drive_min_clemson": 1347,
+  "drive_mi_clemson": 1254
+ },
+ "McAllen|Texas": {
+  "lat": 26.204114,
+  "lon": -98.2300605,
+  "name": "McAllen, Hidalgo County, Texas, United States",
+  "drive_min": 1544,
+  "drive_mi": 1383,
+  "drive_min_clemson": 1403,
+  "drive_mi_clemson": 1265
+ },
+ "Weslaco|Texas": {
+  "lat": 26.1594305,
+  "lon": -97.9907362,
+  "name": "Weslaco, Hidalgo County, Texas, United States",
+  "drive_min": 1539,
+  "drive_mi": 1380,
+  "drive_min_clemson": 1398,
+  "drive_mi_clemson": 1262
  }
 }
