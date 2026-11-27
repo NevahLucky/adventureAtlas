@@ -2260,7 +2260,11 @@
  "Bozeman|Montana": {
   "lat": 45.6794293,
   "lon": -111.044047,
-  "name": "Bozeman, Gallatin County, Montana, United States"
+  "name": "Bozeman, Gallatin County, Montana, United States",
+  "drive_min": 2311,
+  "drive_mi": 2136,
+  "drive_min_clemson": 2229,
+  "drive_mi_clemson": 2076
  },
  "Branson|Missouri": {
   "lat": 36.6440772,
@@ -2329,7 +2333,11 @@
  "Butte|Montana": {
   "lat": 46.0131505,
   "lon": -112.536508,
-  "name": "Butte, Silver Bow County, Montana, United States"
+  "name": "Butte, Silver Bow County, Montana, United States",
+  "drive_min": 2393,
+  "drive_mi": 2221,
+  "drive_min_clemson": 2312,
+  "drive_mi_clemson": 2161
  },
  "Camden|Maine": {
   "lat": 44.2154945,
@@ -2445,7 +2453,11 @@
  "Cheyenne|Wyoming": {
   "lat": 41.139981,
   "lon": -104.820246,
-  "name": "Cheyenne, Laramie County, Wyoming, United States"
+  "name": "Cheyenne, Laramie County, Wyoming, United States",
+  "drive_min": 1771,
+  "drive_mi": 1611,
+  "drive_min_clemson": 1690,
+  "drive_mi_clemson": 1551
  },
  "Chicago|Illinois": {
   "lat": 41.8755616,
@@ -2479,7 +2491,11 @@
  "Cody|Wyoming": {
   "lat": 44.5263107,
   "lon": -109.056392,
-  "name": "Cody, Park County, Wyoming, United States"
+  "name": "Cody, Park County, Wyoming, United States",
+  "drive_min": 2192,
+  "drive_mi": 2003,
+  "drive_min_clemson": 2111,
+  "drive_mi_clemson": 1943
  },
  "Collinsville|Illinois": {
   "lat": 38.6703267,
@@ -2569,7 +2585,11 @@
  "Crow Agency|Montana": {
   "lat": 45.6014832,
   "lon": -107.4611372,
-  "name": "Crow Agency, Big Horn County, Montana, 59022, United States"
+  "name": "Crow Agency, Big Horn County, Montana, 59022, United States",
+  "drive_min": 2110,
+  "drive_mi": 1935,
+  "drive_min_clemson": 2029,
+  "drive_mi_clemson": 1875
  },
  "Crystal River|Florida": {
   "lat": 28.902479,
@@ -2658,7 +2678,11 @@
  "Devils Tower|Wyoming": {
   "lat": 44.5906122,
   "lon": -104.715103,
-  "name": "Devils Tower, Crook County, Wyoming, United States"
+  "name": "Devils Tower, Crook County, Wyoming, United States",
+  "drive_min": 1933,
+  "drive_mi": 1786,
+  "drive_min_clemson": 1852,
+  "drive_mi_clemson": 1726
  },
  "Dodge City|Kansas": {
   "lat": 37.7527982,
@@ -2845,7 +2869,11 @@
  "Gardiner|Wyoming": {
   "lat": 44.9790735,
   "lon": -110.6996225,
-  "name": "Old Gardiner Road, Mammoth, Park County, Wyoming, United States"
+  "name": "Old Gardiner Road, Mammoth, Park County, Wyoming, United States",
+  "drive_min": 2357,
+  "drive_mi": 2169,
+  "drive_min_clemson": 2275,
+  "drive_mi_clemson": 2109
  },
  "Gerlach|Nevada": {
   "lat": 40.651812,
@@ -2957,7 +2985,11 @@
  "Helena|Montana": {
   "lat": 46.5927425,
   "lon": -112.036277,
-  "name": "Helena, Lewis and Clark County, Montana, United States"
+  "name": "Helena, Lewis and Clark County, Montana, United States",
+  "drive_min": 2417,
+  "drive_mi": 2233,
+  "drive_min_clemson": 2336,
+  "drive_mi_clemson": 2173
  },
  "Henderson|Nevada": {
   "lat": 36.0301388,
@@ -3446,7 +3478,11 @@
  "Moose|Wyoming": {
   "lat": 43.6559315,
   "lon": -110.7164398,
-  "name": "Moose, Teton County, Wyoming, United States"
+  "name": "Moose, Teton County, Wyoming, United States",
+  "drive_min": 2251,
+  "drive_mi": 2055,
+  "drive_min_clemson": 2170,
+  "drive_mi_clemson": 1995
  },
  "Morrison|Colorado": {
   "lat": 39.6535988,
@@ -3815,7 +3851,11 @@
  "Pinedale|Wyoming": {
   "lat": 42.8671325,
   "lon": -109.8609808,
-  "name": "Pinedale, Sublette County, Wyoming, 82941, United States"
+  "name": "Pinedale, Sublette County, Wyoming, 82941, United States",
+  "drive_min": 2134,
+  "drive_mi": 1964,
+  "drive_min_clemson": 2053,
+  "drive_mi_clemson": 1904
  },
  "Pittsburgh|Pennsylvania": {
   "lat": 40.4406968,
@@ -3931,12 +3971,20 @@
  "Rawlins|Wyoming": {
   "lat": 41.7907878,
   "lon": -107.239176,
-  "name": "Rawlins, Carbon County, Wyoming, 83512, United States"
+  "name": "Rawlins, Carbon County, Wyoming, 83512, United States",
+  "drive_min": 1918,
+  "drive_mi": 1758,
+  "drive_min_clemson": 1837,
+  "drive_mi_clemson": 1698
  },
  "Red Lodge|Montana": {
   "lat": 45.1859038,
   "lon": -109.2470622,
-  "name": "Red Lodge, Carbon County, Montana, 59068, United States"
+  "name": "Red Lodge, Carbon County, Montana, 59068, United States",
+  "drive_min": 2246,
+  "drive_mi": 2054,
+  "drive_min_clemson": 2165,
+  "drive_mi_clemson": 1994
  },
  "Redcrest|California": {
   "lat": 40.3989695,
@@ -4397,7 +4445,11 @@
  "Teton Village|Wyoming": {
   "lat": 43.587984,
   "lon": -110.827989,
-  "name": "Teton Village, Teton County, Wyoming, 83025, United States"
+  "name": "Teton Village, Teton County, Wyoming, 83025, United States",
+  "drive_min": 2245,
+  "drive_mi": 2051,
+  "drive_min_clemson": 2163,
+  "drive_mi_clemson": 1991
  },
  "Thomaston|Maine": {
   "lat": 44.0789631,
@@ -4562,7 +4614,11 @@
  "West Glacier|Montana": {
   "lat": 48.4963369,
   "lon": -113.982443,
-  "name": "West Glacier, Flathead County, Montana, 59936, United States"
+  "name": "West Glacier, Flathead County, Montana, 59936, United States",
+  "drive_min": 2573,
+  "drive_mi": 2340,
+  "drive_min_clemson": 2532,
+  "drive_mi_clemson": 2276
  },
  "Weston|Vermont": {
   "lat": 43.2917153,
@@ -10531,5 +10587,212 @@
   "drive_mi": 2400,
   "drive_min_clemson": 2466,
   "drive_mi_clemson": 2340
+ },
+ "Afton|Wyoming": {
+  "lat": 42.7252774,
+  "lon": -110.933402,
+  "name": "Afton, Lincoln County, Wyoming, 83110, United States",
+  "drive_min": 2218,
+  "drive_mi": 2045,
+  "drive_min_clemson": 2137,
+  "drive_mi_clemson": 1985
+ },
+ "Buffalo|Wyoming": {
+  "lat": 44.3480865,
+  "lon": -106.699287,
+  "name": "Buffalo, Johnson County, Wyoming, 82834, United States",
+  "drive_min": 2022,
+  "drive_mi": 1887,
+  "drive_min_clemson": 1941,
+  "drive_mi_clemson": 1827
+ },
+ "Casper|Wyoming": {
+  "lat": 42.8501191,
+  "lon": -106.325138,
+  "name": "Casper, Natrona County, Wyoming, United States",
+  "drive_min": 1947,
+  "drive_mi": 1789,
+  "drive_min_clemson": 1866,
+  "drive_mi_clemson": 1729
+ },
+ "Douglas|Wyoming": {
+  "lat": 42.7595708,
+  "lon": -105.382624,
+  "name": "Douglas, Converse County, Wyoming, 82633, United States",
+  "drive_min": 1897,
+  "drive_mi": 1739,
+  "drive_min_clemson": 1815,
+  "drive_mi_clemson": 1679
+ },
+ "Evanston|Wyoming": {
+  "lat": 41.2682462,
+  "lon": -110.963758,
+  "name": "Evanston, Uinta County, Wyoming, United States",
+  "drive_min": 2121,
+  "drive_mi": 1966,
+  "drive_min_clemson": 2040,
+  "drive_mi_clemson": 1906
+ },
+ "Fort Bridger|Wyoming": {
+  "lat": 41.3167955,
+  "lon": -110.3924852,
+  "name": "Fort Bridger, Uinta County, Wyoming, United States",
+  "drive_min": 2095,
+  "drive_mi": 1937,
+  "drive_min_clemson": 2014,
+  "drive_mi_clemson": 1877
+ },
+ "Fort Laramie|Wyoming": {
+  "lat": 42.21271,
+  "lon": -104.51774,
+  "name": "Fort Laramie, Goshen County, Wyoming, United States",
+  "drive_min": 1818,
+  "drive_mi": 1616,
+  "drive_min_clemson": 1737,
+  "drive_mi_clemson": 1556
+ },
+ "Gillette|Wyoming": {
+  "lat": 44.290635,
+  "lon": -105.501876,
+  "name": "Gillette, Campbell County, Wyoming, 82718, United States",
+  "drive_min": 1956,
+  "drive_mi": 1817,
+  "drive_min_clemson": 1875,
+  "drive_mi_clemson": 1757
+ },
+ "Green River|Wyoming": {
+  "lat": 41.5290933,
+  "lon": -109.466473,
+  "name": "Green River, Sweetwater County, Wyoming, 82935, United States",
+  "drive_min": 2038,
+  "drive_mi": 1881,
+  "drive_min_clemson": 1957,
+  "drive_mi_clemson": 1821
+ },
+ "Guernsey|Wyoming": {
+  "lat": 42.269465,
+  "lon": -104.741472,
+  "name": "Guernsey, Platte County, Wyoming, 82214, United States",
+  "drive_min": 1833,
+  "drive_mi": 1629,
+  "drive_min_clemson": 1752,
+  "drive_mi_clemson": 1569
+ },
+ "Kemmerer|Wyoming": {
+  "lat": 41.7924606,
+  "lon": -110.537711,
+  "name": "Kemmerer, Lincoln County, Wyoming, United States",
+  "drive_min": 2113,
+  "drive_mi": 1951,
+  "drive_min_clemson": 2032,
+  "drive_mi_clemson": 1891
+ },
+ "Lander|Wyoming": {
+  "lat": 42.8330755,
+  "lon": -108.730702,
+  "name": "Lander, Fremont County, Wyoming, 82520, United States",
+  "drive_min": 2083,
+  "drive_mi": 1881,
+  "drive_min_clemson": 2002,
+  "drive_mi_clemson": 1821
+ },
+ "Laramie|Wyoming": {
+  "lat": 41.3116442,
+  "lon": -105.5917876,
+  "name": "Laramie, Albany County, Wyoming, United States",
+  "drive_min": 1820,
+  "drive_mi": 1659,
+  "drive_min_clemson": 1739,
+  "drive_mi_clemson": 1599
+ },
+ "Lovell|Wyoming": {
+  "lat": 44.8376366,
+  "lon": -108.3935565,
+  "name": "Lovell, Big Horn County, Wyoming, 82431, United States",
+  "drive_min": 2183,
+  "drive_mi": 2020,
+  "drive_min_clemson": 2102,
+  "drive_mi_clemson": 1960
+ },
+ "Riverton|Wyoming": {
+  "lat": 43.0247245,
+  "lon": -108.380727,
+  "name": "Riverton, Fremont County, Wyoming, 82501, United States",
+  "drive_min": 2083,
+  "drive_mi": 1879,
+  "drive_min_clemson": 2001,
+  "drive_mi_clemson": 1819
+ },
+ "Rock Springs|Wyoming": {
+  "lat": 41.5860557,
+  "lon": -109.2194544,
+  "name": "Rock Springs, Sweetwater County, Wyoming, 82901, United States",
+  "drive_min": 2023,
+  "drive_mi": 1866,
+  "drive_min_clemson": 1941,
+  "drive_mi_clemson": 1806
+ },
+ "Sheridan|Wyoming": {
+  "lat": 44.7947537,
+  "lon": -106.8222688,
+  "name": "Sheridan County, Wyoming, United States",
+  "drive_min": 2103,
+  "drive_mi": 1928,
+  "drive_min_clemson": 2022,
+  "drive_mi_clemson": 1868
+ },
+ "South Pass City|Wyoming": {
+  "lat": 42.4691854,
+  "lon": -108.8032148,
+  "name": "South Pass City, Fremont County, Wyoming, United States",
+  "drive_min": 2108,
+  "drive_mi": 1898,
+  "drive_min_clemson": 2026,
+  "drive_mi_clemson": 1837
+ },
+ "Ten Sleep|Wyoming": {
+  "lat": 44.034183,
+  "lon": -107.448002,
+  "name": "Ten Sleep, Washakie County, Wyoming, United States",
+  "drive_min": 2116,
+  "drive_mi": 1951,
+  "drive_min_clemson": 2034,
+  "drive_mi_clemson": 1891
+ },
+ "Thermopolis|Wyoming": {
+  "lat": 43.646067,
+  "lon": -108.212043,
+  "name": "Thermopolis, Hot Springs County, Wyoming, 82443, United States",
+  "drive_min": 2098,
+  "drive_mi": 1919,
+  "drive_min_clemson": 2017,
+  "drive_mi_clemson": 1859
+ },
+ "Virginia City|Montana": {
+  "lat": 45.2935505,
+  "lon": -111.9442329,
+  "name": "Virginia City, Madison County, Montana, 59755, United States",
+  "drive_min": 2409,
+  "drive_mi": 2204,
+  "drive_min_clemson": 2328,
+  "drive_mi_clemson": 2144
+ },
+ "Whitehall|Montana": {
+  "lat": 45.87076,
+  "lon": -112.097494,
+  "name": "Whitehall, Jefferson County, Montana, United States",
+  "drive_min": 2366,
+  "drive_mi": 2195,
+  "drive_min_clemson": 2285,
+  "drive_mi_clemson": 2135
+ },
+ "Worland|Wyoming": {
+  "lat": 44.0168463,
+  "lon": -107.955772,
+  "name": "Worland, Washakie County, Wyoming, 82401, United States",
+  "drive_min": 2139,
+  "drive_mi": 1952,
+  "drive_min_clemson": 2058,
+  "drive_mi_clemson": 1892
  }
 }
