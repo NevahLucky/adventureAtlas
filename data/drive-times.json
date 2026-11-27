@@ -13414,5 +13414,75 @@
   "drive_mi": 522,
   "drive_min_clemson": 761,
   "drive_mi_clemson": 634
+ },
+ "Hilo|Hawaii": {
+  "lat": 19.7073734,
+  "lon": -155.08158,
+  "name": "Hilo, Hawaiʻi County, Hawaii, 96720, United States"
+ },
+ "Honomu|Hawaii": {
+  "lat": 19.8691809,
+  "lon": -155.1115051,
+  "name": "Honomu, Hawaiʻi County, Hawaii, 96728, United States"
+ },
+ "Idaho Falls|Idaho": {
+  "lat": 43.4887907,
+  "lon": -112.03628,
+  "name": "Idaho Falls, Bonneville County, Idaho, United States",
+  "drive_min": 2331,
+  "drive_mi": 2122,
+  "drive_min_clemson": 2250,
+  "drive_mi_clemson": 2062
+ },
+ "Laie|Hawaii": {
+  "lat": 21.643463,
+  "lon": -157.9281979,
+  "name": "Laie, Temple View Apartments, Laie, Honolulu County, Hawaii, 96762, United State"
+ },
+ "Lihue|Hawaii": {
+  "lat": 21.9715697,
+  "lon": -159.3525428,
+  "name": "Lihue, Kauaʻi County, Hawaii, 96766, United States"
+ },
+ "Narragansett|Rhode Island": {
+  "lat": 41.4325574,
+  "lon": -71.4579836,
+  "name": "Narragansett, South County, Rhode Island, United States",
+  "drive_min": 972,
+  "drive_mi": 801,
+  "drive_min_clemson": 1106,
+  "drive_mi_clemson": 913
+ },
+ "Sandpoint|Idaho": {
+  "lat": 48.2761306,
+  "lon": -116.5487835,
+  "name": "Sandpoint, Bonner County, Idaho, United States",
+  "drive_min": 2733,
+  "drive_mi": 2547,
+  "drive_min_clemson": 2652,
+  "drive_mi_clemson": 2487
+ },
+ "St. Charles|Idaho": {
+  "lat": 42.115055,
+  "lon": -111.3903022,
+  "name": "St. Charles, Bear Lake County, Idaho, 83272, United States",
+  "drive_min": 2192,
+  "drive_mi": 2016,
+  "drive_min_clemson": 2111,
+  "drive_mi_clemson": 1956
+ },
+ "Waikapu|Hawaii": {
+  "lat": 20.8549877,
+  "lon": -156.5035434,
+  "name": "Waikapu, Maui County, Hawaii, 96793, United States"
+ },
+ "Woonsocket|Rhode Island": {
+  "lat": 42.0028761,
+  "lon": -71.5147839,
+  "name": "Woonsocket, Providence County, Rhode Island, 02895, United States",
+  "drive_min": 997,
+  "drive_mi": 828,
+  "drive_min_clemson": 1131,
+  "drive_mi_clemson": 940
  }
 }
