@@ -18323,5 +18323,104 @@
   "drive_mi": 211,
   "drive_min_clemson": 256,
   "drive_mi_clemson": 251
+ },
+ "Austinville|Virginia": {
+  "lat": 36.851331,
+  "lon": -80.9143144,
+  "name": "Austinville, Wythe County, Virginia, United States",
+  "drive_min": 136,
+  "drive_mi": 141,
+  "drive_min_clemson": 241,
+  "drive_mi_clemson": 250
+ },
+ "Bastian|Virginia": {
+  "lat": 37.155124,
+  "lon": -81.1512098,
+  "name": "Bastian, Bland County, Virginia, United States",
+  "drive_min": 164,
+  "drive_mi": 174,
+  "drive_min_clemson": 269,
+  "drive_mi_clemson": 283
+ },
+ "Bland|Virginia": {
+  "lat": 37.1312101,
+  "lon": -81.1154109,
+  "name": "Bland County, Virginia, United States",
+  "drive_min": 165,
+  "drive_mi": 170,
+  "drive_min_clemson": 270,
+  "drive_mi_clemson": 278
+ },
+ "Bristol|Virginia": {
+  "lat": 36.5959685,
+  "lon": -82.1885009,
+  "name": "Bristol, Virginia, 24201, United States",
+  "drive_min": 181,
+  "drive_mi": 169,
+  "drive_min_clemson": 180,
+  "drive_mi_clemson": 171
+ },
+ "Damascus|Virginia": {
+  "lat": 36.6350101,
+  "lon": -81.7887841,
+  "name": "Damascus, Washington County, Virginia, United States",
+  "drive_min": 162,
+  "drive_mi": 150,
+  "drive_min_clemson": 215,
+  "drive_mi_clemson": 190
+ },
+ "Elk Creek|Virginia": {
+  "lat": 36.7215113,
+  "lon": -81.1770379,
+  "name": "Elk Creek, Grayson County, Virginia, 24326, United States",
+  "drive_min": 151,
+  "drive_mi": 139,
+  "drive_min_clemson": 256,
+  "drive_mi_clemson": 248
+ },
+ "Galax|Virginia": {
+  "lat": 36.6612387,
+  "lon": -80.9239671,
+  "name": "Galax, Virginia, 24333, United States",
+  "drive_min": 129,
+  "drive_mi": 128,
+  "drive_min_clemson": 234,
+  "drive_mi_clemson": 236
+ },
+ "Hillsville|Virginia": {
+  "lat": 36.7662528,
+  "lon": -80.7370242,
+  "name": "Hillsville, Carroll County, Virginia, 24343, United States",
+  "drive_min": 123,
+  "drive_mi": 131,
+  "drive_min_clemson": 228,
+  "drive_mi_clemson": 239
+ },
+ "Marion|Virginia": {
+  "lat": 36.8331284,
+  "lon": -81.519515,
+  "name": "Marion, Smyth County, Virginia, 24354, United States",
+  "drive_min": 171,
+  "drive_mi": 183,
+  "drive_min_clemson": 225,
+  "drive_mi_clemson": 225
+ },
+ "Saltville|Virginia": {
+  "lat": 36.8803421,
+  "lon": -81.7643647,
+  "name": "Saltville, Smyth County, Virginia, 24370, United States",
+  "drive_min": 193,
+  "drive_mi": 201,
+  "drive_min_clemson": 224,
+  "drive_mi_clemson": 219
+ },
+ "Wytheville|Virginia": {
+  "lat": 36.9479966,
+  "lon": -81.0869747,
+  "name": "Wytheville, Wythe County, Virginia, 24382, United States",
+  "drive_min": 148,
+  "drive_mi": 156,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 252
  }
 }
