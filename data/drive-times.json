@@ -17216,5 +17216,95 @@
   "drive_mi": 286,
   "drive_min_clemson": 371,
   "drive_mi_clemson": 397
+ },
+ "Cooleemee|North Carolina": {
+  "lat": 35.810362,
+  "lon": -80.5561371,
+  "name": "Cooleemee, Davie County, North Carolina, 27014, United States",
+  "drive_min": 81,
+  "drive_mi": 75,
+  "drive_min_clemson": 189,
+  "drive_mi_clemson": 187
+ },
+ "Hiddenite|North Carolina": {
+  "lat": 35.9037438,
+  "lon": -81.0906356,
+  "name": "Hiddenite, Alexander County, North Carolina, 28636, United States",
+  "drive_min": 77,
+  "drive_mi": 76,
+  "drive_min_clemson": 176,
+  "drive_mi_clemson": 172
+ },
+ "Laurel Springs|North Carolina": {
+  "lat": 36.4125434,
+  "lon": -81.2637157,
+  "name": "Laurel Springs, Alleghany County, North Carolina, 28644, United States",
+  "drive_min": 132,
+  "drive_mi": 124,
+  "drive_min_clemson": 235,
+  "drive_mi_clemson": 210
+ },
+ "Lincolnton|North Carolina": {
+  "lat": 35.473745,
+  "lon": -81.2545251,
+  "name": "Lincolnton, Lincoln County, North Carolina, 28092, United States",
+  "drive_min": 51,
+  "drive_mi": 49,
+  "drive_min_clemson": 127,
+  "drive_mi_clemson": 126
+ },
+ "Mocksville|North Carolina": {
+  "lat": 35.8940236,
+  "lon": -80.5617846,
+  "name": "Mocksville, Davie County, North Carolina, United States",
+  "drive_min": 76,
+  "drive_mi": 78,
+  "drive_min_clemson": 181,
+  "drive_mi_clemson": 187
+ },
+ "Murphy|North Carolina": {
+  "lat": 35.0878514,
+  "lon": -84.0342238,
+  "name": "Murphy, Cherokee County, North Carolina, United States",
+  "drive_min": 236,
+  "drive_mi": 239,
+  "drive_min_clemson": 105,
+  "drive_mi_clemson": 93
+ },
+ "Sparta|North Carolina": {
+  "lat": 36.5054718,
+  "lon": -81.1207633,
+  "name": "Sparta, Alleghany County, North Carolina, 28675, United States",
+  "drive_min": 124,
+  "drive_mi": 119,
+  "drive_min_clemson": 229,
+  "drive_mi_clemson": 228
+ },
+ "Taylorsville|North Carolina": {
+  "lat": 35.9219402,
+  "lon": -81.1763421,
+  "name": "Taylorsville, Alexander County, North Carolina, United States",
+  "drive_min": 83,
+  "drive_mi": 82,
+  "drive_min_clemson": 171,
+  "drive_mi_clemson": 167
+ },
+ "West Jefferson|North Carolina": {
+  "lat": 36.4037364,
+  "lon": -81.4928829,
+  "name": "West Jefferson, Ashe County, North Carolina, United States",
+  "drive_min": 136,
+  "drive_mi": 138,
+  "drive_min_clemson": 216,
+  "drive_mi_clemson": 195
+ },
+ "Yadkinville|North Carolina": {
+  "lat": 36.1345807,
+  "lon": -80.6595079,
+  "name": "Yadkinville, Yadkin County, North Carolina, United States",
+  "drive_min": 87,
+  "drive_mi": 91,
+  "drive_min_clemson": 192,
+  "drive_mi_clemson": 199
  }
 }
