@@ -16343,5 +16343,158 @@
   "drive_mi": 197,
   "drive_min_clemson": 167,
   "drive_mi_clemson": 147
+ },
+ "Beersheba Springs|Tennessee": {
+  "lat": 35.4667379,
+  "lon": -85.6541419,
+  "name": "Beersheba Springs, Grundy County, Middle Tennessee, Tennessee, 37305, United Sta",
+  "drive_min": 389,
+  "drive_mi": 404,
+  "drive_min_clemson": 272,
+  "drive_mi_clemson": 246
+ },
+ "Cleveland|Tennessee": {
+  "lat": 35.1595182,
+  "lon": -84.8766115,
+  "name": "Cleveland, Bradley County, East Tennessee, Tennessee, United States",
+  "drive_min": 300,
+  "drive_mi": 298,
+  "drive_min_clemson": 169,
+  "drive_mi_clemson": 152
+ },
+ "Dayton|Tennessee": {
+  "lat": 35.4939587,
+  "lon": -85.0124535,
+  "name": "Dayton, Rhea County, East Tennessee, Tennessee, 37321, United States",
+  "drive_min": 310,
+  "drive_mi": 323,
+  "drive_min_clemson": 206,
+  "drive_mi_clemson": 179
+ },
+ "Decatur|Tennessee": {
+  "lat": 35.6067875,
+  "lon": -88.1083982,
+  "name": "Decatur County, West Tennessee, Tennessee, United States",
+  "drive_min": 491,
+  "drive_mi": 524,
+  "drive_min_clemson": 416,
+  "drive_mi_clemson": 412
+ },
+ "Dunlap|Tennessee": {
+  "lat": 35.3714575,
+  "lon": -85.3905209,
+  "name": "Dunlap, Sequatchie County, Middle Tennessee, Tennessee, 37327, United States",
+  "drive_min": 346,
+  "drive_mi": 358,
+  "drive_min_clemson": 232,
+  "drive_mi_clemson": 215
+ },
+ "Grandview|Tennessee": {
+  "lat": 35.3817428,
+  "lon": -88.1178107,
+  "name": "Grandview, Hardin County, West Tennessee, Tennessee, United States",
+  "drive_min": 522,
+  "drive_mi": 548,
+  "drive_min_clemson": 424,
+  "drive_mi_clemson": 384
+ },
+ "Harriman|Tennessee": {
+  "lat": 35.9339639,
+  "lon": -84.5524359,
+  "name": "Harriman, Roane County, East Tennessee, Tennessee, United States",
+  "drive_min": 267,
+  "drive_mi": 284,
+  "drive_min_clemson": 230,
+  "drive_mi_clemson": 230
+ },
+ "Jasper|Tennessee": {
+  "lat": 35.0742448,
+  "lon": -85.6260789,
+  "name": "Jasper, Marion County, East Tennessee, Tennessee, 37347, United States",
+  "drive_min": 353,
+  "drive_mi": 378,
+  "drive_min_clemson": 224,
+  "drive_mi_clemson": 207
+ },
+ "Kingston|Tennessee": {
+  "lat": 35.8713147,
+  "lon": -84.5160916,
+  "name": "Kingston, Roane County, East Tennessee, Tennessee, United States",
+  "drive_min": 262,
+  "drive_mi": 279,
+  "drive_min_clemson": 225,
+  "drive_mi_clemson": 225
+ },
+ "Lenoir City|Tennessee": {
+  "lat": 35.7972998,
+  "lon": -84.2560299,
+  "name": "Lenoir City, Loudon County, East Tennessee, Tennessee, 37771, United States",
+  "drive_min": 255,
+  "drive_mi": 270,
+  "drive_min_clemson": 213,
+  "drive_mi_clemson": 190
+ },
+ "Loudon|Tennessee": {
+  "lat": 35.7490023,
+  "lon": -84.320293,
+  "name": "Loudon County, East Tennessee, Tennessee, United States",
+  "drive_min": 260,
+  "drive_mi": 275,
+  "drive_min_clemson": 216,
+  "drive_mi_clemson": 184
+ },
+ "Pelham|Tennessee": {
+  "lat": 35.3100795,
+  "lon": -85.8808118,
+  "name": "Pelham, Grundy County, Middle Tennessee, Tennessee, 37366, United States",
+  "drive_min": 377,
+  "drive_mi": 407,
+  "drive_min_clemson": 249,
+  "drive_mi_clemson": 237
+ },
+ "South Pittsburg|Tennessee": {
+  "lat": 35.0122635,
+  "lon": -85.7058445,
+  "name": "South Pittsburg, Marion County, East Tennessee, Tennessee, 37380, United States",
+  "drive_min": 356,
+  "drive_mi": 383,
+  "drive_min_clemson": 227,
+  "drive_mi_clemson": 213
+ },
+ "Sweetwater|Tennessee": {
+  "lat": 35.6014636,
+  "lon": -84.4610394,
+  "name": "Sweetwater, Monroe County, East Tennessee, Tennessee, 37874, United States",
+  "drive_min": 271,
+  "drive_mi": 288,
+  "drive_min_clemson": 202,
+  "drive_mi_clemson": 173
+ },
+ "Tellico Plains|Tennessee": {
+  "lat": 35.3626008,
+  "lon": -84.2940223,
+  "name": "Tellico Plains, Monroe County, East Tennessee, Tennessee, United States",
+  "drive_min": 296,
+  "drive_mi": 285,
+  "drive_min_clemson": 166,
+  "drive_mi_clemson": 138
+ },
+ "Tracy City|Tennessee": {
+  "lat": 35.2603569,
+  "lon": -85.7360833,
+  "name": "Tracy City, Grundy County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 373,
+  "drive_mi": 395,
+  "drive_min_clemson": 245,
+  "drive_mi_clemson": 225
+ },
+ "Vonore|Tennessee": {
+  "lat": 35.590078,
+  "lon": -84.2418612,
+  "name": "Vonore, Monroe County, East Tennessee, Tennessee, United States",
+  "drive_min": 270,
+  "drive_mi": 267,
+  "drive_min_clemson": 200,
+  "drive_mi_clemson": 172
  }
 }

@@ -15,6 +15,18 @@ REGIONS = ROOT / "data" / "regions"
 OUT = ROOT / "data" / "adventures.json"
 REMOVED = ROOT / "data" / "removed.json"
 
+REQUIRED = ("name", "city", "county", "state", "cats", "cost", "cost_num", "dur",
+            "dur_h", "dates", "start", "company", "party", "customer",
+            "unique", "buzz", "rating")
+
+
+def check(path, records) -> None:
+    """Fail loudly on an incomplete record instead of letting build.py crash later."""
+    for i, r in enumerate(records):
+        missing = [k for k in REQUIRED if k not in r]
+        if missing:
+            raise SystemExit(f"{path.name}: record {i} ({r.get('name', '?')}) missing {missing}")
+
 
 def main() -> None:
     rows = json.loads(OUT.read_text())
@@ -33,6 +45,7 @@ def main() -> None:
             if key in seen:
                 skipped += 1
                 continue
+            check(path, [r])
             seen.add(key)
             rows.append(r)
             added += 1
