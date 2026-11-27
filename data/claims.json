@@ -1,66 +1,66 @@
 {
  "rounds": [
   {
-   "id": "r2-mc",
+   "id": "r3-bx",
    "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
-   "state": "Arizona",
-   "counties": [
-    "Arizona:Maricopa"
-   ],
-   "file": "data/regions/arizona-r2-mc.json"
-  },
-  {
-   "id": "r2-hr",
-   "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
+   "created": "2026-11-27T10:22:59+00:00",
    "state": "Texas",
    "counties": [
-    "Texas:Harris"
+    "Texas:Bexar"
    ],
-   "file": "data/regions/texas-r2-hr.json"
+   "file": "data/regions/texas-r3-bx.json"
   },
   {
-   "id": "r2-dl",
+   "id": "r3-cl",
    "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
-   "state": "Texas",
+   "created": "2026-11-27T10:22:59+00:00",
+   "state": "Nevada",
    "counties": [
-    "Texas:Dallas"
+    "Nevada:Clark"
    ],
-   "file": "data/regions/texas-r2-dl.json"
+   "file": "data/regions/nevada-r3-cl.json"
   },
   {
-   "id": "r2-tr",
+   "id": "r3-mx",
    "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
-   "state": "Texas",
+   "created": "2026-11-27T10:23:00+00:00",
+   "state": "Massachusetts",
    "counties": [
-    "Texas:Tarrant"
+    "Massachusetts:Middlesex"
    ],
-   "file": "data/regions/texas-r2-tr.json"
+   "file": "data/regions/massachusetts-r3-mx.json"
   },
   {
-   "id": "r2-kg",
+   "id": "r3-al",
    "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
-   "state": "New York",
+   "created": "2026-11-27T10:23:00+00:00",
+   "state": "California",
    "counties": [
-    "New York:Kings"
+    "California:Alameda"
    ],
-   "file": "data/regions/new-york-r2-kg.json"
+   "file": "data/regions/california-r3-al.json"
   },
   {
-   "id": "r2-bw",
+   "id": "r3-sa",
    "owner": "huesten",
-   "created": "2026-11-27T09:41:06+00:00",
+   "created": "2026-11-27T10:23:00+00:00",
+   "state": "California",
+   "counties": [
+    "California:Sacramento"
+   ],
+   "file": "data/regions/california-r3-sa.json"
+  },
+  {
+   "id": "r3-hl",
+   "owner": "huesten",
+   "created": "2026-11-27T10:23:00+00:00",
    "state": "Florida",
    "counties": [
-    "Florida:Broward"
+    "Florida:Hillsborough"
    ],
-   "file": "data/regions/florida-r2-bw.json"
+   "file": "data/regions/florida-r3-hl.json"
   }
  ],
  "ttl_minutes": 180,
- "updated": "2026-11-27T09:41:06+00:00"
+ "updated": "2026-11-27T10:23:00+00:00"
 }

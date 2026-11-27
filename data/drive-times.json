@@ -19094,37 +19094,61 @@
  "Arlington|Texas": {
   "lat": 32.7355816,
   "lon": -97.1071186,
-  "name": "Arlington, Tarrant County, Texas, United States"
+  "name": "Arlington, Tarrant County, Texas, United States",
+  "drive_min_clemson": 833,
+  "drive_mi_clemson": 928
  },
  "Baytown|Texas": {
   "lat": 29.7355047,
   "lon": -94.9774274,
-  "name": "Baytown, Harris County, Texas, United States"
+  "name": "Baytown, Harris County, Texas, United States",
+  "drive_min": 920,
+  "drive_mi": 1015,
+  "drive_min_clemson": 808,
+  "drive_mi_clemson": 899
  },
  "Bedford|Texas": {
   "lat": 32.844017,
   "lon": -97.1430671,
-  "name": "Bedford, Tarrant County, Texas, United States"
+  "name": "Bedford, Tarrant County, Texas, United States",
+  "drive_min_clemson": 836,
+  "drive_mi_clemson": 931
  },
  "Bensonhurst|New York": {
   "lat": 40.6049772,
   "lon": -73.9934061,
-  "name": "Bensonhurst, New Utrecht, Brooklyn, Kings County, New York, 11214, United States"
+  "name": "Bensonhurst, New Utrecht, Brooklyn, Kings County, New York, 11214, United States",
+  "drive_min": 637,
+  "drive_mi": 670,
+  "drive_min_clemson": 742,
+  "drive_mi_clemson": 778
  },
  "Brighton Beach|New York": {
   "lat": 40.5796437,
   "lon": -73.9611102,
-  "name": "Brighton Beach, Brooklyn, Kings County, New York, United States"
+  "name": "Brighton Beach, Brooklyn, Kings County, New York, United States",
+  "drive_min": 638,
+  "drive_mi": 672,
+  "drive_min_clemson": 743,
+  "drive_mi_clemson": 780
  },
  "Bushwick|New York": {
   "lat": 40.6942696,
   "lon": -73.9187482,
-  "name": "Bushwick, Brooklyn, Kings County, New York, 11237, United States"
+  "name": "Bushwick, Brooklyn, Kings County, New York, 11237, United States",
+  "drive_min": 645,
+  "drive_mi": 669,
+  "drive_min_clemson": 750,
+  "drive_mi_clemson": 778
  },
  "Canarsie|New York": {
   "lat": 40.643715,
   "lon": -73.9006921,
-  "name": "Canarsie, Brooklyn, Kings County, New York, 11236, United States"
+  "name": "Canarsie, Brooklyn, Kings County, New York, 11236, United States",
+  "drive_min": 647,
+  "drive_mi": 679,
+  "drive_min_clemson": 752,
+  "drive_mi_clemson": 787
  },
  "Cave Creek|Arizona": {
   "lat": 33.8333333,
@@ -19134,7 +19158,9 @@
  "Cedar Hill|Texas": {
   "lat": 32.5888072,
   "lon": -96.9553675,
-  "name": "Cedar Hill, Dallas County, Texas, 75104, United States"
+  "name": "Cedar Hill, Dallas County, Texas, 75104, United States",
+  "drive_min_clemson": 821,
+  "drive_mi_clemson": 917
  },
  "Chandler|Arizona": {
   "lat": 33.3062031,
@@ -19144,72 +19170,124 @@
  "Coconut Creek|Florida": {
   "lat": 26.2517482,
   "lon": -80.1789351,
-  "name": "Coconut Creek, Broward County, Florida, United States"
+  "name": "Coconut Creek, Broward County, Florida, United States",
+  "drive_min": 613,
+  "drive_mi": 680,
+  "drive_min_clemson": 660,
+  "drive_mi_clemson": 709
  },
  "Coney Island|New York": {
   "lat": 40.5765081,
   "lon": -73.9929419,
-  "name": "Coney Island, Brooklyn, Kings County, New York, 11224, United States"
+  "name": "Coney Island, Brooklyn, Kings County, New York, 11224, United States",
+  "drive_min": 639,
+  "drive_mi": 671,
+  "drive_min_clemson": 744,
+  "drive_mi_clemson": 779
  },
  "Cooper City|Florida": {
   "lat": 26.057783,
   "lon": -80.2695109,
-  "name": "Cooper City, Broward County, Florida, United States"
+  "name": "Cooper City, Broward County, Florida, United States",
+  "drive_min": 629,
+  "drive_mi": 695,
+  "drive_min_clemson": 676,
+  "drive_mi_clemson": 724
  },
  "Coral Springs|Florida": {
   "lat": 26.271192,
   "lon": -80.2706044,
-  "name": "Coral Springs, Broward County, Florida, United States"
+  "name": "Coral Springs, Broward County, Florida, United States",
+  "drive_min": 614,
+  "drive_mi": 682,
+  "drive_min_clemson": 661,
+  "drive_mi_clemson": 711
  },
  "Crowley|Texas": {
   "lat": 32.5783528,
   "lon": -97.3585533,
-  "name": "Crowley, Tarrant County, Texas, 76036, United States"
+  "name": "Crowley, Tarrant County, Texas, 76036, United States",
+  "drive_min_clemson": 850,
+  "drive_mi_clemson": 945
  },
  "Cypress|Texas": {
   "lat": 29.9691116,
   "lon": -95.6971686,
-  "name": "Cypress, Harris County, Texas, 77429, United States"
+  "name": "Cypress, Harris County, Texas, 77429, United States",
+  "drive_min": 959,
+  "drive_mi": 1059,
+  "drive_min_clemson": 847,
+  "drive_mi_clemson": 942
  },
  "Dania Beach|Florida": {
   "lat": 26.0524224,
   "lon": -80.143929,
-  "name": "Dania Beach, Broward County, Florida, 33004, United States"
+  "name": "Dania Beach, Broward County, Florida, 33004, United States",
+  "drive_min": 627,
+  "drive_mi": 697,
+  "drive_min_clemson": 675,
+  "drive_mi_clemson": 727
  },
  "DeSoto|Texas": {
   "lat": 32.5897831,
   "lon": -96.8570183,
-  "name": "DeSoto, Dallas County, Texas, 75115, United States"
+  "name": "DeSoto, Dallas County, Texas, 75115, United States",
+  "drive_min": 931,
+  "drive_mi": 1029,
+  "drive_min_clemson": 819,
+  "drive_mi_clemson": 913
  },
  "Deerfield Beach|Florida": {
   "lat": 26.318342,
   "lon": -80.0996306,
-  "name": "Deerfield Beach, Broward County, Florida, United States"
+  "name": "Deerfield Beach, Broward County, Florida, United States",
+  "drive_min": 607,
+  "drive_mi": 679,
+  "drive_min_clemson": 654,
+  "drive_mi_clemson": 708
  },
  "Downtown Brooklyn|New York": {
   "lat": 40.6915721,
   "lon": -73.9867644,
-  "name": "Downtown Brooklyn, Brooklyn, Kings County, New York, United States"
+  "name": "Downtown Brooklyn, Brooklyn, Kings County, New York, United States",
+  "drive_min": 633,
+  "drive_mi": 665,
+  "drive_min_clemson": 738,
+  "drive_mi_clemson": 773
  },
  "Duncanville|Texas": {
   "lat": 32.6518004,
   "lon": -96.9083366,
-  "name": "Duncanville, Dallas County, Texas, United States"
+  "name": "Duncanville, Dallas County, Texas, United States",
+  "drive_min": 930,
+  "drive_mi": 1029,
+  "drive_min_clemson": 818,
+  "drive_mi_clemson": 913
  },
  "Euless|Texas": {
   "lat": 32.8370727,
   "lon": -97.0819541,
-  "name": "Euless, Tarrant County, Texas, United States"
+  "name": "Euless, Tarrant County, Texas, United States",
+  "drive_min_clemson": 831,
+  "drive_mi_clemson": 927
  },
  "Flatbush|New York": {
   "lat": 40.6520481,
   "lon": -73.959027,
-  "name": "Flatbush, Brooklyn, Kings County, New York, 11226, United States"
+  "name": "Flatbush, Brooklyn, Kings County, New York, 11226, United States",
+  "drive_min": 634,
+  "drive_mi": 667,
+  "drive_min_clemson": 739,
+  "drive_mi_clemson": 775
  },
  "Fort Greene|New York": {
   "lat": 40.6907711,
   "lon": -73.9766245,
-  "name": "Fort Greene, Brooklyn, Kings County, New York, United States"
+  "name": "Fort Greene, Brooklyn, Kings County, New York, United States",
+  "drive_min": 633,
+  "drive_mi": 663,
+  "drive_min_clemson": 738,
+  "drive_mi_clemson": 772
  },
  "Fountain Hills|Arizona": {
   "lat": 33.6117105,
@@ -19219,7 +19297,11 @@
  "Garland|Texas": {
   "lat": 32.912624,
   "lon": -96.6388833,
-  "name": "Garland, Dallas County, Texas, United States"
+  "name": "Garland, Dallas County, Texas, United States",
+  "drive_min": 926,
+  "drive_mi": 1022,
+  "drive_min_clemson": 813,
+  "drive_mi_clemson": 905
  },
  "Gila Bend|Arizona": {
   "lat": 32.9476184,
@@ -19239,87 +19321,143 @@
  "Gowanus|New York": {
   "lat": 40.6791695,
   "lon": -73.9885041,
-  "name": "Gowanus, Brooklyn, Kings County, New York, 11217, United States"
+  "name": "Gowanus, Brooklyn, Kings County, New York, 11217, United States",
+  "drive_min": 633,
+  "drive_mi": 665,
+  "drive_min_clemson": 738,
+  "drive_mi_clemson": 773
  },
  "Grand Prairie|Texas": {
   "lat": 32.7459645,
   "lon": -96.9977846,
-  "name": "Grand Prairie, Dallas County, Texas, United States"
+  "name": "Grand Prairie, Dallas County, Texas, United States",
+  "drive_min_clemson": 825,
+  "drive_mi_clemson": 921
  },
  "Grapevine|Texas": {
   "lat": 32.9337381,
   "lon": -97.0788754,
-  "name": "Grapevine, Tarrant County, Texas, United States"
+  "name": "Grapevine, Tarrant County, Texas, United States",
+  "drive_min_clemson": 838,
+  "drive_mi_clemson": 931
  },
  "Gravesend|New York": {
   "lat": 40.5961338,
   "lon": -73.9739426,
-  "name": "Gravesend, Brooklyn, Kings County, New York, 11223, United States"
+  "name": "Gravesend, Brooklyn, Kings County, New York, 11223, United States",
+  "drive_min": 641,
+  "drive_mi": 672,
+  "drive_min_clemson": 746,
+  "drive_mi_clemson": 781
  },
  "Greenpoint|New York": {
   "lat": 40.7237134,
   "lon": -73.9509714,
-  "name": "Greenpoint, Brooklyn, Kings County, New York, United States"
+  "name": "Greenpoint, Brooklyn, Kings County, New York, United States",
+  "drive_min": 638,
+  "drive_mi": 669,
+  "drive_min_clemson": 743,
+  "drive_mi_clemson": 777
  },
  "Hallandale Beach|Florida": {
   "lat": 25.9812025,
   "lon": -80.148379,
-  "name": "Hallandale Beach, Broward County, Florida, 33009, United States"
+  "name": "Hallandale Beach, Broward County, Florida, 33009, United States",
+  "drive_min": 630,
+  "drive_mi": 701,
+  "drive_min_clemson": 677,
+  "drive_mi_clemson": 731
  },
  "Hollywood|Florida": {
   "lat": 26.0112014,
   "lon": -80.1494901,
-  "name": "Hollywood, Broward County, Florida, United States"
+  "name": "Hollywood, Broward County, Florida, United States",
+  "drive_min": 627,
+  "drive_mi": 699,
+  "drive_min_clemson": 674,
+  "drive_mi_clemson": 729
  },
  "Humble|Texas": {
   "lat": 29.9988312,
   "lon": -95.2621553,
-  "name": "Humble, Harris County, Texas, United States"
+  "name": "Humble, Harris County, Texas, United States",
+  "drive_min": 945,
+  "drive_mi": 1043,
+  "drive_min_clemson": 833,
+  "drive_mi_clemson": 926
  },
  "Hurst|Texas": {
   "lat": 32.8234621,
   "lon": -97.1705678,
-  "name": "Hurst, Tarrant County, Texas, United States"
+  "name": "Hurst, Tarrant County, Texas, United States",
+  "drive_min_clemson": 843,
+  "drive_mi_clemson": 934
  },
  "Irving|Texas": {
   "lat": 32.8295183,
   "lon": -96.9442177,
-  "name": "Irving, Dallas County, Texas, United States"
+  "name": "Irving, Dallas County, Texas, United States",
+  "drive_min": 938,
+  "drive_mi": 1036,
+  "drive_min_clemson": 825,
+  "drive_mi_clemson": 919
  },
  "Katy|Texas": {
   "lat": 29.7857853,
   "lon": -95.8243956,
-  "name": "Katy, Fort Bend County, Texas, United States"
+  "name": "Katy, Fort Bend County, Texas, United States",
+  "drive_min_clemson": 850,
+  "drive_mi_clemson": 945
  },
  "Keller|Texas": {
   "lat": 32.9299655,
   "lon": -97.2271249,
-  "name": "Keller, Tarrant County, Texas, 76248, United States"
+  "name": "Keller, Tarrant County, Texas, 76248, United States",
+  "drive_min_clemson": 850,
+  "drive_mi_clemson": 940
  },
  "La Porte|Texas": {
   "lat": 29.6657838,
   "lon": -95.0193729,
-  "name": "La Porte, Harris County, Texas, 77571, United States"
+  "name": "La Porte, Harris County, Texas, 77571, United States",
+  "drive_min": 925,
+  "drive_mi": 1020,
+  "drive_min_clemson": 812,
+  "drive_mi_clemson": 904
  },
  "Lauderdale-by-the-Sea|Florida": {
   "lat": 26.192028,
   "lon": -80.0964326,
-  "name": "Lauderdale-by-the-Sea, Broward County, Florida, United States"
+  "name": "Lauderdale-by-the-Sea, Broward County, Florida, United States",
+  "drive_min": 621,
+  "drive_mi": 686,
+  "drive_min_clemson": 668,
+  "drive_mi_clemson": 715
  },
  "Lighthouse Point|Florida": {
   "lat": 26.275636,
   "lon": -80.0872654,
-  "name": "Lighthouse Point, Broward County, Florida, United States"
+  "name": "Lighthouse Point, Broward County, Florida, United States",
+  "drive_min": 615,
+  "drive_mi": 681,
+  "drive_min_clemson": 662,
+  "drive_mi_clemson": 710
  },
  "Mansfield|Texas": {
   "lat": 32.563487,
   "lon": -97.1420308,
-  "name": "Mansfield, Tarrant County, Texas, 76063, United States"
+  "name": "Mansfield, Tarrant County, Texas, 76063, United States",
+  "drive_min_clemson": 840,
+  "drive_mi_clemson": 935
  },
  "Marine Park / Flatlands|New York": {
   "lat": 40.6089469,
   "lon": -73.9333588,
-  "name": "Marine Park Day School, 1972, East 34th Street, Flatlands, Brooklyn, Kings Count"
+  "name": "Marine Park Day School, 1972, East 34th Street, Flatlands, Brooklyn, Kings Count",
+  "drive_min": 646,
+  "drive_mi": 677,
+  "drive_min_clemson": 751,
+  "drive_mi_clemson": 786
  },
  "Mesa|Arizona": {
   "lat": 33.4151005,
@@ -19329,17 +19467,27 @@
  "Mesquite|Texas": {
   "lat": 32.7666103,
   "lon": -96.599472,
-  "name": "Mesquite, Dallas County, Texas, United States"
+  "name": "Mesquite, Dallas County, Texas, United States",
+  "drive_min": 914,
+  "drive_mi": 1011,
+  "drive_min_clemson": 802,
+  "drive_mi_clemson": 895
  },
  "North Richland Hills|Texas": {
   "lat": 32.8342952,
   "lon": -97.2289029,
-  "name": "North Richland Hills, Tarrant County, Texas, United States"
+  "name": "North Richland Hills, Tarrant County, Texas, United States",
+  "drive_min_clemson": 844,
+  "drive_mi_clemson": 939
  },
  "Pasadena|Texas": {
   "lat": 29.6910753,
   "lon": -95.2092076,
-  "name": "Pasadena, Harris County, Texas, United States"
+  "name": "Pasadena, Harris County, Texas, United States",
+  "drive_min": 933,
+  "drive_mi": 1029,
+  "drive_min_clemson": 820,
+  "drive_mi_clemson": 913
  },
  "Peoria|Arizona": {
   "lat": 33.6104446,
@@ -19349,37 +19497,65 @@
  "Plantation|Florida": {
   "lat": 26.1275862,
   "lon": -80.2331036,
-  "name": "Plantation, Broward County, Florida, United States"
+  "name": "Plantation, Broward County, Florida, United States",
+  "drive_min": 617,
+  "drive_mi": 688,
+  "drive_min_clemson": 664,
+  "drive_mi_clemson": 717
  },
  "Pompano Beach|Florida": {
   "lat": 26.2378597,
   "lon": -80.1247667,
-  "name": "Pompano Beach, Broward County, Florida, United States"
+  "name": "Pompano Beach, Broward County, Florida, United States",
+  "drive_min": 612,
+  "drive_mi": 680,
+  "drive_min_clemson": 660,
+  "drive_mi_clemson": 710
  },
  "Prospect Heights|New York": {
   "lat": 40.6778708,
   "lon": -73.9684725,
-  "name": "Prospect Heights, Brooklyn, Kings County, New York, 11238, United States"
+  "name": "Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",
+  "drive_min": 637,
+  "drive_mi": 666,
+  "drive_min_clemson": 742,
+  "drive_mi_clemson": 775
  },
  "Prospect Park|New York": {
   "lat": 40.6617743,
   "lon": -73.9710896,
-  "name": "Prospect Park, Brooklyn, Kings County, New York, United States"
+  "name": "Prospect Park, Brooklyn, Kings County, New York, United States",
+  "drive_min": 638,
+  "drive_mi": 665,
+  "drive_min_clemson": 743,
+  "drive_mi_clemson": 774
  },
  "Red Hook|New York": {
   "lat": 41.9950884,
   "lon": -73.8755317,
-  "name": "Village of Red Hook, Town of Red Hook, Dutchess County, New York, United States"
+  "name": "Village of Red Hook, Town of Red Hook, Dutchess County, New York, United States",
+  "drive_min": 706,
+  "drive_mi": 748,
+  "drive_min_clemson": 811,
+  "drive_mi_clemson": 856
  },
  "Richardson|Texas": {
   "lat": 32.9481789,
   "lon": -96.7297206,
-  "name": "Richardson, Dallas County, Texas, United States"
+  "name": "Richardson, Dallas County, Texas, United States",
+  "drive_min": 929,
+  "drive_mi": 1027,
+  "drive_min_clemson": 817,
+  "drive_mi_clemson": 911
  },
  "Rowlett|Texas": {
   "lat": 32.9029017,
   "lon": -96.56388,
-  "name": "Rowlett, Dallas County, Texas, United States"
+  "name": "Rowlett, Dallas County, Texas, United States",
+  "drive_min": 926,
+  "drive_mi": 1022,
+  "drive_min_clemson": 813,
+  "drive_mi_clemson": 906
  },
  "Scottsdale|Arizona": {
   "lat": 33.5967034,
@@ -19389,27 +19565,45 @@
  "Southlake|Texas": {
   "lat": 32.9412363,
   "lon": -97.1341783,
-  "name": "Southlake, Tarrant County, Texas, 76092, United States"
+  "name": "Southlake, Tarrant County, Texas, 76092, United States",
+  "drive_min_clemson": 838,
+  "drive_mi_clemson": 934
  },
  "Southwest Ranches|Florida": {
   "lat": 26.0586543,
   "lon": -80.3381531,
-  "name": "Southwest Ranches, Broward County, Florida, 33330, United States"
+  "name": "Southwest Ranches, Broward County, Florida, 33330, United States",
+  "drive_min": 627,
+  "drive_mi": 701,
+  "drive_min_clemson": 674,
+  "drive_mi_clemson": 730
  },
  "Spring|Texas": {
   "lat": 30.070979,
   "lon": -95.4013419,
-  "name": "Spring, Harris County, Texas, 77373, United States"
+  "name": "Spring, Harris County, Texas, 77373, United States",
+  "drive_min": 952,
+  "drive_mi": 1036,
+  "drive_min_clemson": 839,
+  "drive_mi_clemson": 920
  },
  "Sunrise|Florida": {
   "lat": 26.1666888,
   "lon": -80.2787573,
-  "name": "Sunrise, Broward County, Florida, United States"
+  "name": "Sunrise, Broward County, Florida, United States",
+  "drive_min": 621,
+  "drive_mi": 693,
+  "drive_min_clemson": 669,
+  "drive_mi_clemson": 723
  },
  "Sunset Park|New York": {
   "lat": 40.6442221,
   "lon": -74.0075907,
-  "name": "Sunset Park, Brooklyn, Kings County, New York, United States"
+  "name": "Sunset Park, Brooklyn, Kings County, New York, United States",
+  "drive_min": 636,
+  "drive_mi": 666,
+  "drive_min_clemson": 741,
+  "drive_mi_clemson": 775
  },
  "Tempe|Arizona": {
   "lat": 33.4255117,
@@ -19419,17 +19613,27 @@
  "Tomball|Texas": {
   "lat": 30.0971621,
   "lon": -95.6160549,
-  "name": "Tomball, Harris County, Texas, United States"
+  "name": "Tomball, Harris County, Texas, United States",
+  "drive_min": 963,
+  "drive_mi": 1050,
+  "drive_min_clemson": 851,
+  "drive_mi_clemson": 933
  },
  "Webster|Texas": {
   "lat": 29.5351724,
   "lon": -95.1161564,
-  "name": "Webster, Harris County, Texas, 77598, United States"
+  "name": "Webster, Harris County, Texas, 77598, United States",
+  "drive_min": 943,
+  "drive_mi": 1042,
+  "drive_min_clemson": 830,
+  "drive_mi_clemson": 926
  },
  "Westworth Village|Texas": {
   "lat": 32.7597192,
   "lon": -97.4214547,
-  "name": "Westworth Village, Tarrant County, Texas, United States"
+  "name": "Westworth Village, Tarrant County, Texas, United States",
+  "drive_min_clemson": 854,
+  "drive_mi_clemson": 948
  },
  "Wickenburg|Arizona": {
   "lat": 33.9680962,
@@ -19439,6 +19643,372 @@
  "Williamsburg|New York": {
   "lat": 40.714622,
   "lon": -73.95345,
-  "name": "Williamsburg, Brooklyn, Kings County, New York, 11249, United States"
+  "name": "Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+  "drive_min": 635,
+  "drive_mi": 668,
+  "drive_min_clemson": 740,
+  "drive_mi_clemson": 777
+ },
+ "Acton|Massachusetts": {
+  "lat": 42.4850931,
+  "lon": -71.43284,
+  "name": "Acton, Middlesex County, Massachusetts, United States",
+  "drive_min": 844,
+  "drive_mi": 896,
+  "drive_min_clemson": 949,
+  "drive_mi_clemson": 1004
+ },
+ "Alameda|California": {
+  "lat": 37.6090291,
+  "lon": -121.899142,
+  "name": "Alameda County, California, United States"
+ },
+ "Alamo Heights|Texas": {
+  "lat": 29.4832264,
+  "lon": -98.468455,
+  "name": "Alamo Heights, Bexar County, Texas, United States"
+ },
+ "Apollo Beach|Florida": {
+  "lat": 27.7741547,
+  "lon": -82.4062097,
+  "name": "Apollo Beach, Hillsborough County, Florida, 33572, United States",
+  "drive_min": 536,
+  "drive_mi": 575,
+  "drive_min_clemson": 526,
+  "drive_mi_clemson": 569
+ },
+ "Arlington|Massachusetts": {
+  "lat": 42.4153739,
+  "lon": -71.1564428,
+  "name": "Arlington, Middlesex County, Massachusetts, United States",
+  "drive_min": 852,
+  "drive_mi": 902,
+  "drive_min_clemson": 957,
+  "drive_mi_clemson": 1011
+ },
+ "Ashland|Massachusetts": {
+  "lat": 42.2599608,
+  "lon": -71.4642596,
+  "name": "Ashland, Middlesex County, Massachusetts, 01721, United States",
+  "drive_min": 834,
+  "drive_mi": 882,
+  "drive_min_clemson": 939,
+  "drive_mi_clemson": 991
+ },
+ "Billerica|Massachusetts": {
+  "lat": 42.5584264,
+  "lon": -71.268947,
+  "name": "Billerica, Middlesex County, Massachusetts, United States",
+  "drive_min": 858,
+  "drive_mi": 908,
+  "drive_min_clemson": 963,
+  "drive_mi_clemson": 1017
+ },
+ "Blue Diamond|Nevada": {
+  "lat": 36.0375929,
+  "lon": -115.4012827,
+  "name": "Blue Diamond, Clark County, Nevada, 89004, United States"
+ },
+ "Carmichael|California": {
+  "lat": 38.6270985,
+  "lon": -121.3222422,
+  "name": "Carmichael, Sacramento County, California, United States"
+ },
+ "Castro Valley|California": {
+  "lat": 37.713606,
+  "lon": -122.0715658,
+  "name": "Castro Valley, Alameda County, California, United States"
+ },
+ "Elmendorf|Texas": {
+  "lat": 29.2560731,
+  "lon": -98.3327903,
+  "name": "Elmendorf, Bexar County, Texas, United States"
+ },
+ "Emeryville|California": {
+  "lat": 37.8314089,
+  "lon": -122.2865266,
+  "name": "Emeryville, Alameda County, California, 94608, United States"
+ },
+ "Folsom|California": {
+  "lat": 38.6779591,
+  "lon": -121.176058,
+  "name": "Folsom, Sacramento County, California, United States"
+ },
+ "Framingham|Massachusetts": {
+  "lat": 42.2773177,
+  "lon": -71.4165905,
+  "name": "Framingham, Middlesex County, Massachusetts, United States",
+  "drive_min": 836,
+  "drive_mi": 883,
+  "drive_min_clemson": 941,
+  "drive_mi_clemson": 991
+ },
+ "Fremont|California": {
+  "lat": 37.5482697,
+  "lon": -121.988571,
+  "name": "Fremont, Alameda County, California, United States"
+ },
+ "Galt|California": {
+  "lat": 38.2546373,
+  "lon": -121.2999485,
+  "name": "Galt, Sacramento County, California, 95632, United States"
+ },
+ "Gold River|California": {
+  "lat": 38.6239434,
+  "lon": -121.244024,
+  "name": "Gold River, Sacramento County, California, United States"
+ },
+ "Groton|Massachusetts": {
+  "lat": 42.6112242,
+  "lon": -71.5745402,
+  "name": "Groton, Middlesex County, Massachusetts, 01450, United States",
+  "drive_min": 855,
+  "drive_mi": 903,
+  "drive_min_clemson": 960,
+  "drive_mi_clemson": 1011
+ },
+ "Hayward|California": {
+  "lat": 37.6688205,
+  "lon": -122.080796,
+  "name": "Hayward, Alameda County, California, United States"
+ },
+ "Helotes|Texas": {
+  "lat": 29.5635688,
+  "lon": -98.6884208,
+  "name": "Helotes, Bexar County, Texas, 78023, United States"
+ },
+ "Holliston|Massachusetts": {
+  "lat": 42.2000966,
+  "lon": -71.4245049,
+  "name": "Holliston, Middlesex County, Massachusetts, 01746, United States",
+  "drive_min": 839,
+  "drive_mi": 884,
+  "drive_min_clemson": 944,
+  "drive_mi_clemson": 993
+ },
+ "Hudson|Massachusetts": {
+  "lat": 42.3913503,
+  "lon": -71.5676895,
+  "name": "Hudson, Middlesex County, Massachusetts, 01749, United States",
+  "drive_min": 833,
+  "drive_mi": 880,
+  "drive_min_clemson": 938,
+  "drive_mi_clemson": 989
+ },
+ "Laughlin|Nevada": {
+  "lat": 35.114572,
+  "lon": -114.7039223,
+  "name": "Laughlin, Laughlin Township, Clark County, Nevada, United States"
+ },
+ "Leon Valley|Texas": {
+  "lat": 29.4952307,
+  "lon": -98.6186317,
+  "name": "Leon Valley, Bexar County, Texas, 78238, United States"
+ },
+ "Lincoln|Massachusetts": {
+  "lat": 42.4259283,
+  "lon": -71.3039469,
+  "name": "Lincoln, Middlesex County, Massachusetts, United States",
+  "drive_min": 848,
+  "drive_mi": 898,
+  "drive_min_clemson": 953,
+  "drive_mi_clemson": 1007
+ },
+ "Lithia|Florida": {
+  "lat": 27.8662898,
+  "lon": -82.2305513,
+  "name": "Lithia Springs, Bloomingdale, Hillsborough County, Florida, United States",
+  "drive_min": 546,
+  "drive_mi": 572,
+  "drive_min_clemson": 536,
+  "drive_mi_clemson": 565
+ },
+ "Livermore|California": {
+  "lat": 37.6820583,
+  "lon": -121.768053,
+  "name": "Livermore, Alameda County, California, United States"
+ },
+ "Lowell|Massachusetts": {
+  "lat": 42.6414437,
+  "lon": -71.3085329,
+  "name": "Lowell, Middlesex County, Massachusetts, United States",
+  "drive_min": 857,
+  "drive_mi": 907,
+  "drive_min_clemson": 962,
+  "drive_mi_clemson": 1016
+ },
+ "Malden|Massachusetts": {
+  "lat": 42.4268484,
+  "lon": -71.0683741,
+  "name": "Malden, Middlesex County, Massachusetts, United States",
+  "drive_min": 863,
+  "drive_mi": 909,
+  "drive_min_clemson": 968,
+  "drive_mi_clemson": 1017
+ },
+ "McClellan Park|California": {
+  "lat": 37.314114,
+  "lon": -122.0631707,
+  "name": "McClellan Ranch Preserve, Monta Vista, Cupertino, Santa Clara County, California"
+ },
+ "Medford|Massachusetts": {
+  "lat": 42.4184296,
+  "lon": -71.1061639,
+  "name": "Medford, Middlesex County, Massachusetts, 02155, United States",
+  "drive_min": 858,
+  "drive_mi": 907,
+  "drive_min_clemson": 963,
+  "drive_mi_clemson": 1016
+ },
+ "Mount Charleston|Nevada": {
+  "lat": 36.2641617,
+  "lon": -115.6055241,
+  "name": "Mount Charleston, Clark County, Nevada, United States"
+ },
+ "Newark|California": {
+  "lat": 37.5296593,
+  "lon": -122.0402399,
+  "name": "Newark, Alameda County, California, 94560, United States"
+ },
+ "Newton|Massachusetts": {
+  "lat": 42.3300435,
+  "lon": -71.194862,
+  "name": "Newton, Middlesex County, Massachusetts, United States",
+  "drive_min": 845,
+  "drive_mi": 895,
+  "drive_min_clemson": 950,
+  "drive_mi_clemson": 1004
+ },
+ "Niles|California": {
+  "lat": 37.5827556,
+  "lon": -121.9731674,
+  "name": "Niles, Peggy Wright Way, Niles Junction, Niles District, Fremont, Alameda County"
+ },
+ "Overton|Nevada": {
+  "lat": 36.5380725,
+  "lon": -114.4436274,
+  "name": "Overton, Moapa Valley, Clark County, Nevada, 89040, United States"
+ },
+ "Plant City|Florida": {
+  "lat": 28.01633,
+  "lon": -82.1234803,
+  "name": "Plant City, Hillsborough County, Florida, United States",
+  "drive_min": 512,
+  "drive_mi": 570,
+  "drive_min_clemson": 518,
+  "drive_mi_clemson": 563
+ },
+ "Pleasanton|California": {
+  "lat": 37.6624312,
+  "lon": -121.8746789,
+  "name": "Pleasanton, Alameda County, California, United States"
+ },
+ "Rancho Cordova|California": {
+  "lat": 38.5890723,
+  "lon": -121.302728,
+  "name": "Rancho Cordova, Sacramento County, California, United States"
+ },
+ "Rio Vista|California": {
+  "lat": 38.1557502,
+  "lon": -121.6913439,
+  "name": "Rio Vista, Solano County, California, United States"
+ },
+ "San Leandro|California": {
+  "lat": 37.7249296,
+  "lon": -122.1560768,
+  "name": "San Leandro, Alameda County, California, United States"
+ },
+ "Shavano Park|Texas": {
+  "lat": 29.5849496,
+  "lon": -98.5525194,
+  "name": "Shavano Park, Bexar County, Texas, United States"
+ },
+ "Sudbury|Massachusetts": {
+  "lat": 42.3834278,
+  "lon": -71.4161725,
+  "name": "Sudbury, Middlesex County, Massachusetts, 01776, United States",
+  "drive_min": 843,
+  "drive_mi": 887,
+  "drive_min_clemson": 948,
+  "drive_mi_clemson": 995
+ },
+ "Sunol|California": {
+  "lat": 37.5831546,
+  "lon": -121.8934136,
+  "name": "Sunol, Pleasanton, Alameda County, California, United States"
+ },
+ "Thonotosassa|Florida": {
+  "lat": 28.0569975,
+  "lon": -82.2805696,
+  "name": "Thonotosassa, Hillsborough County, Florida, United States",
+  "drive_min": 522,
+  "drive_mi": 557,
+  "drive_min_clemson": 512,
+  "drive_mi_clemson": 551
+ },
+ "Union City|California": {
+  "lat": 37.5872576,
+  "lon": -122.0215737,
+  "name": "Union City, Alameda County, California, 94857, United States"
+ },
+ "Universal City|Texas": {
+  "lat": 29.5480071,
+  "lon": -98.2911235,
+  "name": "Universal City, Bexar County, Texas, 78148, United States"
+ },
+ "Walnut Grove|California": {
+  "lat": 38.2503075,
+  "lon": -121.5047736,
+  "name": "Walnut Grove, Sacramento County, California, 95690, United States"
+ },
+ "Waltham|Massachusetts": {
+  "lat": 42.3762385,
+  "lon": -71.2355644,
+  "name": "Waltham, Middlesex County, Massachusetts, United States",
+  "drive_min": 844,
+  "drive_mi": 894,
+  "drive_min_clemson": 949,
+  "drive_mi_clemson": 1002
+ },
+ "Watertown|Massachusetts": {
+  "lat": 42.3652576,
+  "lon": -71.1843234,
+  "name": "Watertown, Middlesex County, Massachusetts, United States",
+  "drive_min": 843,
+  "drive_mi": 894,
+  "drive_min_clemson": 948,
+  "drive_mi_clemson": 1003
+ },
+ "Westford|Massachusetts": {
+  "lat": 42.5792583,
+  "lon": -71.4378411,
+  "name": "Westford, Middlesex County, Massachusetts, United States",
+  "drive_min": 846,
+  "drive_mi": 897,
+  "drive_min_clemson": 951,
+  "drive_mi_clemson": 1005
+ },
+ "Winchester|Massachusetts": {
+  "lat": 42.4523178,
+  "lon": -71.1369982,
+  "name": "Winchester, Middlesex County, Massachusetts, 01890, United States",
+  "drive_min": 857,
+  "drive_mi": 907,
+  "drive_min_clemson": 962,
+  "drive_mi_clemson": 1016
+ },
+ "Windcrest|Texas": {
+  "lat": 29.515508,
+  "lon": -98.3802925,
+  "name": "Windcrest, Bexar County, Texas, 78239, United States"
+ },
+ "Ybor City|Florida": {
+  "lat": 27.9600475,
+  "lon": -82.4411596,
+  "name": "Ybor City, Tampa, Hillsborough County, Florida, 33605, United States",
+  "drive_min": 519,
+  "drive_mi": 560,
+  "drive_min_clemson": 510,
+  "drive_mi_clemson": 554
  }
 }
