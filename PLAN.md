@@ -138,9 +138,11 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 975 of 3143 counties covered, 2,672 entries. Every state and district now has at
-least thirty entries. 280 counties nationally still have a single entry, and those are the backlog,
-along with the 1,000+ counties with no entry at all.
+Current picture: 1,067 of 3,143 counties covered, 2,994 entries. Every state and district now has at
+least thirty entries. 283 counties nationally still have a single entry, and those are the backlog,
+along with the 2,000+ counties with no entry at all. Georgia has moved from 40 counties to 132 of
+159, all at three or more, in the current sessions.
+
 
 ## The radius tool
 
