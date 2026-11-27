@@ -245,7 +245,7 @@ python3 scripts/drive_times.py \
   --origin "Clemson,SC,34.6851,-82.8364,drive_min_clemson"
 python3 build.py
 python3 scripts/coverage.py
-# 2. Open explore.html and a state page at 1440px and 420px, confirm the row counts, then commit
+# 2. Open explore.html and a state page at 1440px and 420px, confirm the row counts, commit and push
 ```
 
 If the Valhalla router is slow, use OSRM directly:
@@ -254,10 +254,35 @@ and convert seconds to minutes and meters to miles.
 
 Keep batches to 20 or 30 entries so each commit is easy to review.
 
-## Deploy
+## Deploy and update
 
-`npx vercel` from the project folder. Framework is Other, no build command, output directory is the
-current folder. See `DEPLOY.md`.
+The site is live through GitHub, not the Vercel CLI.
+
+- Repo: `git@github.com:NevahLucky/adventureAtlas.git`, branch `trunk`.
+- Vercel project: `adventure-atlas`, framework preset Other, root `./`, no build command.
+- Every push to `trunk` triggers a production deploy. Nothing else is required.
+
+Vercel does not run `build.py`. It serves the committed HTML. Always build before committing:
+
+```bash
+cd /home/brown/Isolate/adventures-atlas
+python3 scripts/merge_regions.py   # only if new files in data/regions
+python3 build.py
+git add -A
+git commit -m "Describe the batch"
+git push
+```
+
+Then watch the deployment in the Vercel dashboard. It usually finishes in under a minute.
+
+Rules:
+
+- Commit the generated files (`index.html`, `explore.html`, `states/`, `regions/`). They are the site.
+- Push to `trunk`. A push to another branch will not update production.
+- If a push does not trigger a deploy, open the project, Deployments, and redeploy the latest.
+- The CLI still works (`npx vercel --prod`) but it uploads the folder as is and bypasses Git. Use it
+  only for an emergency deploy, because the next Git push will overwrite it.
+- Custom domain and analytics are set in the Vercel dashboard, not in this repo.
 
 ## First moves in a fresh session
 
