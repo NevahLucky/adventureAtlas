@@ -2090,7 +2090,11 @@
  "Bar Harbor|Maine": {
   "lat": 44.3876378,
   "lon": -68.2043361,
-  "name": "Bar Harbor, Hancock County, Maine, United States"
+  "name": "Bar Harbor, Hancock County, Maine, United States",
+  "drive_min": 1356,
+  "drive_mi": 1111,
+  "drive_min_clemson": 1489,
+  "drive_mi_clemson": 1222
  },
  "Baraboo|Wisconsin": {
   "lat": 43.4704014,
@@ -2266,7 +2270,11 @@
  "Camden|Maine": {
   "lat": 44.2154945,
   "lon": -69.0851729,
-  "name": "Camden, Knox County, Maine, 04843, United States"
+  "name": "Camden, Knox County, Maine, 04843, United States",
+  "drive_min": 1260,
+  "drive_mi": 1033,
+  "drive_min_clemson": 1393,
+  "drive_mi_clemson": 1145
  },
  "Camdenton|Missouri": {
   "lat": 38.008141,
@@ -2529,7 +2537,11 @@
  "Deer Isle|Maine": {
   "lat": 44.224044,
   "lon": -68.677597,
-  "name": "Deer Isle, Hancock County, Maine, United States"
+  "name": "Deer Isle, Hancock County, Maine, United States",
+  "drive_min": 1346,
+  "drive_mi": 1103,
+  "drive_min_clemson": 1479,
+  "drive_mi_clemson": 1215
  },
  "Delaware City|Delaware": {
   "lat": 39.5778901,
@@ -3194,7 +3206,11 @@
  "Millinocket|Maine": {
   "lat": 45.6487248,
   "lon": -68.6849429,
-  "name": "Millinocket, Penobscot County, Maine, 04462, United States"
+  "name": "Millinocket, Penobscot County, Maine, 04462, United States",
+  "drive_min": 1371,
+  "drive_mi": 1151,
+  "drive_min_clemson": 1505,
+  "drive_mi_clemson": 1263
  },
  "Milton|Delaware": {
   "lat": 38.7778049,
@@ -3618,7 +3634,11 @@
  "Portland|Maine": {
   "lat": 43.6573605,
   "lon": -70.2586618,
-  "name": "Portland, Cumberland County, Maine, United States"
+  "name": "Portland, Cumberland County, Maine, United States",
+  "drive_min": 1142,
+  "drive_mi": 952,
+  "drive_min_clemson": 1276,
+  "drive_mi_clemson": 1064
  },
  "Portland|Oregon": {
   "lat": 45.5202471,
@@ -4062,7 +4082,11 @@
  "Thomaston|Maine": {
   "lat": 44.0789631,
   "lon": -69.1831887,
-  "name": "Thomaston, Knox County, Maine, 04861, United States"
+  "name": "Thomaston, Knox County, Maine, 04861, United States",
+  "drive_min": 1245,
+  "drive_mi": 1025,
+  "drive_min_clemson": 1379,
+  "drive_mi_clemson": 1137
  },
  "Tombstone|Arizona": {
   "lat": 31.714229,
@@ -4106,7 +4130,11 @@
  "Unity|Maine": {
   "lat": 44.6112692,
   "lon": -69.3344247,
-  "name": "Unity, Waldo County, Maine, United States"
+  "name": "Unity, Waldo County, Maine, United States",
+  "drive_min": 1252,
+  "drive_mi": 1043,
+  "drive_min_clemson": 1386,
+  "drive_mi_clemson": 1155
  },
  "Utqiagvik|Alaska": {
   "lat": 71.2905366,
@@ -8836,5 +8864,221 @@
   "drive_mi": 934,
   "drive_min_clemson": 1274,
   "drive_mi_clemson": 1046
+ },
+ "Auburn|Maine": {
+  "lat": 44.0965868,
+  "lon": -70.2250697,
+  "name": "Auburn, Androscoggin County, Maine, 04210, United States",
+  "drive_min": 1175,
+  "drive_mi": 982,
+  "drive_min_clemson": 1309,
+  "drive_mi_clemson": 1094
+ },
+ "Augusta|Maine": {
+  "lat": 44.3148027,
+  "lon": -69.7743945,
+  "name": "Augusta, Kennebec County, Maine, 04330, United States",
+  "drive_min": 1206,
+  "drive_mi": 1008,
+  "drive_min_clemson": 1340,
+  "drive_mi_clemson": 1119
+ },
+ "Bangor|Maine": {
+  "lat": 44.8016255,
+  "lon": -68.7713289,
+  "name": "Bangor, Penobscot County, Maine, 04401, United States",
+  "drive_min": 1286,
+  "drive_mi": 1082,
+  "drive_min_clemson": 1420,
+  "drive_mi_clemson": 1194
+ },
+ "Bath|Maine": {
+  "lat": 43.9133661,
+  "lon": -69.8140298,
+  "name": "Bath, Sagadahoc County, Maine, 04530, United States",
+  "drive_min": 1185,
+  "drive_mi": 986,
+  "drive_min_clemson": 1319,
+  "drive_mi_clemson": 1098
+ },
+ "Belfast|Maine": {
+  "lat": 44.4261759,
+  "lon": -69.0065207,
+  "name": "Belfast, Waldo County, Maine, 04915, United States",
+  "drive_min": 1261,
+  "drive_mi": 1052,
+  "drive_min_clemson": 1395,
+  "drive_mi_clemson": 1164
+ },
+ "Bethel|Maine": {
+  "lat": 44.4059351,
+  "lon": -70.7900666,
+  "name": "Bethel, Oxford County, Maine, 04217, United States",
+  "drive_min": 1233,
+  "drive_mi": 1017,
+  "drive_min_clemson": 1367,
+  "drive_mi_clemson": 1128
+ },
+ "Boothbay|Maine": {
+  "lat": 43.8751684,
+  "lon": -69.6338532,
+  "name": "Boothbay, Lincoln County, Maine, United States",
+  "drive_min": 1221,
+  "drive_mi": 1007,
+  "drive_min_clemson": 1354,
+  "drive_mi_clemson": 1119
+ },
+ "Cape Elizabeth|Maine": {
+  "lat": 43.5964405,
+  "lon": -70.2284765,
+  "name": "Cape Elizabeth, Cumberland County, Maine, 04107, United States",
+  "drive_min": 1147,
+  "drive_mi": 955,
+  "drive_min_clemson": 1281,
+  "drive_mi_clemson": 1067
+ },
+ "Carrabassett Valley|Maine": {
+  "lat": 45.0782382,
+  "lon": -70.2114804,
+  "name": "Carrabassett Valley, Franklin County, Maine, 04947, United States",
+  "drive_min": 1284,
+  "drive_mi": 1058,
+  "drive_min_clemson": 1418,
+  "drive_mi_clemson": 1170
+ },
+ "Cutler|Maine": {
+  "lat": 44.6573652,
+  "lon": -67.2038307,
+  "name": "Cutler, Washington County, Maine, 04626, United States",
+  "drive_min": 1440,
+  "drive_mi": 1166,
+  "drive_min_clemson": 1573,
+  "drive_mi_clemson": 1278
+ },
+ "Fort Fairfield|Maine": {
+  "lat": 46.7712563,
+  "lon": -67.8299565,
+  "name": "Fort Fairfield, Aroostook County, Maine, 04742, United States",
+  "drive_min": 1471,
+  "drive_mi": 1243,
+  "drive_min_clemson": 1605,
+  "drive_mi_clemson": 1355
+ },
+ "Greenville|Maine": {
+  "lat": 45.458955,
+  "lon": -69.5916835,
+  "name": "Greenville, Piscataquis County, Maine, 04441, United States",
+  "drive_min": 1332,
+  "drive_mi": 1106,
+  "drive_min_clemson": 1466,
+  "drive_mi_clemson": 1217
+ },
+ "Kingfield|Maine": {
+  "lat": 44.959454,
+  "lon": -70.154572,
+  "name": "Kingfield, Franklin County, Maine, United States",
+  "drive_min": 1270,
+  "drive_mi": 1049,
+  "drive_min_clemson": 1404,
+  "drive_mi_clemson": 1161
+ },
+ "Lewiston|Maine": {
+  "lat": 44.0990717,
+  "lon": -70.2177099,
+  "name": "Lewiston, Androscoggin County, Maine, 04240, United States",
+  "drive_min": 1176,
+  "drive_mi": 983,
+  "drive_min_clemson": 1309,
+  "drive_mi_clemson": 1094
+ },
+ "Machias|Maine": {
+  "lat": 44.7143592,
+  "lon": -67.4582679,
+  "name": "Machias, Washington County, Maine, 04654, United States",
+  "drive_min": 1408,
+  "drive_mi": 1149,
+  "drive_min_clemson": 1542,
+  "drive_mi_clemson": 1261
+ },
+ "Newry|Maine": {
+  "lat": 44.487689,
+  "lon": -70.787659,
+  "name": "Newry, Oxford County, Maine, 04261, United States",
+  "drive_min": 1241,
+  "drive_mi": 1022,
+  "drive_min_clemson": 1375,
+  "drive_mi_clemson": 1134
+ },
+ "Ogunquit|Maine": {
+  "lat": 43.2489755,
+  "lon": -70.5992201,
+  "name": "Ogunquit, York County, Maine, 03907, United States",
+  "drive_min": 1108,
+  "drive_mi": 917,
+  "drive_min_clemson": 1241,
+  "drive_mi_clemson": 1029
+ },
+ "Orono|Maine": {
+  "lat": 44.883607,
+  "lon": -68.672791,
+  "name": "Orono, Penobscot County, Maine, United States",
+  "drive_min": 1295,
+  "drive_mi": 1089,
+  "drive_min_clemson": 1429,
+  "drive_mi_clemson": 1201
+ },
+ "Phippsburg|Maine": {
+  "lat": 43.820638,
+  "lon": -69.8147684,
+  "name": "Phippsburg, Sagadahoc County, Maine, United States",
+  "drive_min": 1197,
+  "drive_mi": 992,
+  "drive_min_clemson": 1331,
+  "drive_mi_clemson": 1104
+ },
+ "Prospect|Maine": {
+  "lat": 44.5531298,
+  "lon": -68.8647555,
+  "name": "Prospect, Waldo County, Maine, United States",
+  "drive_min": 1286,
+  "drive_mi": 1066,
+  "drive_min_clemson": 1420,
+  "drive_mi_clemson": 1178
+ },
+ "The Forks|Maine": {
+  "lat": 45.3361624,
+  "lon": -69.9672843,
+  "name": "The Forks, Somerset County, Maine, United States",
+  "drive_min": 1303,
+  "drive_mi": 1090,
+  "drive_min_clemson": 1437,
+  "drive_mi_clemson": 1202
+ },
+ "Van Buren|Maine": {
+  "lat": 47.1562857,
+  "lon": -67.9342048,
+  "name": "Van Buren, Aroostook County, Maine, 04785, United States",
+  "drive_min": 1508,
+  "drive_mi": 1291,
+  "drive_min_clemson": 1641,
+  "drive_mi_clemson": 1403
+ },
+ "Waterville|Maine": {
+  "lat": 44.5505773,
+  "lon": -69.6303174,
+  "name": "Waterville, Kennebec County, Maine, United States",
+  "drive_min": 1226,
+  "drive_mi": 1026,
+  "drive_min_clemson": 1360,
+  "drive_mi_clemson": 1138
+ },
+ "York|Maine": {
+  "lat": 43.4229305,
+  "lon": -70.6546639,
+  "name": "York County, Maine, United States",
+  "drive_min": 1126,
+  "drive_mi": 932,
+  "drive_min_clemson": 1259,
+  "drive_mi_clemson": 1044
  }
 }
