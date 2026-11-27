@@ -138,10 +138,12 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 1,067 of 3,143 counties covered, 2,994 entries. Every state and district now has at
-least thirty entries. 283 counties nationally still have a single entry, and those are the backlog,
-along with the 2,000+ counties with no entry at all. Georgia has moved from 40 counties to 132 of
-159, all at three or more, in the current sessions.
+Current picture: 1,119 of 3,143 counties covered, 3,202 entries. Every state and district now has at
+least thirty entries. 283 counties nationally still have a single entry, and those are the backlog.
+Georgia is finished: 159 of 159 counties, 594 entries, every county at three or more except
+Chattahoochee at two. Tennessee is at 41 of 95 counties, 170 entries, with the Memphis ring
+(Fayette, Tipton, Haywood, Lauderdale, Hardeman), the eastern mountain counties and the
+Nashville-adjacent counties still blank.
 
 
 ## The radius tool
