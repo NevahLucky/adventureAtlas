@@ -15497,5 +15497,77 @@
   "drive_mi": 300,
   "drive_min_clemson": 173,
   "drive_mi_clemson": 178
+ },
+ "Forsyth|Georgia": {
+  "lat": 34.235309,
+  "lon": -84.1335644,
+  "name": "Forsyth County, Georgia, United States",
+  "drive_min": 225,
+  "drive_mi": 224,
+  "drive_min_clemson": 113,
+  "drive_mi_clemson": 106
+ },
+ "Lexington|Georgia": {
+  "lat": 33.8698404,
+  "lon": -83.111817,
+  "name": "Lexington, Oglethorpe County, Georgia, United States",
+  "drive_min": 207,
+  "drive_mi": 178,
+  "drive_min_clemson": 97,
+  "drive_mi_clemson": 78
+ },
+ "Loganville|Georgia": {
+  "lat": 33.8389977,
+  "lon": -83.9007382,
+  "name": "Loganville, Walton County, Georgia, United States",
+  "drive_min": 226,
+  "drive_mi": 222,
+  "drive_min_clemson": 114,
+  "drive_mi_clemson": 105
+ },
+ "Madison|Georgia": {
+  "lat": 34.1307533,
+  "lon": -83.1817407,
+  "name": "Madison County, Georgia, United States",
+  "drive_min": 183,
+  "drive_mi": 175,
+  "drive_min_clemson": 70,
+  "drive_mi_clemson": 59
+ },
+ "Monroe|Georgia": {
+  "lat": 33.0142344,
+  "lon": -83.9044159,
+  "name": "Monroe County, Georgia, United States",
+  "drive_min": 272,
+  "drive_mi": 283,
+  "drive_min_clemson": 179,
+  "drive_mi_clemson": 165
+ },
+ "Perry|Georgia": {
+  "lat": 32.4586695,
+  "lon": -83.7319658,
+  "name": "Perry, Houston County, Georgia, 31069, United States",
+  "drive_min": 286,
+  "drive_mi": 299,
+  "drive_min_clemson": 203,
+  "drive_mi_clemson": 203
+ },
+ "Rutledge|Georgia": {
+  "lat": 33.6259545,
+  "lon": -83.6123935,
+  "name": "Rutledge, Morgan County, Georgia, United States",
+  "drive_min": 218,
+  "drive_mi": 241,
+  "drive_min_clemson": 122,
+  "drive_mi_clemson": 119
+ },
+ "Warner Robins|Georgia": {
+  "lat": 32.6200973,
+  "lon": -83.606568,
+  "name": "Warner Robins, Houston County, Georgia, 31098, United States",
+  "drive_min": 281,
+  "drive_mi": 288,
+  "drive_min_clemson": 198,
+  "drive_mi_clemson": 192
  }
 }
