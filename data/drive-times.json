@@ -17306,5 +17306,95 @@
   "drive_mi": 91,
   "drive_min_clemson": 192,
   "drive_mi_clemson": 199
+ },
+ "Creswell|North Carolina": {
+  "lat": 35.8693818,
+  "lon": -76.393796,
+  "name": "Creswell, Washington County, North Carolina, United States",
+  "drive_min": 305,
+  "drive_mi": 327,
+  "drive_min_clemson": 412,
+  "drive_mi_clemson": 438
+ },
+ "Louisburg|North Carolina": {
+  "lat": 36.0990393,
+  "lon": -78.301106,
+  "name": "Louisburg, Franklin County, North Carolina, United States",
+  "drive_min": 199,
+  "drive_mi": 197,
+  "drive_min_clemson": 306,
+  "drive_mi_clemson": 308
+ },
+ "Mayo|North Carolina": {
+  "lat": 36.0865714,
+  "lon": -79.8405156,
+  "name": "Mayo, West Friendly Avenue, Starmount Forest, Greensboro, Guilford County, North",
+  "drive_min": 110,
+  "drive_mi": 110,
+  "drive_min_clemson": 216,
+  "drive_mi_clemson": 221
+ },
+ "Milton|North Carolina": {
+  "lat": 36.5388422,
+  "lon": -79.2065976,
+  "name": "Milton, Caswell County, North Carolina, United States",
+  "drive_min": 162,
+  "drive_mi": 166,
+  "drive_min_clemson": 268,
+  "drive_mi_clemson": 276
+ },
+ "Plymouth|North Carolina": {
+  "lat": 35.8668281,
+  "lon": -76.7485555,
+  "name": "Plymouth, Washington County, North Carolina, 27962, United States",
+  "drive_min": 286,
+  "drive_mi": 305,
+  "drive_min_clemson": 392,
+  "drive_mi_clemson": 416
+ },
+ "Reidsville|North Carolina": {
+  "lat": 36.3548586,
+  "lon": -79.6644748,
+  "name": "Reidsville, Rockingham County, North Carolina, United States",
+  "drive_min": 130,
+  "drive_mi": 133,
+  "drive_min_clemson": 237,
+  "drive_mi_clemson": 243
+ },
+ "Roxboro|North Carolina": {
+  "lat": 36.3937519,
+  "lon": -78.9827881,
+  "name": "Roxboro, Person County, North Carolina, 27573, United States",
+  "drive_min": 172,
+  "drive_mi": 167,
+  "drive_min_clemson": 279,
+  "drive_mi_clemson": 277
+ },
+ "Snow Hill|North Carolina": {
+  "lat": 35.4553556,
+  "lon": -77.6707275,
+  "name": "Snow Hill, Greene County, North Carolina, 28580, United States",
+  "drive_min": 239,
+  "drive_mi": 226,
+  "drive_min_clemson": 354,
+  "drive_mi_clemson": 372
+ },
+ "Wentworth|North Carolina": {
+  "lat": 36.4001371,
+  "lon": -79.7744792,
+  "name": "Wentworth, Rockingham County, North Carolina, 27375, United States",
+  "drive_min": 135,
+  "drive_mi": 134,
+  "drive_min_clemson": 241,
+  "drive_mi_clemson": 244
+ },
+ "Yanceyville|North Carolina": {
+  "lat": 36.4040273,
+  "lon": -79.3361314,
+  "name": "Yanceyville, Caswell County, North Carolina, United States",
+  "drive_min": 155,
+  "drive_mi": 152,
+  "drive_min_clemson": 261,
+  "drive_mi_clemson": 263
  }
 }
