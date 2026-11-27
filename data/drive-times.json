@@ -2104,7 +2104,11 @@
  "Baker|Nevada": {
   "lat": 39.0121773,
   "lon": -114.123326,
-  "name": "Baker, White Pine County, Nevada, 89311, United States"
+  "name": "Baker, White Pine County, Nevada, 89311, United States",
+  "drive_min": 2392,
+  "drive_mi": 2189,
+  "drive_min_clemson": 2310,
+  "drive_mi_clemson": 2129
  },
  "Baltimore|Maryland": {
   "lat": 39.2908816,
@@ -2155,7 +2159,11 @@
  "Beatty|Nevada": {
   "lat": 36.947782,
   "lon": -116.7201565,
-  "name": "Beatty, Nye County, Nevada, 89003, United States"
+  "name": "Beatty, Nye County, Nevada, 89003, United States",
+  "drive_min": 2477,
+  "drive_mi": 2325,
+  "drive_min_clemson": 2336,
+  "drive_mi_clemson": 2207
  },
  "Benson|Arizona": {
   "lat": 31.9679895,
@@ -2243,7 +2251,11 @@
  "Boulder City|Nevada": {
   "lat": 35.9787649,
   "lon": -114.8337574,
-  "name": "Boulder City, Clark County, Nevada, 89005, United States"
+  "name": "Boulder City, Clark County, Nevada, 89005, United States",
+  "drive_min": 2307,
+  "drive_mi": 2178,
+  "drive_min_clemson": 2166,
+  "drive_mi_clemson": 2060
  },
  "Bozeman|Montana": {
   "lat": 45.6794293,
@@ -2838,7 +2850,11 @@
  "Gerlach|Nevada": {
   "lat": 40.651812,
   "lon": -119.356261,
-  "name": "Gerlach, Washoe County, Nevada, United States"
+  "name": "Gerlach, Washoe County, Nevada, United States",
+  "drive_min": 2720,
+  "drive_mi": 2501,
+  "drive_min_clemson": 2639,
+  "drive_mi_clemson": 2441
  },
  "Gettysburg|Pennsylvania": {
   "lat": 39.8308973,
@@ -2946,7 +2962,11 @@
  "Henderson|Nevada": {
   "lat": 36.0301388,
   "lon": -114.9815488,
-  "name": "Henderson, Clark County, Nevada, United States"
+  "name": "Henderson, Clark County, Nevada, United States",
+  "drive_min": 2323,
+  "drive_mi": 2188,
+  "drive_min_clemson": 2182,
+  "drive_mi_clemson": 2071
  },
  "Herod|Illinois": {
   "lat": 37.5803268,
@@ -3139,7 +3159,11 @@
  "Las Vegas|Nevada": {
   "lat": 36.1674263,
   "lon": -115.1484131,
-  "name": "Las Vegas, Clark County, Nevada, United States"
+  "name": "Las Vegas, Clark County, Nevada, United States",
+  "drive_min": 2341,
+  "drive_mi": 2204,
+  "drive_min_clemson": 2200,
+  "drive_mi_clemson": 2087
  },
  "Lawton|Oklahoma": {
   "lat": 34.6051975,
@@ -3385,7 +3409,11 @@
  "Minden|Nevada": {
   "lat": 38.9565145,
   "lon": -119.7700488,
-  "name": "Minden, Douglas County, Nevada, 89423, United States"
+  "name": "Minden, Douglas County, Nevada, 89423, United States",
+  "drive_min": 2755,
+  "drive_mi": 2596,
+  "drive_min_clemson": 2674,
+  "drive_mi_clemson": 2536
  },
  "Minot|North Dakota": {
   "lat": 48.23251,
@@ -10350,5 +10378,158 @@
   "drive_mi": 1783,
   "drive_min_clemson": 1787,
   "drive_mi_clemson": 1665
+ },
+ "Austin|Nevada": {
+  "lat": 39.4981942,
+  "lon": -117.0774777,
+  "name": "Austin, Lander County, Nevada, United States",
+  "drive_min": 2589,
+  "drive_mi": 2435,
+  "drive_min_clemson": 2508,
+  "drive_mi_clemson": 2375
+ },
+ "Carson City|Nevada": {
+  "lat": 39.1663259,
+  "lon": -119.7670374,
+  "name": "Carson City, Nevada, United States",
+  "drive_min": 2738,
+  "drive_mi": 2581,
+  "drive_min_clemson": 2656,
+  "drive_mi_clemson": 2521
+ },
+ "Dayton|Nevada": {
+  "lat": 39.2501076,
+  "lon": -119.5858042,
+  "name": "Dayton, Lyon County, Nevada, 89403, United States",
+  "drive_min": 2718,
+  "drive_mi": 2569,
+  "drive_min_clemson": 2637,
+  "drive_mi_clemson": 2509
+ },
+ "Elko|Nevada": {
+  "lat": 41.1958128,
+  "lon": -115.3272864,
+  "name": "Elko County, Nevada, United States",
+  "drive_min": 2420,
+  "drive_mi": 2256,
+  "drive_min_clemson": 2339,
+  "drive_mi_clemson": 2196
+ },
+ "Eureka|Nevada": {
+  "lat": 39.9497613,
+  "lon": -116.2884505,
+  "name": "Eureka County, Nevada, United States",
+  "drive_min": 2536,
+  "drive_mi": 2359,
+  "drive_min_clemson": 2455,
+  "drive_mi_clemson": 2299
+ },
+ "Fallon|Nevada": {
+  "lat": 39.4745166,
+  "lon": -118.777895,
+  "name": "Fallon, Churchill County, Nevada, United States",
+  "drive_min": 2671,
+  "drive_mi": 2528,
+  "drive_min_clemson": 2590,
+  "drive_mi_clemson": 2468
+ },
+ "Gold Point|Nevada": {
+  "lat": 37.3546528,
+  "lon": -117.3650767,
+  "name": "Gold Point, Esmeralda County, Nevada, United States",
+  "drive_min": 2555,
+  "drive_mi": 2387,
+  "drive_min_clemson": 2414,
+  "drive_mi_clemson": 2269
+ },
+ "Hawthorne|Nevada": {
+  "lat": 38.5254201,
+  "lon": -118.6269769,
+  "name": "Hawthorne, Mineral County, Nevada, 89415, United States",
+  "drive_min": 2687,
+  "drive_mi": 2507,
+  "drive_min_clemson": 2546,
+  "drive_mi_clemson": 2390
+ },
+ "Lamoille|Nevada": {
+  "lat": 40.7279826,
+  "lon": -115.478392,
+  "name": "Lamoille, Elko County, Nevada, 89828, United States",
+  "drive_min": 2453,
+  "drive_mi": 2295,
+  "drive_min_clemson": 2371,
+  "drive_mi_clemson": 2235
+ },
+ "Nixon|Nevada": {
+  "lat": 39.8289555,
+  "lon": -119.359182,
+  "name": "Nixon, Washoe County, Nevada, 89424, United States",
+  "drive_min": 2693,
+  "drive_mi": 2551,
+  "drive_min_clemson": 2612,
+  "drive_mi_clemson": 2491
+ },
+ "Panaca|Nevada": {
+  "lat": 37.79052,
+  "lon": -114.389433,
+  "name": "Panaca, Lincoln County, Nevada, 89042, United States",
+  "drive_min": 2405,
+  "drive_mi": 2233,
+  "drive_min_clemson": 2324,
+  "drive_mi_clemson": 2173
+ },
+ "Pioche|Nevada": {
+  "lat": 37.9297556,
+  "lon": -114.4516344,
+  "name": "Pioche, Lincoln County, Nevada, 89043, United States",
+  "drive_min": 2420,
+  "drive_mi": 2244,
+  "drive_min_clemson": 2339,
+  "drive_mi_clemson": 2184
+ },
+ "Rachel|Nevada": {
+  "lat": 37.6463655,
+  "lon": -115.7464611,
+  "name": "Rachel, Lincoln County, Nevada, United States",
+  "drive_min": 2500,
+  "drive_mi": 2347,
+  "drive_min_clemson": 2359,
+  "drive_mi_clemson": 2230
+ },
+ "Reno|Nevada": {
+  "lat": 39.5261788,
+  "lon": -119.812658,
+  "name": "Reno, Washoe County, Nevada, United States",
+  "drive_min": 2710,
+  "drive_mi": 2566,
+  "drive_min_clemson": 2629,
+  "drive_mi_clemson": 2506
+ },
+ "Silver Springs|Nevada": {
+  "lat": 39.373597,
+  "lon": -119.2267443,
+  "name": "Silver Springs, Lyon County, Nevada, 89429, United States",
+  "drive_min": 2695,
+  "drive_mi": 2549,
+  "drive_min_clemson": 2614,
+  "drive_mi_clemson": 2489
+ },
+ "Virginia City|Nevada": {
+  "lat": 39.3108133,
+  "lon": -119.649517,
+  "name": "Virginia City, Storey County, Nevada, 89440, United States",
+  "drive_min": 2725,
+  "drive_mi": 2572,
+  "drive_min_clemson": 2644,
+  "drive_mi_clemson": 2512
+ },
+ "Winnemucca|Nevada": {
+  "lat": 40.9724295,
+  "lon": -117.734802,
+  "name": "Winnemucca, Humboldt County, Nevada, 89445, United States",
+  "drive_min": 2547,
+  "drive_mi": 2400,
+  "drive_min_clemson": 2466,
+  "drive_mi_clemson": 2340
  }
 }
