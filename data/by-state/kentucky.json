@@ -829,6 +829,8 @@
   "unique": "A barn based music venue that has hosted country and bluegrass since the 1930s, with a theater, a lodge and a general store.",
   "buzz": "The barn shows are the real thing, with a house band and a radio history. Check the schedule.",
   "rating": 78,
+  "drive_min": 333,
+  "drive_min_clemson": 296,
   "id": "renfro-valley-mount-vernon",
   "state_abbr": "KY",
   "lat": 37.3529436,

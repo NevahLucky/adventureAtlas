@@ -7679,12 +7679,20 @@
  "Mount Vernon|Kentucky": {
   "lat": 37.3529436,
   "lon": -84.3404195,
-  "name": "Mount Vernon, Rockcastle County, Kentucky, 40456, United States"
+  "name": "Mount Vernon, Rockcastle County, Kentucky, 40456, United States",
+  "drive_min": 333,
+  "drive_mi": 360,
+  "drive_min_clemson": 296,
+  "drive_mi_clemson": 306
  },
  "Napoleonville|Louisiana": {
   "lat": 29.9404803,
   "lon": -91.0248214,
-  "name": "Napoleonville, Assumption Parish, Louisiana, 70390, United States"
+  "name": "Napoleonville, Assumption Parish, Louisiana, 70390, United States",
+  "drive_min": 715,
+  "drive_mi": 781,
+  "drive_min_clemson": 603,
+  "drive_mi_clemson": 664
  },
  "Onawa|Iowa": {
   "lat": 42.0268269,
@@ -14175,5 +14183,86 @@
   "drive_mi": 1290,
   "drive_min_clemson": 1366,
   "drive_mi_clemson": 1229
+ },
+ "Americus|Georgia": {
+  "lat": 32.0723862,
+  "lon": -84.2326876,
+  "name": "Americus, Sumter County, Georgia, 31709, United States",
+  "drive_min": 338,
+  "drive_mi": 340,
+  "drive_min_clemson": 254,
+  "drive_mi_clemson": 244
+ },
+ "Andersonville|Georgia": {
+  "lat": 32.1959947,
+  "lon": -84.1399085,
+  "name": "Andersonville, Sumter County, Georgia, 31711, United States",
+  "drive_min": 324,
+  "drive_mi": 329,
+  "drive_min_clemson": 241,
+  "drive_mi_clemson": 233
+ },
+ "Cordele|Georgia": {
+  "lat": 31.9691606,
+  "lon": -83.782718,
+  "name": "Cordele, Crisp County, Georgia, 31010, United States",
+  "drive_min": 317,
+  "drive_mi": 335,
+  "drive_min_clemson": 234,
+  "drive_mi_clemson": 239
+ },
+ "Doerun|Georgia": {
+  "lat": 31.3196267,
+  "lon": -83.9171221,
+  "name": "Doerun, Colquitt County, Georgia, 31744, United States",
+  "drive_min": 373,
+  "drive_mi": 385,
+  "drive_min_clemson": 290,
+  "drive_mi_clemson": 289
+ },
+ "Fitzgerald|Georgia": {
+  "lat": 31.715036,
+  "lon": -83.2541994,
+  "name": "Fitzgerald, Ben Hill County, Georgia, 31750, United States",
+  "drive_min": 318,
+  "drive_mi": 316,
+  "drive_min_clemson": 278,
+  "drive_mi_clemson": 275
+ },
+ "Leslie|Georgia": {
+  "lat": 31.9554475,
+  "lon": -84.0865706,
+  "name": "Leslie, Sumter County, Georgia, United States",
+  "drive_min": 337,
+  "drive_mi": 354,
+  "drive_min_clemson": 254,
+  "drive_mi_clemson": 258
+ },
+ "Moultrie|Georgia": {
+  "lat": 31.1793436,
+  "lon": -83.788579,
+  "name": "Moultrie, Colquitt County, Georgia, United States",
+  "drive_min": 379,
+  "drive_mi": 370,
+  "drive_min_clemson": 293,
+  "drive_mi_clemson": 303
+ },
+ "Plains|Georgia": {
+  "lat": 32.0340872,
+  "lon": -84.3926633,
+  "name": "Plains, Sumter County, Georgia, United States",
+  "drive_min": 348,
+  "drive_mi": 356,
+  "drive_min_clemson": 265,
+  "drive_mi_clemson": 260
+ },
+ "Tifton|Georgia": {
+  "lat": 31.4549719,
+  "lon": -83.5108284,
+  "name": "Tifton, Tift County, Georgia, 31794, United States",
+  "drive_min": 351,
+  "drive_mi": 343,
+  "drive_min_clemson": 268,
+  "drive_mi_clemson": 276
  }
 }

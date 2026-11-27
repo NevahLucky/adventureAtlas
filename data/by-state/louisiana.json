@@ -530,6 +530,8 @@
   "unique": "A Greek Revival mansion on Bayou Lafourche, still family owned and open for tours and overnight stays.",
   "buzz": "The house is stunning and the family story is personal. Book ahead for a tour or a night.",
   "rating": 82,
+  "drive_min": 715,
+  "drive_min_clemson": 603,
   "id": "madewood-plantation-napoleonville",
   "state_abbr": "LA",
   "lat": 29.9404803,
