@@ -120,32 +120,43 @@ several lanes or a good reason it cannot.
 
 ## Coverage targets
 
+- A county is not done until it clears its floor: five entries for a rural county, eight for a county
+  with a real town in it, twelve for a metro county and fifteen for a metro of a million people or
+  more. `data/metros.json` lists the metro counties, and `scripts/gaps.py` applies the floor.
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
-- No county below three entries where the county has three real things. One entry is not done.
-- No per county cap. Greenville County, SC is the current high at 15, and it can take more. Depth is the product. A thin county is a research failure, not a finished county.
-- A state is done when every county is at three or more and the state sweep for duplicates is finished.
+- Three entries is the alarm, not the target. A county sitting on exactly three was filled to a
+  threshold, not researched. Florida has 38 counties on exactly three and 61 of 67 under five.
+- There is no cap of any kind. Greenville County, SC is the current high at 15 and it can take more.
+  Depth is the product. A thin county is a research failure.
+- A state is done when every county clears its floor, not when every county has something, and the
+  duplicate sweep is finished.
 - Only after the United States is at target should another country be started.
 
 ## The coverage audit
 
 `data/counties.json` holds the official Census county list for all 51 states and districts.
-`scripts/coverage.py` compares it to the atlas and prints, per state: entries, total counties,
-counties covered, and how many have one, two, or three or more entries. It also flags county names
-that do not match the Census list, which usually means a spelling or type error.
+`scripts/coverage.py` answers whether a county is in the atlas at all. `scripts/gaps.py` answers
+whether it is actually researched, by measuring every county against its floor. Run both.
 
 ```bash
 python3 scripts/coverage.py
+python3 scripts/gaps.py                       # every county under its floor, worst first
+python3 scripts/gaps.py --state Florida
+python3 scripts/gaps.py --at 3               # the counties filled to the old threshold
 ```
 
 Current picture: 1,274 of 3,143 counties covered, 3,780 entries. Every state and district has at
-least thirty entries. 266 counties nationally still have a single entry, and those are the backlog.
+least thirty entries. 266 counties nationally still have a single entry, and 3,008 counties sit
+under their floor, 13,122 entries short. `coverage.py` prints the coverage table and `gaps.py`
+prints the depth table; the numbers in this file go stale, those two commands do not.
 
-Three states are finished. Georgia is 159 of 159 counties with 594 entries. North Carolina is 100 of
-100 with 337 entries, every county at three or more except Alexander and Davie at two. Tennessee is
-95 of 95 with 362 entries, every county at three or more except Van Buren at two, where Fall Creek
-Falls is counted once under Bledsoe because that is the park's address. South Carolina is 46 of 46
-with 287 entries. Florida is 67 of 67 with 192 entries, no single-entry counties, 23 at two. All four have had the duplicate sweep.
+Five states have every county covered: Georgia (594 in 159), North Carolina (337 in 100), Tennessee
+(362 in 95), South Carolina (287 in 46) and Florida (192 in 67). All five have had the duplicate
+sweep. Covered is not deep, and by the floors above none of the five is finished: South Carolina is
+5 counties short, Tennessee 81, North Carolina 97, Georgia 140, and Florida 66 of 67 with 262 entries
+missing. Florida is the clearest threshold sweep in the atlas. Thirty eight of its 67 counties sit
+on exactly three entries, and Miami-Dade, its largest metro, has nine.
 
 ## The radius tool
 
@@ -158,32 +169,35 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 3,500 entries
+## Where it stands, 3,780 entries
 
-The four finished states are Georgia (594 in 159 counties), North Carolina (337 in 100), Tennessee
-(362 in 95) and South Carolina (287 in 46). Behind them the thickest are New York (157 in 44 of 62),
-Pennsylvania (89 in 32 of 67), Florida (88 in 33 of 67) and California (60 in 28 of 58).
+Five states are covered: Georgia (594 in 159 counties), North Carolina (337 in 100), Tennessee (362
+in 95), South Carolina (287 in 46) and Florida (192 in 67). None of the five is deep. Behind them the
+thickest are Virginia (212 in 53 of 133), New York (157 in 44 of 62) and Pennsylvania (89 in 32 of 67).
 
-The thinnest by coverage, which is the queue: Texas 17 of 254, Virginia 53 of 133, Illinois 11 of
-102, Missouri 14 of 115, Kentucky 19 of 120, Kansas 19 of 105, Indiana 16 of 92, Nebraska 17 of 93,
-Minnesota 16 of 87, Michigan 16 of 83, Ohio 17 of 88. `python3 scripts/coverage.py` is the live
-number; do not trust a table in this file to stay current.
+Coverage is no longer the queue. Depth is. 3,008 counties sit under their floor, 13,122 entries short,
+and the order by entries missing is Texas 1,337, Missouri 584, Kentucky 584, Illinois 546, Virginia
+525, Kansas 516, Ohio 466, Iowa 464, Indiana 458, Nebraska 456, Michigan 427, Minnesota 401, Florida
+262. `python3 scripts/gaps.py` is the live number.
 
-## Queue, county by county
+## Queue
 
-1. Florida. 33 of 67 counties have entries, 34 blank, 88 entries. Next: the Panhandle (Holmes,
-   Washington, Jackson, Calhoun, Gulf, Liberty, Wakulla, Taylor, Lafayette, Dixie), then the interior.
-2. Virginia. 20 of 133 counties and independent cities, 36 entries, 11 single-entry counties. Next:
-   the Shenandoah Valley (Page, Shenandoah, Rockingham, Augusta), Southside and the Northern Neck.
-3. Texas. 17 of 254 counties and only 52 entries. The largest single gap in the atlas. Go metro by
-   metro and county by county, starting with the smaller metros and the Hill Country.
+1. Florida, depth pass. 262 entries short across 66 counties. Thirty eight counties on exactly three
+   entries and every metro on three to nine. Start with Miami-Dade at 9, then Broward, Palm Beach,
+   Hillsborough, Duval, Orange and Pinellas, all between three and five.
+2. The other covered states, by how short they are: South Carolina 24 entries, Tennessee 189,
+   North Carolina 213, Georgia 284.
+3. Texas, coverage and depth together. 17 of 254 counties and 52 entries, the largest single gap in
+   the atlas. Region by region: the Hill Country (Kerr, Gillespie, Bandera, Kendall, Llano, Burnet,
+   Blanco), then Wichita Falls, Abilene, Tyler, Waco, the Valley, then the Panhandle.
 4. The Midwest and Plains, thinnest first: Illinois, Missouri, Kentucky, Kansas, Indiana, Nebraska.
-5. The mid-Atlantic and Northeast depth pass: Pennsylvania 32 of 67, New York 44 of 62, then the
-   New England states that are complete but thin.
-6. Then a third country, using the same rules.
+5. The South: Alabama, Mississippi, Arkansas, Oklahoma, Louisiana.
+6. The mid-Atlantic and Northeast depth pass: Virginia 53 of 133, Pennsylvania 32 of 67, New York 44
+   of 62, then the New England states that are complete but thin.
+7. Then a third country, using the same rules.
 
-Fill single-entry counties and two-entry counties before starting a new state where the choice is
-close. A county at one is a research failure, not a finished county.
+Fill single-entry, two-entry and three-entry counties before widening to a new state where the
+choice is close. A county at one is a research failure, and so is a metro at three.
 
 ## Verification
 
@@ -228,6 +242,91 @@ and convert seconds to minutes and meters to miles.
 
 Keep batches to 20 or 30 entries so each commit is easy to review.
 
+## Parallel rounds
+
+Research is the slow part and it parallelizes cleanly. The repo needs no branches, because the unit
+of work is already one file per batch. What it needs is one writer.
+
+Roles:
+
+- Workers research a claimed set of counties and write exactly one new file in `data/regions/`.
+  They may read anything. They may not touch `data/adventures.json`, `PLAN.md`, `data/claims.json`,
+  the generated HTML or git, and they do not run the scripts.
+- The pipeline owner runs merge, route, build, coverage and the commit, one round at a time.
+
+The claim ledger. `scripts/claim.py` assigns counties and records who holds them.
+
+```bash
+python3 scripts/claim.py next --owner r05 --state Texas --counties "Kerr,Kendall"
+python3 scripts/claim.py list
+python3 scripts/claim.py release --id r05
+```
+
+It hands out the thinnest counties first, refuses a county a live claim already holds, and expires
+claims after three hours so a killed round cannot wedge the queue. Never start a county that
+`claim.py list` shows under another owner. `merge_regions.py` dedupes on (name, state) in filename
+order and drops the loser without a word, so an overlap costs one worker the whole batch.
+
+The lock. `scripts/pipeline.py` holds an exclusive lock on `data/.pipeline.lock` across the merge,
+the route, the build and the commit. A second session that runs it exits 3 immediately instead of
+interleaving a build with someone else's merge.
+
+```bash
+python3 scripts/pipeline.py                        # merge, route, build, audit. No commit.
+python3 scripts/pipeline.py --commit -m "Add ..."  # also commit
+python3 scripts/pipeline.py --push -m "Add ..."    # commit and push, deploys
+```
+
+It routes only the states the merge actually added entries for, runs `coverage.py`, then audits:
+broken region JSON, duplicate (name, state), missing fields, and the thirty entry state floor. It
+refuses to commit when the audit fails. Exit codes: 2 broken region file, 3 already running, 4
+audit failed.
+
+Model split, measured on the same county prompt:
+
+- `kimi-k3.1-pro` for county research. Schema compliance is identical to deepseek, but it finds more
+  of the county, and recall is the whole job. It also came in at 118 seconds per six entries against
+  34 for deepseek, which parallel workers absorb.
+- `deepseek-v4.1-flash` for triage, mechanical passes and reformatting, where the work is judgement
+  over existing entries rather than recall.
+
+Delegation is pinned in the profile config, so `delegate_task` children inherit kimi:
+
+```bash
+hermes config set delegation.provider ollama-launch
+hermes config set delegation.model kimi-k3.1-pro:cloud
+```
+
+Round procedure:
+
+1. Claim a coherent cluster, not alphabetical counties. Neighbouring counties share day trips,
+   papers and tourism boards, so one worker's research compounds. Six to ten counties per worker.
+2. Spawn one child per claim. Give it the county list, the exact output file, the schema and the rules
+   from this file. Tell it to verify every operator still exists and to leave out anything it cannot
+   confirm.
+3. When the children return, run `python3 scripts/pipeline.py --commit -m "..."`, and read the audit
+   before pushing.
+4. Push. Vercel rebuilds from the committed HTML.
+5. Release the claims.
+
+Throughput to plan against: one worker produces roughly twenty entries in ten to fifteen minutes
+with search. Six workers is where the serial pipeline, not the research, becomes the limit, because
+routing costs about a second per new city.
+
+What kills a round, learned by running one:
+
+- One county per worker and per file. Two workers sharing an output file means one silently
+  overwrites the other.
+- Workers cannot use `execute_code` or `terminal`. Those need a human approval a background child
+  cannot get, and the attempt wastes a turn. Give them `web_search`, `web_extract`, `read_file` and
+  `write_file` only.
+- Workers must write their file early, after the first three entries, then rewrite it with the full
+  list. The first attempt gave two workers two counties each, and at 57 and 64 tool calls the
+  runtime stopped them with good research and nothing written. A file with five entries beats a
+  perfect answer that never lands.
+- Budget about forty tool calls per worker, which is six to ten entries for a rural county and ten
+  to fourteen for a metro. Search in batches of four or five queries, not one at a time.
+
 ## Deploy and update
 
 The site is live through GitHub, not the Vercel CLI.
@@ -261,8 +360,11 @@ Rules:
 ## First moves in a fresh session
 
 1. Read `PLAN.md`, then `README.md`.
-2. Run `python3 scripts/coverage.py` and pick the next county from the thinnest state.
-3. Run `python3 build.py` and open `explore.html` and one state page.
-4. List what the county actually has, then write five to eight entries.
-5. Merge, route, build, check both widths, commit.
-6. Repeat for the next county. Only sweep a state for duplicates after all its counties are at three.
+2. Run `python3 scripts/coverage.py`, then `python3 scripts/claim.py list` to see what is already
+   in flight.
+3. Claim the next cluster: `python3 scripts/claim.py next --owner <name> --state Texas --counties
+   "Kerr,Kendall"`.
+4. Research the claimed counties, either yourself or with one child per claim, and write one new
+   file per claim in `data/regions/`.
+5. `python3 scripts/pipeline.py --push -m "..."`, then `python3 scripts/claim.py release --id <id>`.
+6. Only sweep a state for duplicates after all its counties are at three.

@@ -1,0 +1,46 @@
+{
+ "rounds": [
+  {
+   "id": "r03",
+   "owner": "huesten-session",
+   "created": "2026-11-27T08:42:40+00:00",
+   "state": "Texas",
+   "counties": [
+    "Texas:Kerr"
+   ],
+   "file": "data/regions/texas-r03.json"
+  },
+  {
+   "id": "r04",
+   "owner": "huesten-session",
+   "created": "2026-11-27T08:42:40+00:00",
+   "state": "Texas",
+   "counties": [
+    "Texas:Kendall"
+   ],
+   "file": "data/regions/texas-r04.json"
+  },
+  {
+   "id": "r05",
+   "owner": "huesten-session",
+   "created": "2026-11-27T08:42:40+00:00",
+   "state": "Texas",
+   "counties": [
+    "Texas:Gillespie"
+   ],
+   "file": "data/regions/texas-r05.json"
+  },
+  {
+   "id": "r06",
+   "owner": "huesten-session",
+   "created": "2026-11-27T08:42:40+00:00",
+   "state": "Texas",
+   "counties": [
+    "Texas:Bandera"
+   ],
+   "file": "data/regions/texas-r06.json"
+  }
+ ],
+ "ttl_minutes": 180,
+ "updated": "2026-11-27T08:45:52+00:00"
+}

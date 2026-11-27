@@ -27,7 +27,11 @@ build.py                   regenerates every page, CSV and JSON extract
 scripts/merge_regions.py   merges data/regions into the master list
 scripts/drive_times.py     geocodes cities and routes drive times from any origin
 scripts/coverage.py        county coverage audit against data/counties.json
-PLAN.md                    coverage targets and the build queue
+scripts/gaps.py            depth audit: which counties are still under their floor
+scripts/claim.py           the county claim ledger for parallel research rounds
+scripts/pipeline.py        locked merge, route, build, audit and commit in one step
+data/claims.json           who is researching which counties, with expiry
+PLAN.md                    coverage targets, the build queue and the parallel round rules
 DEPLOY.md                  Vercel instructions
 all-adventures.csv         flat export of the whole atlas (generated)
 ```

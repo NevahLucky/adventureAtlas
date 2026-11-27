@@ -18584,5 +18584,74 @@
   "drive_mi": 175,
   "drive_min_clemson": 282,
   "drive_mi_clemson": 286
+ },
+ "Albert|Texas": {
+  "lat": 30.1938154,
+  "lon": -98.6016958,
+  "name": "Albert, Gillespie County, Texas, 78635, United States"
+ },
+ "Bandera|Texas": {
+  "lat": 29.7643475,
+  "lon": -99.234526,
+  "name": "Bandera County, Texas, United States"
+ },
+ "Boerne|Texas": {
+  "lat": 29.7946641,
+  "lon": -98.7319703,
+  "name": "Boerne, Kendall County, Texas, United States"
+ },
+ "Camp Verde|Texas": {
+  "lat": 29.8938619,
+  "lon": -99.1046406,
+  "name": "Camp Verde, Kerr County, Texas, 78010, United States"
+ },
+ "Comfort|Texas": {
+  "lat": 29.967715,
+  "lon": -98.9050337,
+  "name": "Comfort, Kendall County, Texas, 70813, United States"
+ },
+ "Hunt|Texas": {
+  "lat": 33.1161567,
+  "lon": -96.0808922,
+  "name": "Hunt County, Texas, United States",
+  "drive_min": 914,
+  "drive_mi": 1004,
+  "drive_min_clemson": 801,
+  "drive_mi_clemson": 887
+ },
+ "Ingram|Texas": {
+  "lat": 30.073889,
+  "lon": -99.2365616,
+  "name": "Ingram, Kerr County, Texas, United States"
+ },
+ "Kerrville|Texas": {
+  "lat": 30.048469,
+  "lon": -99.1399464,
+  "name": "Kerrville, Kerr County, Texas, United States"
+ },
+ "Luckenbach|Texas": {
+  "lat": 30.1790941,
+  "lon": -98.7578121,
+  "name": "Luckenbach, Gillespie County, Texas, United States"
+ },
+ "Mountain Home|Texas": {
+  "lat": 30.1784056,
+  "lon": -99.3750239,
+  "name": "Mountain Home, Kerr County, Texas, 78058, United States"
+ },
+ "Stonewall|Texas": {
+  "lat": 33.1571742,
+  "lon": -100.2453011,
+  "name": "Stonewall County, Texas, 79540, United States"
+ },
+ "Vanderpool|Texas": {
+  "lat": 29.7440269,
+  "lon": -99.5547301,
+  "name": "Vanderpool, Bandera County, Texas, 78885, United States"
+ },
+ "Willow City|Texas": {
+  "lat": 30.4007508,
+  "lon": -98.7014248,
+  "name": "Willow City, Gillespie County, Texas, 78675, United States"
  }
 }
