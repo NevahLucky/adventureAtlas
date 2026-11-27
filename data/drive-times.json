@@ -2085,7 +2085,11 @@
  "Baltimore|Maryland": {
   "lat": 39.2908816,
   "lon": -76.610759,
-  "name": "Baltimore, Maryland, United States"
+  "name": "Baltimore, Maryland, United States",
+  "drive_min": 537,
+  "drive_mi": 454,
+  "drive_min_clemson": 670,
+  "drive_mi_clemson": 566
  },
  "Bar Harbor|Maine": {
   "lat": 44.3876378,
@@ -2160,7 +2164,11 @@
  "Berlin|Maryland": {
   "lat": 38.324505,
   "lon": -75.2188589,
-  "name": "Berlin, Worcester County, Maryland, United States"
+  "name": "Berlin, Worcester County, Maryland, United States",
+  "drive_min": 596,
+  "drive_mi": 478,
+  "drive_min_clemson": 729,
+  "drive_mi_clemson": 589
  },
  "Berlin|Ohio": {
   "lat": 40.561178,
@@ -2546,7 +2554,11 @@
  "Delaware City|Delaware": {
   "lat": 39.5778901,
   "lon": -75.588815,
-  "name": "Delaware City, New Castle County, Delaware, 19706, United States"
+  "name": "Delaware City, New Castle County, Delaware, 19706, United States",
+  "drive_min": 623,
+  "drive_mi": 526,
+  "drive_min_clemson": 757,
+  "drive_mi_clemson": 637
  },
  "Denver|Colorado": {
   "lat": 39.7392364,
@@ -3049,7 +3061,11 @@
  "Lewes|Delaware": {
   "lat": 38.7733961,
   "lon": -75.1379574,
-  "name": "Lewes, Sussex County, Delaware, United States"
+  "name": "Lewes, Sussex County, Delaware, United States",
+  "drive_min": 648,
+  "drive_mi": 531,
+  "drive_min_clemson": 782,
+  "drive_mi_clemson": 643
  },
  "Lincoln|Nebraska": {
   "lat": 40.8088861,
@@ -3183,7 +3199,11 @@
  "Middle River|Maryland": {
   "lat": 39.3416961,
   "lon": -76.4271818,
-  "name": "Middle River, Baltimore County, Maryland, 21220, United States"
+  "name": "Middle River, Baltimore County, Maryland, 21220, United States",
+  "drive_min": 556,
+  "drive_mi": 465,
+  "drive_min_clemson": 690,
+  "drive_mi_clemson": 577
  },
  "Mill Run|Pennsylvania": {
   "lat": 39.9511859,
@@ -3215,7 +3235,11 @@
  "Milton|Delaware": {
   "lat": 38.7778049,
   "lon": -75.3101583,
-  "name": "Milton, Sussex County, Delaware, United States"
+  "name": "Milton, Sussex County, Delaware, United States",
+  "drive_min": 629,
+  "drive_mi": 520,
+  "drive_min_clemson": 763,
+  "drive_mi_clemson": 632
  },
  "Milwaukee|Wisconsin": {
   "lat": 43.0386475,
@@ -3719,7 +3743,11 @@
  "Rehoboth Beach|Delaware": {
   "lat": 38.7164771,
   "lon": -75.0835107,
-  "name": "Rehoboth Beach, Sussex County, Delaware, 19771, United States"
+  "name": "Rehoboth Beach, Sussex County, Delaware, 19771, United States",
+  "drive_min": 653,
+  "drive_mi": 534,
+  "drive_min_clemson": 787,
+  "drive_mi_clemson": 646
  },
  "Riggins|Idaho": {
   "lat": 45.4221105,
@@ -3856,7 +3884,11 @@
  "Sharpsburg|Maryland": {
   "lat": 39.4581995,
   "lon": -77.7486599,
-  "name": "Sharpsburg, Washington County, Maryland, United States"
+  "name": "Sharpsburg, Washington County, Maryland, United States",
+  "drive_min": 475,
+  "drive_mi": 414,
+  "drive_min_clemson": 607,
+  "drive_mi_clemson": 523
  },
  "Shartlesville|Pennsylvania": {
   "lat": 40.5130092,
@@ -4272,7 +4304,11 @@
  "Wilmington|Delaware": {
   "lat": 39.738331,
   "lon": -75.5527467,
-  "name": "Wilmington, New Castle County, Delaware, United States"
+  "name": "Wilmington, New Castle County, Delaware, United States",
+  "drive_min": 618,
+  "drive_mi": 523,
+  "drive_min_clemson": 751,
+  "drive_mi_clemson": 634
  },
  "Winslow|Arizona": {
   "lat": 35.0241984,
@@ -4287,7 +4323,11 @@
  "Winterthur|Delaware": {
   "lat": 39.8078341,
   "lon": -75.6005515,
-  "name": "Winterthur Museum, Garden and Library, Clanny Run, Winterthur, Centreville, New "
+  "name": "Winterthur Museum, Garden and Library, Clanny Run, Winterthur, Centreville, New ",
+  "drive_min": 632,
+  "drive_mi": 528,
+  "drive_min_clemson": 766,
+  "drive_mi_clemson": 640
  },
  "Wisconsin Dells|Wisconsin": {
   "lat": 43.6256168,
@@ -9080,5 +9120,221 @@
   "drive_mi": 932,
   "drive_min_clemson": 1259,
   "drive_mi_clemson": 1044
+ },
+ "Annapolis|Maryland": {
+  "lat": 38.9786401,
+  "lon": -76.492786,
+  "name": "Annapolis, Anne Arundel County, Maryland, United States",
+  "drive_min": 522,
+  "drive_mi": 447,
+  "drive_min_clemson": 655,
+  "drive_mi_clemson": 559
+ },
+ "Bethany Beach|Delaware": {
+  "lat": 38.5379676,
+  "lon": -75.0588646,
+  "name": "Bethany Beach, Sussex County, Delaware, 19930, United States",
+  "drive_min": 630,
+  "drive_mi": 499,
+  "drive_min_clemson": 764,
+  "drive_mi_clemson": 610
+ },
+ "Cambridge|Maryland": {
+  "lat": 38.5700533,
+  "lon": -76.077268,
+  "name": "Cambridge, Dorchester County, Maryland, 21613, United States",
+  "drive_min": 598,
+  "drive_mi": 501,
+  "drive_min_clemson": 732,
+  "drive_mi_clemson": 612
+ },
+ "Chesapeake City|Maryland": {
+  "lat": 39.5271001,
+  "lon": -75.8124776,
+  "name": "Chesapeake City, Cecil County, Maryland, United States",
+  "drive_min": 611,
+  "drive_mi": 512,
+  "drive_min_clemson": 745,
+  "drive_mi_clemson": 624
+ },
+ "Church Creek|Maryland": {
+  "lat": 38.5021645,
+  "lon": -76.1520946,
+  "name": "Church Creek, Dorchester County, Maryland, United States",
+  "drive_min": 611,
+  "drive_mi": 507,
+  "drive_min_clemson": 745,
+  "drive_mi_clemson": 619
+ },
+ "Columbia|Maryland": {
+  "lat": 39.1938429,
+  "lon": -76.8646092,
+  "name": "Columbia, Howard County, Maryland, United States",
+  "drive_min": 520,
+  "drive_mi": 445,
+  "drive_min_clemson": 653,
+  "drive_mi_clemson": 556
+ },
+ "Cumberland|Maryland": {
+  "lat": 39.6526498,
+  "lon": -78.762383,
+  "name": "Cumberland, Allegany County, Maryland, 21502, United States",
+  "drive_min": 512,
+  "drive_mi": 440,
+  "drive_min_clemson": 644,
+  "drive_mi_clemson": 548
+ },
+ "Dover|Delaware": {
+  "lat": 39.158168,
+  "lon": -75.5243682,
+  "name": "Dover, Kent County, Delaware, United States",
+  "drive_min": 608,
+  "drive_mi": 509,
+  "drive_min_clemson": 742,
+  "drive_mi_clemson": 621
+ },
+ "Ellicott City|Maryland": {
+  "lat": 39.2757359,
+  "lon": -76.8317417,
+  "name": "Ellicott City, Howard County, Maryland, United States",
+  "drive_min": 530,
+  "drive_mi": 460,
+  "drive_min_clemson": 662,
+  "drive_mi_clemson": 569
+ },
+ "Ewell|Maryland": {
+  "lat": 37.9956776,
+  "lon": -76.0332707,
+  "name": "Ewell, Somerset County, Maryland, 21824, United States",
+  "drive_min": 592,
+  "drive_mi": 474,
+  "drive_min_clemson": 726,
+  "drive_mi_clemson": 586
+ },
+ "Frederick|Maryland": {
+  "lat": 39.415779,
+  "lon": -77.4127562,
+  "name": "Frederick, Frederick County, Maryland, United States",
+  "drive_min": 495,
+  "drive_mi": 427,
+  "drive_min_clemson": 627,
+  "drive_mi_clemson": 536
+ },
+ "Glen Echo|Maryland": {
+  "lat": 38.9693961,
+  "lon": -77.1420877,
+  "name": "Glen Echo, Montgomery County, Maryland, 20812, United States",
+  "drive_min": 485,
+  "drive_mi": 420,
+  "drive_min_clemson": 619,
+  "drive_mi_clemson": 532
+ },
+ "Lusby|Maryland": {
+  "lat": 38.3615713,
+  "lon": -76.4418759,
+  "name": "Lusby, Calvert County, Maryland, United States",
+  "drive_min": 504,
+  "drive_mi": 419,
+  "drive_min_clemson": 638,
+  "drive_mi_clemson": 531
+ },
+ "North East|Maryland": {
+  "lat": 39.5992989,
+  "lon": -75.9424217,
+  "name": "North East, Cecil County, Maryland, United States",
+  "drive_min": 591,
+  "drive_mi": 500,
+  "drive_min_clemson": 725,
+  "drive_mi_clemson": 612
+ },
+ "Oakland|Maryland": {
+  "lat": 39.4099097,
+  "lon": -79.4062658,
+  "name": "Oakland, Garrett County, Maryland, United States",
+  "drive_min": 494,
+  "drive_mi": 426,
+  "drive_min_clemson": 623,
+  "drive_mi_clemson": 525
+ },
+ "Oxford|Maryland": {
+  "lat": 38.6865072,
+  "lon": -76.1716108,
+  "name": "Oxford, Talbot County, Maryland, United States",
+  "drive_min": 591,
+  "drive_mi": 495,
+  "drive_min_clemson": 724,
+  "drive_mi_clemson": 607
+ },
+ "Potomac|Maryland": {
+  "lat": 39.0180508,
+  "lon": -77.1956331,
+  "name": "Potomac, Montgomery County, Maryland, 20854, United States",
+  "drive_min": 491,
+  "drive_mi": 423,
+  "drive_min_clemson": 625,
+  "drive_mi_clemson": 535
+ },
+ "Scotland|Maryland": {
+  "lat": 38.0890152,
+  "lon": -76.3618926,
+  "name": "Scotland, Saint Mary's County, Maryland, 20687, United States",
+  "drive_min": 520,
+  "drive_mi": 429,
+  "drive_min_clemson": 653,
+  "drive_mi_clemson": 541
+ },
+ "Smyrna|Delaware": {
+  "lat": 39.2998339,
+  "lon": -75.6046494,
+  "name": "Smyrna, Kent County, Delaware, 19977, United States",
+  "drive_min": 609,
+  "drive_mi": 508,
+  "drive_min_clemson": 743,
+  "drive_mi_clemson": 620
+ },
+ "Solomons|Maryland": {
+  "lat": 38.3350368,
+  "lon": -76.4625722,
+  "name": "Solomons, Calvert County, Maryland, United States",
+  "drive_min": 502,
+  "drive_mi": 417,
+  "drive_min_clemson": 635,
+  "drive_mi_clemson": 529
+ },
+ "St. Mary's City|Maryland": {
+  "lat": 38.1864921,
+  "lon": -76.43012,
+  "name": "Saint Mary's City, Saint Mary's County, Maryland, 20686, United States",
+  "drive_min": 507,
+  "drive_mi": 421,
+  "drive_min_clemson": 641,
+  "drive_mi_clemson": 533
+ },
+ "St. Michaels|Maryland": {
+  "lat": 38.7865839,
+  "lon": -76.2244098,
+  "name": "Saint Michaels, Talbot County, Maryland, 21663, United States",
+  "drive_min": 592,
+  "drive_mi": 495,
+  "drive_min_clemson": 725,
+  "drive_mi_clemson": 606
+ },
+ "Swanton|Maryland": {
+  "lat": 39.4587065,
+  "lon": -79.2319272,
+  "name": "Swanton, Garrett County, Maryland, United States",
+  "drive_min": 509,
+  "drive_mi": 436,
+  "drive_min_clemson": 638,
+  "drive_mi_clemson": 535
+ },
+ "Thurmont|Maryland": {
+  "lat": 39.6236095,
+  "lon": -77.4115401,
+  "name": "Thurmont, Frederick County, Maryland, United States",
+  "drive_min": 508,
+  "drive_mi": 442,
+  "drive_min_clemson": 640,
+  "drive_mi_clemson": 551
  }
 }
