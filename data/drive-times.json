@@ -2034,7 +2034,11 @@
  "Anchorage|Alaska": {
   "lat": 61.2163129,
   "lon": -149.894852,
-  "name": "Anchorage, Alaska, United States"
+  "name": "Anchorage, Alaska, United States",
+  "drive_min": 5233,
+  "drive_mi": 4348,
+  "drive_min_clemson": 5192,
+  "drive_mi_clemson": 4284
  },
  "Angola|Louisiana": {
   "lat": 30.9598118,
@@ -2824,7 +2828,11 @@
  "Fairbanks|Alaska": {
   "lat": 64.837845,
   "lon": -147.716675,
-  "name": "Fairbanks, Fairbanks North Star Borough, Alaska, United States"
+  "name": "Fairbanks, Fairbanks North Star Borough, Alaska, United States",
+  "drive_min": 5061,
+  "drive_mi": 4232,
+  "drive_min_clemson": 5020,
+  "drive_mi_clemson": 4168
  },
  "Falcon Heights|Minnesota": {
   "lat": 44.9898128,
@@ -3155,7 +3163,11 @@
  "Juneau|Alaska": {
   "lat": 58.3019613,
   "lon": -134.4196751,
-  "name": "Juneau, Alaska, United States"
+  "name": "Juneau, Alaska, United States",
+  "drive_min": 5146,
+  "drive_mi": 3980,
+  "drive_min_clemson": 5105,
+  "drive_mi_clemson": 3916
  },
  "Kailua-Kona|Hawaii": {
   "lat": 19.641941,
@@ -3886,7 +3898,11 @@
  "Palmer|Alaska": {
   "lat": 61.5995703,
   "lon": -149.11109,
-  "name": "Palmer, Matanuska-Susitna Borough, Alaska, United States"
+  "name": "Palmer, Matanuska-Susitna Borough, Alaska, United States",
+  "drive_min": 5179,
+  "drive_mi": 4305,
+  "drive_min_clemson": 5139,
+  "drive_mi_clemson": 4241
  },
  "Paradise|Michigan": {
   "lat": 46.6275215,
@@ -4000,7 +4016,11 @@
  "Portage|Alaska": {
   "lat": 61.669634,
   "lon": -150.0871409,
-  "name": "Portage, Matanuska-Susitna Borough, Alaska, United States"
+  "name": "Portage, Matanuska-Susitna Borough, Alaska, United States",
+  "drive_min": 5245,
+  "drive_mi": 4345,
+  "drive_min_clemson": 5205,
+  "drive_mi_clemson": 4281
  },
  "Porter|Indiana": {
   "lat": 41.4457032,
@@ -4319,7 +4339,11 @@
  "Seward|Alaska": {
   "lat": 60.1013952,
   "lon": -149.4404281,
-  "name": "Seward, Kenai Peninsula Borough, Alaska, 99664, United States"
+  "name": "Seward, Kenai Peninsula Borough, Alaska, 99664, United States",
+  "drive_min": 5392,
+  "drive_mi": 4473,
+  "drive_min_clemson": 5351,
+  "drive_mi_clemson": 4409
  },
  "Sharpsburg|Maryland": {
   "lat": 39.4581995,
@@ -4535,7 +4559,11 @@
  "Talkeetna|Alaska": {
   "lat": 62.267644,
   "lon": -150.0295288,
-  "name": "Talkeetna, Matanuska-Susitna Borough, Alaska, 99676, United States"
+  "name": "Talkeetna, Matanuska-Susitna Borough, Alaska, 99676, United States",
+  "drive_min": 5295,
+  "drive_mi": 4383,
+  "drive_min_clemson": 5255,
+  "drive_mi_clemson": 4319
  },
  "Taos|New Mexico": {
   "lat": 36.4072377,
@@ -11651,5 +11679,84 @@
   "drive_mi": 2838,
   "drive_min_clemson": 3019,
   "drive_mi_clemson": 2778
+ },
+ "Denali Park|Alaska": {
+  "lat": 63.6207285,
+  "lon": -148.7195873,
+  "name": "Denali Park, Denali Borough, Alaska, 99755, United States",
+  "drive_min": 5217,
+  "drive_mi": 4362,
+  "drive_min_clemson": 5177,
+  "drive_mi_clemson": 4298
+ },
+ "Homer|Alaska": {
+  "lat": 59.6454064,
+  "lon": -151.5445643,
+  "name": "Homer, Kenai Peninsula Borough, Alaska, 99603, United States",
+  "drive_min": 5529,
+  "drive_mi": 4568,
+  "drive_min_clemson": 5488,
+  "drive_mi_clemson": 4504
+ },
+ "Kalaheo|Hawaii": {
+  "lat": 21.9254748,
+  "lon": -159.5269828,
+  "name": "Kalaheo, Kauaʻi County, Hawaii, 96741, United States"
+ },
+ "Ketchikan|Alaska": {
+  "lat": 55.3430696,
+  "lon": -131.6466819,
+  "name": "Ketchikan, Ketchikan Gateway Borough, Alaska, 99901, United States",
+  "drive_min": 4246,
+  "drive_mi": 3430,
+  "drive_min_clemson": 4206,
+  "drive_mi_clemson": 3366
+ },
+ "Kodiak|Alaska": {
+  "lat": 57.7901661,
+  "lon": -152.4067073,
+  "name": "Kodiak, Kodiak Island Borough, Alaska, United States",
+  "drive_min": 6083,
+  "drive_mi": 4726,
+  "drive_min_clemson": 6043,
+  "drive_mi_clemson": 4661
+ },
+ "Maalaea|Hawaii": {
+  "lat": 20.8013018,
+  "lon": -156.490586,
+  "name": "Maalaea, Kihei, Maui County, Hawaii, United States"
+ },
+ "Nome|Alaska": {
+  "lat": 64.4975098,
+  "lon": -165.4061701,
+  "name": "Nome, Unorganized Borough, Alaska, United States"
+ },
+ "Pahala|Hawaii": {
+  "lat": 19.2024436,
+  "lon": -155.477346,
+  "name": "Pahala, Hawaiʻi County, Hawaii, United States"
+ },
+ "Sitka|Alaska": {
+  "lat": 57.4086082,
+  "lon": -135.4596206,
+  "name": "Sitka, Alaska, 99835, United States",
+  "drive_min": 5720,
+  "drive_mi": 4124,
+  "drive_min_clemson": 5680,
+  "drive_mi_clemson": 4060
+ },
+ "Skagway|Alaska": {
+  "lat": 59.6226362,
+  "lon": -135.4094368,
+  "name": "Skagway, Alaska, 99840, United States",
+  "drive_min": 4398,
+  "drive_mi": 3699,
+  "drive_min_clemson": 4357,
+  "drive_mi_clemson": 3635
+ },
+ "Wailuku|Hawaii": {
+  "lat": 20.8905443,
+  "lon": -156.503093,
+  "name": "Wailuku, Maui County, Hawaii, United States"
  }
 }
