@@ -2098,6 +2098,38 @@
   "county_full": "Washington County"
  },
  {
+  "name": "Hidden Passage Trail",
+  "city": "Jamestown",
+  "county": "Pickett",
+  "state": "Tennessee",
+  "cats": [
+   "Hiking",
+   "Views",
+   "Geology",
+   "Camping",
+   "Nature"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "4-6 hours",
+  "dur_h": 5,
+  "dates": "Year round, daylight",
+  "start": "—",
+  "company": "Tennessee State Parks, Pickett CCC Memorial State Park",
+  "party": "2-4",
+  "customer": "Hikers, backpackers, photographers",
+  "unique": "A five and a half mile loop along the rim of the Pickett State Forest gorge, past sandstone bluffs, rock shelters big enough to camp under, a natural bridge and overlooks into a valley with no road in it.",
+  "buzz": "Hikers call it the best loop in the state for its length, and the cliff edge campsites are the reason people carry a pack. The exposure is real and the trail is not for young children.",
+  "rating": 82,
+  "drive_min": 324,
+  "drive_min_clemson": 287,
+  "id": "hidden-passage-trail-jamestown",
+  "state_abbr": "TN",
+  "lat": 36.4275699,
+  "lon": -84.9318919,
+  "county_full": "Pickett County"
+ },
+ {
   "name": "Hunter Museum of American Art",
   "city": "Chattanooga",
   "county": "Hamilton",

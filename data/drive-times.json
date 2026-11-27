@@ -17027,5 +17027,194 @@
   "drive_mi": 258,
   "drive_min_clemson": 388,
   "drive_mi_clemson": 404
+ },
+ "Camden|North Carolina": {
+  "lat": 36.3106247,
+  "lon": -76.1150606,
+  "name": "Camden County, North Carolina, United States",
+  "drive_min": 343,
+  "drive_mi": 357,
+  "drive_min_clemson": 449,
+  "drive_mi_clemson": 468
+ },
+ "Corolla|North Carolina": {
+  "lat": 36.3847464,
+  "lon": -75.8286983,
+  "name": "Corolla, Currituck County, North Carolina, 27927, United States",
+  "drive_min": 404,
+  "drive_mi": 411,
+  "drive_min_clemson": 510,
+  "drive_mi_clemson": 522
+ },
+ "Elizabeth City|North Carolina": {
+  "lat": 36.3010192,
+  "lon": -76.2203699,
+  "name": "Elizabeth City, Pasquotank County, North Carolina, United States",
+  "drive_min": 331,
+  "drive_mi": 349,
+  "drive_min_clemson": 437,
+  "drive_mi_clemson": 460
+ },
+ "Hertford|North Carolina": {
+  "lat": 36.3560545,
+  "lon": -77.0115135,
+  "name": "Hertford County, North Carolina, United States",
+  "drive_min": 286,
+  "drive_mi": 287,
+  "drive_min_clemson": 392,
+  "drive_mi_clemson": 398
+ },
+ "Jackson|North Carolina": {
+  "lat": 35.2962391,
+  "lon": -83.1388055,
+  "name": "Jackson County, North Carolina, United States",
+  "drive_min": 180,
+  "drive_mi": 185,
+  "drive_min_clemson": 74,
+  "drive_mi_clemson": 65
+ },
+ "Murfreesboro|North Carolina": {
+  "lat": 36.4423754,
+  "lon": -77.0985753,
+  "name": "Murfreesboro, Hertford County, North Carolina, 27855, United States",
+  "drive_min": 276,
+  "drive_mi": 280,
+  "drive_min_clemson": 383,
+  "drive_mi_clemson": 391
+ },
+ "South Mills|North Carolina": {
+  "lat": 36.440081,
+  "lon": -76.3269703,
+  "name": "South Mills, Camden County, North Carolina, 27976, United States",
+  "drive_min": 331,
+  "drive_mi": 329,
+  "drive_min_clemson": 438,
+  "drive_mi_clemson": 440
+ },
+ "Windsor|North Carolina": {
+  "lat": 35.9984925,
+  "lon": -76.9460641,
+  "name": "Windsor, Bertie County, North Carolina, United States",
+  "drive_min": 278,
+  "drive_mi": 299,
+  "drive_min_clemson": 385,
+  "drive_mi_clemson": 410
+ },
+ "Carthage|North Carolina": {
+  "lat": 35.345802,
+  "lon": -79.4170543,
+  "name": "Carthage, Moore County, North Carolina, 29327, United States",
+  "drive_min": 120,
+  "drive_mi": 106,
+  "drive_min_clemson": 235,
+  "drive_mi_clemson": 229
+ },
+ "Dunn|North Carolina": {
+  "lat": 35.3076902,
+  "lon": -78.6093257,
+  "name": "Dunn, Harnett County, North Carolina, 28334, United States",
+  "drive_min": 180,
+  "drive_mi": 170,
+  "drive_min_clemson": 294,
+  "drive_mi_clemson": 310
+ },
+ "Four Oaks|North Carolina": {
+  "lat": 35.4455571,
+  "lon": -78.4294653,
+  "name": "Four Oaks, Johnston County, North Carolina, United States",
+  "drive_min": 193,
+  "drive_mi": 185,
+  "drive_min_clemson": 307,
+  "drive_mi_clemson": 324
+ },
+ "Hamilton|North Carolina": {
+  "lat": 35.9441361,
+  "lon": -77.2087787,
+  "name": "Hamilton, Martin County, North Carolina, 27840, United States",
+  "drive_min": 265,
+  "drive_mi": 280,
+  "drive_min_clemson": 371,
+  "drive_mi_clemson": 391
+ },
+ "Lillington|North Carolina": {
+  "lat": 35.399121,
+  "lon": -78.8156001,
+  "name": "Lillington, Harnett County, North Carolina, United States",
+  "drive_min": 172,
+  "drive_mi": 146,
+  "drive_min_clemson": 286,
+  "drive_mi_clemson": 292
+ },
+ "Manson|North Carolina": {
+  "lat": 36.4218122,
+  "lon": -78.2830508,
+  "name": "Manson, Soul City, Warren County, North Carolina, 27570, United States",
+  "drive_min": 191,
+  "drive_mi": 206,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 317
+ },
+ "Pinehurst|North Carolina": {
+  "lat": 35.1951981,
+  "lon": -79.4692796,
+  "name": "Pinehurst, Moore County, North Carolina, 28374, United States",
+  "drive_min": 121,
+  "drive_mi": 107,
+  "drive_min_clemson": 243,
+  "drive_mi_clemson": 237
+ },
+ "Sanford|North Carolina": {
+  "lat": 35.4798757,
+  "lon": -79.1802994,
+  "name": "Sanford, Lee County, North Carolina, United States",
+  "drive_min": 143,
+  "drive_mi": 124,
+  "drive_min_clemson": 259,
+  "drive_mi_clemson": 270
+ },
+ "Smithfield|North Carolina": {
+  "lat": 35.5111996,
+  "lon": -78.346102,
+  "name": "Smithfield, Johnston County, North Carolina, 27577, United States",
+  "drive_min": 199,
+  "drive_mi": 191,
+  "drive_min_clemson": 313,
+  "drive_mi_clemson": 331
+ },
+ "Southern Pines|North Carolina": {
+  "lat": 35.1740471,
+  "lon": -79.3922539,
+  "name": "Southern Pines, Moore County, North Carolina, 28387, United States",
+  "drive_min": 118,
+  "drive_mi": 107,
+  "drive_min_clemson": 240,
+  "drive_mi_clemson": 237
+ },
+ "Wadesboro|North Carolina": {
+  "lat": 34.9681767,
+  "lon": -80.07674,
+  "name": "Wadesboro, Anson County, North Carolina, 28170, United States",
+  "drive_min": 64,
+  "drive_mi": 58,
+  "drive_min_clemson": 185,
+  "drive_mi_clemson": 189
+ },
+ "Warrenton|North Carolina": {
+  "lat": 36.3984804,
+  "lon": -78.1552706,
+  "name": "Warrenton, Warren County, North Carolina, United States",
+  "drive_min": 203,
+  "drive_mi": 216,
+  "drive_min_clemson": 310,
+  "drive_mi_clemson": 326
+ },
+ "Williamston|North Carolina": {
+  "lat": 35.8546039,
+  "lon": -77.0555114,
+  "name": "Williamston, Martin County, North Carolina, United States",
+  "drive_min": 264,
+  "drive_mi": 286,
+  "drive_min_clemson": 371,
+  "drive_mi_clemson": 397
  }
 }
