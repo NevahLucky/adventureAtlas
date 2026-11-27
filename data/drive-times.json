@@ -13738,5 +13738,194 @@
   "drive_mi": 523,
   "drive_min_clemson": 730,
   "drive_mi_clemson": 622
+ },
+ "Canton|New York": {
+  "lat": 44.5956163,
+  "lon": -75.1690942,
+  "name": "Village of Canton, Town of Canton, Saint Lawrence County, New York, United State",
+  "drive_min": 1008,
+  "drive_mi": 872,
+  "drive_min_clemson": 1141,
+  "drive_mi_clemson": 981
+ },
+ "Chester Springs|Pennsylvania": {
+  "lat": 40.0951038,
+  "lon": -75.6168681,
+  "name": "Chester Springs, West Pikeland Township, Chester County, Pennsylvania, 19421, Un",
+  "drive_min": 646,
+  "drive_mi": 567,
+  "drive_min_clemson": 778,
+  "drive_mi_clemson": 676
+ },
+ "Crisfield|Maryland": {
+  "lat": 37.9842257,
+  "lon": -75.852267,
+  "name": "Crisfield, Somerset County, Maryland, 21817, United States",
+  "drive_min": 591,
+  "drive_mi": 473,
+  "drive_min_clemson": 725,
+  "drive_mi_clemson": 585
+ },
+ "Hagerstown|Maryland": {
+  "lat": 39.6430455,
+  "lon": -77.7191081,
+  "name": "Hagerstown, Washington County, Maryland, United States",
+  "drive_min": 478,
+  "drive_mi": 422,
+  "drive_min_clemson": 610,
+  "drive_mi_clemson": 531
+ },
+ "Hammondsport|New York": {
+  "lat": 42.4079347,
+  "lon": -77.2236302,
+  "name": "Village of Hammondsport, Town of Urbana, Steuben County, New York, United States",
+  "drive_min": 795,
+  "drive_mi": 676,
+  "drive_min_clemson": 927,
+  "drive_mi_clemson": 784
+ },
+ "Jay|Vermont": {
+  "lat": 44.9481252,
+  "lon": -72.4381452,
+  "name": "Jay, Orleans County, Vermont, 05859, United States",
+  "drive_min": 1208,
+  "drive_mi": 1026,
+  "drive_min_clemson": 1340,
+  "drive_mi_clemson": 1135
+ },
+ "Jim Thorpe|Pennsylvania": {
+  "lat": 40.8636074,
+  "lon": -75.7386948,
+  "name": "Jim Thorpe, Carbon County, Pennsylvania, 18229, United States",
+  "drive_min": 669,
+  "drive_mi": 578,
+  "drive_min_clemson": 801,
+  "drive_mi_clemson": 686
+ },
+ "Livingston Manor|New York": {
+  "lat": 41.89321,
+  "lon": -74.8268287,
+  "name": "Livingston Manor, Town of Rockland, Sullivan County, New York, 12758, United Sta",
+  "drive_min": 823,
+  "drive_mi": 684,
+  "drive_min_clemson": 955,
+  "drive_mi_clemson": 792
+ },
+ "Maidstone|Vermont": {
+  "lat": 44.5754977,
+  "lon": -71.5542278,
+  "name": "Maidstone, Essex County, Vermont, 05905, United States",
+  "drive_min": 1201,
+  "drive_mi": 992,
+  "drive_min_clemson": 1334,
+  "drive_mi_clemson": 1104
+ },
+ "Montour Falls|New York": {
+  "lat": 42.3472958,
+  "lon": -76.8452351,
+  "name": "Montour Falls, Town of Montour, Schuyler County, New York, 14865, United States",
+  "drive_min": 799,
+  "drive_mi": 679,
+  "drive_min_clemson": 931,
+  "drive_mi_clemson": 788
+ },
+ "New Hope|Pennsylvania": {
+  "lat": 40.3642728,
+  "lon": -74.9512785,
+  "name": "New Hope, Bucks County, Pennsylvania, United States",
+  "drive_min": 705,
+  "drive_mi": 613,
+  "drive_min_clemson": 837,
+  "drive_mi_clemson": 722
+ },
+ "Newtown Square|Pennsylvania": {
+  "lat": 39.9868117,
+  "lon": -75.4007633,
+  "name": "Newtown Square, Newtown Township, Delaware County, Pennsylvania, 19008, United S",
+  "drive_min": 652,
+  "drive_mi": 545,
+  "drive_min_clemson": 786,
+  "drive_mi_clemson": 657
+ },
+ "Ocean City|Maryland": {
+  "lat": 38.3315412,
+  "lon": -75.0874151,
+  "name": "Ocean City, Worcester County, Maryland, United States",
+  "drive_min": 609,
+  "drive_mi": 486,
+  "drive_min_clemson": 742,
+  "drive_mi_clemson": 597
+ },
+ "Patton|Pennsylvania": {
+  "lat": 40.6339561,
+  "lon": -78.6503006,
+  "name": "Patton, Cambria County, Pennsylvania, United States",
+  "drive_min": 598,
+  "drive_mi": 521,
+  "drive_min_clemson": 726,
+  "drive_mi_clemson": 620
+ },
+ "Portageville|New York": {
+  "lat": 42.5677075,
+  "lon": -78.0418084,
+  "name": "Portageville, Town of Genesee Falls, Wyoming County, New York, 14536, United Sta",
+  "drive_min": 812,
+  "drive_mi": 677,
+  "drive_min_clemson": 941,
+  "drive_mi_clemson": 776
+ },
+ "Princeton|New Jersey": {
+  "lat": 40.3496953,
+  "lon": -74.6597376,
+  "name": "Princeton, Mercer County, New Jersey, United States",
+  "drive_min": 708,
+  "drive_mi": 597,
+  "drive_min_clemson": 842,
+  "drive_mi_clemson": 708
+ },
+ "Sussex|New Jersey": {
+  "lat": 41.133372,
+  "lon": -74.6930393,
+  "name": "Sussex County, New Jersey, United States",
+  "drive_min": 754,
+  "drive_mi": 632,
+  "drive_min_clemson": 886,
+  "drive_mi_clemson": 741
+ },
+ "Swanton|Vermont": {
+  "lat": 44.9181593,
+  "lon": -73.1242364,
+  "name": "Swanton, Franklin County, Vermont, 05488, United States",
+  "drive_min": 1138,
+  "drive_mi": 982,
+  "drive_min_clemson": 1270,
+  "drive_mi_clemson": 1090
+ },
+ "Titusville|New Jersey": {
+  "lat": 40.308683,
+  "lon": -74.8761313,
+  "name": "Titusville, Hopewell Township, Mercer County, New Jersey, United States",
+  "drive_min": 703,
+  "drive_mi": 587,
+  "drive_min_clemson": 837,
+  "drive_mi_clemson": 698
+ },
+ "University Park|Pennsylvania": {
+  "lat": 40.8128971,
+  "lon": -77.8710571,
+  "name": "Penn State University, 201, Village Heights Drive, Village Heights, Dalevue, Col",
+  "drive_min": 628,
+  "drive_mi": 539,
+  "drive_min_clemson": 761,
+  "drive_mi_clemson": 648
+ },
+ "Wilkes-Barre|Pennsylvania": {
+  "lat": 41.2464824,
+  "lon": -75.8817316,
+  "name": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "drive_min": 681,
+  "drive_mi": 594,
+  "drive_min_clemson": 813,
+  "drive_mi_clemson": 703
  }
 }
