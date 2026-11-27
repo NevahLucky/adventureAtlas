@@ -2282,7 +2282,11 @@
  "Bryce Canyon City|Utah": {
   "lat": 37.6741095,
   "lon": -112.1565,
-  "name": "Bryce Canyon City, Garfield County, Utah, United States"
+  "name": "Bryce Canyon City, Garfield County, Utah, United States",
+  "drive_min": 2321,
+  "drive_mi": 2138,
+  "drive_min_clemson": 2228,
+  "drive_mi_clemson": 2056
  },
  "Buena Vista|Colorado": {
   "lat": 38.8422178,
@@ -2640,7 +2644,11 @@
  "Draper|Utah": {
   "lat": 40.5247777,
   "lon": -111.8627989,
-  "name": "Draper, Salt Lake County, Utah, 84020, United States"
+  "name": "Draper, Salt Lake County, Utah, 84020, United States",
+  "drive_min": 2218,
+  "drive_mi": 2056,
+  "drive_min_clemson": 2137,
+  "drive_mi_clemson": 1995
  },
  "Dripping Springs|Texas": {
   "lat": 30.1902067,
@@ -2870,7 +2878,11 @@
  "Green River|Utah": {
   "lat": 40.050762,
   "lon": -109.7329488,
-  "name": "Green River, Uintah County, Utah, United States"
+  "name": "Green River, Uintah County, Utah, United States",
+  "drive_min": 2173,
+  "drive_mi": 1929,
+  "drive_min_clemson": 2092,
+  "drive_mi_clemson": 1869
  },
  "Groton|Connecticut": {
   "lat": 41.34655,
@@ -3376,7 +3388,11 @@
  "Moab|Utah": {
   "lat": 38.5738096,
   "lon": -109.546214,
-  "name": "Moab, Grand County, Utah, 84532, United States"
+  "name": "Moab, Grand County, Utah, 84532, United States",
+  "drive_min": 2103,
+  "drive_mi": 1928,
+  "drive_min_clemson": 2022,
+  "drive_mi_clemson": 1868
  },
  "Monterey|California": {
   "lat": 36.2231079,
@@ -3717,7 +3733,11 @@
  "Park City|Utah": {
   "lat": 40.6460921,
   "lon": -111.4979963,
-  "name": "Park City, Summit County, Utah, United States"
+  "name": "Park City, Summit County, Utah, United States",
+  "drive_min": 2186,
+  "drive_mi": 2029,
+  "drive_min_clemson": 2105,
+  "drive_mi_clemson": 1969
  },
  "Peebles|Ohio": {
   "lat": 38.9489593,
@@ -3942,7 +3962,11 @@
  "Salt Lake City|Utah": {
   "lat": 40.7596198,
   "lon": -111.886797,
-  "name": "Salt Lake City, Salt Lake County, Utah, United States"
+  "name": "Salt Lake City, Salt Lake County, Utah, United States",
+  "drive_min": 2207,
+  "drive_mi": 2047,
+  "drive_min_clemson": 2125,
+  "drive_mi_clemson": 1987
  },
  "San Antonio|New Mexico": {
   "lat": 33.9170337,
@@ -4160,7 +4184,11 @@
  "Springdale|Utah": {
   "lat": 37.1888714,
   "lon": -112.998551,
-  "name": "Springdale, Washington County, Utah, 84767, United States"
+  "name": "Springdale, Washington County, Utah, 84767, United States",
+  "drive_min": 2344,
+  "drive_mi": 2141,
+  "drive_min_clemson": 2203,
+  "drive_mi_clemson": 2023
  },
  "Springfield|Illinois": {
   "lat": 39.7990175,
@@ -4254,7 +4282,11 @@
  "Syracuse|Utah": {
   "lat": 41.0895938,
   "lon": -112.0638903,
-  "name": "Syracuse, Davis County, Utah, 84075, United States"
+  "name": "Syracuse, Davis County, Utah, 84075, United States",
+  "drive_min": 2205,
+  "drive_mi": 2044,
+  "drive_min_clemson": 2124,
+  "drive_mi_clemson": 1984
  },
  "Talkeetna|Alaska": {
   "lat": 62.267644,
@@ -4447,7 +4479,11 @@
  "Wendover|Utah": {
   "lat": 40.7375965,
   "lon": -114.0314197,
-  "name": "Wendover, Tooele County, Utah, 84083, United States"
+  "name": "Wendover, Tooele County, Utah, 84083, United States",
+  "drive_min": 2319,
+  "drive_mi": 2167,
+  "drive_min_clemson": 2237,
+  "drive_mi_clemson": 2107
  },
  "West Bend|Iowa": {
   "lat": 42.9577623,
@@ -9954,5 +9990,167 @@
   "drive_mi": 1671,
   "drive_min_clemson": 1751,
   "drive_mi_clemson": 1611
+ },
+ "American Fork|Utah": {
+  "lat": 40.3768064,
+  "lon": -111.7959146,
+  "name": "American Fork, Utah County, Utah, 84003, United States",
+  "drive_min": 2232,
+  "drive_mi": 2072,
+  "drive_min_clemson": 2151,
+  "drive_mi_clemson": 2012
+ },
+ "Blanding|Utah": {
+  "lat": 37.6239617,
+  "lon": -109.4780205,
+  "name": "Blanding, San Juan County, Utah, 84511, United States",
+  "drive_min": 2114,
+  "drive_mi": 1936,
+  "drive_min_clemson": 1973,
+  "drive_mi_clemson": 1819
+ },
+ "Brian Head|Utah": {
+  "lat": 37.6927551,
+  "lon": -112.850776,
+  "name": "Brian Head, Iron County, Utah, 84719, United States",
+  "drive_min": 2319,
+  "drive_mi": 2147,
+  "drive_min_clemson": 2238,
+  "drive_mi_clemson": 2087
+ },
+ "Delta|Utah": {
+  "lat": 39.3521777,
+  "lon": -112.57717,
+  "name": "Delta, Millard County, Utah, United States",
+  "drive_min": 2271,
+  "drive_mi": 2093,
+  "drive_min_clemson": 2190,
+  "drive_mi_clemson": 2033
+ },
+ "Farmington|Utah": {
+  "lat": 40.9804423,
+  "lon": -111.8874688,
+  "name": "Farmington, Davis County, Utah, United States",
+  "drive_min": 2202,
+  "drive_mi": 2044,
+  "drive_min_clemson": 2121,
+  "drive_mi_clemson": 1984
+ },
+ "Heber City|Utah": {
+  "lat": 40.506463,
+  "lon": -111.4132963,
+  "name": "Heber, Wasatch County, Utah, 84032, United States",
+  "drive_min": 2194,
+  "drive_mi": 2038,
+  "drive_min_clemson": 2113,
+  "drive_mi_clemson": 1978
+ },
+ "Ivins|Utah": {
+  "lat": 37.1685907,
+  "lon": -113.6794057,
+  "name": "Ivins, Washington County, Utah, 84738, United States",
+  "drive_min": 2375,
+  "drive_mi": 2211,
+  "drive_min_clemson": 2235,
+  "drive_mi_clemson": 2049
+ },
+ "Kanab|Utah": {
+  "lat": 37.0481715,
+  "lon": -112.5285237,
+  "name": "Kanab, Kane County, Utah, 84741, United States",
+  "drive_min": 2271,
+  "drive_mi": 2098,
+  "drive_min_clemson": 2130,
+  "drive_mi_clemson": 1981
+ },
+ "Layton|Utah": {
+  "lat": 41.0751048,
+  "lon": -111.9741925,
+  "name": "Layton, Davis County, Utah, United States",
+  "drive_min": 2198,
+  "drive_mi": 2039,
+  "drive_min_clemson": 2117,
+  "drive_mi_clemson": 1979
+ },
+ "Lehi|Utah": {
+  "lat": 40.3881114,
+  "lon": -111.8486019,
+  "name": "Lehi, Utah County, Utah, United States",
+  "drive_min": 2230,
+  "drive_mi": 2070,
+  "drive_min_clemson": 2149,
+  "drive_mi_clemson": 2010
+ },
+ "Mexican Hat|Utah": {
+  "lat": 37.1723135,
+  "lon": -109.8662095,
+  "name": "Mexican Hat, San Juan County, Utah, United States",
+  "drive_min": 2103,
+  "drive_mi": 1929,
+  "drive_min_clemson": 1962,
+  "drive_mi_clemson": 1812
+ },
+ "Midway|Utah": {
+  "lat": 40.5125438,
+  "lon": -111.4748846,
+  "name": "Midway, Wasatch County, Utah, United States",
+  "drive_min": 2196,
+  "drive_mi": 2038,
+  "drive_min_clemson": 2115,
+  "drive_mi_clemson": 1978
+ },
+ "Parowan|Utah": {
+  "lat": 37.8421975,
+  "lon": -112.8279996,
+  "name": "Parowan, Iron County, Utah, 84761, United States",
+  "drive_min": 2293,
+  "drive_mi": 2134,
+  "drive_min_clemson": 2212,
+  "drive_mi_clemson": 2074
+ },
+ "Provo|Utah": {
+  "lat": 40.2337289,
+  "lon": -111.6587085,
+  "name": "Provo, Utah County, Utah, United States",
+  "drive_min": 2234,
+  "drive_mi": 2066,
+  "drive_min_clemson": 2153,
+  "drive_mi_clemson": 2006
+ },
+ "Snowbird|Utah": {
+  "lat": 40.5807546,
+  "lon": -111.6572955,
+  "name": "Snowbird, Salt Lake County, Utah, 85092, United States",
+  "drive_min": 2224,
+  "drive_mi": 2057,
+  "drive_min_clemson": 2143,
+  "drive_mi_clemson": 1997
+ },
+ "St. George|Utah": {
+  "lat": 37.1081821,
+  "lon": -113.5833163,
+  "name": "St. George, Washington County, Utah, United States",
+  "drive_min": 2361,
+  "drive_mi": 2204,
+  "drive_min_clemson": 2221,
+  "drive_mi_clemson": 2042
+ },
+ "Vernal|Utah": {
+  "lat": 40.4556825,
+  "lon": -109.528474,
+  "name": "Vernal, Uintah County, Utah, 84079, United States",
+  "drive_min": 2105,
+  "drive_mi": 1891,
+  "drive_min_clemson": 2024,
+  "drive_mi_clemson": 1831
+ },
+ "Wanship|Utah": {
+  "lat": 40.8117564,
+  "lon": -111.4073411,
+  "name": "Wanship, Summit County, Utah, United States",
+  "drive_min": 2165,
+  "drive_mi": 2012,
+  "drive_min_clemson": 2084,
+  "drive_mi_clemson": 1952
  }
 }
