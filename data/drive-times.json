@@ -16622,5 +16622,113 @@
   "drive_mi": 518,
   "drive_min_clemson": 384,
   "drive_mi_clemson": 357
+ },
+ "Carthage|Tennessee": {
+  "lat": 36.2522766,
+  "lon": -85.951654,
+  "name": "Carthage, Smith County, Middle Tennessee, Tennessee, 37030, United States",
+  "drive_min": 352,
+  "drive_mi": 378,
+  "drive_min_clemson": 315,
+  "drive_mi_clemson": 324
+ },
+ "Celina|Tennessee": {
+  "lat": 36.5500611,
+  "lon": -85.505247,
+  "name": "Celina, Clay County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 351,
+  "drive_mi": 367,
+  "drive_min_clemson": 314,
+  "drive_mi_clemson": 313
+ },
+ "Cookeville|Tennessee": {
+  "lat": 36.1623886,
+  "lon": -85.4997057,
+  "name": "Cookeville, Putnam County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 322,
+  "drive_mi": 344,
+  "drive_min_clemson": 284,
+  "drive_mi_clemson": 290
+ },
+ "Gainesboro|Tennessee": {
+  "lat": 36.355428,
+  "lon": -85.6588652,
+  "name": "Gainesboro, Jackson County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 347,
+  "drive_mi": 368,
+  "drive_min_clemson": 309,
+  "drive_mi_clemson": 313
+ },
+ "Granville|Tennessee": {
+  "lat": 36.2705118,
+  "lon": -85.7957972,
+  "name": "Granville, Jackson County, Middle Tennessee, Tennessee, 38564, United States",
+  "drive_min": 349,
+  "drive_mi": 368,
+  "drive_min_clemson": 312,
+  "drive_mi_clemson": 313
+ },
+ "Lafayette|Tennessee": {
+  "lat": 36.5208223,
+  "lon": -86.0260366,
+  "name": "Lafayette, Macon County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 387,
+  "drive_mi": 405,
+  "drive_min_clemson": 350,
+  "drive_mi_clemson": 351
+ },
+ "McMinnville|Tennessee": {
+  "lat": 35.683404,
+  "lon": -85.7699816,
+  "name": "McMinnville, Warren County, Middle Tennessee, Tennessee, 37110, United States",
+  "drive_min": 361,
+  "drive_mi": 367,
+  "drive_min_clemson": 271,
+  "drive_mi_clemson": 247
+ },
+ "Red Boiling Springs|Tennessee": {
+  "lat": 36.5334007,
+  "lon": -85.8503151,
+  "name": "Red Boiling Springs, Macon County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 374,
+  "drive_mi": 389,
+  "drive_min_clemson": 337,
+  "drive_mi_clemson": 335
+ },
+ "Rock Island|Tennessee": {
+  "lat": 36.0629415,
+  "lon": -86.527439,
+  "name": "Rock Island, Nashville, Davidson County, Middle Tennessee, Tennessee, United Sta",
+  "drive_min": 412,
+  "drive_mi": 423,
+  "drive_min_clemson": 329,
+  "drive_mi_clemson": 305
+ },
+ "Silver Point|Tennessee": {
+  "lat": 36.0906167,
+  "lon": -85.7297049,
+  "name": "Silver Point, Putnam County, Middle Tennessee, Tennessee, 38582, United States",
+  "drive_min": 332,
+  "drive_mi": 358,
+  "drive_min_clemson": 295,
+  "drive_mi_clemson": 304
+ },
+ "Smithville|Tennessee": {
+  "lat": 35.9606186,
+  "lon": -85.8141516,
+  "name": "Smithville, DeKalb County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 349,
+  "drive_mi": 371,
+  "drive_min_clemson": 303,
+  "drive_mi_clemson": 253
+ },
+ "Sparta|Tennessee": {
+  "lat": 35.9258921,
+  "lon": -85.4641342,
+  "name": "Sparta, White County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 328,
+  "drive_mi": 339,
+  "drive_min_clemson": 277,
+  "drive_mi_clemson": 233
  }
 }
