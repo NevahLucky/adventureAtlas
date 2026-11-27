@@ -202,7 +202,9 @@
   "customer": "Everyone, racing fans, families",
   "unique": "The largest single day sporting event in the world: 300,000 people, a brick start finish line, and a century of tradition from the milk bottle to the snake pit.",
   "buzz": "Even nonfans are converted by the spectacle; bring ear protection and arrive early. The infield is a party, the stands are the racing.",
-  "rating": 91
+  "rating": 91,
+  "drive_min": 688,
+  "drive_min_clemson": 643
  },
  {
   "name": "Turkey Run State Park",
@@ -225,7 +227,9 @@
   "customer": "Families, hikers, paddlers",
   "unique": "Deep sandstone canyons with ladders, a suspension bridge and hemlock gullies, plus a Sugar Creek canoe run that is the best float in the state.",
   "buzz": "Hoosiers call it their favorite park; Trail 3 is the classic. Canoe rentals fill up on summer weekends.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 791,
+  "drive_min_clemson": 778
  },
  {
   "name": "Holiday World",
@@ -248,7 +252,9 @@
   "customer": "Families, kids, coaster fans",
   "unique": "The world's first theme park, still family owned, with free unlimited soda, free sunscreen and two of the best water coasters on earth.",
   "buzz": "Parents rave about the free perks and clean park; the Thanksgiving themed rides are charming. It is a genuine value.",
-  "rating": 87
+  "rating": 87,
+  "drive_min": 644,
+  "drive_min_clemson": 588
  },
  {
   "name": "Shipshewana Auction and Flea Market",
@@ -271,7 +277,9 @@
   "customer": "Families, antique hunters, retirees",
   "unique": "An Amish run livestock auction and a thousand vendor flea market where you can buy a horse, a pie and a hand forged tool in the same morning.",
   "buzz": "The auction is the real show; get there at 8am for the horses. The flea market is enormous and the food is excellent.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 776,
+  "drive_min_clemson": 801
  },
  {
   "name": "Indiana Dunes",
@@ -294,7 +302,9 @@
   "customer": "Families, hikers, beach people",
   "unique": "A national park of 15 miles of Lake Michigan beach, 200-foot dunes and black oak savanna, an hour from Chicago.",
   "buzz": "The 3 Dune Challenge is a real workout with a great view; the beach is the cleanest near Chicago. Summer parking fills by 9am.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 845,
+  "drive_min_clemson": 804
  },
  {
   "name": "Chicago Architecture Boat Tour",
@@ -9238,7 +9248,9 @@
   "customer": "Everyone, families, history buffs",
   "unique": "The field of 168 empty bronze chairs, the reflecting pool and the survivor tree, built on the site of the 1995 bombing with a museum that walks minute by minute.",
   "buzz": "People describe it as one of the most powerful memorials in the country; the museum is intense and not for young children. Free grounds.",
-  "rating": 89
+  "rating": 89,
+  "drive_min": 1187,
+  "drive_min_clemson": 1046
  },
  {
   "name": "Turner Falls",
@@ -9261,7 +9273,9 @@
   "customer": "Families, swimmers, students",
   "unique": "A 77-foot waterfall dropping into a natural swimming hole, with caves behind the falls and a rock slide, in the Arbuckle Mountains.",
   "buzz": "It is a beloved summer spot and gets dangerously crowded; go on a weekday and wear shoes for the rocks. Water levels vary.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1223,
+  "drive_min_clemson": 1082
  },
  {
   "name": "Wichita Mountains Wildlife Refuge",
@@ -9284,7 +9298,9 @@
   "customer": "Families, wildlife people, climbers",
   "unique": "Free roaming bison, longhorn and elk in a granite range that rises out of the plains, with bouldering on 500-million year old rock and prairie dog towns.",
   "buzz": "Bison sightings are almost guaranteed and the climbing is world class; roads are narrow and the heat is real.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 1265,
+  "drive_min_clemson": 1124
  },
  {
   "name": "Blue Whale of Catoosa",
@@ -9307,7 +9323,9 @@
   "customer": "Road trippers, families",
   "unique": "A 20-foot smiling blue whale built as an anniversary gift in a roadside pond, now a Route 66 icon with a slide and picnic tables.",
   "buzz": "It is a five minute stop that makes people absurdly happy; the story of the man who built it is on the plaque.",
-  "rating": 70
+  "rating": 70,
+  "drive_min": 1116,
+  "drive_min_clemson": 974
  },
  {
   "name": "Gathering Place",
@@ -9330,7 +9348,9 @@
   "customer": "Families, kids, locals",
   "unique": "A $465-million private park on the Arkansas River with a suspension bridge, a land bridge, giant slides and a boathouse, free, and better than most municipal parks in America.",
   "buzz": "Parents call it the best free family day in the region; the playground is enormous and the beer garden is a nice touch.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1121,
+  "drive_min_clemson": 980
  },
  {
   "name": "Big Bend National Park",
@@ -14229,7 +14249,9 @@
   "customer": "Families, kids, food people",
   "unique": "A working dairy and pig farm with a bus tour through the barns, a cheese operation, a restaurant and a giant jumping pillow, all in the middle of Indiana corn.",
   "buzz": "The bus tour is better than expected and the cheese is excellent; it is a long drive from anywhere, which keeps it uncrowded.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 809,
+  "drive_min_clemson": 769
  },
  {
   "name": "Superdawg",
@@ -14815,7 +14837,9 @@
   "customer": "Film fans, readers, families",
   "unique": "The actual house from the 1983 film The Outsiders, restored by a fan with the original paint colors, props and a gift shop full of memorabilia.",
   "buzz": "Fans of the book and film make pilgrimages; the restoration is loving and the guides know the production stories.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1121,
+  "drive_min_clemson": 980
  },
  {
   "name": "Snake Farm",
@@ -36179,7 +36203,9 @@
   "customer": "Art people, gardeners, couples",
   "unique": "A 1920s Italianate villa turned art museum, with a strong Native American collection and formal gardens.",
   "buzz": "The house and the gardens are as good as the art, and the Native American collection is excellent.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 1121,
+  "drive_min_clemson": 980
  },
  {
   "name": "Woody Guthrie Center",
@@ -36202,7 +36228,9 @@
   "customer": "Music fans, history people",
   "unique": "A museum of the folk singer's life, with his lyrics, drawings, guitars and the archive of his recordings.",
   "buzz": "The archive is serious and the story is moving. Good for anyone interested in American music.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 1121,
+  "drive_min_clemson": 980
  },
  {
   "name": "Cain's Ballroom",
@@ -36225,7 +36253,9 @@
   "customer": "Music fans, young adults",
   "unique": "A 1924 dance hall where Bob Wills and the Texas Playboys broadcast, still booking rock, country and indie acts under the original sign.",
   "buzz": "The room is legendary and the sound is good. Check the calendar and buy ahead.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1121,
+  "drive_min_clemson": 980
  },
  {
   "name": "National Cowboy and Western Heritage Museum",
@@ -36248,7 +36278,9 @@
   "customer": "History people, families, art people",
   "unique": "A museum of the American West with Western paintings, saddles, firearms, a reconstructed town and the End of the Trail sculpture.",
   "buzz": "Bigger and better than expected, with serious art alongside the cowboy gear. Allow two hours.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 1187,
+  "drive_min_clemson": 1046
  },
  {
   "name": "Bricktown",
@@ -36271,7 +36303,9 @@
   "customer": "Families, couples, visitors",
   "unique": "A warehouse district of brick buildings, restaurants, a canal with water taxis and a ballpark, next to downtown.",
   "buzz": "The canal walk is the thing to do and the food is decent. Busy on weekends.",
-  "rating": 76
+  "rating": 76,
+  "drive_min": 1187,
+  "drive_min_clemson": 1046
  },
  {
   "name": "Myriad Botanical Gardens",
@@ -36294,7 +36328,9 @@
   "customer": "Families, gardeners",
   "unique": "A 17 acre downtown garden with a glass conservatory, a children's garden, a lake and an ice rink in winter.",
   "buzz": "The conservatory is the rainy day win and the outdoor gardens are free. Good for kids.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1187,
+  "drive_min_clemson": 1046
  },
  {
   "name": "Price Tower",
@@ -36317,7 +36353,9 @@
   "customer": "Architecture fans, couples",
   "unique": "Frank Lloyd Wright's only built skyscraper, a 19 story copper and concrete tower with tours and a small hotel.",
   "buzz": "For architecture people it is a pilgrimage, and the tour explains the design. The top floor view is a bonus.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1170,
+  "drive_min_clemson": 1029
  },
  {
   "name": "Medicine Park",
@@ -36340,7 +36378,9 @@
   "customer": "Families, couples, road trippers",
   "unique": "A cobblestone resort town at the edge of the Wichita Mountains, with a creek, a swimming hole, cabins and a dam built of river rock.",
   "buzz": "The cobblestone buildings are charming and the creek is cool. Good base for the wildlife refuge.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1265,
+  "drive_min_clemson": 1124
  },
  {
   "name": "Forest Park",
@@ -37142,7 +37182,9 @@
   "customer": "Families with kids",
   "unique": "The largest children's museum in the world, with a dinosaur hall, a carousel, a space station and a working water clock.",
   "buzz": "Overwhelming in a good way, with enough for a full day. The dinosaur exhibit is the star.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 680,
+  "drive_min_clemson": 634
  },
  {
   "name": "Indianapolis Motor Speedway Museum",
@@ -37165,7 +37207,9 @@
   "customer": "Race fans, families",
   "unique": "A museum of the 500 with winning cars, trophies and the bricks, plus a track tour on the speedway.",
   "buzz": "The winning cars and the track tour are the reasons. Book the tour with the museum.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 688,
+  "drive_min_clemson": 643
  },
  {
   "name": "Newfields",
@@ -37188,7 +37232,9 @@
   "customer": "Art people, gardeners, families",
   "unique": "An art museum and 152 acre campus with gardens, a lake, a greenhouse and a sculpture park.",
   "buzz": "The gardens and the art are both strong, and the campus is a good walk. Free on some days.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 680,
+  "drive_min_clemson": 634
  },
  {
   "name": "Conner Prairie",
@@ -37211,7 +37257,9 @@
   "customer": "Families, history people",
   "unique": "A living history park with an 1836 village, a Lenape camp, a working farm and a balloon ride.",
   "buzz": "The interpreters are good and kids can try chores and crafts. Allow half a day.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 684,
+  "drive_min_clemson": 649
  },
  {
   "name": "Brown County State Park",
@@ -37234,7 +37282,9 @@
   "customer": "Hikers, families, photographers",
   "unique": "The largest state park in Indiana, with ridge trails, a fire tower, a lodge and some of the best fall color in the Midwest.",
   "buzz": "The fire tower view is the payoff and the trails are rolling. October is packed.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 653,
+  "drive_min_clemson": 607
  },
  {
   "name": "Indiana State Fair",
@@ -37257,7 +37307,9 @@
   "customer": "Families, locals",
   "unique": "A big state fair with livestock shows, a midway, tractor pulls, fried food and the dairy bar.",
   "buzz": "The dairy bar and the livestock barns are the local picks. Go on a weekday.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 680,
+  "drive_min_clemson": 634
  },
  {
   "name": "University of Notre Dame",
@@ -37280,7 +37332,9 @@
   "customer": "Sports fans, families, visitors",
   "unique": "A campus with the Golden Dome, the basilica, the grotto and the football stadium, all walkable around two lakes.",
   "buzz": "The basilica and the grotto are the quiet highlights, and game weekends are a scene. Free to walk.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 828,
+  "drive_min_clemson": 818
  },
  {
   "name": "French Lick Springs",
@@ -37303,7 +37357,9 @@
   "customer": "Couples, retirees, families",
   "unique": "A historic mineral spring resort with a grand hotel, a casino, a spa and the Pluto mineral water that made it famous.",
   "buzz": "The hotel is a step back in time and the grounds are pretty. Worth a walk even if you are not staying.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 631,
+  "drive_min_clemson": 585
  },
  {
   "name": "Parke County Covered Bridge Festival",
@@ -37326,7 +37382,9 @@
   "customer": "Families, photographers, road trippers",
   "unique": "A county with 31 covered bridges and a festival that fills them with craft fairs, food and traffic.",
   "buzz": "Pick a few bridges and drive the back roads, and go early to beat the crowds. The festival is the busiest week.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 765,
+  "drive_min_clemson": 719
  },
  {
   "name": "Cincinnati Museum Center",
@@ -59911,5 +59969,801 @@
   "rating": 72,
   "drive_min": 1261,
   "drive_min_clemson": 1180
+ },
+ {
+  "name": "Sam Noble Oklahoma Museum of Natural History",
+  "city": "Norman",
+  "county": "Cleveland",
+  "state": "Oklahoma",
+  "cats": [
+   "Museum",
+   "Fossils",
+   "Native"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Tue–Sun",
+  "start": "1999",
+  "company": "University of Oklahoma",
+  "party": "2–5",
+  "customer": "Families, dinosaur kids, science people",
+  "unique": "A museum with a 40 foot Apatosaurus, a gallery of Oklahoma's Native nations and a working paleontology lab, on the Norman campus.",
+  "buzz": "The dinosaur hall and the Native galleries are the two routes and the lab is where people linger; it is the best museum in the state for children.",
+  "rating": 82,
+  "drive_min": 1199,
+  "drive_min_clemson": 1058
+ },
+ {
+  "name": "Lake Thunderbird",
+  "city": "Norman",
+  "county": "Cleveland",
+  "state": "Oklahoma",
+  "cats": [
+   "Water",
+   "Camping",
+   "Fishing"
+  ],
+  "cost": "Free–$8",
+  "cost_num": 5,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year-round",
+  "start": "1965",
+  "company": "Oklahoma Tourism and Recreation Department",
+  "party": "2–6",
+  "customer": "Boaters, anglers, families",
+  "unique": "A reservoir east of Norman with a swim beach, boat ramps and trails, the closest big water to Oklahoma City.",
+  "buzz": "The lake is the summer escape and the fishing is decent; the water is murky and the wind makes afternoon boating choppy.",
+  "rating": 72,
+  "drive_min": 1199,
+  "drive_min_clemson": 1058
+ },
+ {
+  "name": "Fried Onion Burger Day",
+  "city": "El Reno",
+  "county": "Canadian",
+  "state": "Oklahoma",
+  "cats": [
+   "Festival",
+   "Food & Drink",
+   "Community"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "First Saturday in May",
+  "start": "1988",
+  "company": "El Reno Main Street",
+  "party": "2–6",
+  "customer": "Food people, families, locals",
+  "unique": "A downtown festival where they cook the world's largest onion fried burger on a giant griddle and the town's burger stands sell them all day.",
+  "buzz": "The burger history is real and the line for the giant one is the event; El Reno is where the onion burger was invented during the Depression.",
+  "rating": 76,
+  "drive_min": 1217,
+  "drive_min_clemson": 1076
+ },
+ {
+  "name": "National Wrestling Hall of Fame",
+  "city": "Stillwater",
+  "county": "Payne",
+  "state": "Oklahoma",
+  "cats": [
+   "Sports",
+   "Museum"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1976",
+  "company": "National Wrestling Hall of Fame",
+  "party": "2–4",
+  "customer": "Wrestling people, families, sports fans",
+  "unique": "A museum of American wrestling with the honors court, Olympic medals and a gallery on the sport's place in Oklahoma, the state that produces champions.",
+  "buzz": "Wrestling families plan trips around it and the staff are often coaches; it is small and specific and the sport's history is deeper than outsiders expect.",
+  "rating": 74,
+  "drive_min": 1195,
+  "drive_min_clemson": 1054
+ },
+ {
+  "name": "Five Civilized Tribes Museum",
+  "city": "Muskogee",
+  "county": "Muskogee",
+  "state": "Oklahoma",
+  "cats": [
+   "Native",
+   "Museum",
+   "Art"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Mon–Sat",
+  "start": "1966",
+  "company": "Five Civilized Tribes Museum",
+  "party": "2–4",
+  "customer": "Art people, history people, families",
+  "unique": "A museum in the old Union Agency building on Agency Hill, with art by Cherokee, Choctaw, Chickasaw, Creek and Seminole artists and a collection of historic baskets.",
+  "buzz": "The art collection is the reason to come and the building is a landmark; the museum is small and the staff are knowledgeable.",
+  "rating": 76,
+  "drive_min": 1077,
+  "drive_min_clemson": 936
+ },
+ {
+  "name": "Honor Heights Park",
+  "city": "Muskogee",
+  "county": "Muskogee",
+  "state": "Oklahoma",
+  "cats": [
+   "Garden",
+   "Family",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round; azaleas Apr",
+  "start": "1920s",
+  "company": "City of Muskogee",
+  "party": "2–5",
+  "customer": "Gardeners, families, photographers",
+  "unique": "A hilltop park with 40 acres of azaleas, a duck pond, a miniature train and a view over Muskogee, free and open every day.",
+  "buzz": "The April azalea festival is the local event and the train is the family draw; the rest of the year it is a quiet picnic park.",
+  "rating": 74,
+  "drive_min": 1077,
+  "drive_min_clemson": 936
+ },
+ {
+  "name": "Cherokee National Museum",
+  "city": "Tahlequah",
+  "county": "Cherokee",
+  "state": "Oklahoma",
+  "cats": [
+   "Native",
+   "History",
+   "Museum"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Mon–Sat",
+  "start": "1967",
+  "company": "Cherokee Nation",
+  "party": "2–4",
+  "customer": "History people, families, students",
+  "unique": "The national museum of the Cherokee Nation in the old Cherokee Female Seminary, with the Trail of Tears story, baskets and the Sequoyah syllabary.",
+  "buzz": "The seminary building and the Trail of Tears gallery are the reasons to come; the nation runs it and the interpretation is from the inside.",
+  "rating": 78,
+  "drive_min": 1086,
+  "drive_min_clemson": 945
+ },
+ {
+  "name": "Oklahoma State Penitentiary Tour",
+  "city": "McAlester",
+  "county": "Pittsburg",
+  "state": "Oklahoma",
+  "cats": [
+   "Dark Tourism",
+   "History"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Select dates",
+  "start": "1908",
+  "company": "Oklahoma Department of Corrections",
+  "party": "2–4",
+  "customer": "True crime people, history fans, photographers",
+  "unique": "Tours of a working maximum security prison that has operated since 1908, with the old cell blocks and the death row unit.",
+  "buzz": "The tours are limited and book out and the guides are corrections staff; it is not a haunted house and the history is heavy.",
+  "rating": 72,
+  "drive_min": 1114,
+  "drive_min_clemson": 973
+ },
+ {
+  "name": "Talimena Scenic Drive",
+  "city": "Talihina",
+  "county": "Le Flore",
+  "state": "Oklahoma",
+  "cats": [
+   "Drive",
+   "Views",
+   "Nature"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round; fall color Oct–Nov",
+  "start": "1960s",
+  "company": "US Forest Service",
+  "party": "2–4",
+  "customer": "Drivers, motorcyclists, photographers",
+  "unique": "A 54 mile ridge road along the crest of the Ouachita Mountains from Talihina to Mena, Arkansas, with overlooks and switchbacks.",
+  "buzz": "Motorcyclists rate it among the best rides in the region and the fall color is the season; the road is narrow and fog can close the views.",
+  "rating": 82,
+  "drive_min": 1099,
+  "drive_min_clemson": 958
+ },
+ {
+  "name": "Heavener Runestone",
+  "city": "Heavener",
+  "county": "Le Flore",
+  "state": "Oklahoma",
+  "cats": [
+   "Quirky",
+   "History",
+   "Free"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "45 min",
+  "dur_h": 0.75,
+  "dates": "Year-round",
+  "start": "—",
+  "company": "Oklahoma Tourism and Recreation Department",
+  "party": "Any",
+  "customer": "Road trippers, mystery fans, families",
+  "unique": "A slab carved with runic letters in a state park, claimed by some as evidence of Vikings and by scholars as a 19th century hoax.",
+  "buzz": "The ambiguity is the fun and the park is a short walk; the rune stone is behind glass and the setting is a pretty creek valley.",
+  "rating": 72,
+  "drive_min": 1064,
+  "drive_min_clemson": 923
+ },
+ {
+  "name": "Robbers Cave State Park",
+  "city": "Wilburton",
+  "county": "Latimer",
+  "state": "Oklahoma",
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Camping"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1930s",
+  "company": "Oklahoma Tourism and Recreation Department",
+  "party": "2–5",
+  "customer": "Hikers, campers, families",
+  "unique": "Sandstone bluffs and caves in the San Bois Mountains where outlaws hid, with CCC built trails, a lake and a horse camp.",
+  "buzz": "The cave trail and the bluff overlook are the walks and the CCC structures are the architecture; the park is quiet and the trails are rocky.",
+  "rating": 78,
+  "drive_min": 1099,
+  "drive_min_clemson": 958
+ },
+ {
+  "name": "Beavers Bend State Park",
+  "city": "Broken Bow",
+  "county": "McCurtain",
+  "state": "Oklahoma",
+  "cats": [
+   "Nature",
+   "Water",
+   "Camping"
+  ],
+  "cost": "Free–$10",
+  "cost_num": 8,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1937",
+  "company": "Oklahoma Tourism and Recreation Department",
+  "party": "2–6",
+  "customer": "Anglers, paddlers, families",
+  "unique": "A park on the Mountain Fork River below Broken Bow Lake, with trout fishing, a canoe run, pine forest and CCC stonework.",
+  "buzz": "The trout stream and the kayak run are the reasons to come and the cabins book months ahead; summer weekends are crowded.",
+  "rating": 82,
+  "drive_min": 1041,
+  "drive_min_clemson": 900
+ },
+ {
+  "name": "Broken Bow Lake",
+  "city": "Broken Bow",
+  "county": "McCurtain",
+  "state": "Oklahoma",
+  "cats": [
+   "Water",
+   "Boating",
+   "Fishing"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "1970",
+  "company": "US Army Corps of Engineers",
+  "party": "2–6",
+  "customer": "Boaters, anglers, families",
+  "unique": "A clear reservoir in the Ouachita Mountains with 180 miles of shoreline, pine covered islands and water deep enough for skiing.",
+  "buzz": "The lake is the summer destination for Oklahoma and Texas and the rentals fill early; the water is clear by Oklahoma standards.",
+  "rating": 76,
+  "drive_min": 1041,
+  "drive_min_clemson": 900
+ },
+ {
+  "name": "Fort Washita",
+  "city": "Durant",
+  "county": "Bryan",
+  "state": "Oklahoma",
+  "cats": [
+   "History",
+   "Military",
+   "Free"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Wed–Sun",
+  "start": "1842",
+  "company": "Oklahoma Historical Society",
+  "party": "2–4",
+  "customer": "History people, families, road trippers",
+  "unique": "The ruins of a pre Civil War fort on the Washita, with stone buildings, a cemetery and the story of the Chickasaw and Choctaw who settled around it.",
+  "buzz": "The ruins are evocative and the site is quiet; the reconstruction is limited and the history is the reason to stop.",
+  "rating": 74,
+  "drive_min": 1166,
+  "drive_min_clemson": 1025
+ },
+ {
+  "name": "Lake Murray State Park",
+  "city": "Ardmore",
+  "county": "Carter",
+  "state": "Oklahoma",
+  "cats": [
+   "Water",
+   "Camping",
+   "Cycling"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1930s",
+  "company": "Oklahoma Tourism and Recreation Department",
+  "party": "2–6",
+  "customer": "Boaters, campers, families",
+  "unique": "The oldest and largest state park in Oklahoma, with a lake, CCC stone cabins and trails through the Arbuckle Mountains.",
+  "buzz": "The CCC cabins and the lake are the draws and the park is busy in summer; the trails are short and rocky.",
+  "rating": 78,
+  "drive_min": 1234,
+  "drive_min_clemson": 1093
+ },
+ {
+  "name": "Southern Plains Indian Museum",
+  "city": "Anadarko",
+  "county": "Caddo",
+  "state": "Oklahoma",
+  "cats": [
+   "Native",
+   "Museum",
+   "Art",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1948",
+  "company": "US Department of the Interior",
+  "party": "2–4",
+  "customer": "Art people, history people, families",
+  "unique": "A museum of Southern Plains beadwork, regalia and paintings by Native artists, in the town that hosts the American Indian Exposition each August.",
+  "buzz": "The beadwork and the annual exposition are the reasons to visit; it is small and free and the artists are often there.",
+  "rating": 74,
+  "drive_min": 1246,
+  "drive_min_clemson": 1105
+ },
+ {
+  "name": "Tallgrass Prairie Preserve",
+  "city": "Pawhuska",
+  "county": "Osage",
+  "state": "Oklahoma",
+  "cats": [
+   "Nature",
+   "Wildlife",
+   "Drive"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "Half day",
+  "dur_h": 4,
+  "dates": "Year-round",
+  "start": "1989",
+  "company": "The Nature Conservancy",
+  "party": "2–4",
+  "customer": "Wildlife watchers, photographers, naturalists",
+  "unique": "The largest protected remnant of tallgrass prairie left on earth, with a herd of 2,500 bison and a drive through grass that once covered a third of the country.",
+  "buzz": "The bison herd is the reason to come and the spring wildflowers are the season; the prairie is hot and there is no shade.",
+  "rating": 86,
+  "drive_min": 1188,
+  "drive_min_clemson": 1047
+ },
+ {
+  "name": "Eskenazi Museum of Art",
+  "city": "Bloomington",
+  "county": "Monroe",
+  "state": "Indiana",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1941",
+  "company": "Indiana University",
+  "party": "2–4",
+  "customer": "Art people, students, families",
+  "unique": "A university museum designed by I.M. Pei with a broad collection from ancient to contemporary, free and quiet on the Bloomington campus.",
+  "buzz": "The building and the ancient galleries are the reasons to stop; it is free and the modern wing rotates often.",
+  "rating": 80,
+  "drive_min": 675,
+  "drive_min_clemson": 629
+ },
+ {
+  "name": "Lake Monroe",
+  "city": "Bloomington",
+  "county": "Monroe",
+  "state": "Indiana",
+  "cats": [
+   "Water",
+   "Camping",
+   "Fishing"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "1965",
+  "company": "US Army Corps of Engineers",
+  "party": "2–6",
+  "customer": "Boaters, anglers, families",
+  "unique": "The largest lake in Indiana, with arms running into wooded hills, a beach and a state forest around it.",
+  "buzz": "The lake is the summer water for Bloomington and the coves are quiet on weekdays; the wind comes up and the water gets rough.",
+  "rating": 74,
+  "drive_min": 675,
+  "drive_min_clemson": 629
+ },
+ {
+  "name": "Tibetan Mongolian Buddhist Cultural Center",
+  "city": "Bloomington",
+  "county": "Monroe",
+  "state": "Indiana",
+  "cats": [
+   "Spiritual",
+   "Art",
+   "Garden"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily",
+  "start": "1979",
+  "company": "Tibetan Mongolian Buddhist Cultural Center",
+  "party": "2–4",
+  "customer": "Quiet seekers, art lovers, students",
+  "unique": "A Tibetan temple in the Indiana hills with a prayer hall, a stupa and a garden, founded by a Tibetan lama who settled in Bloomington.",
+  "buzz": "Visitors are surprised to find it in Indiana and the gardens are peaceful; the center runs talks and the grounds are free.",
+  "rating": 76,
+  "drive_min": 675,
+  "drive_min_clemson": 629
+ },
+ {
+  "name": "Fort Wayne Museum of Art",
+  "city": "Fort Wayne",
+  "county": "Allen",
+  "state": "Indiana",
+  "cats": [
+   "Art",
+   "Museum"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1921",
+  "company": "Fort Wayne Museum of Art",
+  "party": "2–4",
+  "customer": "Art people, families, students",
+  "unique": "A museum with a strong print and glass collection, in a modern building on Main Street, with a studio space for visitors.",
+  "buzz": "The print collection and the contemporary glass are the highlights; it is small enough for an hour and the café is a local stop.",
+  "rating": 74,
+  "drive_min": 698,
+  "drive_min_clemson": 723
+ },
+ {
+  "name": "Foellinger-Freimann Botanical Conservatory",
+  "city": "Fort Wayne",
+  "county": "Allen",
+  "state": "Indiana",
+  "cats": [
+   "Garden",
+   "Family",
+   "Design"
+  ],
+  "cost": "$7",
+  "cost_num": 7,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily",
+  "start": "1972",
+  "company": "City of Fort Wayne",
+  "party": "2–5",
+  "customer": "Gardeners, families, winter visitors",
+  "unique": "A glass conservatory in downtown with a rainforest, a desert and a seasonally changing garden, warm on a February day.",
+  "buzz": "The winter escape is the point and the changing displays bring people back; it is small and cheap and connects to the river walk.",
+  "rating": 76,
+  "drive_min": 698,
+  "drive_min_clemson": 723
+ },
+ {
+  "name": "Fort Wayne Children's Zoo",
+  "city": "Fort Wayne",
+  "county": "Allen",
+  "state": "Indiana",
+  "cats": [
+   "Animals",
+   "Family"
+  ],
+  "cost": "$18",
+  "cost_num": 18,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Apr–Oct",
+  "start": "1965",
+  "company": "Fort Wayne Children's Zoo",
+  "party": "2–5",
+  "customer": "Families with children, grandparents",
+  "unique": "A zoo designed for children with a train, a carousel, a farm animal area and African lions, built into a wooded park.",
+  "buzz": "Parents call it one of the best children's zoos in the country and the train is the ritual; it is big enough for three hours.",
+  "rating": 82,
+  "drive_min": 698,
+  "drive_min_clemson": 723
+ },
+ {
+  "name": "Studebaker National Museum",
+  "city": "South Bend",
+  "county": "St. Joseph",
+  "state": "Indiana",
+  "cats": [
+   "Museum",
+   "Motorsport",
+   "History"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Mon–Sat",
+  "start": "1966",
+  "company": "Studebaker National Museum",
+  "party": "2–4",
+  "customer": "Car people, families, history fans",
+  "unique": "The collection of the wagon maker that became a car company, with the last Studebaker built, a presidential carriage and the Avanti.",
+  "buzz": "Car people come for the Avanti and the carriage collection is the surprise; the museum next door covers the same South Bend industrial story.",
+  "rating": 78,
+  "drive_min": 823,
+  "drive_min_clemson": 812
+ },
+ {
+  "name": "Potawatomi Zoo",
+  "city": "South Bend",
+  "county": "St. Joseph",
+  "state": "Indiana",
+  "cats": [
+   "Animals",
+   "Family"
+  ],
+  "cost": "$12",
+  "cost_num": 12,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Apr–Oct",
+  "start": "1902",
+  "company": "Potawatomi Zoo",
+  "party": "2–5",
+  "customer": "Families, locals, students",
+  "unique": "The oldest zoo in Indiana, with a train, a carousel and a collection of big cats and hoofed animals in a wooded park.",
+  "buzz": "The train and the petting zoo are the family draws; it is small and the shade makes a July afternoon bearable.",
+  "rating": 72,
+  "drive_min": 823,
+  "drive_min_clemson": 812
+ },
+ {
+  "name": "Clabber Girl Museum",
+  "city": "Terre Haute",
+  "county": "Vigo",
+  "state": "Indiana",
+  "cats": [
+   "Food & Drink",
+   "Museum",
+   "Industry",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Mon–Sat",
+  "start": "1999",
+  "company": "Clabber Girl",
+  "party": "2–4",
+  "customer": "Baking people, families, road trippers",
+  "unique": "The museum and baking store of the baking powder company, with the history of the product, a soda fountain and a test kitchen.",
+  "buzz": "The soda fountain and the free museum are the stops and the baking aisle is a bargain; it is a quick detour in downtown Terre Haute.",
+  "rating": 74,
+  "drive_min": 761,
+  "drive_min_clemson": 712
+ },
+ {
+  "name": "Swope Art Museum",
+  "city": "Terre Haute",
+  "county": "Vigo",
+  "state": "Indiana",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1942",
+  "company": "Swope Art Museum",
+  "party": "2–4",
+  "customer": "Art people, students, locals",
+  "unique": "A small museum with a surprisingly strong collection of American regionalist painting, including Grant Wood and Thomas Hart Benton, free in downtown Terre Haute.",
+  "buzz": "Art people call it a hidden collection and it is free; the building is a 1900s library and the galleries are calm.",
+  "rating": 76,
+  "drive_min": 761,
+  "drive_min_clemson": 712
+ },
+ {
+  "name": "Minnetrista",
+  "city": "Muncie",
+  "county": "Delaware",
+  "state": "Indiana",
+  "cats": [
+   "Garden",
+   "Museum",
+   "Family"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sun",
+  "start": "1988",
+  "company": "Minnetrista",
+  "party": "2–5",
+  "customer": "Gardeners, families, history fans",
+  "unique": "A 40 acre campus of gardens, a museum and historic buildings on the site of the Ball family estate, with a farmers market and a children's garden.",
+  "buzz": "The gardens and the farmers market are the local rituals and the museum covers the Ball jar story; the campus is bigger than visitors expect.",
+  "rating": 78,
+  "drive_min": 646,
+  "drive_min_clemson": 664
+ },
+ {
+  "name": "Columbus Architecture Tour",
+  "city": "Columbus",
+  "county": "Bartholomew",
+  "state": "Indiana",
+  "cats": [
+   "Architecture",
+   "Walk",
+   "Tour"
+  ],
+  "cost": "Free–$25",
+  "cost_num": 15,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1942",
+  "company": "Landmark Columbus",
+  "party": "2–4",
+  "customer": "Architecture people, students, design tourists",
+  "unique": "A small Indiana city with buildings by Eero Saarinen, I.M. Pei, Harry Weese and Robert Venturi, commissioned by a local industrialist after the war.",
+  "buzz": "Architecture people treat it as a pilgrimage and the self guided tour map is free; the Miller House needs a separate booking.",
+  "rating": 86,
+  "drive_min": 633,
+  "drive_min_clemson": 587
+ },
+ {
+  "name": "Miller House and Garden",
+  "city": "Columbus",
+  "county": "Bartholomew",
+  "state": "Indiana",
+  "cats": [
+   "Architecture",
+   "Design",
+   "Garden"
+  ],
+  "cost": "$25",
+  "cost_num": 25,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun, Mar–Nov",
+  "start": "1953",
+  "company": "Newfields",
+  "party": "2–4",
+  "customer": "Design people, architecture fans, gardeners",
+  "unique": "A mid century modern house by Eero Saarinen with interiors by Alexander Girard and a garden by Dan Kiley, kept as the family left it.",
+  "buzz": "Design people call it one of the best preserved modernist houses in the country; tours are limited and book weeks ahead.",
+  "rating": 86,
+  "drive_min": 633,
+  "drive_min_clemson": 587
+ },
+ {
+  "name": "Madison Historic District",
+  "city": "Madison",
+  "county": "Jefferson",
+  "state": "Indiana",
+  "cats": [
+   "Architecture",
+   "History",
+   "Walk"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1811",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Architecture walkers, history people, couples",
+  "unique": "A Ohio River town of 1,000 preserved buildings from the steamboat era, stacked on the bluffs, with a main street that runs to the water.",
+  "buzz": "The walk up and down the hill is the visit and the river view is the photograph; the town is quiet on weekdays and busy in summer.",
+  "rating": 80,
+  "drive_min": 681,
+  "drive_min_clemson": 683
+ },
+ {
+  "name": "Clifty Falls State Park",
+  "city": "Madison",
+  "county": "Jefferson",
+  "state": "Indiana",
+  "cats": [
+   "Hiking",
+   "Nature",
+   "Water"
+  ],
+  "cost": "$7",
+  "cost_num": 7,
+  "dur": "3 hrs",
+  "dates": "Year-round",
+  "start": "1916",
+  "company": "Indiana Department of Natural Resources",
+  "party": "2–4",
+  "customer": "Hikers, families, photographers",
+  "unique": "A gorge of four waterfalls cut into the limestone above the Ohio River, with trails along the creek and a view over the river valley.",
+  "buzz": "The falls are best after rain and the trails are steep and slick; the park is quiet compared with the state's northern parks.",
+  "rating": 78,
+  "drive_min": 681,
+  "drive_min_clemson": 683
  }
 ]

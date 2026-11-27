@@ -2460,7 +2460,11 @@
  "Catoosa|Oklahoma": {
   "lat": 36.188987,
   "lon": -95.745817,
-  "name": "Catoosa, Rogers County, Oklahoma, United States"
+  "name": "Catoosa, Rogers County, Oklahoma, United States",
+  "drive_min": 1116,
+  "drive_mi": 1022,
+  "drive_min_clemson": 974,
+  "drive_mi_clemson": 904
  },
  "Cawker City|Kansas": {
   "lat": 39.51251,
@@ -2710,7 +2714,11 @@
  "Davis|Oklahoma": {
   "lat": 34.5034796,
   "lon": -97.1188924,
-  "name": "Davis, Murray County, Oklahoma, United States"
+  "name": "Davis, Murray County, Oklahoma, United States",
+  "drive_min": 1223,
+  "drive_mi": 1117,
+  "drive_min_clemson": 1082,
+  "drive_mi_clemson": 1000
  },
  "Dayton|Ohio": {
   "lat": 39.7589478,
@@ -2871,7 +2879,11 @@
  "Fair Oaks|Indiana": {
   "lat": 41.0750361,
   "lon": -87.2575283,
-  "name": "Fair Oaks, Jasper County, Indiana, 47943, United States"
+  "name": "Fair Oaks, Jasper County, Indiana, 47943, United States",
+  "drive_min": 809,
+  "drive_mi": 698,
+  "drive_min_clemson": 769,
+  "drive_mi_clemson": 634
  },
  "Fairbanks|Alaska": {
   "lat": 64.837845,
@@ -3348,7 +3360,11 @@
  "Lawton|Oklahoma": {
   "lat": 34.6051975,
   "lon": -98.3952279,
-  "name": "Lawton, Comanche County, Oklahoma, United States"
+  "name": "Lawton, Comanche County, Oklahoma, United States",
+  "drive_min": 1265,
+  "drive_mi": 1171,
+  "drive_min_clemson": 1124,
+  "drive_mi_clemson": 1053
  },
  "Layton|New Jersey": {
   "lat": 41.2197665,
@@ -3527,7 +3543,11 @@
  "Marshall|Indiana": {
   "lat": 41.322843,
   "lon": -86.2809625,
-  "name": "Marshall County, Indiana, United States"
+  "name": "Marshall County, Indiana, United States",
+  "drive_min": 791,
+  "drive_mi": 667,
+  "drive_min_clemson": 778,
+  "drive_mi_clemson": 643
  },
  "Mason|Ohio": {
   "lat": 39.3600586,
@@ -3912,7 +3932,11 @@
  "Oklahoma City|Oklahoma": {
   "lat": 35.4729886,
   "lon": -97.5170536,
-  "name": "Oklahoma City, Oklahoma County, Oklahoma, United States"
+  "name": "Oklahoma City, Oklahoma County, Oklahoma, United States",
+  "drive_min": 1187,
+  "drive_mi": 1091,
+  "drive_min_clemson": 1046,
+  "drive_mi_clemson": 973
  },
  "Omaha|Nebraska": {
   "lat": 41.2587459,
@@ -4121,7 +4145,11 @@
  "Porter|Indiana": {
   "lat": 41.4457032,
   "lon": -87.0724971,
-  "name": "Porter County, Indiana, United States"
+  "name": "Porter County, Indiana, United States",
+  "drive_min": 845,
+  "drive_mi": 731,
+  "drive_min_clemson": 804,
+  "drive_mi_clemson": 667
  },
  "Portland|Maine": {
   "lat": 43.6573605,
@@ -4375,7 +4403,11 @@
  "Santa Claus|Indiana": {
   "lat": 38.1184147,
   "lon": -86.9203602,
-  "name": "Santa Claus, Spencer County, Indiana, 47579, United States"
+  "name": "Santa Claus, Spencer County, Indiana, 47579, United States",
+  "drive_min": 644,
+  "drive_mi": 527,
+  "drive_min_clemson": 588,
+  "drive_mi_clemson": 519
  },
  "Santa Cruz|California": {
   "lat": 37.050096,
@@ -4479,7 +4511,11 @@
  "Shipshewana|Indiana": {
   "lat": 41.6728282,
   "lon": -85.5802634,
-  "name": "Shipshewana, LaGrange County, Indiana, United States"
+  "name": "Shipshewana, LaGrange County, Indiana, United States",
+  "drive_min": 776,
+  "drive_mi": 653,
+  "drive_min_clemson": 801,
+  "drive_mi_clemson": 631
  },
  "Sleepy Hollow|New York": {
   "lat": 41.085652,
@@ -4520,7 +4556,11 @@
  "Speedway|Indiana": {
   "lat": 39.7881233,
   "lon": -86.2407144,
-  "name": "Speedway, Wayne Township, Marion County, Indiana, 46224, United States"
+  "name": "Speedway, Wayne Township, Marion County, Indiana, 46224, United States",
+  "drive_min": 688,
+  "drive_mi": 571,
+  "drive_min_clemson": 643,
+  "drive_mi_clemson": 524
  },
  "Spring City|Pennsylvania": {
   "lat": 40.1778276,
@@ -4766,7 +4806,11 @@
  "Tulsa|Oklahoma": {
   "lat": 36.1563122,
   "lon": -95.9927516,
-  "name": "Tulsa, Oklahoma, United States"
+  "name": "Tulsa, Oklahoma, United States",
+  "drive_min": 1121,
+  "drive_mi": 1027,
+  "drive_min_clemson": 980,
+  "drive_mi_clemson": 909
  },
  "Tupelo|Mississippi": {
   "lat": 34.2576067,
@@ -7332,7 +7376,11 @@
  "Bartlesville|Oklahoma": {
   "lat": 36.7509272,
   "lon": -95.9771779,
-  "name": "Bartlesville, Washington County, Oklahoma, United States"
+  "name": "Bartlesville, Washington County, Oklahoma, United States",
+  "drive_min": 1170,
+  "drive_mi": 1068,
+  "drive_min_clemson": 1029,
+  "drive_mi_clemson": 950
  },
  "Cedar Rapids|Iowa": {
   "lat": 41.9758872,
@@ -7394,7 +7442,11 @@
  "Medicine Park|Oklahoma": {
   "lat": 34.7274797,
   "lon": -98.5013644,
-  "name": "Medicine Park, Comanche County, Oklahoma, 73557, United States"
+  "name": "Medicine Park, Comanche County, Oklahoma, 73557, United States",
+  "drive_min": 1265,
+  "drive_mi": 1169,
+  "drive_min_clemson": 1124,
+  "drive_mi_clemson": 1051
  },
  "Mount Vernon|Kentucky": {
   "lat": 37.3529436,
@@ -7480,12 +7532,20 @@
  "Fishers|Indiana": {
   "lat": 39.9555928,
   "lon": -86.0138729,
-  "name": "Fishers, Hamilton County, Indiana, United States"
+  "name": "Fishers, Hamilton County, Indiana, United States",
+  "drive_min": 684,
+  "drive_mi": 589,
+  "drive_min_clemson": 649,
+  "drive_mi_clemson": 540
  },
  "French Lick|Indiana": {
   "lat": 38.5502547,
   "lon": -86.6199659,
-  "name": "French Lick, Orange County, Indiana, United States"
+  "name": "French Lick, Orange County, Indiana, United States",
+  "drive_min": 631,
+  "drive_mi": 511,
+  "drive_min_clemson": 585,
+  "drive_mi_clemson": 465
  },
  "Galena|Illinois": {
   "lat": 42.4157304,
@@ -7499,7 +7559,11 @@
  "Indianapolis|Indiana": {
   "lat": 39.7683331,
   "lon": -86.1583502,
-  "name": "Indianapolis, Center Township, Marion County, Indiana, United States"
+  "name": "Indianapolis, Center Township, Marion County, Indiana, United States",
+  "drive_min": 680,
+  "drive_mi": 565,
+  "drive_min_clemson": 634,
+  "drive_mi_clemson": 519
  },
  "International Falls|Minnesota": {
   "lat": 48.601033,
@@ -7519,12 +7583,20 @@
  "Nashville|Indiana": {
   "lat": 39.207242,
   "lon": -86.2469472,
-  "name": "Nashville, Brown County, Indiana, United States"
+  "name": "Nashville, Brown County, Indiana, United States",
+  "drive_min": 653,
+  "drive_mi": 538,
+  "drive_min_clemson": 607,
+  "drive_mi_clemson": 491
  },
  "Notre Dame|Indiana": {
   "lat": 41.7045677,
   "lon": -86.2382203,
-  "name": "University of Notre Dame du Lac, Hansel Lane, Notre Dame, Saint Joseph County, I"
+  "name": "University of Notre Dame du Lac, Hansel Lane, Notre Dame, Saint Joseph County, I",
+  "drive_min": 828,
+  "drive_mi": 705,
+  "drive_min_clemson": 818,
+  "drive_mi_clemson": 669
  },
  "Oak Park|Illinois": {
   "lat": 41.8878145,
@@ -7553,7 +7625,11 @@
  "Rockville|Indiana": {
   "lat": 39.7625404,
   "lon": -87.2291809,
-  "name": "Rockville, Parke County, Indiana, 47872, United States"
+  "name": "Rockville, Parke County, Indiana, 47872, United States",
+  "drive_min": 765,
+  "drive_mi": 624,
+  "drive_min_clemson": 719,
+  "drive_mi_clemson": 577
  },
  "Toledo|Ohio": {
   "lat": 41.6529143,
@@ -12490,5 +12566,194 @@
   "drive_mi": 1270,
   "drive_min_clemson": 1353,
   "drive_mi_clemson": 1210
+ },
+ "Anadarko|Oklahoma": {
+  "lat": 35.0725323,
+  "lon": -98.243981,
+  "name": "Anadarko, Caddo County, Oklahoma, 73005, United States",
+  "drive_min": 1246,
+  "drive_mi": 1145,
+  "drive_min_clemson": 1105,
+  "drive_mi_clemson": 1027
+ },
+ "Ardmore|Oklahoma": {
+  "lat": 34.1729273,
+  "lon": -97.1309119,
+  "name": "Ardmore, Carter County, Oklahoma, United States",
+  "drive_min": 1234,
+  "drive_mi": 1086,
+  "drive_min_clemson": 1093,
+  "drive_mi_clemson": 968
+ },
+ "Bloomington|Indiana": {
+  "lat": 39.1670396,
+  "lon": -86.5342881,
+  "name": "Bloomington, Monroe County, Indiana, United States",
+  "drive_min": 675,
+  "drive_mi": 556,
+  "drive_min_clemson": 629,
+  "drive_mi_clemson": 510
+ },
+ "Broken Bow|Oklahoma": {
+  "lat": 34.0298629,
+  "lon": -94.7389659,
+  "name": "Broken Bow, McCurtain County, Oklahoma, United States",
+  "drive_min": 1041,
+  "drive_mi": 925,
+  "drive_min_clemson": 900,
+  "drive_mi_clemson": 808
+ },
+ "Columbus|Indiana": {
+  "lat": 39.2014405,
+  "lon": -85.9213796,
+  "name": "Columbus, Bartholomew County, Indiana, 47203, United States",
+  "drive_min": 633,
+  "drive_mi": 524,
+  "drive_min_clemson": 587,
+  "drive_mi_clemson": 477
+ },
+ "Durant|Oklahoma": {
+  "lat": 33.9919761,
+  "lon": -96.3776762,
+  "name": "Durant, Bryan County, Oklahoma, United States",
+  "drive_min": 1166,
+  "drive_mi": 1031,
+  "drive_min_clemson": 1025,
+  "drive_mi_clemson": 913
+ },
+ "El Reno|Oklahoma": {
+  "lat": 35.532198,
+  "lon": -97.9550578,
+  "name": "El Reno, Canadian County, Oklahoma, United States",
+  "drive_min": 1217,
+  "drive_mi": 1118,
+  "drive_min_clemson": 1076,
+  "drive_mi_clemson": 1000
+ },
+ "Fort Wayne|Indiana": {
+  "lat": 41.0799898,
+  "lon": -85.1386015,
+  "name": "Fort Wayne, Allen County, Indiana, United States",
+  "drive_min": 698,
+  "drive_mi": 600,
+  "drive_min_clemson": 723,
+  "drive_mi_clemson": 578
+ },
+ "Heavener|Oklahoma": {
+  "lat": 34.8892677,
+  "lon": -94.600781,
+  "name": "Heavener, LeFlore County, Oklahoma, 74937, United States",
+  "drive_min": 1064,
+  "drive_mi": 926,
+  "drive_min_clemson": 923,
+  "drive_mi_clemson": 808
+ },
+ "Madison|Indiana": {
+  "lat": 40.1624531,
+  "lon": -85.7260804,
+  "name": "Madison County, Indiana, United States",
+  "drive_min": 681,
+  "drive_mi": 575,
+  "drive_min_clemson": 683,
+  "drive_mi_clemson": 549
+ },
+ "McAlester|Oklahoma": {
+  "lat": 34.9334981,
+  "lon": -95.7697934,
+  "name": "McAlester, Pittsburg County, Oklahoma, 74501, United States",
+  "drive_min": 1114,
+  "drive_mi": 1017,
+  "drive_min_clemson": 973,
+  "drive_mi_clemson": 900
+ },
+ "Muncie|Indiana": {
+  "lat": 40.1936892,
+  "lon": -85.3865271,
+  "name": "Muncie, Delaware County, Indiana, United States",
+  "drive_min": 646,
+  "drive_mi": 555,
+  "drive_min_clemson": 664,
+  "drive_mi_clemson": 528
+ },
+ "Muskogee|Oklahoma": {
+  "lat": 35.6630196,
+  "lon": -95.3927706,
+  "name": "Muskogee County, Oklahoma, United States",
+  "drive_min": 1077,
+  "drive_mi": 978,
+  "drive_min_clemson": 936,
+  "drive_mi_clemson": 860
+ },
+ "Norman|Oklahoma": {
+  "lat": 35.2225717,
+  "lon": -97.4394816,
+  "name": "Norman, Cleveland County, Oklahoma, United States",
+  "drive_min": 1199,
+  "drive_mi": 1097,
+  "drive_min_clemson": 1058,
+  "drive_mi_clemson": 979
+ },
+ "Pawhuska|Oklahoma": {
+  "lat": 36.6633403,
+  "lon": -96.3401208,
+  "name": "Pawhuska;𐓄𐓘𐓢𐓶𐓮𐓤𐓘, Osage County, Oklahoma, United States",
+  "drive_min": 1188,
+  "drive_mi": 1079,
+  "drive_min_clemson": 1047,
+  "drive_mi_clemson": 961
+ },
+ "South Bend|Indiana": {
+  "lat": 41.6833813,
+  "lon": -86.2500066,
+  "name": "South Bend, Saint Joseph County, Indiana, United States",
+  "drive_min": 823,
+  "drive_mi": 689,
+  "drive_min_clemson": 812,
+  "drive_mi_clemson": 667
+ },
+ "Stillwater|Oklahoma": {
+  "lat": 36.1156306,
+  "lon": -97.0585717,
+  "name": "Stillwater, Payne County, Oklahoma, United States",
+  "drive_min": 1195,
+  "drive_mi": 1096,
+  "drive_min_clemson": 1054,
+  "drive_mi_clemson": 978
+ },
+ "Tahlequah|Oklahoma": {
+  "lat": 35.91537,
+  "lon": -94.969956,
+  "name": "Tahlequah;ᏓᎵᏆ, Cherokee County, Oklahoma, 74464, United States",
+  "drive_min": 1086,
+  "drive_mi": 979,
+  "drive_min_clemson": 945,
+  "drive_mi_clemson": 861
+ },
+ "Talihina|Oklahoma": {
+  "lat": 34.7524173,
+  "lon": -95.0419156,
+  "name": "Talihina, LeFlore County, Oklahoma, United States",
+  "drive_min": 1099,
+  "drive_mi": 952,
+  "drive_min_clemson": 958,
+  "drive_mi_clemson": 835
+ },
+ "Terre Haute|Indiana": {
+  "lat": 39.4667025,
+  "lon": -87.4139119,
+  "name": "Terre Haute, Vigo County, Indiana, United States",
+  "drive_min": 761,
+  "drive_mi": 637,
+  "drive_min_clemson": 712,
+  "drive_mi_clemson": 617
+ },
+ "Wilburton|Oklahoma": {
+  "lat": 34.9187023,
+  "lon": -95.3097807,
+  "name": "Wilburton, Latimer County, Oklahoma, United States",
+  "drive_min": 1099,
+  "drive_mi": 982,
+  "drive_min_clemson": 958,
+  "drive_mi_clemson": 864
  }
 }
