@@ -1,46 +1,5 @@
 {
- "rounds": [
-  {
-   "id": "r07",
-   "owner": "huesten-session",
-   "created": "2026-11-27T08:52:57+00:00",
-   "state": "Florida",
-   "counties": [
-    "Florida:Miami-Dade"
-   ],
-   "file": "data/regions/florida-r07.json"
-  },
-  {
-   "id": "r08",
-   "owner": "huesten-session",
-   "created": "2026-11-27T08:52:57+00:00",
-   "state": "Florida",
-   "counties": [
-    "Florida:Broward"
-   ],
-   "file": "data/regions/florida-r08.json"
-  },
-  {
-   "id": "r09",
-   "owner": "huesten-session",
-   "created": "2026-11-27T08:52:57+00:00",
-   "state": "Florida",
-   "counties": [
-    "Florida:Palm Beach"
-   ],
-   "file": "data/regions/florida-r09.json"
-  },
-  {
-   "id": "r10",
-   "owner": "huesten-session",
-   "created": "2026-11-27T08:52:57+00:00",
-   "state": "Florida",
-   "counties": [
-    "Florida:Hillsborough"
-   ],
-   "file": "data/regions/florida-r10.json"
-  }
- ],
+ "rounds": [],
  "ttl_minutes": 180,
- "updated": "2026-11-27T08:52:57+00:00"
+ "updated": "2026-11-27T08:56:53+00:00"
 }
