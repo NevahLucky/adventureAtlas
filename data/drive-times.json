@@ -14849,5 +14849,140 @@
   "drive_mi": 321,
   "drive_min_clemson": 188,
   "drive_mi_clemson": 171
+ },
+ "Baxley|Georgia": {
+  "lat": 31.7773202,
+  "lon": -82.3490533,
+  "name": "Baxley, Appling County, Georgia, 31513, United States",
+  "drive_min": 272,
+  "drive_mi": 276,
+  "drive_min_clemson": 248,
+  "drive_mi_clemson": 246
+ },
+ "Claxton|Georgia": {
+  "lat": 32.1615815,
+  "lon": -81.9040047,
+  "name": "Claxton, Evans County, Georgia, United States",
+  "drive_min": 237,
+  "drive_mi": 247,
+  "drive_min_clemson": 239,
+  "drive_mi_clemson": 237
+ },
+ "Darien|Georgia": {
+  "lat": 31.3702255,
+  "lon": -81.4339903,
+  "name": "Darien, McIntosh County, Georgia, 31305, United States",
+  "drive_min": 261,
+  "drive_mi": 290,
+  "drive_min_clemson": 308,
+  "drive_mi_clemson": 320
+ },
+ "Glennville|Georgia": {
+  "lat": 31.9365917,
+  "lon": -81.9284501,
+  "name": "Glennville, Tattnall County, Georgia, United States",
+  "drive_min": 255,
+  "drive_mi": 263,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 246
+ },
+ "Guyton|Georgia": {
+  "lat": 32.3363045,
+  "lon": -81.3914992,
+  "name": "Guyton, Effingham County, Georgia, United States",
+  "drive_min": 226,
+  "drive_mi": 208,
+  "drive_min_clemson": 255,
+  "drive_mi_clemson": 244
+ },
+ "Hinesville|Georgia": {
+  "lat": 31.8477347,
+  "lon": -81.5960705,
+  "name": "Hinesville, Liberty County, Georgia, 31313, United States",
+  "drive_min": 245,
+  "drive_mi": 270,
+  "drive_min_clemson": 281,
+  "drive_mi_clemson": 274
+ },
+ "Jesup|Georgia": {
+  "lat": 31.6074365,
+  "lon": -81.8853924,
+  "name": "Jesup, Wayne County, Georgia, United States",
+  "drive_min": 271,
+  "drive_mi": 294,
+  "drive_min_clemson": 279,
+  "drive_mi_clemson": 277
+ },
+ "Ludowici|Georgia": {
+  "lat": 31.7097964,
+  "lon": -81.7430846,
+  "name": "Ludowici, Long County, Georgia, United States",
+  "drive_min": 260,
+  "drive_mi": 283,
+  "drive_min_clemson": 275,
+  "drive_mi_clemson": 267
+ },
+ "Midway|Georgia": {
+  "lat": 31.805769,
+  "lon": -81.4306642,
+  "name": "Midway, Liberty County, Georgia, 31320, United States",
+  "drive_min": 237,
+  "drive_mi": 261,
+  "drive_min_clemson": 284,
+  "drive_mi_clemson": 290
+ },
+ "Odum|Georgia": {
+  "lat": 31.6654015,
+  "lon": -82.0270426,
+  "name": "Odum, Wayne County, Georgia, United States",
+  "drive_min": 281,
+  "drive_mi": 304,
+  "drive_min_clemson": 269,
+  "drive_mi_clemson": 267
+ },
+ "Reidsville|Georgia": {
+  "lat": 32.0868611,
+  "lon": -82.1178978,
+  "name": "Reidsville, Tattnall County, Georgia, 30453, United States",
+  "drive_min": 251,
+  "drive_mi": 261,
+  "drive_min_clemson": 232,
+  "drive_mi_clemson": 230
+ },
+ "Richmond Hill|Georgia": {
+  "lat": 31.9382381,
+  "lon": -81.3035515,
+  "name": "Richmond Hill, Bryan County, Georgia, United States",
+  "drive_min": 226,
+  "drive_mi": 250,
+  "drive_min_clemson": 273,
+  "drive_mi_clemson": 279
+ },
+ "Rincon|Georgia": {
+  "lat": 32.2960289,
+  "lon": -81.2353905,
+  "name": "Rincon, Effingham County, Georgia, 31326, United States",
+  "drive_min": 216,
+  "drive_mi": 237,
+  "drive_min_clemson": 256,
+  "drive_mi_clemson": 246
+ },
+ "Springfield|Georgia": {
+  "lat": 32.3724131,
+  "lon": -81.3114988,
+  "name": "Springfield, Effingham County, Georgia, United States",
+  "drive_min": 219,
+  "drive_mi": 202,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 238
+ },
+ "Townsend|Georgia": {
+  "lat": 31.5417405,
+  "lon": -81.5233923,
+  "name": "Townsend, McIntosh County, Georgia, United States",
+  "drive_min": 256,
+  "drive_mi": 283,
+  "drive_min_clemson": 295,
+  "drive_mi_clemson": 285
  }
 }
