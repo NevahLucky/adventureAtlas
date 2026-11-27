@@ -4,7 +4,11 @@
   "city": "Oceanville",
   "county": "Atlantic",
   "state": "New Jersey",
-  "cats": ["Nature", "Birding", "Wildlife"],
+  "cats": [
+   "Nature",
+   "Birding",
+   "Wildlife"
+  ],
   "cost": "$4",
   "cost_num": 4,
   "dur": "3 hrs",
@@ -23,7 +27,10 @@
   "city": "Ho-Ho-Kus",
   "county": "Bergen",
   "state": "New Jersey",
-  "cats": ["History", "Architecture"],
+  "cats": [
+   "History",
+   "Architecture"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -42,7 +49,11 @@
   "city": "Browns Mills",
   "county": "Burlington",
   "state": "New Jersey",
-  "cats": ["History", "Farm", "Nature"],
+  "cats": [
+   "History",
+   "Farm",
+   "Nature"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -62,7 +73,10 @@
   "city": "Camden",
   "county": "Camden",
   "state": "New Jersey",
-  "cats": ["Literary", "History"],
+  "cats": [
+   "Literary",
+   "History"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -81,7 +95,11 @@
   "city": "Cape May Point",
   "county": "Cape May",
   "state": "New Jersey",
-  "cats": ["Birding", "Nature", "Free"],
+  "cats": [
+   "Birding",
+   "Nature",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -100,7 +118,11 @@
   "city": "Millville",
   "county": "Cumberland",
   "state": "New Jersey",
-  "cats": ["Water", "Paddling", "Wildlife"],
+  "cats": [
+   "Water",
+   "Paddling",
+   "Wildlife"
+  ],
   "cost": "$30 rental",
   "cost_num": 30,
   "dur": "3 hrs",
@@ -119,7 +141,11 @@
   "city": "Newark",
   "county": "Essex",
   "state": "New Jersey",
-  "cats": ["Garden", "Walk", "Free"],
+  "cats": [
+   "Garden",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -138,7 +164,11 @@
   "city": "Sewell",
   "county": "Gloucester",
   "state": "New Jersey",
-  "cats": ["Nature", "Walk", "Birding"],
+  "cats": [
+   "Nature",
+   "Walk",
+   "Birding"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -157,7 +187,11 @@
   "city": "Hoboken",
   "county": "Hudson",
   "state": "New Jersey",
-  "cats": ["Architecture", "Rail", "History"],
+  "cats": [
+   "Architecture",
+   "Rail",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -176,7 +210,11 @@
   "city": "Lambertville",
   "county": "Hunterdon",
   "state": "New Jersey",
-  "cats": ["Walk", "Community", "Food & Drink"],
+  "cats": [
+   "Walk",
+   "Community",
+   "Food & Drink"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -195,7 +233,11 @@
   "city": "Lewiston",
   "county": "Androscoggin",
   "state": "Maine",
-  "cats": ["Architecture", "History", "Spiritual"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Spiritual"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -214,7 +256,11 @@
   "city": "Caribou",
   "county": "Aroostook",
   "state": "Maine",
-  "cats": ["Museum", "Science", "History"],
+  "cats": [
+   "Museum",
+   "Science",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -233,7 +279,11 @@
   "city": "Rangeley",
   "county": "Franklin",
   "state": "Maine",
-  "cats": ["Water", "Fishing", "Nature"],
+  "cats": [
+   "Water",
+   "Fishing",
+   "Nature"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -252,7 +302,11 @@
   "city": "Bar Harbor",
   "county": "Hancock",
   "state": "Maine",
-  "cats": ["Walk", "Nature", "Views"],
+  "cats": [
+   "Walk",
+   "Nature",
+   "Views"
+  ],
   "cost": "$35 park pass",
   "cost_num": 35,
   "dur": "2 hrs",
@@ -271,7 +325,11 @@
   "city": "Augusta",
   "county": "Kennebec",
   "state": "Maine",
-  "cats": ["Architecture", "History", "Free"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -290,7 +348,11 @@
   "city": "Camden",
   "county": "Knox",
   "state": "Maine",
-  "cats": ["Hiking", "Views", "Nature"],
+  "cats": [
+   "Hiking",
+   "Views",
+   "Nature"
+  ],
   "cost": "$6–$10",
   "cost_num": 8,
   "dur": "3 hrs",
@@ -309,7 +371,11 @@
   "city": "Bristol",
   "county": "Lincoln",
   "state": "Maine",
-  "cats": ["History", "Views", "Photography"],
+  "cats": [
+   "History",
+   "Views",
+   "Photography"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -328,7 +394,11 @@
   "city": "Newry",
   "county": "Oxford",
   "state": "Maine",
-  "cats": ["Hiking", "Nature", "Water"],
+  "cats": [
+   "Hiking",
+   "Nature",
+   "Water"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -347,7 +417,11 @@
   "city": "Bangor",
   "county": "Penobscot",
   "state": "Maine",
-  "cats": ["History", "Walk", "Literary"],
+  "cats": [
+   "History",
+   "Walk",
+   "Literary"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -366,7 +440,11 @@
   "city": "Bath",
   "county": "Sagadahoc",
   "state": "Maine",
-  "cats": ["Cycling", "Rail Trail", "Water"],
+  "cats": [
+   "Cycling",
+   "Rail Trail",
+   "Water"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -385,7 +463,11 @@
   "city": "Flintstone",
   "county": "Allegany",
   "state": "Maryland",
-  "cats": ["Nature", "Swim", "Camping"],
+  "cats": [
+   "Nature",
+   "Swim",
+   "Camping"
+  ],
   "cost": "$5–$8",
   "cost_num": 6,
   "dur": "3 hrs",
@@ -396,14 +478,19 @@
   "customer": "Swimmers, hikers, campers",
   "unique": "A lake in a gap of the Allegheny Mountains with a sandy beach, a lodge and trails up to rocky overlooks, just off Interstate 68.",
   "buzz": "The lake swim is the summer draw and the canyon trail is the hike; the lodge and casino make it a weekend base.",
-  "rating": 74
+  "rating": 74,
+  "dur_h": 3
  },
  {
   "name": "William Paca House",
   "city": "Annapolis",
   "county": "Anne Arundel",
   "state": "Maryland",
-  "cats": ["History", "Garden", "Architecture"],
+  "cats": [
+   "History",
+   "Garden",
+   "Architecture"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1 hr",
@@ -422,7 +509,11 @@
   "city": "Cockeysville",
   "county": "Baltimore",
   "state": "Maryland",
-  "cats": ["Nature", "Family", "Free"],
+  "cats": [
+   "Nature",
+   "Family",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -433,14 +524,19 @@
   "customer": "Families, birders, walkers",
   "unique": "A nature center on a wooded ridge with live owls and hawks, a lake and trails, plus a summer concert series in the hollow.",
   "buzz": "The birds and the easy trails are good with children and it is free; the July Fourth concert is the local tradition.",
-  "rating": 72
+  "rating": 72,
+  "dur_h": 2
  },
  {
   "name": "Annmarie Sculpture Garden",
   "city": "Solomons",
   "county": "Calvert",
   "state": "Maryland",
-  "cats": ["Art", "Garden", "Family"],
+  "cats": [
+   "Art",
+   "Garden",
+   "Family"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1.5 hrs",
@@ -459,7 +555,11 @@
   "city": "Elkton",
   "county": "Cecil",
   "state": "Maryland",
-  "cats": ["Nature", "Hiking", "Horse"],
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Horse"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -478,7 +578,11 @@
   "city": "Cambridge",
   "county": "Dorchester",
   "state": "Maryland",
-  "cats": ["History", "Civil Rights", "Museum"],
+  "cats": [
+   "History",
+   "Civil Rights",
+   "Museum"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -497,7 +601,11 @@
   "city": "Frederick",
   "county": "Frederick",
   "state": "Maryland",
-  "cats": ["History", "Military", "Walk"],
+  "cats": [
+   "History",
+   "Military",
+   "Walk"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -516,7 +624,11 @@
   "city": "Grantsville",
   "county": "Garrett",
   "state": "Maryland",
-  "cats": ["Maker", "History", "Walk"],
+  "cats": [
+   "Maker",
+   "History",
+   "Walk"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -535,7 +647,11 @@
   "city": "Ellicott City",
   "county": "Howard",
   "state": "Maryland",
-  "cats": ["Hiking", "Nature", "History"],
+  "cats": [
+   "Hiking",
+   "Nature",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -546,14 +662,19 @@
   "customer": "Hikers, trail runners, families",
   "unique": "Sixteen thousand acres of river valley inside the Baltimore beltway, with a swinging bridge, the ruins of a 19th century mill town and trails along the Patapsco.",
   "buzz": "The swinging bridge and the Avalon ruins are the walk; the park is busy on weekends and the river floods after storms.",
-  "rating": 78
+  "rating": 78,
+  "dur_h": 3
  },
  {
   "name": "Brookside Gardens",
   "city": "Wheaton",
   "county": "Montgomery",
   "state": "Maryland",
-  "cats": ["Garden", "Nature", "Free"],
+  "cats": [
+   "Garden",
+   "Nature",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",

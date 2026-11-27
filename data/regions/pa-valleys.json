@@ -4,7 +4,11 @@
   "city": "Doylestown",
   "county": "Bucks",
   "state": "Pennsylvania",
-  "cats": ["Museum", "Quirky", "Architecture"],
+  "cats": [
+   "Museum",
+   "Quirky",
+   "Architecture"
+  ],
   "cost": "$20",
   "cost_num": 20,
   "dur": "2 hrs",
@@ -23,7 +27,11 @@
   "city": "Doylestown",
   "county": "Bucks",
   "state": "Pennsylvania",
-  "cats": ["Architecture", "Quirky", "History"],
+  "cats": [
+   "Architecture",
+   "Quirky",
+   "History"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "1 hr",
@@ -42,7 +50,11 @@
   "city": "King of Prussia",
   "county": "Montgomery",
   "state": "Pennsylvania",
-  "cats": ["History", "Walk", "Free"],
+  "cats": [
+   "History",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -61,7 +73,10 @@
   "city": "Bryn Athyn",
   "county": "Montgomery",
   "state": "Pennsylvania",
-  "cats": ["Architecture", "Spiritual"],
+  "cats": [
+   "Architecture",
+   "Spiritual"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -80,7 +95,10 @@
   "city": "Chadds Ford",
   "county": "Delaware",
   "state": "Pennsylvania",
-  "cats": ["Art", "Museum"],
+  "cats": [
+   "Art",
+   "Museum"
+  ],
   "cost": "$18",
   "cost_num": 18,
   "dur": "2 hrs",
@@ -99,7 +117,11 @@
   "city": "Kempton",
   "county": "Berks",
   "state": "Pennsylvania",
-  "cats": ["Nature", "Birding", "Hiking"],
+  "cats": [
+   "Nature",
+   "Birding",
+   "Hiking"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "3 hrs",
@@ -118,7 +140,11 @@
   "city": "Reading",
   "county": "Berks",
   "state": "Pennsylvania",
-  "cats": ["Quirky", "Views", "Architecture"],
+  "cats": [
+   "Quirky",
+   "Views",
+   "Architecture"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -137,7 +163,11 @@
   "city": "Pottsville",
   "county": "Schuylkill",
   "state": "Pennsylvania",
-  "cats": ["Food & Drink", "History", "Industry"],
+  "cats": [
+   "Food & Drink",
+   "History",
+   "Industry"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -156,7 +186,11 @@
   "city": "Ashland",
   "county": "Schuylkill",
   "state": "Pennsylvania",
-  "cats": ["History", "Industry", "Family"],
+  "cats": [
+   "History",
+   "Industry",
+   "Family"
+  ],
   "cost": "$12",
   "cost_num": 12,
   "dur": "1 hr",
@@ -175,7 +209,11 @@
   "city": "Elysburg",
   "county": "Columbia",
   "state": "Pennsylvania",
-  "cats": ["Adrenaline", "Family", "Quirky"],
+  "cats": [
+   "Adrenaline",
+   "Family",
+   "Quirky"
+  ],
   "cost": "Free admission; $50 ride pass",
   "cost_num": 30,
   "dur": "Full day",
@@ -194,7 +232,11 @@
   "city": "Bloomsburg",
   "county": "Columbia",
   "state": "Pennsylvania",
-  "cats": ["Festival", "Food & Drink", "Community"],
+  "cats": [
+   "Festival",
+   "Food & Drink",
+   "Community"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "Half day",
@@ -213,7 +255,11 @@
   "city": "Altoona",
   "county": "Blair",
   "state": "Pennsylvania",
-  "cats": ["Rail", "History", "Views"],
+  "cats": [
+   "Rail",
+   "History",
+   "Views"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1.5 hrs",
@@ -232,7 +278,11 @@
   "city": "Altoona",
   "county": "Blair",
   "state": "Pennsylvania",
-  "cats": ["Museum", "Rail", "Industry"],
+  "cats": [
+   "Museum",
+   "Rail",
+   "Industry"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -251,7 +301,11 @@
   "city": "Johnstown",
   "county": "Cambria",
   "state": "Pennsylvania",
-  "cats": ["Museum", "History", "Dark Tourism"],
+  "cats": [
+   "Museum",
+   "History",
+   "Dark Tourism"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -261,14 +315,20 @@
   "company": "Johnstown Area Heritage Association",
   "unique": "The 1889 flood that killed 2,200 people when a private dam gave way, told in the old Carnegie library with a relief map, survivor accounts and an Oscar winning film.",
   "buzz": "The film runs on a loop and still lands; visitors say the scale of the disaster is hard to hold until you see the map of the valley.",
-  "rating": 80
+  "rating": 80,
+  "party": "2–4",
+  "customer": "History families, school groups, travelers"
  },
  {
   "name": "Johnstown Inclined Plane",
   "city": "Johnstown",
   "county": "Cambria",
   "state": "Pennsylvania",
-  "cats": ["Rail", "Views", "History"],
+  "cats": [
+   "Rail",
+   "Views",
+   "History"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "45 min",
@@ -287,7 +347,11 @@
   "city": "Shanksville",
   "county": "Somerset",
   "state": "Pennsylvania",
-  "cats": ["History", "Memorial", "Free"],
+  "cats": [
+   "History",
+   "Memorial",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -306,7 +370,11 @@
   "city": "Somerset",
   "county": "Somerset",
   "state": "Pennsylvania",
-  "cats": ["Nature", "Camping", "Water"],
+  "cats": [
+   "Nature",
+   "Camping",
+   "Water"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -325,7 +393,11 @@
   "city": "Centre Hall",
   "county": "Centre",
   "state": "Pennsylvania",
-  "cats": ["Cave", "Nature", "Family"],
+  "cats": [
+   "Cave",
+   "Nature",
+   "Family"
+  ],
   "cost": "$25",
   "cost_num": 25,
   "dur": "1.5 hrs",
@@ -344,7 +416,10 @@
   "city": "State College",
   "county": "Centre",
   "state": "Pennsylvania",
-  "cats": ["Food & Drink", "Family"],
+  "cats": [
+   "Food & Drink",
+   "Family"
+  ],
   "cost": "$5–$10",
   "cost_num": 7,
   "dur": "30 min",
@@ -363,7 +438,11 @@
   "city": "South Williamsport",
   "county": "Lycoming",
   "state": "Pennsylvania",
-  "cats": ["Sports", "Festival", "Family"],
+  "cats": [
+   "Sports",
+   "Festival",
+   "Family"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Full day",
@@ -382,7 +461,11 @@
   "city": "Williamsport",
   "county": "Lycoming",
   "state": "Pennsylvania",
-  "cats": ["Architecture", "Walk", "History"],
+  "cats": [
+   "Architecture",
+   "Walk",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -401,7 +484,11 @@
   "city": "Wellsboro",
   "county": "Tioga",
   "state": "Pennsylvania",
-  "cats": ["Nature", "Hiking", "Views"],
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Views"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -420,7 +507,11 @@
   "city": "Jersey Shore",
   "county": "Tioga",
   "state": "Pennsylvania",
-  "cats": ["Cycling", "Nature", "Rail Trail"],
+  "cats": [
+   "Cycling",
+   "Nature",
+   "Rail Trail"
+  ],
   "cost": "Free; shuttle $30",
   "cost_num": 15,
   "dur": "Half day",
@@ -439,7 +530,11 @@
   "city": "Mount Jewett",
   "county": "McKean",
   "state": "Pennsylvania",
-  "cats": ["Views", "History", "Free"],
+  "cats": [
+   "Views",
+   "History",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -458,7 +553,11 @@
   "city": "Eldred",
   "county": "McKean",
   "state": "Pennsylvania",
-  "cats": ["Museum", "Military", "History"],
+  "cats": [
+   "Museum",
+   "Military",
+   "History"
+  ],
   "cost": "Free–$5",
   "cost_num": 3,
   "dur": "1.5 hrs",
@@ -477,7 +576,11 @@
   "city": "Bradford",
   "county": "Bradford",
   "state": "Pennsylvania",
-  "cats": ["Museum", "Industry", "Free"],
+  "cats": [
+   "Museum",
+   "Industry",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -496,7 +599,10 @@
   "city": "Towanda",
   "county": "Bradford",
   "state": "Pennsylvania",
-  "cats": ["History", "Quirky"],
+  "cats": [
+   "History",
+   "Quirky"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -515,7 +621,11 @@
   "city": "Acme",
   "county": "Westmoreland",
   "state": "Pennsylvania",
-  "cats": ["Architecture", "Design", "Stay"],
+  "cats": [
+   "Architecture",
+   "Design",
+   "Stay"
+  ],
   "cost": "$30–$50 tour",
   "cost_num": 40,
   "dur": "2 hrs",
@@ -534,7 +644,11 @@
   "city": "Ligonier",
   "county": "Westmoreland",
   "state": "Pennsylvania",
-  "cats": ["Family", "Adrenaline", "Quirky"],
+  "cats": [
+   "Family",
+   "Adrenaline",
+   "Quirky"
+  ],
   "cost": "$45",
   "cost_num": 45,
   "dur": "Full day",
@@ -553,7 +667,11 @@
   "city": "Hershey",
   "county": "Dauphin",
   "state": "Pennsylvania",
-  "cats": ["Adrenaline", "Family", "Theme Park"],
+  "cats": [
+   "Adrenaline",
+   "Family",
+   "Theme Park"
+  ],
   "cost": "$60–$90",
   "cost_num": 75,
   "dur": "Full day",
@@ -572,7 +690,11 @@
   "city": "Hershey",
   "county": "Dauphin",
   "state": "Pennsylvania",
-  "cats": ["Family", "Food & Drink", "Free"],
+  "cats": [
+   "Family",
+   "Food & Drink",
+   "Free"
+  ],
   "cost": "Free; attractions $10–$20",
   "cost_num": 10,
   "dur": "1.5 hrs",

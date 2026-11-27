@@ -138,7 +138,7 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 964 of 3143 counties covered, 2,649 entries. Every state and district now has at
+Current picture: 982 of 3143 counties covered, 2,672 entries. Every state and district now has at
 least thirty entries. 280 counties nationally still have a single entry, and those are the backlog,
 along with the 1,000+ counties with no entry at all.
 
@@ -153,7 +153,7 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 2,649 entries
+## Where it stands, 2,672 entries
 
 South Carolina is still the deepest state: 287 entries across all 46 counties, minimum four per
 county. New York is at 157 entries in 44 of 62 counties, Pennsylvania at 89 in 32 of 67, and

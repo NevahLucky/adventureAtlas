@@ -585,6 +585,7 @@
   "rating": 85,
   "drive_min": 764,
   "drive_min_clemson": 898,
+  "dur_h": 0.75,
   "id": "murray-s-cheese-new-york",
   "state_abbr": "NY",
   "lat": 40.7127281,

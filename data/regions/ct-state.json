@@ -4,7 +4,11 @@
   "city": "Hartford",
   "county": "Hartford",
   "state": "Connecticut",
-  "cats": ["Art", "Museum", "Architecture"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Architecture"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -23,7 +27,11 @@
   "city": "Hartford",
   "county": "Hartford",
   "state": "Connecticut",
-  "cats": ["History", "Literary", "Civil Rights"],
+  "cats": [
+   "History",
+   "Literary",
+   "Civil Rights"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "1.5 hrs",
@@ -42,7 +50,11 @@
   "city": "Hartford",
   "county": "Hartford",
   "state": "Connecticut",
-  "cats": ["Garden", "Walk", "Free"],
+  "cats": [
+   "Garden",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -61,7 +73,11 @@
   "city": "Hartford",
   "county": "Hartford",
   "state": "Connecticut",
-  "cats": ["Family", "Quirky", "History"],
+  "cats": [
+   "Family",
+   "Quirky",
+   "History"
+  ],
   "cost": "$2",
   "cost_num": 2,
   "dur": "20 min",
@@ -80,7 +96,11 @@
   "city": "New Haven",
   "county": "New Haven",
   "state": "Connecticut",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -99,7 +119,12 @@
   "city": "New Haven",
   "county": "New Haven",
   "state": "Connecticut",
-  "cats": ["Art", "Museum", "Architecture", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Architecture",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -118,7 +143,11 @@
   "city": "New Haven",
   "county": "New Haven",
   "state": "Connecticut",
-  "cats": ["History", "Walk", "Free"],
+  "cats": [
+   "History",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -137,7 +166,11 @@
   "city": "New Haven",
   "county": "New Haven",
   "state": "Connecticut",
-  "cats": ["Hiking", "Views", "Nature"],
+  "cats": [
+   "Hiking",
+   "Views",
+   "Nature"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -156,7 +189,11 @@
   "city": "New Haven",
   "county": "New Haven",
   "state": "Connecticut",
-  "cats": ["Museum", "Science", "Family"],
+  "cats": [
+   "Museum",
+   "Science",
+   "Family"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -175,7 +212,11 @@
   "city": "Wilton",
   "county": "Fairfield",
   "state": "Connecticut",
-  "cats": ["Art", "Nature", "Free"],
+  "cats": [
+   "Art",
+   "Nature",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -194,7 +235,11 @@
   "city": "Norwalk",
   "county": "Fairfield",
   "state": "Connecticut",
-  "cats": ["Aquarium", "Family", "Animals"],
+  "cats": [
+   "Aquarium",
+   "Family",
+   "Animals"
+  ],
   "cost": "$25–$30",
   "cost_num": 28,
   "dur": "2–3 hrs",
@@ -213,7 +258,11 @@
   "city": "Bridgeport",
   "county": "Fairfield",
   "state": "Connecticut",
-  "cats": ["Animals", "Family", "Nature"],
+  "cats": [
+   "Animals",
+   "Family",
+   "Nature"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -232,7 +281,11 @@
   "city": "Westport",
   "county": "Fairfield",
   "state": "Connecticut",
-  "cats": ["Beach", "Nature", "Family"],
+  "cats": [
+   "Beach",
+   "Nature",
+   "Family"
+  ],
   "cost": "Free–$15 parking",
   "cost_num": 10,
   "dur": "Half day",
@@ -251,7 +304,11 @@
   "city": "Mystic",
   "county": "New London",
   "state": "Connecticut",
-  "cats": ["Aquarium", "Animals", "Family"],
+  "cats": [
+   "Aquarium",
+   "Animals",
+   "Family"
+  ],
   "cost": "$35–$40",
   "cost_num": 38,
   "dur": "3 hrs",
@@ -270,7 +327,11 @@
   "city": "New London",
   "county": "New London",
   "state": "Connecticut",
-  "cats": ["Beach", "Family", "Quirky"],
+  "cats": [
+   "Beach",
+   "Family",
+   "Quirky"
+  ],
   "cost": "$10–$25 parking",
   "cost_num": 15,
   "dur": "Half day",
@@ -289,7 +350,11 @@
   "city": "Waterford",
   "county": "New London",
   "state": "Connecticut",
-  "cats": ["Garden", "Architecture", "Beach"],
+  "cats": [
+   "Garden",
+   "Architecture",
+   "Beach"
+  ],
   "cost": "$10 parking",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -308,7 +373,10 @@
   "city": "Waterford",
   "county": "New London",
   "state": "Connecticut",
-  "cats": ["Performance", "Literary"],
+  "cats": [
+   "Performance",
+   "Literary"
+  ],
   "cost": "$25–$45",
   "cost_num": 35,
   "dur": "2.5 hrs",
@@ -327,7 +395,11 @@
   "city": "Lakeville",
   "county": "Litchfield",
   "state": "Connecticut",
-  "cats": ["Motorsport", "Adrenaline", "Community"],
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Community"
+  ],
   "cost": "$30–$60",
   "cost_num": 45,
   "dur": "Full day",
@@ -346,7 +418,11 @@
   "city": "Kent",
   "county": "Litchfield",
   "state": "Connecticut",
-  "cats": ["Nature", "Hiking", "Water"],
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Water"
+  ],
   "cost": "Free–$15 parking",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -365,7 +441,11 @@
   "city": "Winsted",
   "county": "Litchfield",
   "state": "Connecticut",
-  "cats": ["Art", "Industry", "Family"],
+  "cats": [
+   "Art",
+   "Industry",
+   "Family"
+  ],
   "cost": "$10–$15",
   "cost_num": 12,
   "dur": "1.5 hrs",
@@ -384,7 +464,12 @@
   "city": "Litchfield",
   "county": "Litchfield",
   "state": "Connecticut",
-  "cats": ["Nature", "Museum", "Family", "Free"],
+  "cats": [
+   "Nature",
+   "Museum",
+   "Family",
+   "Free"
+  ],
   "cost": "Free; museum $8",
   "cost_num": 5,
   "dur": "2 hrs",
@@ -403,7 +488,10 @@
   "city": "Coventry",
   "county": "Tolland",
   "state": "Connecticut",
-  "cats": ["History", "Farm"],
+  "cats": [
+   "History",
+   "Farm"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1 hr",
@@ -422,7 +510,11 @@
   "city": "Stafford Springs",
   "county": "Tolland",
   "state": "Connecticut",
-  "cats": ["Motorsport", "Adrenaline", "Community"],
+  "cats": [
+   "Motorsport",
+   "Adrenaline",
+   "Community"
+  ],
   "cost": "$20–$40",
   "cost_num": 25,
   "dur": "3 hrs",
@@ -441,7 +533,11 @@
   "city": "Mansfield",
   "county": "Tolland",
   "state": "Connecticut",
-  "cats": ["Film", "Family", "Quirky"],
+  "cats": [
+   "Film",
+   "Family",
+   "Quirky"
+  ],
   "cost": "$12 per car",
   "cost_num": 6,
   "dur": "3 hrs",
@@ -460,7 +556,11 @@
   "city": "Woodstock",
   "county": "Windham",
   "state": "Connecticut",
-  "cats": ["Architecture", "History", "Garden"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Garden"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1 hr",
@@ -470,14 +570,20 @@
   "company": "Historic New England",
   "unique": "A Gothic revival summer cottage painted bubblegum pink, with original 1850s wallpaper, a boxwood parterre garden and a bowling alley in the carriage house.",
   "buzz": "The color and the bowling alley are the surprises; the tour is short and the garden is free to walk.",
-  "rating": 76
+  "rating": 76,
+  "party": "2–4",
+  "customer": "History people, architecture fans, gardeners"
  },
  {
   "name": "Air Line Trail",
   "city": "Willimantic",
   "county": "Windham",
   "state": "Connecticut",
-  "cats": ["Cycling", "Rail Trail", "Nature"],
+  "cats": [
+   "Cycling",
+   "Rail Trail",
+   "Nature"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -496,7 +602,10 @@
   "city": "Thompson",
   "county": "Windham",
   "state": "Connecticut",
-  "cats": ["Motorsport", "Adrenaline"],
+  "cats": [
+   "Motorsport",
+   "Adrenaline"
+  ],
   "cost": "$20–$45",
   "cost_num": 30,
   "dur": "3 hrs",
@@ -515,7 +624,11 @@
   "city": "Essex",
   "county": "Middlesex",
   "state": "Connecticut",
-  "cats": ["Museum", "Water", "History"],
+  "cats": [
+   "Museum",
+   "Water",
+   "History"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -534,7 +647,11 @@
   "city": "Madison",
   "county": "Middlesex",
   "state": "Connecticut",
-  "cats": ["Beach", "Camping", "Nature"],
+  "cats": [
+   "Beach",
+   "Camping",
+   "Nature"
+  ],
   "cost": "Free–$22 parking",
   "cost_num": 15,
   "dur": "Half day",
@@ -553,7 +670,11 @@
   "city": "East Haddam",
   "county": "Middlesex",
   "state": "Connecticut",
-  "cats": ["Nature", "Hiking", "Water"],
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Water"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",

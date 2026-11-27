@@ -19264,7 +19264,8 @@
   "buzz": "The instructors are opinionated in the best way and the tasting is generous; the cheese 101 class sells out.",
   "rating": 85,
   "drive_min": 764,
-  "drive_min_clemson": 898
+  "drive_min_clemson": 898,
+  "dur_h": 0.75
  },
  {
   "name": "Museum of Neon Art",
@@ -31902,7 +31903,9 @@
   "buzz": "The boardwalk is flat and the swamp is genuinely wild. Go in winter for the birds and bring water.",
   "rating": 86,
   "drive_min": 804,
-  "drive_min_clemson": 802
+  "drive_min_clemson": 802,
+  "party": "2–4",
+  "customer": "Birders, families, photographers"
  },
  {
   "name": "Cummer Museum of Art and Gardens",
@@ -42391,7 +42394,9 @@
   "buzz": "The film runs on a loop and still lands; visitors say the scale of the disaster is hard to hold until you see the map of the valley.",
   "rating": 80,
   "drive_min": 565,
-  "drive_min_clemson": 693
+  "drive_min_clemson": 693,
+  "party": "2–4",
+  "customer": "History families, school groups, travelers"
  },
  {
   "name": "Johnstown Inclined Plane",
@@ -44984,7 +44989,9 @@
   "buzz": "The color and the bowling alley are the surprises; the tour is short and the garden is free to walk.",
   "rating": 76,
   "drive_min": 968,
-  "drive_min_clemson": 1102
+  "drive_min_clemson": 1102,
+  "party": "2–4",
+  "customer": "History people, architecture fans, gardeners"
  },
  {
   "name": "Air Line Trail",
@@ -45307,7 +45314,8 @@
   "buzz": "Sailing people treat it as a shrine and non sailors are converted by the model room; the restored boats are in the water in summer.",
   "rating": 80,
   "drive_min": 1011,
-  "drive_min_clemson": 1144
+  "drive_min_clemson": 1144,
+  "dur_h": 2
  },
  {
   "name": "Bristol Fourth of July Parade",
@@ -45356,7 +45364,8 @@
   "buzz": "The beach is calm and shallow and the park is quiet on weekdays; the polo matches in summer are free to watch.",
   "rating": 72,
   "drive_min": 976,
-  "drive_min_clemson": 1110
+  "drive_min_clemson": 1110,
+  "dur_h": 3
  },
  {
   "name": "Nathanael Greene Homestead",
@@ -51094,7 +51103,8 @@
   "buzz": "Locals use it for camping and fall color and the golf is cheap; the trails are shared with bikes and horses.",
   "rating": 74,
   "drive_min": 2196,
-  "drive_min_clemson": 2115
+  "drive_min_clemson": 2115,
+  "dur_h": 3
  },
  {
   "name": "Dinosaur National Monument",
@@ -57869,7 +57879,8 @@
   "buzz": "The lake swim is the summer draw and the canyon trail is the hike; the lodge and casino make it a weekend base.",
   "rating": 74,
   "drive_min": 517,
-  "drive_min_clemson": 649
+  "drive_min_clemson": 649,
+  "dur_h": 3
  },
  {
   "name": "William Paca House",
@@ -57918,7 +57929,8 @@
   "buzz": "The birds and the easy trails are good with children and it is free; the July Fourth concert is the local tradition.",
   "rating": 72,
   "drive_min": 561,
-  "drive_min_clemson": 693
+  "drive_min_clemson": 693,
+  "dur_h": 2
  },
  {
   "name": "Annmarie Sculpture Garden",
@@ -58067,7 +58079,8 @@
   "buzz": "The swinging bridge and the Avalon ruins are the walk; the park is busy on weekends and the river floods after storms.",
   "rating": 78,
   "drive_min": 530,
-  "drive_min_clemson": 662
+  "drive_min_clemson": 662,
+  "dur_h": 3
  },
  {
   "name": "Brookside Gardens",
@@ -60964,7 +60977,8 @@
   "buzz": "The falls are best after rain and the trails are steep and slick; the park is quiet compared with the state's northern parks.",
   "rating": 78,
   "drive_min": 681,
-  "drive_min_clemson": 683
+  "drive_min_clemson": 683,
+  "dur_h": 3
  },
  {
   "name": "Cranbrook Educational Community",
@@ -65139,7 +65153,8 @@
   "buzz": "The canoe trail and the spring migration are the reasons to come and the refuge is quiet; the bugs are serious in June.",
   "rating": 76,
   "drive_min": 1138,
-  "drive_min_clemson": 1270
+  "drive_min_clemson": 1270,
+  "dur_h": 2
  },
  {
   "name": "Maidstone State Park",
@@ -65311,7 +65326,8 @@
   "buzz": "The lake is the summer draw and the campground is the base; the park is quiet in the shoulder seasons.",
   "rating": 74,
   "drive_min": 598,
-  "drive_min_clemson": 726
+  "drive_min_clemson": 726,
+  "dur_h": 3
  },
  {
   "name": "Palmer Museum of Art",
@@ -65887,5 +65903,581 @@
   "unique": "A short steep climb to two World War II concrete observation posts above Lanikai beach, with a view of the Mokulua islands and the windward coast.",
   "buzz": "Sunrise from the pillboxes is the photograph everyone wants and the trail is short but steep and rooty; parking is in a residential neighborhood.",
   "rating": 80
+ },
+ {
+  "name": "Coopers Rock State Forest",
+  "city": "Bruceton Mills",
+  "county": "Monongalia",
+  "state": "West Virginia",
+  "cats": [
+   "Hiking",
+   "Views",
+   "Camping"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1936",
+  "company": "West Virginia Division of Forestry",
+  "party": "2–5",
+  "customer": "Hikers, climbers, families",
+  "unique": "A sandstone overlook above the Cheat River gorge with a cliff edge view, plus miles of trails, climbing and a CCC picnic shelter.",
+  "buzz": "The overlook is the photograph and the underlook trail is the adventure; the forest is busy in fall and the cliffs are for experienced climbers.",
+  "rating": 82,
+  "drive_min": 467,
+  "drive_min_clemson": 596
+ },
+ {
+  "name": "Core Arboretum",
+  "city": "Morgantown",
+  "county": "Monongalia",
+  "state": "West Virginia",
+  "cats": [
+   "Nature",
+   "Walk",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1948",
+  "company": "West Virginia University",
+  "party": "2–4",
+  "customer": "Walkers, botanists, families",
+  "unique": "Ninety one acres of old growth forest on the Monongahela river bluff with a trail system and a spring wildflower display, free on the university campus.",
+  "buzz": "The spring wildflowers and the old trees are the reason naturalists come and it is free; the trails are steep in places.",
+  "rating": 74,
+  "drive_min": 451,
+  "drive_min_clemson": 579
+ },
+ {
+  "name": "West Virginia Botanic Garden",
+  "city": "Morgantown",
+  "county": "Monongalia",
+  "state": "West Virginia",
+  "cats": [
+   "Garden",
+   "Nature",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "2000s",
+  "company": "West Virginia Botanic Garden",
+  "party": "2–4",
+  "customer": "Gardeners, families, walkers",
+  "unique": "A garden on a former reservoir site with a wetland boardwalk, a children's garden and trails through woods, free to the public.",
+  "buzz": "The boardwalk and the children's garden are the family stops and it is free; the garden is young and growing.",
+  "rating": 72,
+  "drive_min": 451,
+  "drive_min_clemson": 579
+ },
+ {
+  "name": "Berkeley Springs State Park",
+  "city": "Berkeley Springs",
+  "county": "Morgan",
+  "state": "West Virginia",
+  "cats": [
+   "Wellness",
+   "History",
+   "Free"
+  ],
+  "cost": "Free; baths $25",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Year-round",
+  "start": "1776",
+  "company": "West Virginia State Parks",
+  "party": "2–4",
+  "customer": "Wellness people, history fans, couples",
+  "unique": "A warm spring bathhouse in the middle of a small town, used since before the Revolution, with private baths and a Roman bath house.",
+  "buzz": "The baths are the reason to come and the town is full of spas and shops; George Washington bathed here and the water is still free at the fountain.",
+  "rating": 80,
+  "drive_min": 476,
+  "drive_min_clemson": 608
+ },
+ {
+  "name": "Cacapon Resort State Park",
+  "city": "Berkeley Springs",
+  "county": "Morgan",
+  "state": "West Virginia",
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Golf"
+  ],
+  "cost": "$5–$10",
+  "cost_num": 6,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1930s",
+  "company": "West Virginia State Parks",
+  "party": "2–5",
+  "customer": "Hikers, golfers, families",
+  "unique": "Six thousand acres on Cacapon Mountain with a lodge, a lake, horseback trails and a ridge trail to a view of three states.",
+  "buzz": "The ridge trail and the lake are the reasons to come and the lodge is a good base; the park is quiet compared with the gorge.",
+  "rating": 76,
+  "drive_min": 476,
+  "drive_min_clemson": 608
+ },
+ {
+  "name": "Durbin and Greenbrier Valley Railroad",
+  "city": "Elkins",
+  "county": "Randolph",
+  "state": "West Virginia",
+  "cats": [
+   "Rail",
+   "Family",
+   "Views"
+  ],
+  "cost": "$40–$70",
+  "cost_num": 55,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "1990s",
+  "company": "Durbin and Greenbrier Valley Railroad",
+  "party": "2–5",
+  "customer": "Train people, families, leaf peepers",
+  "unique": "Heritage trains from Elkins into the Monongahela high country, with a dinner train, a wilderness train and a climb to the High Falls of the Cheat.",
+  "buzz": "The wilderness train and the fall color are the reasons to book and the dinner train is the date night; seats go early in October.",
+  "rating": 80,
+  "drive_min": 432,
+  "drive_min_clemson": 561
+ },
+ {
+  "name": "Mountain State Forest Festival",
+  "city": "Elkins",
+  "county": "Randolph",
+  "state": "West Virginia",
+  "cats": [
+   "Festival",
+   "Community",
+   "Lumber"
+  ],
+  "cost": "Free–$10",
+  "cost_num": 5,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Late Sep–early Oct",
+  "start": "1930",
+  "company": "Mountain State Forest Festival",
+  "party": "2–6",
+  "customer": "Families, forestry people, locals",
+  "unique": "A festival of the state's timber heritage with lumberjack competitions, a parade, a queen and a sawdust pile for children, in the heart of the Monongahela forest.",
+  "buzz": "The lumberjack contests are the draw and the parade is the tradition; it is a real county fair atmosphere with no tourists.",
+  "rating": 74,
+  "drive_min": 432,
+  "drive_min_clemson": 561
+ },
+ {
+  "name": "Blennerhassett Island",
+  "city": "Parkersburg",
+  "county": "Wood",
+  "state": "West Virginia",
+  "cats": [
+   "History",
+   "Boat",
+   "Family"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 20,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "1798",
+  "company": "West Virginia State Parks",
+  "party": "2–5",
+  "customer": "History families, boaters, school groups",
+  "unique": "A island in the Ohio River reached by sternwheeler, with a reconstruction of the mansion Aaron Burr visited and a horse drawn wagon tour.",
+  "buzz": "The sternwheeler ride and the mansion are the reasons to go and the island is flat and shaded; the tour runs on a schedule.",
+  "rating": 80,
+  "drive_min": 410,
+  "drive_min_clemson": 538
+ },
+ {
+  "name": "Oil and Gas Museum",
+  "city": "Parkersburg",
+  "county": "Wood",
+  "state": "West Virginia",
+  "cats": [
+   "Museum",
+   "Industry",
+   "History"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1989",
+  "company": "Oil and Gas Museum",
+  "party": "2–4",
+  "customer": "Industry people, history fans, families",
+  "unique": "A museum of the oil and gas boom that started in this valley, with drilling tools, a model derrick and the stories of the wildcatters.",
+  "buzz": "The tools and the photographs are the reason to stop; it is small and the volunteers know the local wells.",
+  "rating": 72,
+  "drive_min": 410,
+  "drive_min_clemson": 538
+ },
+ {
+  "name": "West Virginia Independence Hall",
+  "city": "Wheeling",
+  "county": "Ohio",
+  "state": "West Virginia",
+  "cats": [
+   "History",
+   "Architecture",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1859",
+  "company": "West Virginia Division of Culture and History",
+  "party": "2–4",
+  "customer": "History people, school groups, travelers",
+  "unique": "The custom house where the Restored Government of Virginia met and the debate over West Virginia statehood happened, with the original courtroom and chambers.",
+  "buzz": "The room where statehood was argued is the reason to come and it is free; the building is a cast iron fronted landmark in downtown Wheeling.",
+  "rating": 76,
+  "drive_min": 417,
+  "drive_min_clemson": 522
+ },
+ {
+  "name": "Pricketts Fort",
+  "city": "Fairmont",
+  "county": "Marion",
+  "state": "West Virginia",
+  "cats": [
+   "History",
+   "Military",
+   "Family"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "May–Oct",
+  "start": "1774",
+  "company": "Pricketts Fort Memorial Foundation",
+  "party": "2–5",
+  "customer": "History families, school groups, reenactors",
+  "unique": "A reconstructed palisade fort and cabins on the Monongahela, with interpreters in period dress and a 1770s job of work going on.",
+  "buzz": "The fort and the demonstrations are the family draw and the site is on the river; the living history weekends bring it alive.",
+  "rating": 76,
+  "drive_min": 432,
+  "drive_min_clemson": 560
+ },
+ {
+  "name": "Summersville Lake",
+  "city": "Summersville",
+  "county": "Nicholas",
+  "state": "West Virginia",
+  "cats": [
+   "Water",
+   "Climbing",
+   "Beach"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "May–Oct",
+  "start": "1966",
+  "company": "US Army Corps of Engineers",
+  "party": "2–6",
+  "customer": "Swimmers, climbers, boaters",
+  "unique": "The clearest lake in the state, with sandstone cliffs rising from the water that are a eastern climbing destination and a beach at the state park.",
+  "buzz": "Climbers come for the overhanging sandstone and families come for the swim; the lake is deep and the cliffs are for experienced climbers only.",
+  "rating": 80,
+  "drive_min": 312,
+  "drive_min_clemson": 440
+ },
+ {
+  "name": "Laura Ingalls Wilder Homestead",
+  "city": "De Smet",
+  "county": "Kingsbury",
+  "state": "South Dakota",
+  "cats": [
+   "Literary",
+   "History",
+   "Family"
+  ],
+  "cost": "$15",
+  "cost_num": 15,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "May–Oct",
+  "start": "1970s",
+  "company": "Laura Ingalls Wilder Memorial Society",
+  "party": "2–5",
+  "customer": "Readers, families, history fans",
+  "unique": "The surveyor's house and the Ingalls family homes from the Little House books, with a pageant in summer and the prairie around them unchanged.",
+  "buzz": "Readers come from other countries and the guides know the books and the family; the summer pageant is the local tradition.",
+  "rating": 80,
+  "drive_min": 1593,
+  "drive_min_clemson": 1512
+ },
+ {
+  "name": "Black Hills Institute",
+  "city": "Hill City",
+  "county": "Pennington",
+  "state": "South Dakota",
+  "cats": [
+   "Fossils",
+   "Museum",
+   "Science"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Daily, May–Oct",
+  "start": "1974",
+  "company": "Black Hills Institute",
+  "party": "2–5",
+  "customer": "Dinosaur kids, fossil hunters, families",
+  "unique": "The fossil laboratory and museum behind the commercial diggers, with a T. rex named Sue's original bones and a wall of ammonites.",
+  "buzz": "The prep lab is the reason paleontology people stop and the museum is small; the institute also runs digs you can join.",
+  "rating": 80,
+  "drive_min": 1850,
+  "drive_min_clemson": 1768
+ },
+ {
+  "name": "Prehistoric Indian Village",
+  "city": "Mitchell",
+  "county": "Davison",
+  "state": "South Dakota",
+  "cats": [
+   "Archaeology",
+   "Native",
+   "Museum"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Sep",
+  "start": "1000",
+  "company": "Mitchell Prehistoric Indian Village",
+  "party": "2–4",
+  "customer": "Archaeology fans, families, school groups",
+  "unique": "A thousand year old village of earth lodges under a protective dome, with an active dig and a lab where students process what they find.",
+  "buzz": "The dig under the dome is the reason to come and the site is active in summer; it pairs with the Corn Palace down the road.",
+  "rating": 76,
+  "drive_min": 1557,
+  "drive_min_clemson": 1476
+ },
+ {
+  "name": "Akta Lakota Museum",
+  "city": "Chamberlain",
+  "county": "Brule",
+  "state": "South Dakota",
+  "cats": [
+   "Native",
+   "Museum",
+   "Art",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Daily",
+  "start": "1991",
+  "company": "St. Joseph's Indian School",
+  "party": "2–4",
+  "customer": "Art people, history people, families",
+  "unique": "A museum on the Missouri with a collection of Lakota beadwork, quillwork and star quilts, free and run by the school.",
+  "buzz": "The star quilts and beadwork are the highlights and it is free; the river overlook outside is the photograph.",
+  "rating": 78,
+  "drive_min": 1621,
+  "drive_min_clemson": 1540
+ },
+ {
+  "name": "National Music Museum",
+  "city": "Vermillion",
+  "county": "Clay",
+  "state": "South Dakota",
+  "cats": [
+   "Music",
+   "Museum",
+   "Design"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sat",
+  "start": "1973",
+  "company": "University of South Dakota",
+  "party": "2–4",
+  "customer": "Musicians, collectors, families",
+  "unique": "One of the great instrument collections in the world, with Stradivarius violins, early keyboards and a saxophone once owned by Adolphe Sax.",
+  "buzz": "Musicians call it a pilgrimage and the collection is bigger than the town; the staff will demonstrate some instruments.",
+  "rating": 86,
+  "drive_min": 1447,
+  "drive_min_clemson": 1366
+ },
+ {
+  "name": "Gavins Point Dam",
+  "city": "Yankton",
+  "county": "Yankton",
+  "state": "South Dakota",
+  "cats": [
+   "Industry",
+   "Water",
+   "Wildlife"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Year-round",
+  "start": "1955",
+  "company": "US Army Corps of Engineers",
+  "party": "2–4",
+  "customer": "Engineers, birders, families",
+  "unique": "A Missouri River dam with a visitor center, a fish hatchery and a below dam tailwater where bald eagles winter by the dozen.",
+  "buzz": "The eagles in winter are the reason photographers come and the dam tour explains the flood control; the visitor center is free.",
+  "rating": 74,
+  "drive_min": 1474,
+  "drive_min_clemson": 1393
+ },
+ {
+  "name": "South Dakota State Fair",
+  "city": "Huron",
+  "county": "Beadle",
+  "state": "South Dakota",
+  "cats": [
+   "Festival",
+   "Farm",
+   "Family"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "Half day",
+  "dur_h": 5,
+  "dates": "Late Aug–early Sep",
+  "start": "1885",
+  "company": "South Dakota State Fair",
+  "party": "2–6",
+  "customer": "Families, farm crowds, concert goers",
+  "unique": "The state fair on the prairie with livestock shows, a draft horse pull, a carnival and grandstand concerts.",
+  "buzz": "The livestock barns and the horse pull are the real fair and the concerts draw the region; it is hot and the parking is in fields.",
+  "rating": 76,
+  "drive_min": 1619,
+  "drive_min_clemson": 1537
+ },
+ {
+  "name": "Bramble Park Zoo",
+  "city": "Watertown",
+  "county": "Codington",
+  "state": "South Dakota",
+  "cats": [
+   "Animals",
+   "Family",
+   "Park"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Daily, May–Oct",
+  "start": "1900s",
+  "company": "City of Watertown",
+  "party": "2–5",
+  "customer": "Families, locals, road trippers",
+  "unique": "A small zoo in a city park with a carousel and a train, plus a collection of big cats and primates, in a town of 22,000.",
+  "buzz": "Parents like the size and the train and the zoo is cheap; the park around it has a swimming pool and picnic areas.",
+  "rating": 72,
+  "drive_min": 1591,
+  "drive_min_clemson": 1510
+ },
+ {
+  "name": "Lake Herman State Park",
+  "city": "Madison",
+  "county": "Lake",
+  "state": "South Dakota",
+  "cats": [
+   "Camping",
+   "Water",
+   "Nature"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "May–Oct",
+  "start": "1940s",
+  "company": "South Dakota Game, Fish and Parks",
+  "party": "2–5",
+  "customer": "Campers, anglers, families",
+  "unique": "A wooded lake park with a campground, a beach and a historic stone cabin, in the lake country of eastern South Dakota.",
+  "buzz": "The lake is quiet and the campground is shaded; it is a good stop between Sioux Falls and the Minnesota line.",
+  "rating": 72,
+  "drive_min": 1544,
+  "drive_min_clemson": 1463
+ },
+ {
+  "name": "1880 Train",
+  "city": "Hill City",
+  "county": "Pennington",
+  "state": "South Dakota",
+  "cats": [
+   "Rail",
+   "Family",
+   "Views"
+  ],
+  "cost": "$30–$40",
+  "cost_num": 35,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "May–Oct",
+  "start": "1957",
+  "company": "Black Hills Central Railroad",
+  "party": "2–5",
+  "customer": "Train people, families, leaf peepers",
+  "unique": "A steam train that climbs a 4 percent grade through the Black Hills between Hill City and Keystone, with open cars and a view of the granite peaks.",
+  "buzz": "The steam engine and the climb are the reason to ride and the open car is the seat to book; the round trip takes two hours.",
+  "rating": 80,
+  "drive_min": 1850,
+  "drive_min_clemson": 1768
+ },
+ {
+  "name": "Hill City",
+  "city": "Hill City",
+  "county": "Pennington",
+  "state": "South Dakota",
+  "cats": [
+   "Walk",
+   "Community",
+   "Quirky"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Oct",
+  "start": "1880s",
+  "company": "Free / self-guided",
+  "party": "2–4",
+  "customer": "Walkers, families, bikers",
+  "unique": "A small Black Hills town on the Mickelson Trail with a main street of galleries, a winery and the 1880 Train depot, surrounded by granite peaks.",
+  "buzz": "The town is the base for the Mickelson Trail and the train; it is quieter than Keystone and the food is better.",
+  "rating": 74,
+  "drive_min": 1850,
+  "drive_min_clemson": 1768
  }
 ]

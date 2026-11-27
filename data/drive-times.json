@@ -14058,5 +14058,122 @@
   "drive_mi": 647,
   "drive_min_clemson": 587,
   "drive_mi_clemson": 529
+ },
+ "Berkeley Springs|West Virginia": {
+  "lat": 39.6267975,
+  "lon": -78.2279514,
+  "name": "Bath, Morgan County, West Virginia, United States",
+  "drive_min": 476,
+  "drive_mi": 414,
+  "drive_min_clemson": 608,
+  "drive_mi_clemson": 523
+ },
+ "Bruceton Mills|West Virginia": {
+  "lat": 39.6589554,
+  "lon": -79.6396445,
+  "name": "Bruceton Mills, Preston County, West Virginia, United States",
+  "drive_min": 467,
+  "drive_mi": 411,
+  "drive_min_clemson": 596,
+  "drive_mi_clemson": 510
+ },
+ "Elkins|West Virginia": {
+  "lat": 38.925927,
+  "lon": -79.8466552,
+  "name": "Elkins, Randolph County, West Virginia, 26241, United States",
+  "drive_min": 432,
+  "drive_mi": 375,
+  "drive_min_clemson": 561,
+  "drive_mi_clemson": 474
+ },
+ "Fairmont|West Virginia": {
+  "lat": 39.484898,
+  "lon": -80.1426539,
+  "name": "Fairmont, Marion County, West Virginia, 26554, United States",
+  "drive_min": 432,
+  "drive_mi": 376,
+  "drive_min_clemson": 560,
+  "drive_mi_clemson": 475
+ },
+ "Morgantown|West Virginia": {
+  "lat": 39.6296809,
+  "lon": -79.9559437,
+  "name": "Morgantown, Monongalia County, West Virginia, United States",
+  "drive_min": 451,
+  "drive_mi": 393,
+  "drive_min_clemson": 579,
+  "drive_mi_clemson": 492
+ },
+ "Parkersburg|West Virginia": {
+  "lat": 39.2667309,
+  "lon": -81.5620755,
+  "name": "Parkersburg, Wood County, West Virginia, United States",
+  "drive_min": 410,
+  "drive_mi": 357,
+  "drive_min_clemson": 538,
+  "drive_mi_clemson": 457
+ },
+ "Summersville|West Virginia": {
+  "lat": 38.2812203,
+  "lon": -80.8525981,
+  "name": "Summersville, Nicholas County, West Virginia, 26651, United States",
+  "drive_min": 312,
+  "drive_mi": 270,
+  "drive_min_clemson": 440,
+  "drive_mi_clemson": 369
+ },
+ "Chamberlain|South Dakota": {
+  "lat": 43.8109313,
+  "lon": -99.330243,
+  "name": "Chamberlain, Chamberlain Township, Brule County, South Dakota, 57325, United Sta",
+  "drive_min": 1621,
+  "drive_mi": 1473,
+  "drive_min_clemson": 1540,
+  "drive_mi_clemson": 1413
+ },
+ "De Smet|South Dakota": {
+  "lat": 44.38747,
+  "lon": -97.550354,
+  "name": "De Smet, De Smet Township, Kingsbury County, South Dakota, United States",
+  "drive_min": 1593,
+  "drive_mi": 1432,
+  "drive_min_clemson": 1512,
+  "drive_mi_clemson": 1372
+ },
+ "Hill City|South Dakota": {
+  "lat": 43.932486,
+  "lon": -103.575193,
+  "name": "Hill City, Pennington County, South Dakota, United States",
+  "drive_min": 1850,
+  "drive_mi": 1706,
+  "drive_min_clemson": 1768,
+  "drive_mi_clemson": 1646
+ },
+ "Huron|South Dakota": {
+  "lat": 44.36308,
+  "lon": -98.214388,
+  "name": "Huron, Clyde Township, Beadle County, South Dakota, United States",
+  "drive_min": 1619,
+  "drive_mi": 1460,
+  "drive_min_clemson": 1537,
+  "drive_mi_clemson": 1400
+ },
+ "Madison|South Dakota": {
+  "lat": 44.006085,
+  "lon": -97.11395,
+  "name": "Madison, Lakeview Township, Lake County, South Dakota, United States",
+  "drive_min": 1544,
+  "drive_mi": 1384,
+  "drive_min_clemson": 1463,
+  "drive_mi_clemson": 1324
+ },
+ "Vermillion|South Dakota": {
+  "lat": 42.7787409,
+  "lon": -96.929601,
+  "name": "Vermillion, Vermillion Township, Clay County, South Dakota, 57069, United States",
+  "drive_min": 1447,
+  "drive_mi": 1290,
+  "drive_min_clemson": 1366,
+  "drive_mi_clemson": 1229
  }
 }

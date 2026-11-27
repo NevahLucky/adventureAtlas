@@ -4,7 +4,11 @@
   "city": "Portageville",
   "county": "Wyoming",
   "state": "New York",
-  "cats": ["Rail", "Views", "History"],
+  "cats": [
+   "Rail",
+   "Views",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -23,7 +27,11 @@
   "city": "Montour Falls",
   "county": "Schuyler",
   "state": "New York",
-  "cats": ["Water", "Walk", "Free"],
+  "cats": [
+   "Water",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -42,7 +50,11 @@
   "city": "Cooperstown",
   "county": "Otsego",
   "state": "New York",
-  "cats": ["Art", "Museum", "Native"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Native"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -61,7 +73,10 @@
   "city": "Cooperstown",
   "county": "Otsego",
   "state": "New York",
-  "cats": ["Music", "Performance"],
+  "cats": [
+   "Music",
+   "Performance"
+  ],
   "cost": "$40–$150",
   "cost_num": 70,
   "dur": "3 hrs",
@@ -80,7 +95,11 @@
   "city": "Livingston Manor",
   "county": "Sullivan",
   "state": "New York",
-  "cats": ["Museum", "Water", "Maker"],
+  "cats": [
+   "Museum",
+   "Water",
+   "Maker"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -99,7 +118,11 @@
   "city": "Corning",
   "county": "Steuben",
   "state": "New York",
-  "cats": ["Art", "Museum", "Native"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Native"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -118,7 +141,11 @@
   "city": "Hammondsport",
   "county": "Steuben",
   "state": "New York",
-  "cats": ["Museum", "Air", "Motorsport"],
+  "cats": [
+   "Museum",
+   "Air",
+   "Motorsport"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -137,7 +164,11 @@
   "city": "Canton",
   "county": "St. Lawrence",
   "state": "New York",
-  "cats": ["Folk Art", "Museum", "Free"],
+  "cats": [
+   "Folk Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -156,7 +187,11 @@
   "city": "Gettysburg",
   "county": "Adams",
   "state": "Pennsylvania",
-  "cats": ["History", "Farm", "Architecture"],
+  "cats": [
+   "History",
+   "Farm",
+   "Architecture"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -176,7 +211,11 @@
   "city": "Wilkes-Barre",
   "county": "Luzerne",
   "state": "Pennsylvania",
-  "cats": ["Hiking", "Water", "Free"],
+  "cats": [
+   "Hiking",
+   "Water",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -195,7 +234,11 @@
   "city": "Punxsutawney",
   "county": "Jefferson",
   "state": "Pennsylvania",
-  "cats": ["Museum", "Science", "Quirky"],
+  "cats": [
+   "Museum",
+   "Science",
+   "Quirky"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -214,7 +257,11 @@
   "city": "Jim Thorpe",
   "county": "Carbon",
   "state": "Pennsylvania",
-  "cats": ["History", "Architecture", "Walk"],
+  "cats": [
+   "History",
+   "Architecture",
+   "Walk"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -233,7 +280,11 @@
   "city": "Newtown Square",
   "county": "Delaware",
   "state": "Pennsylvania",
-  "cats": ["Nature", "Walk", "Cycling"],
+  "cats": [
+   "Nature",
+   "Walk",
+   "Cycling"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -252,7 +303,11 @@
   "city": "Princeton",
   "county": "Mercer",
   "state": "New Jersey",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -271,7 +326,11 @@
   "city": "Titusville",
   "county": "Mercer",
   "state": "New Jersey",
-  "cats": ["History", "Nature", "Walk"],
+  "cats": [
+   "History",
+   "Nature",
+   "Walk"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -290,7 +349,11 @@
   "city": "Columbia",
   "county": "Warren",
   "state": "New Jersey",
-  "cats": ["Hiking", "Views", "Camping"],
+  "cats": [
+   "Hiking",
+   "Views",
+   "Camping"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -309,7 +372,11 @@
   "city": "Sussex",
   "county": "Sussex",
   "state": "New Jersey",
-  "cats": ["Hiking", "Views", "Swim"],
+  "cats": [
+   "Hiking",
+   "Views",
+   "Swim"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "3 hrs",
@@ -328,7 +395,11 @@
   "city": "Jay",
   "county": "Orleans",
   "state": "Vermont",
-  "cats": ["Snow", "Adrenaline", "Water"],
+  "cats": [
+   "Snow",
+   "Adrenaline",
+   "Water"
+  ],
   "cost": "$90–$110 lift ticket",
   "cost_num": 100,
   "dur": "Full day",
@@ -347,7 +418,11 @@
   "city": "Swanton",
   "county": "Franklin",
   "state": "Vermont",
-  "cats": ["Nature", "Birding", "Water"],
+  "cats": [
+   "Nature",
+   "Birding",
+   "Water"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -358,14 +433,19 @@
   "customer": "Birders, paddlers, photographers",
   "unique": "A delta of marsh and river on Lake Champlain where ospreys and black terns nest and a canoe trail winds through the cattails.",
   "buzz": "The canoe trail and the spring migration are the reasons to come and the refuge is quiet; the bugs are serious in June.",
-  "rating": 76
+  "rating": 76,
+  "dur_h": 2
  },
  {
   "name": "Maidstone State Park",
   "city": "Maidstone",
   "county": "Essex",
   "state": "Vermont",
-  "cats": ["Nature", "Camping", "Birding"],
+  "cats": [
+   "Nature",
+   "Camping",
+   "Birding"
+  ],
   "cost": "Free–$5",
   "cost_num": 3,
   "dur": "2 hrs",
@@ -384,7 +464,11 @@
   "city": "Hagerstown",
   "county": "Washington",
   "state": "Maryland",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free–$5",
   "cost_num": 3,
   "dur": "1 hr",
@@ -403,7 +487,11 @@
   "city": "Ocean City",
   "county": "Worcester",
   "state": "Maryland",
-  "cats": ["Beach", "Walk", "Food & Drink"],
+  "cats": [
+   "Beach",
+   "Walk",
+   "Food & Drink"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -422,7 +510,11 @@
   "city": "Crisfield",
   "county": "Somerset",
   "state": "Maryland",
-  "cats": ["Kayaking", "Water", "Camping"],
+  "cats": [
+   "Kayaking",
+   "Water",
+   "Camping"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "3 hrs",
@@ -441,7 +533,10 @@
   "city": "Altoona",
   "county": "Blair",
   "state": "Pennsylvania",
-  "cats": ["History", "Architecture"],
+  "cats": [
+   "History",
+   "Architecture"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -460,7 +555,10 @@
   "city": "New Hope",
   "county": "Bucks",
   "state": "Pennsylvania",
-  "cats": ["Performance", "History"],
+  "cats": [
+   "Performance",
+   "History"
+  ],
   "cost": "$40–$70",
   "cost_num": 55,
   "dur": "2.5 hrs",
@@ -479,7 +577,11 @@
   "city": "Patton",
   "county": "Cambria",
   "state": "Pennsylvania",
-  "cats": ["Water", "Camping", "Family"],
+  "cats": [
+   "Water",
+   "Camping",
+   "Family"
+  ],
   "cost": "Free–$10",
   "cost_num": 6,
   "dur": "3 hrs",
@@ -490,14 +592,19 @@
   "customer": "Boaters, campers, families",
   "unique": "A 1,600 acre lake in the Allegheny plateau with a beach, a marina and one of the largest campgrounds in the state.",
   "buzz": "The lake is the summer draw and the campground is the base; the park is quiet in the shoulder seasons.",
-  "rating": 74
+  "rating": 74,
+  "dur_h": 3
  },
  {
   "name": "Palmer Museum of Art",
   "city": "University Park",
   "county": "Centre",
   "state": "Pennsylvania",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -516,7 +623,11 @@
   "city": "Chester Springs",
   "county": "Chester",
   "state": "Pennsylvania",
-  "cats": ["History", "Art", "Walk"],
+  "cats": [
+   "History",
+   "Art",
+   "Walk"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -535,7 +646,11 @@
   "city": "Carlisle",
   "county": "Cumberland",
   "state": "Pennsylvania",
-  "cats": ["Cycling", "Rail Trail", "Farm"],
+  "cats": [
+   "Cycling",
+   "Rail Trail",
+   "Farm"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",

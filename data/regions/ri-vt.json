@@ -4,7 +4,11 @@
   "city": "Providence",
   "county": "Providence",
   "state": "Rhode Island",
-  "cats": ["Art", "Museum", "Design"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Design"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -23,7 +27,11 @@
   "city": "Providence",
   "county": "Providence",
   "state": "Rhode Island",
-  "cats": ["Architecture", "Walk", "Free"],
+  "cats": [
+   "Architecture",
+   "Walk",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -42,7 +50,11 @@
   "city": "Newport",
   "county": "Newport",
   "state": "Rhode Island",
-  "cats": ["Architecture", "History", "Garden"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Garden"
+  ],
   "cost": "$25–$30",
   "cost_num": 28,
   "dur": "1.5 hrs",
@@ -61,7 +73,11 @@
   "city": "Newport",
   "county": "Newport",
   "state": "Rhode Island",
-  "cats": ["Drive", "Views", "Beach"],
+  "cats": [
+   "Drive",
+   "Views",
+   "Beach"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -80,7 +96,11 @@
   "city": "Watch Hill",
   "county": "Washington",
   "state": "Rhode Island",
-  "cats": ["Quirky", "Family", "History"],
+  "cats": [
+   "Quirky",
+   "Family",
+   "History"
+  ],
   "cost": "$2",
   "cost_num": 2,
   "dur": "20 min",
@@ -99,7 +119,11 @@
   "city": "Westerly",
   "county": "Washington",
   "state": "Rhode Island",
-  "cats": ["Beach", "Water", "Family"],
+  "cats": [
+   "Beach",
+   "Water",
+   "Family"
+  ],
   "cost": "$10–$25 parking",
   "cost_num": 15,
   "dur": "Half day",
@@ -118,7 +142,11 @@
   "city": "Bristol",
   "county": "Bristol",
   "state": "Rhode Island",
-  "cats": ["Garden", "Architecture", "History"],
+  "cats": [
+   "Garden",
+   "Architecture",
+   "History"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -137,7 +165,11 @@
   "city": "Bristol",
   "county": "Bristol",
   "state": "Rhode Island",
-  "cats": ["Museum", "Water", "Maker"],
+  "cats": [
+   "Museum",
+   "Water",
+   "Maker"
+  ],
   "cost": "$15",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -149,14 +181,19 @@
   "customer": "Sailors, boat builders, America's Cup fans",
   "unique": "The boatyard where Captain Nat Herreshoff built six America's Cup defenders, with a model room, the catamarans of 1988 and a working waterfront.",
   "buzz": "Sailing people treat it as a shrine and non sailors are converted by the model room; the restored boats are in the water in summer.",
-  "rating": 80
+  "rating": 80,
+  "dur_h": 2
  },
  {
   "name": "Bristol Fourth of July Parade",
   "city": "Bristol",
   "county": "Bristol",
   "state": "Rhode Island",
-  "cats": ["Festival", "Community", "History"],
+  "cats": [
+   "Festival",
+   "Community",
+   "History"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -175,7 +212,11 @@
   "city": "Warwick",
   "county": "Kent",
   "state": "Rhode Island",
-  "cats": ["Beach", "Nature", "Cycling"],
+  "cats": [
+   "Beach",
+   "Nature",
+   "Cycling"
+  ],
   "cost": "Free–$10 parking",
   "cost_num": 5,
   "dur": "2–3 hrs",
@@ -186,14 +227,18 @@
   "customer": "Swimmers, cyclists, families",
   "unique": "Nearly 500 acres on Greenwich Bay with a beach, a bridle path, a picnic grove and one of the few public polo fields in New England.",
   "buzz": "The beach is calm and shallow and the park is quiet on weekdays; the polo matches in summer are free to watch.",
-  "rating": 72
+  "rating": 72,
+  "dur_h": 3
  },
  {
   "name": "Nathanael Greene Homestead",
   "city": "Coventry",
   "county": "Kent",
   "state": "Rhode Island",
-  "cats": ["History", "Architecture"],
+  "cats": [
+   "History",
+   "Architecture"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -212,7 +257,11 @@
   "city": "Warwick",
   "county": "Kent",
   "state": "Rhode Island",
-  "cats": ["Water", "Views", "Free"],
+  "cats": [
+   "Water",
+   "Views",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "45 min",
@@ -231,7 +280,11 @@
   "city": "Burlington",
   "county": "Chittenden",
   "state": "Vermont",
-  "cats": ["Community", "Market", "Food & Drink"],
+  "cats": [
+   "Community",
+   "Market",
+   "Food & Drink"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -250,7 +303,11 @@
   "city": "Burlington",
   "county": "Chittenden",
   "state": "Vermont",
-  "cats": ["Cycling", "Water", "Beach"],
+  "cats": [
+   "Cycling",
+   "Water",
+   "Beach"
+  ],
   "cost": "Free; rental $25",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -269,7 +326,11 @@
   "city": "Montpelier",
   "county": "Washington",
   "state": "Vermont",
-  "cats": ["Architecture", "History", "Free"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -288,7 +349,11 @@
   "city": "Cabot",
   "county": "Washington",
   "state": "Vermont",
-  "cats": ["Food & Drink", "Farm", "Family"],
+  "cats": [
+   "Food & Drink",
+   "Farm",
+   "Family"
+  ],
   "cost": "Free; tours $5",
   "cost_num": 3,
   "dur": "1 hr",
@@ -307,7 +372,11 @@
   "city": "Charlotte",
   "county": "Addison",
   "state": "Vermont",
-  "cats": ["Hiking", "Views", "Free"],
+  "cats": [
+   "Hiking",
+   "Views",
+   "Free"
+  ],
   "cost": "$5–$8 parking",
   "cost_num": 6,
   "dur": "1.5 hrs",
@@ -326,7 +395,11 @@
   "city": "Ferrisburgh",
   "county": "Addison",
   "state": "Vermont",
-  "cats": ["History", "Civil Rights", "Farm"],
+  "cats": [
+   "History",
+   "Civil Rights",
+   "Farm"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -345,7 +418,10 @@
   "city": "Bennington",
   "county": "Bennington",
   "state": "Vermont",
-  "cats": ["History", "Views"],
+  "cats": [
+   "History",
+   "Views"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -364,7 +440,11 @@
   "city": "Manchester",
   "county": "Bennington",
   "state": "Vermont",
-  "cats": ["History", "Garden", "Architecture"],
+  "cats": [
+   "History",
+   "Garden",
+   "Architecture"
+  ],
   "cost": "$25",
   "cost_num": 25,
   "dur": "2–3 hrs",
@@ -383,7 +463,11 @@
   "city": "Marlboro",
   "county": "Windham",
   "state": "Vermont",
-  "cats": ["Views", "Drive", "Hiking"],
+  "cats": [
+   "Views",
+   "Drive",
+   "Hiking"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -402,7 +486,11 @@
   "city": "Marlboro",
   "county": "Windham",
   "state": "Vermont",
-  "cats": ["Music", "Performance", "Community"],
+  "cats": [
+   "Music",
+   "Performance",
+   "Community"
+  ],
   "cost": "$25–$60",
   "cost_num": 40,
   "dur": "2.5 hrs",
@@ -421,7 +509,11 @@
   "city": "Killington",
   "county": "Rutland",
   "state": "Vermont",
-  "cats": ["Snow", "Adrenaline", "Nature"],
+  "cats": [
+   "Snow",
+   "Adrenaline",
+   "Nature"
+  ],
   "cost": "$100–$150 lift ticket",
   "cost_num": 120,
   "dur": "Full day",
@@ -440,7 +532,11 @@
   "city": "Proctor",
   "county": "Rutland",
   "state": "Vermont",
-  "cats": ["Museum", "Industry", "Geology"],
+  "cats": [
+   "Museum",
+   "Industry",
+   "Geology"
+  ],
   "cost": "$12",
   "cost_num": 12,
   "dur": "1.5 hrs",
@@ -459,7 +555,11 @@
   "city": "Stowe",
   "county": "Lamoille",
   "state": "Vermont",
-  "cats": ["Nature", "History", "Snow"],
+  "cats": [
+   "Nature",
+   "History",
+   "Snow"
+  ],
   "cost": "Free to visit; rooms $250+",
   "cost_num": 20,
   "dur": "2 hrs",
@@ -478,7 +578,11 @@
   "city": "Jeffersonville",
   "county": "Lamoille",
   "state": "Vermont",
-  "cats": ["Snow", "Hiking", "Nature"],
+  "cats": [
+   "Snow",
+   "Hiking",
+   "Nature"
+  ],
   "cost": "$90–$120 lift ticket",
   "cost_num": 100,
   "dur": "Full day",
@@ -497,7 +601,11 @@
   "city": "South Hero",
   "county": "Grand Isle",
   "state": "Vermont",
-  "cats": ["Food & Drink", "Music", "Farm"],
+  "cats": [
+   "Food & Drink",
+   "Music",
+   "Farm"
+  ],
   "cost": "$10–$20",
   "cost_num": 15,
   "dur": "1.5 hrs",
@@ -516,7 +624,11 @@
   "city": "South Hero",
   "county": "Grand Isle",
   "state": "Vermont",
-  "cats": ["Cycling", "Water", "Views"],
+  "cats": [
+   "Cycling",
+   "Water",
+   "Views"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -535,7 +647,11 @@
   "city": "Danville",
   "county": "Caledonia",
   "state": "Vermont",
-  "cats": ["Puzzle", "Family", "Farm"],
+  "cats": [
+   "Puzzle",
+   "Family",
+   "Farm"
+  ],
   "cost": "$15–$20",
   "cost_num": 17,
   "dur": "2–3 hrs",
@@ -554,7 +670,11 @@
   "city": "Brunswick",
   "county": "Essex",
   "state": "Vermont",
-  "cats": ["Nature", "Birding", "Free"],
+  "cats": [
+   "Nature",
+   "Birding",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",

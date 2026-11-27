@@ -4,7 +4,11 @@
   "city": "Norman",
   "county": "Cleveland",
   "state": "Oklahoma",
-  "cats": ["Museum", "Fossils", "Native"],
+  "cats": [
+   "Museum",
+   "Fossils",
+   "Native"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "2–3 hrs",
@@ -23,7 +27,11 @@
   "city": "Norman",
   "county": "Cleveland",
   "state": "Oklahoma",
-  "cats": ["Water", "Camping", "Fishing"],
+  "cats": [
+   "Water",
+   "Camping",
+   "Fishing"
+  ],
   "cost": "Free–$8",
   "cost_num": 5,
   "dur": "2–3 hrs",
@@ -42,7 +50,11 @@
   "city": "El Reno",
   "county": "Canadian",
   "state": "Oklahoma",
-  "cats": ["Festival", "Food & Drink", "Community"],
+  "cats": [
+   "Festival",
+   "Food & Drink",
+   "Community"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -61,7 +73,10 @@
   "city": "Stillwater",
   "county": "Payne",
   "state": "Oklahoma",
-  "cats": ["Sports", "Museum"],
+  "cats": [
+   "Sports",
+   "Museum"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1 hr",
@@ -80,7 +95,11 @@
   "city": "Muskogee",
   "county": "Muskogee",
   "state": "Oklahoma",
-  "cats": ["Native", "Museum", "Art"],
+  "cats": [
+   "Native",
+   "Museum",
+   "Art"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1 hr",
@@ -99,7 +118,11 @@
   "city": "Muskogee",
   "county": "Muskogee",
   "state": "Oklahoma",
-  "cats": ["Garden", "Family", "Free"],
+  "cats": [
+   "Garden",
+   "Family",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -118,7 +141,11 @@
   "city": "Tahlequah",
   "county": "Cherokee",
   "state": "Oklahoma",
-  "cats": ["Native", "History", "Museum"],
+  "cats": [
+   "Native",
+   "History",
+   "Museum"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "1.5 hrs",
@@ -137,7 +164,10 @@
   "city": "McAlester",
   "county": "Pittsburg",
   "state": "Oklahoma",
-  "cats": ["Dark Tourism", "History"],
+  "cats": [
+   "Dark Tourism",
+   "History"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -156,7 +186,11 @@
   "city": "Talihina",
   "county": "Le Flore",
   "state": "Oklahoma",
-  "cats": ["Drive", "Views", "Nature"],
+  "cats": [
+   "Drive",
+   "Views",
+   "Nature"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -175,7 +209,11 @@
   "city": "Heavener",
   "county": "Le Flore",
   "state": "Oklahoma",
-  "cats": ["Quirky", "History", "Free"],
+  "cats": [
+   "Quirky",
+   "History",
+   "Free"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "45 min",
@@ -194,7 +232,11 @@
   "city": "Wilburton",
   "county": "Latimer",
   "state": "Oklahoma",
-  "cats": ["Nature", "Hiking", "Camping"],
+  "cats": [
+   "Nature",
+   "Hiking",
+   "Camping"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "3 hrs",
@@ -213,7 +255,11 @@
   "city": "Broken Bow",
   "county": "McCurtain",
   "state": "Oklahoma",
-  "cats": ["Nature", "Water", "Camping"],
+  "cats": [
+   "Nature",
+   "Water",
+   "Camping"
+  ],
   "cost": "Free–$10",
   "cost_num": 8,
   "dur": "Half day",
@@ -232,7 +278,11 @@
   "city": "Broken Bow",
   "county": "McCurtain",
   "state": "Oklahoma",
-  "cats": ["Water", "Boating", "Fishing"],
+  "cats": [
+   "Water",
+   "Boating",
+   "Fishing"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "3 hrs",
@@ -251,7 +301,11 @@
   "city": "Durant",
   "county": "Bryan",
   "state": "Oklahoma",
-  "cats": ["History", "Military", "Free"],
+  "cats": [
+   "History",
+   "Military",
+   "Free"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -270,7 +324,11 @@
   "city": "Ardmore",
   "county": "Carter",
   "state": "Oklahoma",
-  "cats": ["Water", "Camping", "Cycling"],
+  "cats": [
+   "Water",
+   "Camping",
+   "Cycling"
+  ],
   "cost": "$8",
   "cost_num": 8,
   "dur": "3 hrs",
@@ -289,7 +347,12 @@
   "city": "Anadarko",
   "county": "Caddo",
   "state": "Oklahoma",
-  "cats": ["Native", "Museum", "Art", "Free"],
+  "cats": [
+   "Native",
+   "Museum",
+   "Art",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -308,7 +371,11 @@
   "city": "Pawhuska",
   "county": "Osage",
   "state": "Oklahoma",
-  "cats": ["Nature", "Wildlife", "Drive"],
+  "cats": [
+   "Nature",
+   "Wildlife",
+   "Drive"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "Half day",
@@ -327,7 +394,11 @@
   "city": "Bloomington",
   "county": "Monroe",
   "state": "Indiana",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1.5 hrs",
@@ -346,7 +417,11 @@
   "city": "Bloomington",
   "county": "Monroe",
   "state": "Indiana",
-  "cats": ["Water", "Camping", "Fishing"],
+  "cats": [
+   "Water",
+   "Camping",
+   "Fishing"
+  ],
   "cost": "Free–$5",
   "cost_num": 3,
   "dur": "3 hrs",
@@ -365,7 +440,11 @@
   "city": "Bloomington",
   "county": "Monroe",
   "state": "Indiana",
-  "cats": ["Spiritual", "Art", "Garden"],
+  "cats": [
+   "Spiritual",
+   "Art",
+   "Garden"
+  ],
   "cost": "$5",
   "cost_num": 5,
   "dur": "1 hr",
@@ -384,7 +463,10 @@
   "city": "Fort Wayne",
   "county": "Allen",
   "state": "Indiana",
-  "cats": ["Art", "Museum"],
+  "cats": [
+   "Art",
+   "Museum"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "1.5 hrs",
@@ -403,7 +485,11 @@
   "city": "Fort Wayne",
   "county": "Allen",
   "state": "Indiana",
-  "cats": ["Garden", "Family", "Design"],
+  "cats": [
+   "Garden",
+   "Family",
+   "Design"
+  ],
   "cost": "$7",
   "cost_num": 7,
   "dur": "1 hr",
@@ -422,7 +508,10 @@
   "city": "Fort Wayne",
   "county": "Allen",
   "state": "Indiana",
-  "cats": ["Animals", "Family"],
+  "cats": [
+   "Animals",
+   "Family"
+  ],
   "cost": "$18",
   "cost_num": 18,
   "dur": "3 hrs",
@@ -441,7 +530,11 @@
   "city": "South Bend",
   "county": "St. Joseph",
   "state": "Indiana",
-  "cats": ["Museum", "Motorsport", "History"],
+  "cats": [
+   "Museum",
+   "Motorsport",
+   "History"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -460,7 +553,10 @@
   "city": "South Bend",
   "county": "St. Joseph",
   "state": "Indiana",
-  "cats": ["Animals", "Family"],
+  "cats": [
+   "Animals",
+   "Family"
+  ],
   "cost": "$12",
   "cost_num": 12,
   "dur": "2 hrs",
@@ -479,7 +575,12 @@
   "city": "Terre Haute",
   "county": "Vigo",
   "state": "Indiana",
-  "cats": ["Food & Drink", "Museum", "Industry", "Free"],
+  "cats": [
+   "Food & Drink",
+   "Museum",
+   "Industry",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -498,7 +599,11 @@
   "city": "Terre Haute",
   "county": "Vigo",
   "state": "Indiana",
-  "cats": ["Art", "Museum", "Free"],
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "1 hr",
@@ -517,7 +622,11 @@
   "city": "Muncie",
   "county": "Delaware",
   "state": "Indiana",
-  "cats": ["Garden", "Museum", "Family"],
+  "cats": [
+   "Garden",
+   "Museum",
+   "Family"
+  ],
   "cost": "$10",
   "cost_num": 10,
   "dur": "2 hrs",
@@ -536,7 +645,11 @@
   "city": "Columbus",
   "county": "Bartholomew",
   "state": "Indiana",
-  "cats": ["Architecture", "Walk", "Tour"],
+  "cats": [
+   "Architecture",
+   "Walk",
+   "Tour"
+  ],
   "cost": "Free–$25",
   "cost_num": 15,
   "dur": "2 hrs",
@@ -555,7 +668,11 @@
   "city": "Columbus",
   "county": "Bartholomew",
   "state": "Indiana",
-  "cats": ["Architecture", "Design", "Garden"],
+  "cats": [
+   "Architecture",
+   "Design",
+   "Garden"
+  ],
   "cost": "$25",
   "cost_num": 25,
   "dur": "1.5 hrs",
@@ -574,7 +691,11 @@
   "city": "Madison",
   "county": "Jefferson",
   "state": "Indiana",
-  "cats": ["Architecture", "History", "Walk"],
+  "cats": [
+   "Architecture",
+   "History",
+   "Walk"
+  ],
   "cost": "Free",
   "cost_num": 0,
   "dur": "2 hrs",
@@ -593,7 +714,11 @@
   "city": "Madison",
   "county": "Jefferson",
   "state": "Indiana",
-  "cats": ["Hiking", "Nature", "Water"],
+  "cats": [
+   "Hiking",
+   "Nature",
+   "Water"
+  ],
   "cost": "$7",
   "cost_num": 7,
   "dur": "3 hrs",
@@ -604,6 +729,7 @@
   "customer": "Hikers, families, photographers",
   "unique": "A gorge of four waterfalls cut into the limestone above the Ohio River, with trails along the creek and a view over the river valley.",
   "buzz": "The falls are best after rain and the trails are steep and slick; the park is quiet compared with the state's northern parks.",
-  "rating": 78
+  "rating": 78,
+  "dur_h": 3
  }
 ]
