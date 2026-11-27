@@ -138,8 +138,8 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 1,245 of 3,143 counties covered, 3,634 entries. Every state and district has at
-least thirty entries. 275 counties nationally still have a single entry, and those are the backlog.
+Current picture: 1,274 of 3,143 counties covered, 3,780 entries. Every state and district has at
+least thirty entries. 266 counties nationally still have a single entry, and those are the backlog.
 
 Three states are finished. Georgia is 159 of 159 counties with 594 entries. North Carolina is 100 of
 100 with 337 entries, every county at three or more except Alexander and Davie at two. Tennessee is
@@ -164,7 +164,7 @@ The four finished states are Georgia (594 in 159 counties), North Carolina (337 
 (362 in 95) and South Carolina (287 in 46). Behind them the thickest are New York (157 in 44 of 62),
 Pennsylvania (89 in 32 of 67), Florida (88 in 33 of 67) and California (60 in 28 of 58).
 
-The thinnest by coverage, which is the queue: Texas 17 of 254, Virginia 20 of 133, Illinois 11 of
+The thinnest by coverage, which is the queue: Texas 17 of 254, Virginia 53 of 133, Illinois 11 of
 102, Missouri 14 of 115, Kentucky 19 of 120, Kansas 19 of 105, Indiana 16 of 92, Nebraska 17 of 93,
 Minnesota 16 of 87, Michigan 16 of 83, Ohio 17 of 88. `python3 scripts/coverage.py` is the live
 number; do not trust a table in this file to stay current.

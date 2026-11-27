@@ -18485,5 +18485,104 @@
   "drive_mi": 203,
   "drive_min_clemson": 298,
   "drive_mi_clemson": 312
+ },
+ "Amherst|Virginia": {
+  "lat": 37.5997548,
+  "lon": -79.1483701,
+  "name": "Amherst County, Virginia, United States",
+  "drive_min": 255,
+  "drive_mi": 246,
+  "drive_min_clemson": 361,
+  "drive_mi_clemson": 356
+ },
+ "Bedford|Virginia": {
+  "lat": 37.3123905,
+  "lon": -79.5399003,
+  "name": "Bedford County, Virginia, United States",
+  "drive_min": 222,
+  "drive_mi": 210,
+  "drive_min_clemson": 328,
+  "drive_mi_clemson": 320
+ },
+ "Blacksburg|Virginia": {
+  "lat": 37.2296566,
+  "lon": -80.4136767,
+  "name": "Blacksburg, Montgomery County, Virginia, United States",
+  "drive_min": 182,
+  "drive_mi": 190,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 299
+ },
+ "Dublin|Virginia": {
+  "lat": 37.1046408,
+  "lon": -80.6850558,
+  "name": "Dublin, Pulaski County, Virginia, United States",
+  "drive_min": 155,
+  "drive_mi": 164,
+  "drive_min_clemson": 260,
+  "drive_mi_clemson": 273
+ },
+ "Forest|Virginia": {
+  "lat": 37.366635,
+  "lon": -79.2742569,
+  "name": "Forest, Bedford County, Virginia, 24551, United States",
+  "drive_min": 224,
+  "drive_mi": 226,
+  "drive_min_clemson": 330,
+  "drive_mi_clemson": 337
+ },
+ "Hardy|Virginia": {
+  "lat": 37.2318062,
+  "lon": -79.8105908,
+  "name": "Hardy, Bedford County, Virginia, 24101, United States",
+  "drive_min": 206,
+  "drive_mi": 197,
+  "drive_min_clemson": 313,
+  "drive_mi_clemson": 308
+ },
+ "Lynchburg|Virginia": {
+  "lat": 37.4137536,
+  "lon": -79.1422464,
+  "name": "Lynchburg, Virginia, United States",
+  "drive_min": 219,
+  "drive_mi": 223,
+  "drive_min_clemson": 325,
+  "drive_mi_clemson": 334
+ },
+ "Moneta|Virginia": {
+  "lat": 37.188635,
+  "lon": -79.6142224,
+  "name": "Moneta, Bedford County, Virginia, United States",
+  "drive_min": 205,
+  "drive_mi": 198,
+  "drive_min_clemson": 312,
+  "drive_mi_clemson": 309
+ },
+ "Pulaski|Virginia": {
+  "lat": 37.0580572,
+  "lon": -80.7297289,
+  "name": "Pulaski County, Virginia, United States",
+  "drive_min": 158,
+  "drive_mi": 163,
+  "drive_min_clemson": 263,
+  "drive_mi_clemson": 271
+ },
+ "Radford|Virginia": {
+  "lat": 37.1343148,
+  "lon": -80.5749169,
+  "name": "Radford, Virginia, United States",
+  "drive_min": 165,
+  "drive_mi": 173,
+  "drive_min_clemson": 270,
+  "drive_mi_clemson": 282
+ },
+ "Rocky Mount|Virginia": {
+  "lat": 36.9962007,
+  "lon": -79.8909474,
+  "name": "Rocky Mount, Franklin County, Virginia, United States",
+  "drive_min": 176,
+  "drive_mi": 175,
+  "drive_min_clemson": 282,
+  "drive_mi_clemson": 286
  }
 }
