@@ -15434,5 +15434,68 @@
   "drive_mi": 303,
   "drive_min_clemson": 205,
   "drive_mi_clemson": 185
+ },
+ "Barnesville|Georgia": {
+  "lat": 33.0545709,
+  "lon": -84.1557496,
+  "name": "Barnesville, Lamar County, Georgia, 30204, United States",
+  "drive_min": 285,
+  "drive_mi": 292,
+  "drive_min_clemson": 177,
+  "drive_mi_clemson": 179
+ },
+ "Flovilla|Georgia": {
+  "lat": 33.253734,
+  "lon": -83.8985171,
+  "name": "Flovilla, Butts County, Georgia, 30216, United States",
+  "drive_min": 259,
+  "drive_mi": 270,
+  "drive_min_clemson": 165,
+  "drive_mi_clemson": 151
+ },
+ "Griffin|Georgia": {
+  "lat": 33.2467807,
+  "lon": -84.2640904,
+  "name": "Griffin, Spalding County, Georgia, United States",
+  "drive_min": 284,
+  "drive_mi": 290,
+  "drive_min_clemson": 168,
+  "drive_mi_clemson": 172
+ },
+ "Jackson|Georgia": {
+  "lat": 34.1282559,
+  "lon": -83.5753386,
+  "name": "Jackson County, Georgia, United States",
+  "drive_min": 187,
+  "drive_mi": 187,
+  "drive_min_clemson": 75,
+  "drive_mi_clemson": 73
+ },
+ "Molena|Georgia": {
+  "lat": 33.0120724,
+  "lon": -84.5002013,
+  "name": "Molena, Pike County, Georgia, United States",
+  "drive_min": 318,
+  "drive_mi": 315,
+  "drive_min_clemson": 192,
+  "drive_mi_clemson": 192
+ },
+ "Thomaston|Georgia": {
+  "lat": 32.8881879,
+  "lon": -84.3265855,
+  "name": "Thomaston, Upson County, Georgia, 30286, United States",
+  "drive_min": 307,
+  "drive_mi": 307,
+  "drive_min_clemson": 191,
+  "drive_mi_clemson": 194
+ },
+ "Zebulon|Georgia": {
+  "lat": 33.1023454,
+  "lon": -84.3426997,
+  "name": "Zebulon, Pike County, Georgia, United States",
+  "drive_min": 295,
+  "drive_mi": 300,
+  "drive_min_clemson": 173,
+  "drive_mi_clemson": 178
  }
 }
