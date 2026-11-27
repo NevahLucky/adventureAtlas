@@ -7104,5 +7104,185 @@
   "drive_mi": 705,
   "drive_min_clemson": 948,
   "drive_mi_clemson": 804
+ },
+ "Alabama|New York": {
+  "lat": 43.096448,
+  "lon": -78.390856,
+  "name": "Town of Alabama, Genesee County, New York, 14013, United States",
+  "drive_min": 810,
+  "drive_mi": 702,
+  "drive_min_clemson": 938,
+  "drive_mi_clemson": 801
+ },
+ "Angelica|New York": {
+  "lat": 42.3067345,
+  "lon": -78.0158388,
+  "name": "Village of Angelica, Town of Angelica, Allegany County, New York, United States",
+  "drive_min": 779,
+  "drive_mi": 660,
+  "drive_min_clemson": 908,
+  "drive_mi_clemson": 760
+ },
+ "Auburn|New York": {
+  "lat": 42.9320202,
+  "lon": -76.5672029,
+  "name": "City of Auburn, Cayuga County, New York, 13021, United States",
+  "drive_min": 876,
+  "drive_mi": 733,
+  "drive_min_clemson": 1009,
+  "drive_mi_clemson": 842
+ },
+ "Batavia|New York": {
+  "lat": 42.9980144,
+  "lon": -78.1875515,
+  "name": "City of Batavia, Genesee County, New York, 14020, United States",
+  "drive_min": 817,
+  "drive_mi": 708,
+  "drive_min_clemson": 946,
+  "drive_mi_clemson": 807
+ },
+ "Blue Mountain Lake|New York": {
+  "lat": 43.856339,
+  "lon": -74.4315339,
+  "name": "Blue Mountain Lake, Town of Indian Lake, Hamilton County, New York, 12812, Unite",
+  "drive_min": 1014,
+  "drive_mi": 843,
+  "drive_min_clemson": 1147,
+  "drive_mi_clemson": 951
+ },
+ "Canandaigua|New York": {
+  "lat": 42.850682,
+  "lon": -77.3191454,
+  "name": "Town of Canandaigua, Ontario County, New York, 14424, United States",
+  "drive_min": 845,
+  "drive_mi": 713,
+  "drive_min_clemson": 977,
+  "drive_mi_clemson": 822
+ },
+ "Conesus|New York": {
+  "lat": 42.7189532,
+  "lon": -77.6763859,
+  "name": "Town of Conesus, Livingston County, New York, 14435, United States",
+  "drive_min": 833,
+  "drive_mi": 704,
+  "drive_min_clemson": 965,
+  "drive_mi_clemson": 812
+ },
+ "Cuba|New York": {
+  "lat": 42.2175668,
+  "lon": -78.2752927,
+  "name": "Town of Cuba, Allegany County, New York, 14727, United States",
+  "drive_min": 759,
+  "drive_mi": 643,
+  "drive_min_clemson": 887,
+  "drive_mi_clemson": 742
+ },
+ "Dansville|New York": {
+  "lat": 42.5611258,
+  "lon": -77.6961817,
+  "name": "Village of Dansville, Town of North Dansville, Livingston County, New York, 1443",
+  "drive_min": 816,
+  "drive_mi": 696,
+  "drive_min_clemson": 948,
+  "drive_mi_clemson": 805
+ },
+ "East Otto|New York": {
+  "lat": 42.389785,
+  "lon": -78.754753,
+  "name": "Town of East Otto, Cattaraugus County, New York, 14729, United States",
+  "drive_min": 784,
+  "drive_mi": 648,
+  "drive_min_clemson": 912,
+  "drive_mi_clemson": 747
+ },
+ "Ellicottville|New York": {
+  "lat": 42.2751873,
+  "lon": -78.6727799,
+  "name": "Ellicottville, Village of Ellicottville, Town of Ellicottville, Cattaraugus Coun",
+  "drive_min": 759,
+  "drive_mi": 637,
+  "drive_min_clemson": 887,
+  "drive_mi_clemson": 736
+ },
+ "Elmira|New York": {
+  "lat": 42.0897965,
+  "lon": -76.8077338,
+  "name": "City of Elmira, Chemung County, New York, United States",
+  "drive_min": 777,
+  "drive_mi": 657,
+  "drive_min_clemson": 909,
+  "drive_mi_clemson": 765
+ },
+ "Norwich|New York": {
+  "lat": 42.5311809,
+  "lon": -75.5235149,
+  "name": "City of Norwich, Chenango County, New York, 13815, United States",
+  "drive_min": 818,
+  "drive_mi": 709,
+  "drive_min_clemson": 950,
+  "drive_mi_clemson": 818
+ },
+ "Onchiota|New York": {
+  "lat": 44.4942178,
+  "lon": -74.1234855,
+  "name": "Onchiota, Town of Franklin, Franklin County, New York, 12976, United States",
+  "drive_min": 1117,
+  "drive_mi": 942,
+  "drive_min_clemson": 1249,
+  "drive_mi_clemson": 1050
+ },
+ "Oxford|New York": {
+  "lat": 42.4420181,
+  "lon": -75.5976855,
+  "name": "Town of Oxford, Chenango County, New York, 13830, United States",
+  "drive_min": 809,
+  "drive_mi": 702,
+  "drive_min_clemson": 942,
+  "drive_mi_clemson": 810
+ },
+ "Raquette Lake|New York": {
+  "lat": 43.8131196,
+  "lon": -74.6573899,
+  "name": "Raquette Lake, Town of Long Lake, Hamilton County, New York, 13436, United State",
+  "drive_min": 997,
+  "drive_mi": 830,
+  "drive_min_clemson": 1129,
+  "drive_mi_clemson": 939
+ },
+ "Salamanca|New York": {
+  "lat": 42.1579214,
+  "lon": -78.7151629,
+  "name": "City of Salamanca, Cattaraugus County, New York, 14779, United States",
+  "drive_min": 741,
+  "drive_mi": 627,
+  "drive_min_clemson": 870,
+  "drive_mi_clemson": 726
+ },
+ "Saranac Lake|New York": {
+  "lat": 44.3296606,
+  "lon": -74.1311198,
+  "name": "Village of Saranac Lake, Town of Harrietstown, Franklin County, New York, United",
+  "drive_min": 1090,
+  "drive_mi": 927,
+  "drive_min_clemson": 1222,
+  "drive_mi_clemson": 1036
+ },
+ "Sherburne|New York": {
+  "lat": 42.6781266,
+  "lon": -75.4985123,
+  "name": "Village of Sherburne, Town of Sherburne, Chenango County, New York, United State",
+  "drive_min": 837,
+  "drive_mi": 721,
+  "drive_min_clemson": 969,
+  "drive_mi_clemson": 830
+ },
+ "Tupper Lake|New York": {
+  "lat": 44.224044,
+  "lon": -74.464302,
+  "name": "Town of Tupper Lake, Franklin County, New York, 12986, United States",
+  "drive_min": 1063,
+  "drive_mi": 876,
+  "drive_min_clemson": 1195,
+  "drive_mi_clemson": 984
  }
 }
