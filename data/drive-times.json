@@ -15641,5 +15641,86 @@
   "drive_mi": 186,
   "drive_min_clemson": 137,
   "drive_mi_clemson": 107
+ },
+ "Adams|Tennessee": {
+  "lat": 36.5823718,
+  "lon": -87.0655751,
+  "name": "Adams, Robertson County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 434,
+  "drive_mi": 462,
+  "drive_min_clemson": 364,
+  "drive_mi_clemson": 355
+ },
+ "Blackshear|Georgia": {
+  "lat": 31.3042798,
+  "lon": -82.2404922,
+  "name": "Blackshear, Pierce County, Georgia, United States",
+  "drive_min": 303,
+  "drive_mi": 326,
+  "drive_min_clemson": 290,
+  "drive_mi_clemson": 282
+ },
+ "Cusseta|Georgia": {
+  "lat": 32.3054268,
+  "lon": -84.7727027,
+  "name": "Cusseta, Chattahoochee County, Georgia, United States",
+  "drive_min": 341,
+  "drive_mi": 363,
+  "drive_min_clemson": 229,
+  "drive_mi_clemson": 247
+ },
+ "Gallatin|Tennessee": {
+  "lat": 36.3883031,
+  "lon": -86.4475898,
+  "name": "Gallatin, Sumner County, Middle Tennessee, Tennessee, 37066, United States",
+  "drive_min": 387,
+  "drive_mi": 414,
+  "drive_min_clemson": 335,
+  "drive_mi_clemson": 326
+ },
+ "Hendersonville|Tennessee": {
+  "lat": 36.3049177,
+  "lon": -86.621443,
+  "name": "Hendersonville, Sumner County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 403,
+  "drive_mi": 426,
+  "drive_min_clemson": 339,
+  "drive_mi_clemson": 331
+ },
+ "Lebanon|Tennessee": {
+  "lat": 36.2079779,
+  "lon": -86.2910945,
+  "name": "Lebanon, Wilson County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 366,
+  "drive_mi": 394,
+  "drive_min_clemson": 323,
+  "drive_mi_clemson": 317
+ },
+ "Preston|Georgia": {
+  "lat": 32.0659918,
+  "lon": -84.537417,
+  "name": "Preston, Webster County, Georgia, 31824, United States",
+  "drive_min": 357,
+  "drive_mi": 365,
+  "drive_min_clemson": 255,
+  "drive_mi_clemson": 274
+ },
+ "Springfield|Tennessee": {
+  "lat": 36.5092119,
+  "lon": -86.8849984,
+  "name": "Springfield, Robertson County, Middle Tennessee, Tennessee, 37172, United States",
+  "drive_min": 421,
+  "drive_mi": 450,
+  "drive_min_clemson": 350,
+  "drive_mi_clemson": 342
+ },
+ "Watertown|Tennessee": {
+  "lat": 36.1003358,
+  "lon": -86.1319341,
+  "name": "Watertown, Wilson County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 368,
+  "drive_mi": 392,
+  "drive_min_clemson": 328,
+  "drive_mi_clemson": 303
  }
 }
