@@ -17621,5 +17621,113 @@
   "drive_mi": 435,
   "drive_min_clemson": 350,
   "drive_mi_clemson": 374
+ },
+ "Fanning Springs|Florida": {
+  "lat": 29.5907915,
+  "lon": -82.9292906,
+  "name": "Fanning Springs, Levy County, Florida, United States",
+  "drive_min": 443,
+  "drive_mi": 480,
+  "drive_min_clemson": 414,
+  "drive_mi_clemson": 433
+ },
+ "Fort White|Florida": {
+  "lat": 29.9232908,
+  "lon": -82.7137327,
+  "name": "Fort White, Columbia County, Florida, 32038, United States",
+  "drive_min": 407,
+  "drive_mi": 449,
+  "drive_min_clemson": 378,
+  "drive_mi_clemson": 401
+ },
+ "Green Cove Springs|Florida": {
+  "lat": 29.9919779,
+  "lon": -81.6781097,
+  "name": "Green Cove Springs, Clay County, Florida, United States",
+  "drive_min": 358,
+  "drive_mi": 397,
+  "drive_min_clemson": 402,
+  "drive_mi_clemson": 386
+ },
+ "Keystone Heights|Florida": {
+  "lat": 29.7860769,
+  "lon": -82.0314892,
+  "name": "Keystone Heights, Clay County, Florida, United States",
+  "drive_min": 385,
+  "drive_mi": 418,
+  "drive_min_clemson": 420,
+  "drive_mi_clemson": 402
+ },
+ "Lake Butler|Florida": {
+  "lat": 30.0227391,
+  "lon": -82.3395574,
+  "name": "Lake Butler, Union County, Florida, United States",
+  "drive_min": 377,
+  "drive_mi": 417,
+  "drive_min_clemson": 387,
+  "drive_mi_clemson": 406
+ },
+ "Lake City|Florida": {
+  "lat": 30.1894252,
+  "lon": -82.6394803,
+  "name": "Lake City, Columbia County, Florida, United States",
+  "drive_min": 383,
+  "drive_mi": 429,
+  "drive_min_clemson": 361,
+  "drive_mi_clemson": 384
+ },
+ "Macclenny|Florida": {
+  "lat": 30.2821807,
+  "lon": -82.1220569,
+  "name": "Macclenny, Baker County, Florida, 32063, United States",
+  "drive_min": 352,
+  "drive_mi": 387,
+  "drive_min_clemson": 387,
+  "drive_mi_clemson": 371
+ },
+ "Olustee|Florida": {
+  "lat": 30.2041226,
+  "lon": -82.42873,
+  "name": "Olustee, Baker County, Florida, 32027, United States",
+  "drive_min": 369,
+  "drive_mi": 412,
+  "drive_min_clemson": 377,
+  "drive_mi_clemson": 397
+ },
+ "Palatka|Florida": {
+  "lat": 29.6487882,
+  "lon": -81.6372111,
+  "name": "Palatka, Putnam County, Florida, United States",
+  "drive_min": 386,
+  "drive_mi": 429,
+  "drive_min_clemson": 430,
+  "drive_mi_clemson": 412
+ },
+ "Satsuma|Florida": {
+  "lat": 29.5549701,
+  "lon": -81.6559138,
+  "name": "Satsuma, Putnam County, Florida, 32189, United States",
+  "drive_min": 393,
+  "drive_mi": 436,
+  "drive_min_clemson": 440,
+  "drive_mi_clemson": 465
+ },
+ "Starke|Florida": {
+  "lat": 29.9443549,
+  "lon": -82.1101114,
+  "name": "Starke, Bradford County, Florida, 32091, United States",
+  "drive_min": 372,
+  "drive_mi": 405,
+  "drive_min_clemson": 407,
+  "drive_mi_clemson": 389
+ },
+ "Trenton|Florida": {
+  "lat": 29.6132942,
+  "lon": -82.8176203,
+  "name": "Trenton, Gilchrist County, Florida, 32693, United States",
+  "drive_min": 434,
+  "drive_mi": 472,
+  "drive_min_clemson": 406,
+  "drive_mi_clemson": 425
  }
 }
