@@ -17873,5 +17873,95 @@
   "drive_mi": 484,
   "drive_min_clemson": 456,
   "drive_mi_clemson": 486
+ },
+ "Bowling Green|Florida": {
+  "lat": 27.6383673,
+  "lon": -81.8239717,
+  "name": "Bowling Green, Hardee County, Florida, United States",
+  "drive_min": 533,
+  "drive_mi": 583,
+  "drive_min_clemson": 559,
+  "drive_mi_clemson": 598
+ },
+ "Bradenton|Florida": {
+  "lat": 27.4989278,
+  "lon": -82.5748194,
+  "name": "Bradenton, Manatee County, Florida, United States",
+  "drive_min": 557,
+  "drive_mi": 598,
+  "drive_min_clemson": 548,
+  "drive_mi_clemson": 592
+ },
+ "Clermont|Florida": {
+  "lat": 28.5551912,
+  "lon": -81.7669488,
+  "name": "Clermont, Lake County, Florida, 32711, United States",
+  "drive_min": 479,
+  "drive_mi": 534,
+  "drive_min_clemson": 481,
+  "drive_mi_clemson": 517
+ },
+ "Cortez|Florida": {
+  "lat": 27.4639835,
+  "lon": -82.6683316,
+  "name": "Cortez, Manatee County, Florida, 34215, United States",
+  "drive_min": 571,
+  "drive_mi": 606,
+  "drive_min_clemson": 562,
+  "drive_mi_clemson": 599
+ },
+ "Lee|Florida": {
+  "lat": 26.5999265,
+  "lon": -81.8823135,
+  "name": "Lee County, Florida, United States",
+  "drive_min": 625,
+  "drive_mi": 665,
+  "drive_min_clemson": 626,
+  "drive_mi_clemson": 681
+ },
+ "Madison|Florida": {
+  "lat": 30.4514352,
+  "lon": -83.4524524,
+  "name": "Madison County, Florida, United States",
+  "drive_min": 414,
+  "drive_mi": 427,
+  "drive_min_clemson": 344,
+  "drive_mi_clemson": 354
+ },
+ "Monticello|Florida": {
+  "lat": 30.5452022,
+  "lon": -83.8701636,
+  "name": "Monticello, Jefferson County, Florida, United States",
+  "drive_min": 428,
+  "drive_mi": 418,
+  "drive_min_clemson": 342,
+  "drive_mi_clemson": 351
+ },
+ "Stuart|Florida": {
+  "lat": 27.197983,
+  "lon": -80.2519175,
+  "name": "Stuart, Martin County, Florida, United States",
+  "drive_min": 554,
+  "drive_mi": 616,
+  "drive_min_clemson": 601,
+  "drive_mi_clemson": 645
+ },
+ "Vero Beach|Florida": {
+  "lat": 27.6387163,
+  "lon": -80.3975399,
+  "name": "Vero Beach, Indian River County, Florida, United States",
+  "drive_min": 520,
+  "drive_mi": 580,
+  "drive_min_clemson": 568,
+  "drive_mi_clemson": 609
+ },
+ "Wauchula|Florida": {
+  "lat": 27.5472589,
+  "lon": -81.8114715,
+  "name": "Wauchula, Hardee County, Florida, 33873, United States",
+  "drive_min": 540,
+  "drive_mi": 590,
+  "drive_min_clemson": 566,
+  "drive_mi_clemson": 604
  }
 }
