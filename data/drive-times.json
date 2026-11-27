@@ -18422,5 +18422,68 @@
   "drive_mi": 156,
   "drive_min_clemson": 250,
   "drive_mi_clemson": 252
+ },
+ "Buchanan|Virginia": {
+  "lat": 37.2600448,
+  "lon": -82.0320334,
+  "name": "Buchanan County, Virginia, United States",
+  "drive_min": 259,
+  "drive_mi": 251,
+  "drive_min_clemson": 290,
+  "drive_mi_clemson": 256
+ },
+ "Catawba|Virginia": {
+  "lat": 37.3826316,
+  "lon": -80.1094889,
+  "name": "Catawba, Roanoke County, Virginia, United States",
+  "drive_min": 201,
+  "drive_mi": 212,
+  "drive_min_clemson": 306,
+  "drive_mi_clemson": 321
+ },
+ "Eagle Rock|Virginia": {
+  "lat": 37.6408995,
+  "lon": -79.7931964,
+  "name": "Eagle Rock, Botetourt County, Virginia, United States",
+  "drive_min": 223,
+  "drive_mi": 235,
+  "drive_min_clemson": 328,
+  "drive_mi_clemson": 344
+ },
+ "New Castle|Virginia": {
+  "lat": 37.5001335,
+  "lon": -80.1108872,
+  "name": "New Castle, Craig County, Virginia, United States",
+  "drive_min": 218,
+  "drive_mi": 225,
+  "drive_min_clemson": 323,
+  "drive_mi_clemson": 334
+ },
+ "Paint Bank|Virginia": {
+  "lat": 37.5690147,
+  "lon": -80.2620015,
+  "name": "Paint Bank, Craig County, Virginia, 24131, United States",
+  "drive_min": 240,
+  "drive_mi": 222,
+  "drive_min_clemson": 345,
+  "drive_mi_clemson": 331
+ },
+ "Pembroke|Virginia": {
+  "lat": 37.3196202,
+  "lon": -80.6390886,
+  "name": "Pembroke, Giles County, Virginia, United States",
+  "drive_min": 188,
+  "drive_mi": 191,
+  "drive_min_clemson": 293,
+  "drive_mi_clemson": 299
+ },
+ "Salem|Virginia": {
+  "lat": 37.293198,
+  "lon": -80.0556773,
+  "name": "Salem, Virginia, 24153, United States",
+  "drive_min": 193,
+  "drive_mi": 203,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 312
  }
 }
