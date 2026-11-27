@@ -16109,5 +16109,122 @@
   "drive_mi": 289,
   "drive_min_clemson": 243,
   "drive_mi_clemson": 235
+ },
+ "Atoka|Tennessee": {
+  "lat": 35.4411945,
+  "lon": -89.7781379,
+  "name": "Atoka, Tipton County, West Tennessee, Tennessee, United States",
+  "drive_min": 575,
+  "drive_mi": 613,
+  "drive_min_clemson": 480,
+  "drive_mi_clemson": 525
+ },
+ "Bolivar|Tennessee": {
+  "lat": 35.2561937,
+  "lon": -88.9878389,
+  "name": "Bolivar, Hardeman County, West Tennessee, Tennessee, 38008, United States",
+  "drive_min": 546,
+  "drive_mi": 579,
+  "drive_min_clemson": 444,
+  "drive_mi_clemson": 453
+ },
+ "Brownsville|Tennessee": {
+  "lat": 35.5939671,
+  "lon": -89.262291,
+  "name": "Brownsville, Haywood County, West Tennessee, Tennessee, 38012, United States",
+  "drive_min": 532,
+  "drive_mi": 575,
+  "drive_min_clemson": 456,
+  "drive_mi_clemson": 463
+ },
+ "Covington|Tennessee": {
+  "lat": 35.564293,
+  "lon": -89.6465127,
+  "name": "Covington, Tipton County, West Tennessee, Tennessee, 38019, United States",
+  "drive_min": 561,
+  "drive_mi": 597,
+  "drive_min_clemson": 485,
+  "drive_mi_clemson": 485
+ },
+ "Fisherville|Tennessee": {
+  "lat": 35.1592558,
+  "lon": -89.6636923,
+  "name": "Fisherville, Shelby County, West Tennessee, Tennessee, 38028, United States",
+  "drive_min": 566,
+  "drive_mi": 616,
+  "drive_min_clemson": 452,
+  "drive_mi_clemson": 501
+ },
+ "Grand Junction|Tennessee": {
+  "lat": 35.0489782,
+  "lon": -89.1870119,
+  "name": "Grand Junction, Hardeman County, West Tennessee, Tennessee, United States",
+  "drive_min": 558,
+  "drive_mi": 603,
+  "drive_min_clemson": 446,
+  "drive_mi_clemson": 487
+ },
+ "Halls|Tennessee": {
+  "lat": 35.8756723,
+  "lon": -89.3945909,
+  "name": "Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States",
+  "drive_min": 557,
+  "drive_mi": 589,
+  "drive_min_clemson": 481,
+  "drive_mi_clemson": 477
+ },
+ "Henning|Tennessee": {
+  "lat": 35.6728565,
+  "lon": -89.5734096,
+  "name": "Henning, Lauderdale County, West Tennessee, Tennessee, United States",
+  "drive_min": 563,
+  "drive_mi": 596,
+  "drive_min_clemson": 488,
+  "drive_mi_clemson": 484
+ },
+ "Hornsby|Tennessee": {
+  "lat": 35.2275831,
+  "lon": -88.8295009,
+  "name": "Hornsby, Hardeman County, West Tennessee, Tennessee, United States",
+  "drive_min": 547,
+  "drive_mi": 560,
+  "drive_min_clemson": 435,
+  "drive_mi_clemson": 443
+ },
+ "Moscow|Tennessee": {
+  "lat": 35.0619984,
+  "lon": -89.4039612,
+  "name": "Moscow, Fayette County, West Tennessee, Tennessee, 38057, United States",
+  "drive_min": 563,
+  "drive_mi": 601,
+  "drive_min_clemson": 451,
+  "drive_mi_clemson": 485
+ },
+ "Ripley|Tennessee": {
+  "lat": 35.7453551,
+  "lon": -89.5297973,
+  "name": "Ripley, Lauderdale County, West Tennessee, Tennessee, 38063, United States",
+  "drive_min": 558,
+  "drive_mi": 594,
+  "drive_min_clemson": 483,
+  "drive_mi_clemson": 482
+ },
+ "Rossville|Tennessee": {
+  "lat": 35.0484242,
+  "lon": -89.5425786,
+  "name": "Rossville, Fayette County, West Tennessee, Tennessee, United States",
+  "drive_min": 561,
+  "drive_mi": 599,
+  "drive_min_clemson": 450,
+  "drive_mi_clemson": 497
+ },
+ "Somerville|Tennessee": {
+  "lat": 35.2436969,
+  "lon": -89.3500714,
+  "name": "Somerville, Fayette County, West Tennessee, Tennessee, United States",
+  "drive_min": 555,
+  "drive_mi": 597,
+  "drive_min_clemson": 479,
+  "drive_mi_clemson": 485
  }
 }
