@@ -14264,5 +14264,122 @@
   "drive_mi": 343,
   "drive_min_clemson": 268,
   "drive_mi_clemson": 276
+ },
+ "Abbeville|Georgia": {
+  "lat": 31.9921223,
+  "lon": -83.3068243,
+  "name": "Abbeville, Wilcox County, Georgia, 31001, United States",
+  "drive_min": 300,
+  "drive_mi": 301,
+  "drive_min_clemson": 252,
+  "drive_mi_clemson": 249
+ },
+ "Adel|Georgia": {
+  "lat": 31.1371358,
+  "lon": -83.4234936,
+  "name": "Adel, Cook County, Georgia, 31620, United States",
+  "drive_min": 374,
+  "drive_mi": 364,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 300
+ },
+ "Alma|Georgia": {
+  "lat": 31.5393701,
+  "lon": -82.4623557,
+  "name": "Alma, Bacon County, Georgia, 31510, United States",
+  "drive_min": 291,
+  "drive_mi": 303,
+  "drive_min_clemson": 267,
+  "drive_mi_clemson": 265
+ },
+ "Ashburn|Georgia": {
+  "lat": 31.7059751,
+  "lon": -83.6535591,
+  "name": "Ashburn, Turner County, Georgia, 31714, United States",
+  "drive_min": 333,
+  "drive_mi": 354,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 258
+ },
+ "Broxton|Georgia": {
+  "lat": 31.6253346,
+  "lon": -82.8866264,
+  "name": "Broxton, Coffee County, Georgia, United States",
+  "drive_min": 307,
+  "drive_mi": 309,
+  "drive_min_clemson": 268,
+  "drive_mi_clemson": 268
+ },
+ "Douglas|Georgia": {
+  "lat": 33.6995565,
+  "lon": -84.7622973,
+  "name": "Douglas County, Georgia, United States",
+  "drive_min": 258,
+  "drive_mi": 266,
+  "drive_min_clemson": 146,
+  "drive_mi_clemson": 150
+ },
+ "Hazlehurst|Georgia": {
+  "lat": 31.8696309,
+  "lon": -82.5943026,
+  "name": "Hazlehurst, Jeff Davis County, Georgia, United States",
+  "drive_min": 282,
+  "drive_mi": 278,
+  "drive_min_clemson": 257,
+  "drive_mi_clemson": 248
+ },
+ "Irwinville|Georgia": {
+  "lat": 31.6482408,
+  "lon": -83.3826591,
+  "name": "Irwinville, Irwin County, Georgia, 31760, United States",
+  "drive_min": 333,
+  "drive_mi": 327,
+  "drive_min_clemson": 273,
+  "drive_mi_clemson": 275
+ },
+ "McRae-Helena|Georgia": {
+  "lat": 32.0679541,
+  "lon": -82.9006993,
+  "name": "McRae–Helena, Telfair County, Georgia, 31055, United States",
+  "drive_min": 274,
+  "drive_mi": 276,
+  "drive_min_clemson": 234,
+  "drive_mi_clemson": 235
+ },
+ "Nicholls|Georgia": {
+  "lat": 31.5174219,
+  "lon": -82.6348602,
+  "name": "Nicholls, Coffee County, Georgia, United States",
+  "drive_min": 304,
+  "drive_mi": 306,
+  "drive_min_clemson": 279,
+  "drive_mi_clemson": 276
+ },
+ "Ocilla|Georgia": {
+  "lat": 31.5943567,
+  "lon": -83.2504328,
+  "name": "Ocilla, Irwin County, Georgia, United States",
+  "drive_min": 327,
+  "drive_mi": 324,
+  "drive_min_clemson": 285,
+  "drive_mi_clemson": 289
+ },
+ "Rochelle|Georgia": {
+  "lat": 31.9510105,
+  "lon": -83.4562744,
+  "name": "Rochelle, Wilcox County, Georgia, United States",
+  "drive_min": 309,
+  "drive_mi": 311,
+  "drive_min_clemson": 250,
+  "drive_mi_clemson": 256
+ },
+ "Sylvester|Georgia": {
+  "lat": 31.5261739,
+  "lon": -83.8365961,
+  "name": "Sylvester, Worth County, Georgia, United States",
+  "drive_min": 353,
+  "drive_mi": 366,
+  "drive_min_clemson": 270,
+  "drive_mi_clemson": 270
  }
 }
