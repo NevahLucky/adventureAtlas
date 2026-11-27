@@ -17729,5 +17729,149 @@
   "drive_mi": 472,
   "drive_min_clemson": 406,
   "drive_mi_clemson": 425
+ },
+ "Apopka|Florida": {
+  "lat": 28.6732806,
+  "lon": -81.5116471,
+  "name": "Apopka, Orange County, Florida, United States",
+  "drive_min": 460,
+  "drive_mi": 513,
+  "drive_min_clemson": 493,
+  "drive_mi_clemson": 535
+ },
+ "Arcadia|Florida": {
+  "lat": 27.2158826,
+  "lon": -81.8584164,
+  "name": "Arcadia, DeSoto County, Florida, United States",
+  "drive_min": 566,
+  "drive_mi": 614,
+  "drive_min_clemson": 590,
+  "drive_mi_clemson": 635
+ },
+ "Bushnell|Florida": {
+  "lat": 28.6644827,
+  "lon": -82.1117399,
+  "name": "Bushnell, Sumter County, Florida, United States",
+  "drive_min": 470,
+  "drive_mi": 505,
+  "drive_min_clemson": 461,
+  "drive_mi_clemson": 499
+ },
+ "Clewiston|Florida": {
+  "lat": 26.7542264,
+  "lon": -80.9342307,
+  "name": "Clewiston, Hendry County, Florida, United States",
+  "drive_min": 619,
+  "drive_mi": 676,
+  "drive_min_clemson": 647,
+  "drive_mi_clemson": 686
+ },
+ "Fernandina Beach|Florida": {
+  "lat": 30.6712285,
+  "lon": -81.4630025,
+  "name": "Fernandina Beach, Nassau County, Florida, United States",
+  "drive_min": 326,
+  "drive_mi": 358,
+  "drive_min_clemson": 372,
+  "drive_mi_clemson": 369
+ },
+ "Flagler Beach|Florida": {
+  "lat": 29.4749927,
+  "lon": -81.1269982,
+  "name": "Flagler Beach, Flagler County, Florida, United States",
+  "drive_min": 393,
+  "drive_mi": 439,
+  "drive_min_clemson": 441,
+  "drive_mi_clemson": 468
+ },
+ "Kenansville|Florida": {
+  "lat": 27.8764138,
+  "lon": -80.9878408,
+  "name": "Kenansville, Osceola County, Florida, United States",
+  "drive_min": 525,
+  "drive_mi": 581,
+  "drive_min_clemson": 552,
+  "drive_mi_clemson": 588
+ },
+ "Kissimmee|Florida": {
+  "lat": 28.2918995,
+  "lon": -81.4075838,
+  "name": "Kissimmee, Osceola County, Florida, United States",
+  "drive_min": 481,
+  "drive_mi": 531,
+  "drive_min_clemson": 510,
+  "drive_mi_clemson": 549
+ },
+ "LaBelle|Florida": {
+  "lat": 26.7615384,
+  "lon": -81.4385828,
+  "name": "LaBelle, Hendry County, Florida, 33935, United States",
+  "drive_min": 605,
+  "drive_mi": 648,
+  "drive_min_clemson": 631,
+  "drive_mi_clemson": 662
+ },
+ "Moore Haven|Florida": {
+  "lat": 26.8331174,
+  "lon": -81.0931234,
+  "name": "Moore Haven, Glades County, Florida, United States",
+  "drive_min": 604,
+  "drive_mi": 661,
+  "drive_min_clemson": 631,
+  "drive_mi_clemson": 671
+ },
+ "Okeechobee|Florida": {
+  "lat": 27.3923408,
+  "lon": -80.8873655,
+  "name": "Okeechobee County, Florida, United States",
+  "drive_min": 553,
+  "drive_mi": 608,
+  "drive_min_clemson": 582,
+  "drive_mi_clemson": 626
+ },
+ "Palm Coast|Florida": {
+  "lat": 29.5541432,
+  "lon": -81.2207673,
+  "name": "Palm Coast, Flagler County, Florida, United States",
+  "drive_min": 383,
+  "drive_mi": 430,
+  "drive_min_clemson": 430,
+  "drive_mi_clemson": 459
+ },
+ "Palmdale|Florida": {
+  "lat": 26.9453358,
+  "lon": -81.3161838,
+  "name": "Palmdale, Glades County, Florida, United States",
+  "drive_min": 588,
+  "drive_mi": 633,
+  "drive_min_clemson": 614,
+  "drive_mi_clemson": 647
+ },
+ "Sanford|Florida": {
+  "lat": 28.8117345,
+  "lon": -81.2680223,
+  "name": "Sanford, Seminole County, Florida, United States",
+  "drive_min": 438,
+  "drive_mi": 490,
+  "drive_min_clemson": 485,
+  "drive_mi_clemson": 520
+ },
+ "Sebring|Florida": {
+  "lat": 27.4957453,
+  "lon": -81.4410425,
+  "name": "Sebring, Highlands County, Florida, United States",
+  "drive_min": 549,
+  "drive_mi": 593,
+  "drive_min_clemson": 575,
+  "drive_mi_clemson": 607
+ },
+ "The Villages|Florida": {
+  "lat": 28.9269978,
+  "lon": -82.0041758,
+  "name": "The Villages, Sumter County, Florida, United States",
+  "drive_min": 460,
+  "drive_mi": 484,
+  "drive_min_clemson": 456,
+  "drive_mi_clemson": 486
  }
 }
