@@ -2033,7 +2033,11 @@
  "Asbury Park|New Jersey": {
   "lat": 40.2203907,
   "lon": -74.0120817,
-  "name": "Asbury Park, Monmouth County, New Jersey, 07711, United States"
+  "name": "Asbury Park, Monmouth County, New Jersey, 07711, United States",
+  "drive_min": 739,
+  "drive_mi": 622,
+  "drive_min_clemson": 872,
+  "drive_mi_clemson": 734
  },
  "Ashland|Oregon": {
   "lat": 42.1972487,
@@ -2048,7 +2052,11 @@
  "Atlantic City|New Jersey": {
   "lat": 39.3642852,
   "lon": -74.4229351,
-  "name": "Atlantic City, Atlantic County, New Jersey, United States"
+  "name": "Atlantic City, Atlantic County, New Jersey, United States",
+  "drive_min": 711,
+  "drive_mi": 589,
+  "drive_min_clemson": 845,
+  "drive_mi_clemson": 701
  },
  "Austin|Minnesota": {
   "lat": 43.6679992,
@@ -2182,7 +2190,11 @@
  "Boston|Massachusetts": {
   "lat": 42.3588336,
   "lon": -71.0578303,
-  "name": "Boston, Suffolk County, Massachusetts, United States"
+  "name": "Boston, Suffolk County, Massachusetts, United States",
+  "drive_min": 1028,
+  "drive_mi": 851,
+  "drive_min_clemson": 1161,
+  "drive_mi_clemson": 963
  },
  "Boulder City|Nevada": {
   "lat": 35.9787649,
@@ -2275,7 +2287,11 @@
  "Cape May|New Jersey": {
   "lat": 39.1765386,
   "lon": -74.8012119,
-  "name": "Cape May County, New Jersey, United States"
+  "name": "Cape May County, New Jersey, United States",
+  "drive_min": 701,
+  "drive_mi": 582,
+  "drive_min_clemson": 835,
+  "drive_mi_clemson": 694
  },
  "Carlsbad|New Mexico": {
   "lat": 32.4257456,
@@ -2332,7 +2348,11 @@
  "Chatsworth|New Jersey": {
   "lat": 39.8176178,
   "lon": -74.5348749,
-  "name": "Chatsworth, Woodland Township, Burlington County, New Jersey, 08019, United Stat"
+  "name": "Chatsworth, Woodland Township, Burlington County, New Jersey, 08019, United Stat",
+  "drive_min": 703,
+  "drive_mi": 587,
+  "drive_min_clemson": 837,
+  "drive_mi_clemson": 699
  },
  "Cheyenne|Wyoming": {
   "lat": 41.139981,
@@ -2386,7 +2406,11 @@
  "Columbia|New Jersey": {
   "lat": 40.9257935,
   "lon": -75.0941913,
-  "name": "Columbia, Knowlton Township, Warren County, New Jersey, United States"
+  "name": "Columbia, Knowlton Township, Warren County, New Jersey, United States",
+  "drive_min": 708,
+  "drive_mi": 605,
+  "drive_min_clemson": 841,
+  "drive_mi_clemson": 714
  },
  "Columbus|Ohio": {
   "lat": 39.9622601,
@@ -2733,7 +2757,11 @@
  "Hamilton|New Jersey": {
   "lat": 40.2552939,
   "lon": -74.7038183,
-  "name": "Hamilton, American Metro Boulevard, East Trenton Heights, Hamilton Township, Mer"
+  "name": "Hamilton, American Metro Boulevard, East Trenton Heights, Hamilton Township, Mer",
+  "drive_min": 698,
+  "drive_mi": 589,
+  "drive_min_clemson": 832,
+  "drive_mi_clemson": 701
  },
  "Hana|Hawaii": {
   "lat": 20.7671042,
@@ -2825,7 +2853,11 @@
  "Jackson|New Jersey": {
   "lat": 39.7765048,
   "lon": -74.8623849,
-  "name": "Jackson, Waterford Township, Camden County, New Jersey, 08004, United States"
+  "name": "Jackson, Waterford Township, Camden County, New Jersey, 08004, United States",
+  "drive_min": 676,
+  "drive_mi": 567,
+  "drive_min_clemson": 810,
+  "drive_mi_clemson": 679
  },
  "Johnson Valley|California": {
   "lat": 34.3606833,
@@ -2945,7 +2977,11 @@
  "Layton|New Jersey": {
   "lat": 41.2197665,
   "lon": -74.827267,
-  "name": "Layton, Sandyston Township, Sussex County, New Jersey, United States"
+  "name": "Layton, Sandyston Township, Sussex County, New Jersey, United States",
+  "drive_min": 760,
+  "drive_mi": 640,
+  "drive_min_clemson": 892,
+  "drive_mi_clemson": 748
  },
  "Leavenworth|Washington": {
   "lat": 47.5969138,
@@ -2964,7 +3000,11 @@
  "Lenox|Massachusetts": {
   "lat": 42.3568223,
   "lon": -73.2850851,
-  "name": "Lenox, Berkshire County, Massachusetts, United States"
+  "name": "Lenox, Berkshire County, Massachusetts, United States",
+  "drive_min": 938,
+  "drive_mi": 801,
+  "drive_min_clemson": 1070,
+  "drive_mi_clemson": 910
  },
  "Lewes|Delaware": {
   "lat": 38.7733961,
@@ -3066,7 +3106,11 @@
  "Margate|New Jersey": {
   "lat": 39.327894,
   "lon": -74.5034858,
-  "name": "Margate City, Atlantic County, New Jersey, United States"
+  "name": "Margate City, Atlantic County, New Jersey, United States",
+  "drive_min": 710,
+  "drive_mi": 587,
+  "drive_min_clemson": 844,
+  "drive_mi_clemson": 699
  },
  "Marshall|Indiana": {
   "lat": 41.322843,
@@ -3215,7 +3259,11 @@
  "Nantucket|Massachusetts": {
   "lat": 41.2844408,
   "lon": -70.09842,
-  "name": "Nantucket, Massachusetts, United States"
+  "name": "Nantucket, Massachusetts, United States",
+  "drive_min": 1223,
+  "drive_mi": 920,
+  "drive_min_clemson": 1357,
+  "drive_mi_clemson": 1032
  },
  "Natchez|Mississippi": {
   "lat": 31.5604076,
@@ -3477,7 +3525,11 @@
  "Plymouth|Massachusetts": {
   "lat": 41.9426657,
   "lon": -70.7618592,
-  "name": "Plymouth County, Massachusetts, United States"
+  "name": "Plymouth County, Massachusetts, United States",
+  "drive_min": 1039,
+  "drive_mi": 853,
+  "drive_min_clemson": 1173,
+  "drive_mi_clemson": 964
  },
  "Ponca|Arkansas": {
   "lat": 36.0242433,
@@ -3521,7 +3573,11 @@
  "Provincetown|Massachusetts": {
   "lat": 42.0525612,
   "lon": -70.1858639,
-  "name": "Provincetown, Barnstable County, Massachusetts, 02657, United States"
+  "name": "Provincetown, Barnstable County, Massachusetts, 02657, United States",
+  "drive_min": 1156,
+  "drive_mi": 936,
+  "drive_min_clemson": 1289,
+  "drive_mi_clemson": 1048
  },
  "Pullman|Washington": {
   "lat": 46.7295818,
@@ -3604,7 +3660,11 @@
  "Salem|Massachusetts": {
   "lat": 42.5214439,
   "lon": -70.8956743,
-  "name": "Salem, Essex County, Massachusetts, 01970, United States"
+  "name": "Salem, Essex County, Massachusetts, 01970, United States",
+  "drive_min": 1052,
+  "drive_mi": 867,
+  "drive_min_clemson": 1186,
+  "drive_mi_clemson": 979
  },
  "Salem|New Hampshire": {
   "lat": 42.7884957,
@@ -3755,7 +3815,11 @@
  "Somerville|Massachusetts": {
   "lat": 42.3875968,
   "lon": -71.0994968,
-  "name": "Somerville, Middlesex County, Massachusetts, United States"
+  "name": "Somerville, Middlesex County, Massachusetts, United States",
+  "drive_min": 1029,
+  "drive_mi": 849,
+  "drive_min_clemson": 1163,
+  "drive_mi_clemson": 961
  },
  "Speedway|Indiana": {
   "lat": 39.7881233,
@@ -4074,7 +4138,11 @@
  "Williamsburg|Massachusetts": {
   "lat": 42.3926274,
   "lon": -72.7302473,
-  "name": "Williamsburg, Hampshire County, Massachusetts, United States"
+  "name": "Williamsburg, Hampshire County, Massachusetts, United States",
+  "drive_min": 977,
+  "drive_mi": 804,
+  "drive_min_clemson": 1111,
+  "drive_mi_clemson": 916
  },
  "Williston|Florida": {
   "lat": 29.3880028,
@@ -7718,5 +7786,446 @@
   "drive_mi": 574,
   "drive_min_clemson": 807,
   "drive_mi_clemson": 682
+ },
+ "Amherst|Massachusetts": {
+  "lat": 42.3731948,
+  "lon": -72.5198761,
+  "name": "Amherst, Hampshire County, Massachusetts, United States",
+  "drive_min": 975,
+  "drive_mi": 803,
+  "drive_min_clemson": 1109,
+  "drive_mi_clemson": 915
+ },
+ "Aquinnah|Massachusetts": {
+  "lat": 41.3431359,
+  "lon": -70.8136754,
+  "name": "Aquinnah, Dukes County, Massachusetts, United States",
+  "drive_min": 1159,
+  "drive_mi": 914,
+  "drive_min_clemson": 1292,
+  "drive_mi_clemson": 1026
+ },
+ "Brewster|Massachusetts": {
+  "lat": 41.7601093,
+  "lon": -70.082796,
+  "name": "Brewster, Barnstable County, Massachusetts, 02631, United States",
+  "drive_min": 1103,
+  "drive_mi": 904,
+  "drive_min_clemson": 1237,
+  "drive_mi_clemson": 1015
+ },
+ "Cambridge|Massachusetts": {
+  "lat": 42.3656347,
+  "lon": -71.1040018,
+  "name": "Cambridge, Middlesex County, Massachusetts, United States",
+  "drive_min": 1023,
+  "drive_mi": 848,
+  "drive_min_clemson": 1156,
+  "drive_mi_clemson": 959
+ },
+ "Carver|Massachusetts": {
+  "lat": 41.8894422,
+  "lon": -70.7693304,
+  "name": "Carver, Plymouth County, Massachusetts, 02330, United States",
+  "drive_min": 1041,
+  "drive_mi": 853,
+  "drive_min_clemson": 1175,
+  "drive_mi_clemson": 965
+ },
+ "Concord|Massachusetts": {
+  "lat": 42.4605189,
+  "lon": -71.3488963,
+  "name": "Concord, Middlesex County, Massachusetts, 01742, United States",
+  "drive_min": 1029,
+  "drive_mi": 843,
+  "drive_min_clemson": 1162,
+  "drive_mi_clemson": 955
+ },
+ "Deerfield|Massachusetts": {
+  "lat": 42.5436951,
+  "lon": -72.6046649,
+  "name": "Deerfield, Franklin County, Massachusetts, United States",
+  "drive_min": 982,
+  "drive_mi": 813,
+  "drive_min_clemson": 1116,
+  "drive_mi_clemson": 925
+ },
+ "Fall River|Massachusetts": {
+  "lat": 41.7010642,
+  "lon": -71.1546367,
+  "name": "Fall River, Bristol County, Massachusetts, United States",
+  "drive_min": 1009,
+  "drive_mi": 834,
+  "drive_min_clemson": 1142,
+  "drive_mi_clemson": 945
+ },
+ "Hyannis|Massachusetts": {
+  "lat": 41.6535345,
+  "lon": -70.2823287,
+  "name": "Hyannis, Barnstable, Barnstable County, Massachusetts, United States",
+  "drive_min": 1086,
+  "drive_mi": 892,
+  "drive_min_clemson": 1220,
+  "drive_mi_clemson": 1003
+ },
+ "Ipswich|Massachusetts": {
+  "lat": 42.679273,
+  "lon": -70.8411583,
+  "name": "Ipswich, Essex County, Massachusetts, 01938, United States",
+  "drive_min": 1070,
+  "drive_mi": 879,
+  "drive_min_clemson": 1204,
+  "drive_mi_clemson": 991
+ },
+ "Menemsha|Massachusetts": {
+  "lat": 41.3517792,
+  "lon": -70.7641952,
+  "name": "Menemsha, Chilmark, Dukes County, Massachusetts, 02552, United States",
+  "drive_min": 1153,
+  "drive_mi": 908,
+  "drive_min_clemson": 1287,
+  "drive_mi_clemson": 1020
+ },
+ "Milton|Massachusetts": {
+  "lat": 42.2501425,
+  "lon": -71.065573,
+  "name": "Milton, Norfolk County, Massachusetts, United States",
+  "drive_min": 1035,
+  "drive_mi": 860,
+  "drive_min_clemson": 1169,
+  "drive_mi_clemson": 971
+ },
+ "New Bedford|Massachusetts": {
+  "lat": 41.6362152,
+  "lon": -70.934205,
+  "name": "New Bedford, Bristol County, Massachusetts, United States",
+  "drive_min": 1026,
+  "drive_mi": 847,
+  "drive_min_clemson": 1160,
+  "drive_mi_clemson": 959
+ },
+ "North Adams|Massachusetts": {
+  "lat": 42.6990349,
+  "lon": -73.1118997,
+  "name": "North Adams, Berkshire County, Massachusetts, 01247, United States",
+  "drive_min": 975,
+  "drive_mi": 820,
+  "drive_min_clemson": 1107,
+  "drive_mi_clemson": 929
+ },
+ "Northampton|Massachusetts": {
+  "lat": 42.3178989,
+  "lon": -72.6311006,
+  "name": "Northampton, Hampshire County, Massachusetts, United States",
+  "drive_min": 962,
+  "drive_mi": 796,
+  "drive_min_clemson": 1095,
+  "drive_mi_clemson": 908
+ },
+ "Pittsfield|Massachusetts": {
+  "lat": 42.4484778,
+  "lon": -73.2541069,
+  "name": "Pittsfield, Berkshire County, Massachusetts, United States",
+  "drive_min": 940,
+  "drive_mi": 806,
+  "drive_min_clemson": 1072,
+  "drive_mi_clemson": 914
+ },
+ "Quincy|Massachusetts": {
+  "lat": 42.2509914,
+  "lon": -71.0037374,
+  "name": "Quincy, Norfolk County, Massachusetts, United States",
+  "drive_min": 1037,
+  "drive_mi": 861,
+  "drive_min_clemson": 1171,
+  "drive_mi_clemson": 973
+ },
+ "Shelburne Falls|Massachusetts": {
+  "lat": 42.6035589,
+  "lon": -72.7394623,
+  "name": "Shelburne Falls, Shelburne, Franklin County, Massachusetts, 01370, United States",
+  "drive_min": 997,
+  "drive_mi": 825,
+  "drive_min_clemson": 1131,
+  "drive_mi_clemson": 937
+ },
+ "Springfield|Massachusetts": {
+  "lat": 42.1018764,
+  "lon": -72.5886727,
+  "name": "Springfield, Hampden County, Massachusetts, United States",
+  "drive_min": 939,
+  "drive_mi": 778,
+  "drive_min_clemson": 1073,
+  "drive_mi_clemson": 890
+ },
+ "Sturbridge|Massachusetts": {
+  "lat": 42.1084385,
+  "lon": -72.0807772,
+  "name": "Sturbridge, Worcester County, Massachusetts, United States",
+  "drive_min": 958,
+  "drive_mi": 792,
+  "drive_min_clemson": 1091,
+  "drive_mi_clemson": 904
+ },
+ "Sutton|Massachusetts": {
+  "lat": 42.1499283,
+  "lon": -71.7629658,
+  "name": "Sutton, Worcester County, Massachusetts, 01590, United States",
+  "drive_min": 984,
+  "drive_mi": 815,
+  "drive_min_clemson": 1118,
+  "drive_mi_clemson": 926
+ },
+ "Williamstown|Massachusetts": {
+  "lat": 42.7135472,
+  "lon": -73.2094566,
+  "name": "Williamstown, Berkshire County, Massachusetts, 01267, United States",
+  "drive_min": 962,
+  "drive_mi": 815,
+  "drive_min_clemson": 1094,
+  "drive_mi_clemson": 923
+ },
+ "Worcester|Massachusetts": {
+  "lat": 42.2625621,
+  "lon": -71.8018877,
+  "name": "Worcester, Worcester County, Massachusetts, United States",
+  "drive_min": 981,
+  "drive_mi": 813,
+  "drive_min_clemson": 1115,
+  "drive_mi_clemson": 924
+ },
+ "Camden|New Jersey": {
+  "lat": 39.9440874,
+  "lon": -75.1191932,
+  "name": "Camden, Camden County, New Jersey, United States",
+  "drive_min": 658,
+  "drive_mi": 554,
+  "drive_min_clemson": 792,
+  "drive_mi_clemson": 666
+ },
+ "Clinton|New Jersey": {
+  "lat": 40.6362878,
+  "lon": -74.9116603,
+  "name": "Clinton, Hunterdon County, New Jersey, 08809, United States",
+  "drive_min": 697,
+  "drive_mi": 608,
+  "drive_min_clemson": 829,
+  "drive_mi_clemson": 717
+ },
+ "Edison|New Jersey": {
+  "lat": 40.5005351,
+  "lon": -74.3983939,
+  "name": "Edison, Middlesex County, New Jersey, United States",
+  "drive_min": 722,
+  "drive_mi": 611,
+  "drive_min_clemson": 856,
+  "drive_mi_clemson": 722
+ },
+ "Far Hills|New Jersey": {
+  "lat": 40.684268,
+  "lon": -74.6357148,
+  "name": "Far Hills, Somerset County, New Jersey, United States",
+  "drive_min": 719,
+  "drive_mi": 624,
+  "drive_min_clemson": 851,
+  "drive_mi_clemson": 733
+ },
+ "Fort Lee|New Jersey": {
+  "lat": 40.8509333,
+  "lon": -73.9701382,
+  "name": "Fort Lee, Bergen County, New Jersey, 07024, United States",
+  "drive_min": 766,
+  "drive_mi": 645,
+  "drive_min_clemson": 899,
+  "drive_mi_clemson": 757
+ },
+ "Frenchtown|New Jersey": {
+  "lat": 40.5264167,
+  "lon": -75.0616084,
+  "name": "Frenchtown, Hunterdon County, New Jersey, United States",
+  "drive_min": 701,
+  "drive_mi": 600,
+  "drive_min_clemson": 834,
+  "drive_mi_clemson": 709
+ },
+ "Hammonton|New Jersey": {
+  "lat": 39.6366543,
+  "lon": -74.8027651,
+  "name": "Hammonton, Atlantic County, New Jersey, 08037, United States",
+  "drive_min": 680,
+  "drive_mi": 568,
+  "drive_min_clemson": 814,
+  "drive_mi_clemson": 680
+ },
+ "Heislerville|New Jersey": {
+  "lat": 39.2204525,
+  "lon": -74.9917262,
+  "name": "Heislerville, Maurice River Township, Cumberland County, New Jersey, 08324, Unit",
+  "drive_min": 689,
+  "drive_mi": 574,
+  "drive_min_clemson": 823,
+  "drive_mi_clemson": 686
+ },
+ "Highlands|New Jersey": {
+  "lat": 40.40372,
+  "lon": -73.991527,
+  "name": "Highlands, Monmouth County, New Jersey, 07732, United States",
+  "drive_min": 756,
+  "drive_mi": 627,
+  "drive_min_clemson": 890,
+  "drive_mi_clemson": 739
+ },
+ "Hillsborough|New Jersey": {
+  "lat": 40.5052296,
+  "lon": -74.6732941,
+  "name": "Hillsborough Township, Somerset County, New Jersey, United States",
+  "drive_min": 732,
+  "drive_mi": 630,
+  "drive_min_clemson": 864,
+  "drive_mi_clemson": 739
+ },
+ "Jersey City|New Jersey": {
+  "lat": 40.7215682,
+  "lon": -74.047455,
+  "name": "Jersey City, Hudson County, New Jersey, United States",
+  "drive_min": 755,
+  "drive_mi": 637,
+  "drive_min_clemson": 889,
+  "drive_mi_clemson": 749
+ },
+ "Kingston|New Jersey": {
+  "lat": 40.373057,
+  "lon": -74.6055114,
+  "name": "Kingston, South Brunswick, Middlesex County, New Jersey, United States",
+  "drive_min": 714,
+  "drive_mi": 600,
+  "drive_min_clemson": 847,
+  "drive_mi_clemson": 712
+ },
+ "Millville|New Jersey": {
+  "lat": 39.4020593,
+  "lon": -75.0393368,
+  "name": "Millville, Cumberland County, New Jersey, United States",
+  "drive_min": 667,
+  "drive_mi": 561,
+  "drive_min_clemson": 801,
+  "drive_mi_clemson": 673
+ },
+ "Morristown|New Jersey": {
+  "lat": 40.7970382,
+  "lon": -74.4809868,
+  "name": "Morristown, Morris County, New Jersey, United States",
+  "drive_min": 733,
+  "drive_mi": 638,
+  "drive_min_clemson": 866,
+  "drive_mi_clemson": 746
+ },
+ "Mountainside|New Jersey": {
+  "lat": 40.6723242,
+  "lon": -74.3573722,
+  "name": "Mountainside, Union County, New Jersey, 07092, United States",
+  "drive_min": 737,
+  "drive_mi": 639,
+  "drive_min_clemson": 869,
+  "drive_mi_clemson": 748
+ },
+ "Mullica Hill|New Jersey": {
+  "lat": 39.728986,
+  "lon": -75.2187865,
+  "name": "Mullica Hill, Harrison Township, Gloucester County, New Jersey, 08062, United St",
+  "drive_min": 646,
+  "drive_mi": 542,
+  "drive_min_clemson": 780,
+  "drive_mi_clemson": 654
+ },
+ "National Park|New Jersey": {
+  "lat": 39.865968,
+  "lon": -75.1796351,
+  "name": "National Park, Gloucester County, New Jersey, 08063, United States",
+  "drive_min": 648,
+  "drive_mi": 547,
+  "drive_min_clemson": 782,
+  "drive_mi_clemson": 659
+ },
+ "Newark|New Jersey": {
+  "lat": 40.735657,
+  "lon": -74.1723667,
+  "name": "Newark, Essex County, New Jersey, United States",
+  "drive_min": 748,
+  "drive_mi": 650,
+  "drive_min_clemson": 880,
+  "drive_mi_clemson": 759
+ },
+ "Paterson|New Jersey": {
+  "lat": 40.9167654,
+  "lon": -74.171811,
+  "name": "Paterson, Passaic County, New Jersey, United States",
+  "drive_min": 758,
+  "drive_mi": 659,
+  "drive_min_clemson": 891,
+  "drive_mi_clemson": 768
+ },
+ "Pennsville|New Jersey": {
+  "lat": 39.6534464,
+  "lon": -75.5165881,
+  "name": "Pennsville Township, Salem County, New Jersey, 08070, United States",
+  "drive_min": 626,
+  "drive_mi": 527,
+  "drive_min_clemson": 759,
+  "drive_mi_clemson": 639
+ },
+ "Pilesgrove|New Jersey": {
+  "lat": 39.651565,
+  "lon": -75.2853859,
+  "name": "Pilesgrove Township, Salem County, New Jersey, 25481, United States",
+  "drive_min": 640,
+  "drive_mi": 537,
+  "drive_min_clemson": 774,
+  "drive_mi_clemson": 649
+ },
+ "Ringwood|New Jersey": {
+  "lat": 41.113429,
+  "lon": -74.2454254,
+  "name": "Ringwood, Passaic County, New Jersey, 07456, United States",
+  "drive_min": 771,
+  "drive_mi": 665,
+  "drive_min_clemson": 903,
+  "drive_mi_clemson": 773
+ },
+ "Seaside Park|New Jersey": {
+  "lat": 39.9267832,
+  "lon": -74.0763847,
+  "name": "Seaside Park, Ocean County, New Jersey, 08752, United States",
+  "drive_min": 742,
+  "drive_mi": 612,
+  "drive_min_clemson": 876,
+  "drive_mi_clemson": 724
+ },
+ "Tenafly|New Jersey": {
+  "lat": 40.9253766,
+  "lon": -73.9629154,
+  "name": "Tenafly, Bergen County, New Jersey, 07670, United States",
+  "drive_min": 774,
+  "drive_mi": 650,
+  "drive_min_clemson": 908,
+  "drive_mi_clemson": 762
+ },
+ "West Orange|New Jersey": {
+  "lat": 40.7987113,
+  "lon": -74.2390353,
+  "name": "West Orange, Essex County, New Jersey, 07052, United States",
+  "drive_min": 755,
+  "drive_mi": 654,
+  "drive_min_clemson": 887,
+  "drive_mi_clemson": 763
+ },
+ "Westfield|New Jersey": {
+  "lat": 40.651726,
+  "lon": -74.3483059,
+  "name": "Westfield, Union County, New Jersey, 07090, United States",
+  "drive_min": 738,
+  "drive_mi": 639,
+  "drive_min_clemson": 871,
+  "drive_mi_clemson": 748
  }
 }
