@@ -15083,5 +15083,86 @@
   "drive_mi": 336,
   "drive_min_clemson": 299,
   "drive_mi_clemson": 295
+ },
+ "Alamo|Georgia": {
+  "lat": 32.1470777,
+  "lon": -82.7788838,
+  "name": "Alamo, Wheeler County, Georgia, United States",
+  "drive_min": 267,
+  "drive_mi": 275,
+  "drive_min_clemson": 243,
+  "drive_mi_clemson": 236
+ },
+ "Cochran|Georgia": {
+  "lat": 32.3885694,
+  "lon": -83.3570727,
+  "name": "Cochran, Bleckley County, Georgia, 31014, United States",
+  "drive_min": 275,
+  "drive_mi": 274,
+  "drive_min_clemson": 217,
+  "drive_mi_clemson": 215
+ },
+ "Dublin|Georgia": {
+  "lat": 32.5404447,
+  "lon": -82.903754,
+  "name": "Dublin, Laurens County, Georgia, United States",
+  "drive_min": 237,
+  "drive_mi": 241,
+  "drive_min_clemson": 202,
+  "drive_mi_clemson": 200
+ },
+ "Glenwood|Georgia": {
+  "lat": 32.1799008,
+  "lon": -82.6695802,
+  "name": "Glenwood, Wheeler County, Georgia, United States",
+  "drive_min": 260,
+  "drive_mi": 268,
+  "drive_min_clemson": 236,
+  "drive_mi_clemson": 229
+ },
+ "Jeffersonville|Georgia": {
+  "lat": 32.6876606,
+  "lon": -83.3470598,
+  "name": "Jeffersonville, Twiggs County, Georgia, United States",
+  "drive_min": 260,
+  "drive_mi": 264,
+  "drive_min_clemson": 198,
+  "drive_mi_clemson": 187
+ },
+ "Mount Vernon|Georgia": {
+  "lat": 32.1785145,
+  "lon": -82.5945783,
+  "name": "Mount Vernon, Montgomery County, Georgia, 30445, United States",
+  "drive_min": 255,
+  "drive_mi": 263,
+  "drive_min_clemson": 231,
+  "drive_mi_clemson": 225
+ },
+ "Soperton|Georgia": {
+  "lat": 32.3771182,
+  "lon": -82.5923554,
+  "name": "Soperton, Treutlen County, Georgia, 30457, United States",
+  "drive_min": 238,
+  "drive_mi": 249,
+  "drive_min_clemson": 215,
+  "drive_mi_clemson": 210
+ },
+ "Vienna|Georgia": {
+  "lat": 32.0913402,
+  "lon": -83.7964675,
+  "name": "Vienna, Dooly County, Georgia, 31092, United States",
+  "drive_min": 310,
+  "drive_mi": 326,
+  "drive_min_clemson": 227,
+  "drive_mi_clemson": 230
+ },
+ "Wrightsville|Georgia": {
+  "lat": 32.729674,
+  "lon": -82.719384,
+  "name": "Wrightsville, Johnson County, Georgia, 31096, United States",
+  "drive_min": 216,
+  "drive_mi": 223,
+  "drive_min_clemson": 192,
+  "drive_mi_clemson": 185
  }
 }
