@@ -1999,7 +1999,11 @@
  "Alpine|California": {
   "lat": 38.5893934,
   "lon": -119.8345013,
-  "name": "Alpine County, California, United States"
+  "name": "Alpine County, California, United States",
+  "drive_min": 2822,
+  "drive_mi": 2633,
+  "drive_min_clemson": 2732,
+  "drive_mi_clemson": 2518
  },
  "Amarillo|Texas": {
   "lat": 35.20729,
@@ -2013,7 +2017,11 @@
  "Anaheim|California": {
   "lat": 33.8347516,
   "lon": -117.911732,
-  "name": "Anaheim, Orange County, California, United States"
+  "name": "Anaheim, Orange County, California, United States",
+  "drive_min": 2551,
+  "drive_mi": 2413,
+  "drive_min_clemson": 2410,
+  "drive_mi_clemson": 2295
  },
  "Anchorage|Alaska": {
   "lat": 61.2163129,
@@ -2167,7 +2175,11 @@
  "Berkeley|California": {
   "lat": 37.8708393,
   "lon": -122.272863,
-  "name": "Berkeley, Alameda County, California, United States"
+  "name": "Berkeley, Alameda County, California, United States",
+  "drive_min": 2885,
+  "drive_mi": 2710,
+  "drive_min_clemson": 2744,
+  "drive_mi_clemson": 2592
  },
  "Berlin|Maryland": {
   "lat": 38.324505,
@@ -2195,7 +2207,11 @@
  "Big Sur|California": {
   "lat": 36.1437044,
   "lon": -121.564593,
-  "name": "Big Sur, Monterey County, California, United States"
+  "name": "Big Sur, Monterey County, California, United States",
+  "drive_min": 3051,
+  "drive_mi": 2659,
+  "drive_min_clemson": 2910,
+  "drive_mi_clemson": 2541
  },
  "Blackfoot|Idaho": {
   "lat": 43.190039,
@@ -2276,7 +2292,11 @@
  "Burney|California": {
   "lat": 40.8884145,
   "lon": -121.6727826,
-  "name": "Burney, Shasta County, California, 96013, United States"
+  "name": "Burney, Shasta County, California, 96013, United States",
+  "drive_min": 2907,
+  "drive_mi": 2727,
+  "drive_min_clemson": 2826,
+  "drive_mi_clemson": 2667
  },
  "Butte|Montana": {
   "lat": 46.0131505,
@@ -2723,7 +2743,11 @@
  "Fort Bragg|California": {
   "lat": 39.4436579,
   "lon": -123.8057607,
-  "name": "Fort Bragg, Mendocino County, California, 95437, United States"
+  "name": "Fort Bragg, Mendocino County, California, 95437, United States",
+  "drive_min": 3095,
+  "drive_mi": 2849,
+  "drive_min_clemson": 2955,
+  "drive_mi_clemson": 2761
  },
  "Fort Worth|Texas": {
   "lat": 32.753177,
@@ -2756,7 +2780,11 @@
  "Furnace Creek|California": {
   "lat": 36.43435,
   "lon": -116.8628356,
-  "name": "Furnace Creek, Indian Village, Inyo County, California, United States"
+  "name": "Furnace Creek, Indian Village, Inyo County, California, United States",
+  "drive_min": 2477,
+  "drive_mi": 2313,
+  "drive_min_clemson": 2336,
+  "drive_mi_clemson": 2195
  },
  "Gardiner|Wyoming": {
   "lat": 44.9790735,
@@ -2780,7 +2808,11 @@
  "Glendale|California": {
   "lat": 34.1469416,
   "lon": -118.2478471,
-  "name": "Glendale, Los Angeles County, California, United States"
+  "name": "Glendale, Los Angeles County, California, United States",
+  "drive_min": 2554,
+  "drive_mi": 2417,
+  "drive_min_clemson": 2413,
+  "drive_mi_clemson": 2299
  },
  "Glover|Vermont": {
   "lat": 44.7070889,
@@ -2932,7 +2964,11 @@
  "Indio|California": {
   "lat": 33.7192808,
   "lon": -116.2188054,
-  "name": "Indio, Riverside County, California, United States"
+  "name": "Indio, Riverside County, California, United States",
+  "drive_min": 2455,
+  "drive_mi": 2318,
+  "drive_min_clemson": 2314,
+  "drive_mi_clemson": 2201
  },
  "Jackson|New Jersey": {
   "lat": 39.7765048,
@@ -2946,7 +2982,11 @@
  "Johnson Valley|California": {
   "lat": 34.3606833,
   "lon": -116.5334778,
-  "name": "Johnson Valley, San Bernardino County, California, United States"
+  "name": "Johnson Valley, San Bernardino County, California, United States",
+  "drive_min": 2482,
+  "drive_mi": 2333,
+  "drive_min_clemson": 2341,
+  "drive_mi_clemson": 2216
  },
  "Juneau|Alaska": {
   "lat": 58.3019613,
@@ -3130,12 +3170,20 @@
  "Long Beach|California": {
   "lat": 33.7690164,
   "lon": -118.191604,
-  "name": "Long Beach, Los Angeles County, California, United States"
+  "name": "Long Beach, Los Angeles County, California, United States",
+  "drive_min": 2576,
+  "drive_mi": 2434,
+  "drive_min_clemson": 2435,
+  "drive_mi_clemson": 2316
  },
  "Los Angeles|California": {
   "lat": 34.0536923,
   "lon": -118.2427676,
-  "name": "Los Angeles, Los Angeles County, California, United States"
+  "name": "Los Angeles, Los Angeles County, California, United States",
+  "drive_min": 2555,
+  "drive_mi": 2420,
+  "drive_min_clemson": 2414,
+  "drive_mi_clemson": 2302
  },
  "Loveland|Ohio": {
   "lat": 39.2689476,
@@ -3150,7 +3198,11 @@
  "Mammoth Lakes|California": {
   "lat": 37.6432525,
   "lon": -118.9668509,
-  "name": "Mammoth Lakes, Mono County, California, United States"
+  "name": "Mammoth Lakes, Mono County, California, United States",
+  "drive_min": 2733,
+  "drive_mi": 2559,
+  "drive_min_clemson": 2592,
+  "drive_mi_clemson": 2441
  },
  "Mammoth Spring|Arkansas": {
   "lat": 36.4946025,
@@ -3305,7 +3357,11 @@
  "Monterey|California": {
   "lat": 36.2231079,
   "lon": -121.387742,
-  "name": "Monterey County, California, United States"
+  "name": "Monterey County, California, United States",
+  "drive_min": 2824,
+  "drive_mi": 2617,
+  "drive_min_clemson": 2683,
+  "drive_mi_clemson": 2499
  },
  "Moose|Wyoming": {
   "lat": 43.6559315,
@@ -3470,7 +3526,11 @@
  "Niland|California": {
   "lat": 33.2380623,
   "lon": -115.5135487,
-  "name": "Niland, Imperial County, California, United States"
+  "name": "Niland, Imperial County, California, United States",
+  "drive_min": 2440,
+  "drive_mi": 2303,
+  "drive_min_clemson": 2299,
+  "drive_mi_clemson": 2186
  },
  "North Conway|New Hampshire": {
   "lat": 44.037776,
@@ -3503,7 +3563,11 @@
  "Oakland|California": {
   "lat": 37.8044557,
   "lon": -122.271356,
-  "name": "Oakland, Alameda County, California, United States"
+  "name": "Oakland, Alameda County, California, United States",
+  "drive_min": 2877,
+  "drive_mi": 2706,
+  "drive_min_clemson": 2736,
+  "drive_mi_clemson": 2588
  },
  "Oakley|Kansas": {
   "lat": 39.126385,
@@ -3777,7 +3841,11 @@
  "Redcrest|California": {
   "lat": 40.3989695,
   "lon": -123.9462221,
-  "name": "Redcrest, Humboldt County, California, United States"
+  "name": "Redcrest, Humboldt County, California, United States",
+  "drive_min": 3161,
+  "drive_mi": 2910,
+  "drive_min_clemson": 3021,
+  "drive_mi_clemson": 2823
  },
  "Regent|North Dakota": {
   "lat": 46.4216712,
@@ -3853,22 +3921,38 @@
  "San Clemente|California": {
   "lat": 33.4270275,
   "lon": -117.6124179,
-  "name": "San Clemente, Orange County, California, United States"
+  "name": "San Clemente, Orange County, California, United States",
+  "drive_min": 2579,
+  "drive_mi": 2433,
+  "drive_min_clemson": 2438,
+  "drive_mi_clemson": 2316
  },
  "San Diego|California": {
   "lat": 32.7157062,
   "lon": -117.1638284,
-  "name": "San Diego, San Diego County, California, United States"
+  "name": "San Diego, San Diego County, California, United States",
+  "drive_min": 2522,
+  "drive_mi": 2386,
+  "drive_min_clemson": 2381,
+  "drive_mi_clemson": 2268
  },
  "San Francisco|California": {
   "lat": 37.7879363,
   "lon": -122.4075201,
-  "name": "San Francisco, California, United States"
+  "name": "San Francisco, California, United States",
+  "drive_min": 2891,
+  "drive_mi": 2716,
+  "drive_min_clemson": 2750,
+  "drive_mi_clemson": 2598
  },
  "San Jose|California": {
   "lat": 37.3361663,
   "lon": -121.890591,
-  "name": "San Jose, Santa Clara County, California, United States"
+  "name": "San Jose, Santa Clara County, California, United States",
+  "drive_min": 2851,
+  "drive_mi": 2675,
+  "drive_min_clemson": 2710,
+  "drive_mi_clemson": 2558
  },
  "Sandia Park|New Mexico": {
   "lat": 35.1679513,
@@ -3888,7 +3972,11 @@
  "Santa Cruz|California": {
   "lat": 37.050096,
   "lon": -121.99059,
-  "name": "Santa Cruz County, California, United States"
+  "name": "Santa Cruz County, California, United States",
+  "drive_min": 2869,
+  "drive_mi": 2685,
+  "drive_min_clemson": 2728,
+  "drive_mi_clemson": 2568
  },
  "Santa Fe|New Mexico": {
   "lat": 35.6876096,
@@ -3898,12 +3986,20 @@
  "Santa Monica|California": {
   "lat": 34.0194704,
   "lon": -118.491227,
-  "name": "Santa Monica, Los Angeles County, California, United States"
+  "name": "Santa Monica, Los Angeles County, California, United States",
+  "drive_min": 2575,
+  "drive_mi": 2435,
+  "drive_min_clemson": 2434,
+  "drive_mi_clemson": 2318
  },
  "Santa Rosa|California": {
   "lat": 38.4404925,
   "lon": -122.7141049,
-  "name": "Santa Rosa, Sonoma County, California, United States"
+  "name": "Santa Rosa, Sonoma County, California, United States",
+  "drive_min": 2946,
+  "drive_mi": 2763,
+  "drive_min_clemson": 2805,
+  "drive_mi_clemson": 2646
  },
  "Sarasota|Florida": {
   "lat": 27.3365805,
@@ -4204,7 +4300,11 @@
  "Twentynine Palms|California": {
   "lat": 34.1356915,
   "lon": -116.0543506,
-  "name": "Twentynine Palms, San Bernardino County, California, 92278, United States"
+  "name": "Twentynine Palms, San Bernardino County, California, 92278, United States",
+  "drive_min": 2430,
+  "drive_mi": 2294,
+  "drive_min_clemson": 2289,
+  "drive_mi_clemson": 2176
  },
  "Two Harbors|Minnesota": {
   "lat": 47.0257139,
@@ -4402,7 +4502,11 @@
  "Yosemite|California": {
   "lat": 37.8393004,
   "lon": -119.5164635,
-  "name": "Yosemite National Park, California, United States"
+  "name": "Yosemite National Park, California, United States",
+  "drive_min": 2802,
+  "drive_mi": 2567,
+  "drive_min_clemson": 2661,
+  "drive_mi_clemson": 2450
  },
  "Zephyrhills|Florida": {
   "lat": 28.2336196,
@@ -9455,5 +9559,230 @@
   "drive_mi": 1380,
   "drive_min_clemson": 1398,
   "drive_mi_clemson": 1262
+ },
+ "Antioch|California": {
+  "lat": 38.0093296,
+  "lon": -121.8106925,
+  "name": "Antioch, Contra Costa County, California, United States",
+  "drive_min": 2866,
+  "drive_mi": 2688,
+  "drive_min_clemson": 2725,
+  "drive_mi_clemson": 2571
+ },
+ "Bakersfield|California": {
+  "lat": 35.3738712,
+  "lon": -119.019463,
+  "name": "Bakersfield, Kern County, California, United States",
+  "drive_min": 2578,
+  "drive_mi": 2435,
+  "drive_min_clemson": 2437,
+  "drive_mi_clemson": 2317
+ },
+ "Buttonwillow|California": {
+  "lat": 35.4184205,
+  "lon": -119.4301815,
+  "name": "Buttonwillow, Kern County, California, 93206, United States",
+  "drive_min": 2615,
+  "drive_mi": 2461,
+  "drive_min_clemson": 2474,
+  "drive_mi_clemson": 2343
+ },
+ "Calistoga|California": {
+  "lat": 38.5787966,
+  "lon": -122.579705,
+  "name": "Calistoga, Napa County, California, 94515, United States",
+  "drive_min": 2942,
+  "drive_mi": 2761,
+  "drive_min_clemson": 2801,
+  "drive_mi_clemson": 2643
+ },
+ "Camino|California": {
+  "lat": 38.742221,
+  "lon": -120.6779902,
+  "name": "Camino, El Dorado County, California, 95709, United States",
+  "drive_min": 2856,
+  "drive_mi": 2661,
+  "drive_min_clemson": 2775,
+  "drive_mi_clemson": 2601
+ },
+ "Coloma|California": {
+  "lat": 38.803934,
+  "lon": -120.8987198,
+  "name": "Coloma, El Dorado County, California, 95613, United States",
+  "drive_min": 2851,
+  "drive_mi": 2681,
+  "drive_min_clemson": 2770,
+  "drive_mi_clemson": 2621
+ },
+ "Columbia|California": {
+  "lat": 38.0322701,
+  "lon": -120.4024187,
+  "name": "Columbia, Tuolumne County, California, 95310, United States",
+  "drive_min": 2854,
+  "drive_mi": 2659,
+  "drive_min_clemson": 2713,
+  "drive_mi_clemson": 2542
+ },
+ "Fresno|California": {
+  "lat": 36.7394421,
+  "lon": -119.78483,
+  "name": "Fresno, Fresno County, California, United States",
+  "drive_min": 2696,
+  "drive_mi": 2544,
+  "drive_min_clemson": 2555,
+  "drive_mi_clemson": 2426
+ },
+ "Jamestown|California": {
+  "lat": 37.9588565,
+  "lon": -120.4044312,
+  "name": "Jamestown, Tuolumne County, California, United States",
+  "drive_min": 2841,
+  "drive_mi": 2653,
+  "drive_min_clemson": 2700,
+  "drive_mi_clemson": 2535
+ },
+ "Kernville|California": {
+  "lat": 35.7330803,
+  "lon": -118.4339644,
+  "name": "Kernville, Kern County, California, 93238, United States",
+  "drive_min": 2615,
+  "drive_mi": 2445,
+  "drive_min_clemson": 2474,
+  "drive_mi_clemson": 2327
+ },
+ "La Grange|California": {
+  "lat": 37.6635433,
+  "lon": -120.4635289,
+  "name": "La Grange, Stanislaus County, California, United States",
+  "drive_min": 2802,
+  "drive_mi": 2627,
+  "drive_min_clemson": 2661,
+  "drive_mi_clemson": 2509
+ },
+ "Mill Valley|California": {
+  "lat": 37.9060368,
+  "lon": -122.5449763,
+  "name": "Mill Valley, Marin County, California, United States",
+  "drive_min": 2911,
+  "drive_mi": 2730,
+  "drive_min_clemson": 2770,
+  "drive_mi_clemson": 2613
+ },
+ "Morro Bay|California": {
+  "lat": 35.3658075,
+  "lon": -120.849901,
+  "name": "Morro Bay, San Luis Obispo County, California, 93442, United States",
+  "drive_min": 2744,
+  "drive_mi": 2571,
+  "drive_min_clemson": 2603,
+  "drive_mi_clemson": 2453
+ },
+ "Napa|California": {
+  "lat": 38.4898675,
+  "lon": -122.3218414,
+  "name": "Napa County, California, United States",
+  "drive_min": 2942,
+  "drive_mi": 2757,
+  "drive_min_clemson": 2801,
+  "drive_mi_clemson": 2639
+ },
+ "Oceano|California": {
+  "lat": 35.105309,
+  "lon": -120.6168919,
+  "name": "Oceano, Arroyo Grande, San Luis Obispo County, California, 93445, United States",
+  "drive_min": 2736,
+  "drive_mi": 2559,
+  "drive_min_clemson": 2595,
+  "drive_mi_clemson": 2441
+ },
+ "Point Reyes Station|California": {
+  "lat": 38.0875145,
+  "lon": -122.8144891,
+  "name": "Point Reyes Station, Marin County, California, 94956, United States",
+  "drive_min": 2948,
+  "drive_mi": 2752,
+  "drive_min_clemson": 2807,
+  "drive_mi_clemson": 2634
+ },
+ "Richmond|California": {
+  "lat": 37.9357576,
+  "lon": -122.347748,
+  "name": "Richmond, Contra Costa County, California, United States",
+  "drive_min": 2890,
+  "drive_mi": 2717,
+  "drive_min_clemson": 2749,
+  "drive_mi_clemson": 2599
+ },
+ "Sacramento|California": {
+  "lat": 38.5810606,
+  "lon": -121.493895,
+  "name": "Sacramento, Sacramento County, California, United States",
+  "drive_min": 2860,
+  "drive_mi": 2696,
+  "drive_min_clemson": 2749,
+  "drive_mi_clemson": 2602
+ },
+ "San Simeon|California": {
+  "lat": 35.617547,
+  "lon": -121.1404719,
+  "name": "San Simeon, San Luis Obispo County, California, 93452, United States",
+  "drive_min": 2756,
+  "drive_mi": 2577,
+  "drive_min_clemson": 2614,
+  "drive_mi_clemson": 2459
+ },
+ "Sanger|California": {
+  "lat": 36.708006,
+  "lon": -119.5559652,
+  "name": "Sanger, Fresno County, California, 93657, United States",
+  "drive_min": 2692,
+  "drive_mi": 2537,
+  "drive_min_clemson": 2551,
+  "drive_mi_clemson": 2419
+ },
+ "Santa Barbara|California": {
+  "lat": 34.4221319,
+  "lon": -119.702667,
+  "name": "Santa Barbara, Santa Barbara County, California, United States",
+  "drive_min": 2661,
+  "drive_mi": 2509,
+  "drive_min_clemson": 2520,
+  "drive_mi_clemson": 2391
+ },
+ "South Lake Tahoe|California": {
+  "lat": 38.9319293,
+  "lon": -119.9780188,
+  "name": "South Lake Tahoe, El Dorado County, California, United States",
+  "drive_min": 2783,
+  "drive_mi": 2609,
+  "drive_min_clemson": 2701,
+  "drive_mi_clemson": 2549
+ },
+ "Tiburon|California": {
+  "lat": 37.8775332,
+  "lon": -122.460808,
+  "name": "Tiburon, Marin County, California, 94920, United States",
+  "drive_min": 2914,
+  "drive_mi": 2733,
+  "drive_min_clemson": 2773,
+  "drive_mi_clemson": 2615
+ },
+ "Ventura|California": {
+  "lat": 34.4458248,
+  "lon": -119.0779359,
+  "name": "Ventura County, California, United States",
+  "drive_min": 2634,
+  "drive_mi": 2455,
+  "drive_min_clemson": 2493,
+  "drive_mi_clemson": 2337
+ },
+ "Walnut Creek|California": {
+  "lat": 37.9020731,
+  "lon": -122.0618702,
+  "name": "Walnut Creek, Contra Costa County, California, United States",
+  "drive_min": 2869,
+  "drive_mi": 2698,
+  "drive_min_clemson": 2728,
+  "drive_mi_clemson": 2581
  }
 }
