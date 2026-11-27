@@ -560,6 +560,34 @@
   "county_full": "Honolulu County"
  },
  {
+  "name": "Lanikai Pillbox Trail",
+  "city": "Kailua",
+  "county": "Honolulu",
+  "state": "Hawaii",
+  "cats": [
+   "Hiking",
+   "Views",
+   "Adrenaline"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Year-round",
+  "start": "1940s",
+  "company": "State of Hawaii",
+  "party": "2–4",
+  "customer": "Hikers, photographers, sunrise chasers",
+  "unique": "A short steep climb to two World War II concrete observation posts above Lanikai beach, with a view of the Mokulua islands and the windward coast.",
+  "buzz": "Sunrise from the pillboxes is the photograph everyone wants and the trail is short but steep and rooty; parking is in a residential neighborhood.",
+  "rating": 80,
+  "id": "lanikai-pillbox-trail-kailua",
+  "state_abbr": "HI",
+  "lat": 19.641941,
+  "lon": -155.996933,
+  "county_full": "Honolulu County"
+ },
+ {
   "name": "Iao Valley",
   "city": "Wailuku",
   "county": "Maui",

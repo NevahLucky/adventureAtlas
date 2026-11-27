@@ -138,9 +138,9 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 614 of 3143 counties covered. South Carolina is 46 of 46. Georgia is 40 of 159.
-North Carolina is 44 of 100.
-271 counties nationally still have a single entry, and those are the backlog.
+Current picture: 964 of 3143 counties covered, 2,649 entries. Every state and district now has at
+least thirty entries. 280 counties nationally still have a single entry, and those are the backlog,
+along with the 1,000+ counties with no entry at all.
 
 ## The radius tool
 
@@ -153,44 +153,41 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 1,544 entries
+## Where it stands, 2,649 entries
 
-South Carolina is done to a deeper standard: 287 entries across all 46 counties, minimum four per
-county, and all but Marlboro at five or more. It is the model for the other states.
-
-Georgia now has 164 entries in 40 of 159 counties, and every county touched is at three or more.
-Fulton alone has 16, DeKalb 12, and the Atlanta ring (Cobb, Gwinnett, Clayton, Henry, Fayette,
-Coweta, Douglas, Paulding, Cherokee, Forsyth, Rockdale, Newton, Bartow, Hall, Carroll) is filled in.
-South Georgia, the mountains and the coast are covered at the county level. 119 counties remain.
+South Carolina is still the deepest state: 287 entries across all 46 counties, minimum four per
+county. New York is at 157 entries in 44 of 62 counties, Pennsylvania at 89 in 32 of 67, and
+Georgia at 164 in 40 of 159. Every state has at least 30 entries; the Northeast and the mountain
+and plains states are the thinnest per county now, with 280 single-entry counties to revisit.
 
 | State | Entries | Counties | | State | Entries | Counties |
 |---|---:|---:|---|---|---:|---:|
-| South Carolina | 287 | 46 | | New Mexico | 10 | 8 |
-| North Carolina | 231 | 66 | | Nevada | 10 | 5 |
-| Georgia | 164 | 40 | | Massachusetts | 10 | 8 |
-| California | 30 | 18 | | Connecticut | 9 | 5 |
-| Tennessee | 70 | 16 | | New Jersey | 9 | 8 |
-| Florida | 88 | 33 | | Alabama | 30 | 13 |
-| New York | 24 | 12 | | Mississippi | 28 | 15 |
-| Texas | 21 | 12 | | Arkansas | 27 | 15 |
-| West Virginia | 18 | 14 | | Minnesota | 18 | 9 |
-| Pennsylvania | 16 | 11 | | Wyoming | 8 | 6 |
-| Virginia | 36 | 21 | | Iowa | 18 | 13 |
-| Colorado | 14 | 11 | | Maine | 7 | 5 |
-| Arizona | 14 | 8 | | Rhode Island | 7 | 3 |
-| Oregon | 14 | 10 | | Maryland | 7 | 4 |
-| Louisiana | 32 | 17 | | District of Columbia | 7 | 1 |
-| Utah | 13 | 8 | | Indiana | 15 | 10 |
-| Hawaii | 13 | 5 | | Kansas | 15 | 10 |
-| Ohio | 20 | 14 | | Montana | 6 | 6 |
-| Washington | 12 | 9 | | Idaho | 6 | 5 |
-| Kentucky | 30 | 19 | | New Hampshire | 6 | 3 |
-| Wisconsin | 19 | 10 | | Vermont | 6 | 6 |
-| Alaska | 11 | 7 | | Delaware | 6 | 2 |
-| Illinois | 20 | 6 | | Oklahoma | 14 | 6 |
-| Michigan | 16 | 10 | | Nebraska | 14 | 8 |
-| Missouri | 22 | 10 | | North Dakota | 5 | 4 |
-| South Dakota | 10 | 5 | | | | |
+| South Carolina | 287 | 46 | North Carolina | 231 | 66 |
+| Georgia | 164 | 40 | New York | 157 | 44 |
+| Pennsylvania | 89 | 32 | Florida | 88 | 33 |
+| Tennessee | 70 | 16 | California | 60 | 28 |
+| New Jersey | 53 | 21 | Texas | 52 | 17 |
+| Maine | 45 | 16 | Colorado | 44 | 21 |
+| Arizona | 44 | 15 | Utah | 43 | 15 |
+| Maryland | 43 | 16 | Massachusetts | 42 | 14 |
+| Washington | 42 | 15 | Oregon | 42 | 21 |
+| New Mexico | 40 | 17 | Nevada | 39 | 17 |
+| Connecticut | 39 | 8 | Arkansas | 37 | 23 |
+| Wyoming | 36 | 21 | Virginia | 36 | 20 |
+| Wisconsin | 35 | 20 | Alaska | 35 | 14 |
+| Minnesota | 34 | 16 | Mississippi | 34 | 20 |
+| Vermont | 33 | 13 | Iowa | 32 | 21 |
+| Montana | 32 | 17 | Louisiana | 32 | 17 |
+| North Dakota | 31 | 15 | New Hampshire | 31 | 10 |
+| Oklahoma | 31 | 19 | Ohio | 30 | 17 |
+| Indiana | 30 | 16 | Illinois | 30 | 11 |
+| Michigan | 30 | 16 | Missouri | 30 | 14 |
+| Kansas | 30 | 19 | Nebraska | 30 | 17 |
+| Idaho | 30 | 18 | Rhode Island | 30 | 5 |
+| Delaware | 30 | 3 | District of Columbia | 30 | 1 |
+| Hawaii | 30 | 5 | Kentucky | 30 | 19 |
+| Alabama | 30 | 13 | South Dakota | 28 | 12 |
+| West Virginia | 18 | 14 | | | |
 
 ## Queue, county by county
 

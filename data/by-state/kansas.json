@@ -389,6 +389,36 @@
   "county_full": "Gove County"
  },
  {
+  "name": "Botanica",
+  "city": "Wichita",
+  "county": "Sedgwick",
+  "state": "Kansas",
+  "cats": [
+   "Garden",
+   "Family",
+   "Walk"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Daily",
+  "start": "1987",
+  "company": "Botanica",
+  "party": "2–5",
+  "customer": "Gardeners, families, photographers",
+  "unique": "Seventeen acres of themed gardens with a children's garden, a butterfly house and a carousel, beside the Arkansas River.",
+  "buzz": "The children's garden and the butterfly house are the family stops and the Christmas lights are the winter tradition; the gardens peak in late spring.",
+  "rating": 78,
+  "drive_min": 1277,
+  "drive_min_clemson": 1159,
+  "id": "botanica-wichita",
+  "state_abbr": "KS",
+  "lat": 37.6922361,
+  "lon": -97.3375448,
+  "county_full": "Sedgwick County"
+ },
+ {
   "name": "Massachusetts Street",
   "city": "Lawrence",
   "county": "Douglas",
@@ -808,6 +838,36 @@
   "lat": 38.917252,
   "lon": -97.21377,
   "county_full": "Dickinson County"
+ },
+ {
+  "name": "Topeka Zoo",
+  "city": "Topeka",
+  "county": "Shawnee",
+  "state": "Kansas",
+  "cats": [
+   "Animals",
+   "Family",
+   "Park"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Daily",
+  "start": "1933",
+  "company": "City of Topeka",
+  "party": "2–5",
+  "customer": "Families, locals, school groups",
+  "unique": "A zoo in Gage Park with a rainforest building, tigers and a carousel, small enough to finish in a morning.",
+  "buzz": "Parents like the size and the shade and the rainforest is the indoor stop; it is cheap and the park around it has a train.",
+  "rating": 72,
+  "drive_min": 1171,
+  "drive_min_clemson": 1089,
+  "id": "topeka-zoo-topeka",
+  "state_abbr": "KS",
+  "lat": 39.049011,
+  "lon": -95.677556,
+  "county_full": "Shawnee County"
  },
  {
   "name": "World's Largest Ball of Twine",

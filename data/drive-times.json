@@ -13927,5 +13927,136 @@
   "drive_mi": 594,
   "drive_min_clemson": 813,
   "drive_mi_clemson": 703
+ },
+ "Bay St. Louis|Mississippi": {
+  "lat": 30.3105666,
+  "lon": -89.3275482,
+  "name": "Bay St. Louis, Hancock County, Mississippi, United States",
+  "drive_min": 748,
+  "drive_mi": 659,
+  "drive_min_clemson": 607,
+  "drive_mi_clemson": 541
+ },
+ "Bull Shoals|Arkansas": {
+  "lat": 36.383956,
+  "lon": -92.5815527,
+  "name": "Bull Shoals, Marion County, Arkansas, 72619, United States",
+  "drive_min": 957,
+  "drive_mi": 813,
+  "drive_min_clemson": 826,
+  "drive_mi_clemson": 717
+ },
+ "Corinth|Mississippi": {
+  "lat": 34.9343599,
+  "lon": -88.5223353,
+  "name": "Corinth, Alcorn County, Mississippi, United States",
+  "drive_min": 639,
+  "drive_mi": 549,
+  "drive_min_clemson": 498,
+  "drive_mi_clemson": 431
+ },
+ "El Dorado|Arkansas": {
+  "lat": 33.2115087,
+  "lon": -92.6650144,
+  "name": "El Dorado, Union County, Arkansas, 71730, United States",
+  "drive_min": 905,
+  "drive_mi": 775,
+  "drive_min_clemson": 764,
+  "drive_mi_clemson": 657
+ },
+ "Greenwood|Mississippi": {
+  "lat": 33.5162315,
+  "lon": -90.1795281,
+  "name": "Greenwood, Leflore County, Mississippi, United States",
+  "drive_min": 708,
+  "drive_mi": 611,
+  "drive_min_clemson": 567,
+  "drive_mi_clemson": 493
+ },
+ "Heber Springs|Arkansas": {
+  "lat": 35.4976958,
+  "lon": -92.0324875,
+  "name": "Heber Springs, Cleburne County, Arkansas, 72543, United States",
+  "drive_min": 879,
+  "drive_mi": 757,
+  "drive_min_clemson": 737,
+  "drive_mi_clemson": 639
+ },
+ "Jonesboro|Arkansas": {
+  "lat": 35.8348088,
+  "lon": -90.7045297,
+  "name": "Jonesboro, Craighead County, Arkansas, United States",
+  "drive_min": 784,
+  "drive_mi": 694,
+  "drive_min_clemson": 643,
+  "drive_mi_clemson": 576
+ },
+ "Kailua|Hawaii": {
+  "lat": 19.641941,
+  "lon": -155.996933,
+  "name": "Kailua, Hawaiʻi County, Hawaii, United States"
+ },
+ "Lake Village|Arkansas": {
+  "lat": 33.3294799,
+  "lon": -91.2850584,
+  "name": "Lake Village, Chicot County, Arkansas, 71653, United States",
+  "drive_min": 800,
+  "drive_mi": 684,
+  "drive_min_clemson": 659,
+  "drive_mi_clemson": 566
+ },
+ "Mena|Arkansas": {
+  "lat": 34.5837324,
+  "lon": -94.2376664,
+  "name": "Mena, Polk County, Arkansas, 72953, United States",
+  "drive_min": 1016,
+  "drive_mi": 889,
+  "drive_min_clemson": 875,
+  "drive_mi_clemson": 771
+ },
+ "Mountain Home|Arkansas": {
+  "lat": 36.3361391,
+  "lon": -92.3801187,
+  "name": "Mountain Home, Baxter County, Arkansas, 72653, United States",
+  "drive_min": 930,
+  "drive_mi": 798,
+  "drive_min_clemson": 800,
+  "drive_mi_clemson": 702
+ },
+ "Mountain Pine|Arkansas": {
+  "lat": 34.5720347,
+  "lon": -93.1732401,
+  "name": "Mountain Pine, Garland County, Arkansas, United States",
+  "drive_min": 930,
+  "drive_mi": 824,
+  "drive_min_clemson": 789,
+  "drive_mi_clemson": 706
+ },
+ "Philadelphia|Mississippi": {
+  "lat": 32.7703841,
+  "lon": -89.1153488,
+  "name": "Philadelphia, Neshoba County, Mississippi, 39350, United States",
+  "drive_min": 651,
+  "drive_mi": 551,
+  "drive_min_clemson": 510,
+  "drive_mi_clemson": 433
+ },
+ "St. Joe|Arkansas": {
+  "lat": 36.0298228,
+  "lon": -92.8085707,
+  "name": "Saint Joe, Searcy County, Arkansas, 72675, United States",
+  "drive_min": 983,
+  "drive_mi": 829,
+  "drive_min_clemson": 842,
+  "drive_mi_clemson": 712
+ },
+ "Tunica|Mississippi": {
+  "lat": 34.6398783,
+  "lon": -90.3623833,
+  "name": "Tunica County, Mississippi, United States",
+  "drive_min": 728,
+  "drive_mi": 647,
+  "drive_min_clemson": 587,
+  "drive_mi_clemson": 529
  }
 }
