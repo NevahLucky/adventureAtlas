@@ -16838,5 +16838,86 @@
   "drive_mi": 525,
   "drive_min_clemson": 410,
   "drive_mi_clemson": 413
+ },
+ "Bell Buckle|Tennessee": {
+  "lat": 35.5917382,
+  "lon": -86.3541598,
+  "name": "Bell Buckle, Bedford County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 412,
+  "drive_mi": 414,
+  "drive_min_clemson": 286,
+  "drive_mi_clemson": 274
+ },
+ "Decaturville|Tennessee": {
+  "lat": 35.5842372,
+  "lon": -88.119479,
+  "name": "Decaturville, Decatur County, West Tennessee, Tennessee, United States",
+  "drive_min": 487,
+  "drive_mi": 525,
+  "drive_min_clemson": 411,
+  "drive_mi_clemson": 412
+ },
+ "Hartsville|Tennessee": {
+  "lat": 36.3908826,
+  "lon": -86.1672107,
+  "name": "Hartsville, Trousdale County, Middle Tennessee, Tennessee, 37074, United States",
+  "drive_min": 375,
+  "drive_mi": 396,
+  "drive_min_clemson": 338,
+  "drive_mi_clemson": 342
+ },
+ "Maynardville|Tennessee": {
+  "lat": 36.2497114,
+  "lon": -83.7988651,
+  "name": "Maynardville, Union County, East Tennessee, Tennessee, 37807, United States",
+  "drive_min": 255,
+  "drive_mi": 253,
+  "drive_min_clemson": 217,
+  "drive_mi_clemson": 199
+ },
+ "Sewanee|Tennessee": {
+  "lat": 35.2031373,
+  "lon": -85.9210899,
+  "name": "Sewanee, Franklin County, Middle Tennessee, Tennessee, 37383, United States",
+  "drive_min": 377,
+  "drive_mi": 404,
+  "drive_min_clemson": 248,
+  "drive_mi_clemson": 234
+ },
+ "Shelbyville|Tennessee": {
+  "lat": 35.483406,
+  "lon": -86.4602717,
+  "name": "Shelbyville, Bedford County, Middle Tennessee, Tennessee, 37160, United States",
+  "drive_min": 426,
+  "drive_mi": 425,
+  "drive_min_clemson": 300,
+  "drive_mi_clemson": 285
+ },
+ "Spencer|Tennessee": {
+  "lat": 35.7472893,
+  "lon": -85.4666413,
+  "name": "Spencer, Van Buren County, Middle Tennessee, Tennessee, 38585, United States",
+  "drive_min": 346,
+  "drive_mi": 354,
+  "drive_min_clemson": 261,
+  "drive_mi_clemson": 222
+ },
+ "Winchester|Tennessee": {
+  "lat": 35.1859901,
+  "lon": -86.1118359,
+  "name": "Winchester, Franklin County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 393,
+  "drive_mi": 417,
+  "drive_min_clemson": 264,
+  "drive_mi_clemson": 247
+ },
+ "Woodbury|Tennessee": {
+  "lat": 35.8275672,
+  "lon": -86.0716565,
+  "name": "Woodbury, Cannon County, Middle Tennessee, Tennessee, United States",
+  "drive_min": 379,
+  "drive_mi": 391,
+  "drive_min_clemson": 293,
+  "drive_mi_clemson": 276
  }
 }
