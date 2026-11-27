@@ -120,13 +120,14 @@ several lanes or a good reason it cannot.
 
 ## Coverage targets
 
-- A county is not done until it clears its floor: five entries for a rural county, eight for a county
-  with a real town in it, twelve for a metro county and fifteen for a metro of a million people or
-  more. `data/metros.json` lists the metro counties, and `scripts/gaps.py` applies the floor.
+- A county is not done until it clears its floor, and population sets the floor: five entries under
+  50,000 people, eight to 249,999, twelve to 999,999, fifteen at a million and above.
+  `scripts/floors.py` holds the tiers, `data/county-pop.json` holds the Census populations, and
+  `scripts/gaps.py` applies them. Nothing else decides what finished means.
 - Minimum 30 entries per state. Dense states should reach 50 or more.
 - At least five entries within 30 minutes of every metro area above 250,000 people.
 - Three entries is the alarm, not the target. A county sitting on exactly three was filled to a
-  threshold, not researched. Florida has 38 counties on exactly three and 61 of 67 under five.
+  threshold, not researched. Florida has 37 counties on exactly three and 62 of 67 under five.
 - There is no cap of any kind. Greenville County, SC is the current high at 15 and it can take more.
   Depth is the product. A thin county is a research failure.
 - A state is done when every county clears its floor, not when every county has something, and the
@@ -136,27 +137,34 @@ several lanes or a good reason it cannot.
 ## The coverage audit
 
 `data/counties.json` holds the official Census county list for all 51 states and districts.
-`scripts/coverage.py` answers whether a county is in the atlas at all. `scripts/gaps.py` answers
-whether it is actually researched, by measuring every county against its floor. Run both.
+`data/county-pop.json` holds the 2024 Census population for every one of those 3,143 counties, and
+`scripts/fetch_pop.py` rebuilds it once a year. `scripts/coverage.py` answers whether a county is in
+the atlas at all. `scripts/gaps.py` answers whether it is actually researched, by measuring every
+county against its population floor. Run both.
 
 ```bash
 python3 scripts/coverage.py
-python3 scripts/gaps.py                       # every county under its floor, worst first
+python3 scripts/gaps.py                     # worst first by people underserved
+python3 scripts/gaps.py --by entries        # worst first by raw entries missing
 python3 scripts/gaps.py --state Florida
-python3 scripts/gaps.py --at 3               # the counties filled to the old threshold
+python3 scripts/gaps.py --at 3              # the counties filled to the old threshold
 ```
 
-Current picture: 1,277 of 3,143 counties covered, 3,819 entries. Every state and district has at
-least thirty entries. 265 counties nationally still have a single entry, and 3,004 counties sit
-under their floor, 13,103 entries short. `coverage.py` prints the coverage table and `gaps.py`
-prints the depth table; the numbers in this file go stale, those two commands do not.
+Current picture: 1,277 of 3,143 counties covered, 3,823 entries. 3,072 counties are under their floor
+and 16,319 entries short, and 327 million people live in them. Every state and district has at least
+thirty entries. `coverage.py` prints the coverage table and `gaps.py` prints the depth table; the
+numbers in this file go stale, those two commands do not.
 
 Five states have every county covered: Georgia (594 in 159), North Carolina (337 in 100), Tennessee
-(362 in 95), South Carolina (287 in 46) and Florida (192 in 67). All five have had the duplicate
-sweep. Covered is not deep, and by the floors above none of the five is finished: South Carolina is
-5 counties short, Tennessee 81, North Carolina 97, Georgia 140, and Florida 66 of 67 with 262 entries
-missing. Florida is the clearest threshold sweep in the atlas. Thirty eight of its 67 counties sit
-on exactly three entries, and Miami-Dade, its largest metro, has nine.
+(362 in 95), South Carolina (287 in 46) and Florida (196 in 67). All five have had the duplicate
+sweep. Covered is not deep, and by the floors above none of the five is finished. Florida is the
+clearest threshold sweep in the atlas: 37 of its 67 counties sit on exactly three entries, and
+Broward at two million people has three.
+
+The gap ranks by population, not by county count, and that changes the order. The largest single
+county gaps in the country are Los Angeles at 7 entries for 9.8 million people, Maricopa at 4 for
+4.7 million, Harris at 5 for 5 million, then San Diego, Orange, Riverside, Dallas, San Bernardino,
+Santa Clara and Kings, most of them under 5 entries for over two million people each.
 
 ## The radius tool
 
@@ -169,32 +177,28 @@ miles`, calibrated against the routed Fort Mill and Clemson pages. Expect within
 of a real routing, which the user has said is fine for planning. The saved radius pages keep exact
 routed times for those two origins.
 
-## Where it stands, 3,819 entries
+## Where it stands, 3,823 entries
 
 Five states are covered: Georgia (594 in 159 counties), North Carolina (337 in 100), Tennessee (362
-in 95), South Carolina (287 in 46) and Florida (192 in 67). None of the five is deep. Behind them the
+in 95), South Carolina (287 in 46) and Florida (196 in 67). None of the five is deep. Behind them the
 thickest are Virginia (212 in 53 of 133), New York (157 in 44 of 62) and Pennsylvania (89 in 32 of 67).
 
-Coverage is no longer the queue. Depth is. 3,004 counties sit under their floor, 13,103 entries short,
-and the order by entries missing is Texas 1,318, Missouri 584, Kentucky 584, Illinois 546, Virginia
-525, Kansas 516, Ohio 466, Iowa 464, Indiana 458, Nebraska 456, Michigan 427, Minnesota 401, Florida
-262. `python3 scripts/gaps.py` is the live number.
+Coverage is no longer the queue. Depth is, ranked by how many people live in the gap: California 431,
+Texas 308, Florida 202, New York 150, Pennsylvania 110, Ohio 104, Michigan 93. `python3 scripts/gaps.py`
+is the live ranking, and it is the queue.
 
 ## Queue
 
-1. Florida, depth pass. 262 entries short across 66 counties. Thirty eight counties on exactly three
-   entries and every metro on three to nine. Start with Miami-Dade at 9, then Broward, Palm Beach,
-   Hillsborough, Duval, Orange and Pinellas, all between three and five.
-2. The other covered states, by how short they are: South Carolina 24 entries, Tennessee 189,
-   North Carolina 213, Georgia 284.
-3. Texas, coverage and depth together. 20 of 254 counties and 91 entries, the largest single gap in
-   the atlas. Region by region: the Hill Country (Kerr, Gillespie, Bandera, Kendall, Llano, Burnet,
-   Blanco), then Wichita Falls, Abilene, Tyler, Waco, the Valley, then the Panhandle.
-4. The Midwest and Plains, thinnest first: Illinois, Missouri, Kentucky, Kansas, Indiana, Nebraska.
-5. The South: Alabama, Mississippi, Arkansas, Oklahoma, Louisiana.
-6. The mid-Atlantic and Northeast depth pass: Virginia 53 of 133, Pennsylvania 32 of 67, New York 44
-   of 62, then the New England states that are complete but thin.
-7. Then a third country, using the same rules.
+The order is whatever `gaps.py` prints. It moves as counties fill, so treat this as orientation
+rather than a plan:
+
+1. The five biggest county gaps in the country: Los Angeles, Maricopa, Harris, San Diego, Orange.
+   One worker each at the fifteen entry floor.
+2. Riverside, Dallas, San Bernardino, Santa Clara, Kings.
+3. Florida's metros: Broward, Hillsborough, Duval, Orange, Palm Beach, Miami-Dade.
+4. Texas coverage and depth together, the Hill Country first, then the smaller metros.
+5. Everything else in `gaps.py` order, with the Plains and the empty Midwest after the metros clear
+   their floors.
 
 Fill single-entry, two-entry and three-entry counties before widening to a new state where the
 choice is close. A county at one is a research failure, and so is a metro at three.
@@ -253,6 +257,10 @@ Roles:
   They may read anything. They may not touch `data/adventures.json`, `PLAN.md`, `data/claims.json`,
   the generated HTML or git, and they do not run the scripts.
 - The pipeline owner runs merge, route, build, coverage and the commit, one round at a time.
+- Only the pipeline owner runs commands. Approval prompts belong to it, so ask for the ones you need
+  in one request at the start of the session, before the first round. A child that hits an approval
+  wall cannot ask anyone, dies mid-batch, and wastes everything it already researched. That happened
+  on the first round this pipeline ever ran.
 
 The claim ledger. `scripts/claim.py` assigns counties and records who holds them.
 

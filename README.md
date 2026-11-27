@@ -27,9 +27,12 @@ build.py                   regenerates every page, CSV and JSON extract
 scripts/merge_regions.py   merges data/regions into the master list
 scripts/drive_times.py     geocodes cities and routes drive times from any origin
 scripts/coverage.py        county coverage audit against data/counties.json
+scripts/fetch_pop.py       rebuilds data/county-pop.json from the Census estimates
+scripts/floors.py          the depth floor for a county, set by population
 scripts/gaps.py            depth audit: which counties are still under their floor
 scripts/claim.py           the county claim ledger for parallel research rounds
 scripts/pipeline.py        locked merge, route, build, audit and commit in one step
+data/county-pop.json       2024 Census population for all 3,143 counties (generated)
 data/claims.json           who is researching which counties, with expiry
 PLAN.md                    coverage targets, the build queue and the parallel round rules
 DEPLOY.md                  Vercel instructions

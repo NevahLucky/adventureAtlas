@@ -25,15 +25,13 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from floors import floor_for
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "adventures.json"
 COUNTIES = ROOT / "data" / "counties.json"
 CLAIMS = ROOT / "data" / "claims.json"
-METRO_FILE = ROOT / "data" / "metros.json"
 REGIONS = ROOT / "data" / "regions"
-
-RURAL_FLOOR = 5
-METRO_FLOOR = 12
 
 
 def now() -> datetime:
@@ -75,14 +73,6 @@ def next_round(args) -> int:
     counts = Counter((r["state"], r["county"]) for r in json.loads(DATA.read_text()))
     official = json.loads(COUNTIES.read_text())
     active = live(claims)
-
-    metros = {}
-    if METRO_FILE.exists():
-        metros = {k.lower(): v for k, v in json.loads(METRO_FILE.read_text()).items()
-                  if not k.startswith("_")}
-
-    def floor_for(state: str, county: str) -> int:
-        return METRO_FLOOR if f"{state}|{county}".lower() in metros else RURAL_FLOOR
 
     claimed = {(r["state"], c) for r in active for c in r["counties"]}
     if any(r["id"] == args.id for r in active):
