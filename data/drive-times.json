@@ -16730,5 +16730,113 @@
   "drive_mi": 339,
   "drive_min_clemson": 277,
   "drive_mi_clemson": 233
+ },
+ "Alamo|Tennessee": {
+  "lat": 35.7847957,
+  "lon": -89.1172548,
+  "name": "Alamo, Crockett County, West Tennessee, Tennessee, United States",
+  "drive_min": 529,
+  "drive_mi": 569,
+  "drive_min_clemson": 453,
+  "drive_mi_clemson": 457
+ },
+ "Camden|Tennessee": {
+  "lat": 36.0589486,
+  "lon": -88.0978151,
+  "name": "Camden, Benton County, West Tennessee, Tennessee, 38320, United States",
+  "drive_min": 484,
+  "drive_mi": 521,
+  "drive_min_clemson": 408,
+  "drive_mi_clemson": 409
+ },
+ "Dresden|Tennessee": {
+  "lat": 36.2914648,
+  "lon": -88.7086635,
+  "name": "Dresden, Weakley County, West Tennessee, Tennessee, United States",
+  "drive_min": 531,
+  "drive_mi": 569,
+  "drive_min_clemson": 456,
+  "drive_mi_clemson": 456
+ },
+ "Dyersburg|Tennessee": {
+  "lat": 36.0325216,
+  "lon": -89.3866375,
+  "name": "Dyersburg, Dyer County, West Tennessee, Tennessee, United States",
+  "drive_min": 555,
+  "drive_mi": 594,
+  "drive_min_clemson": 479,
+  "drive_mi_clemson": 482
+ },
+ "Eva|Tennessee": {
+  "lat": 36.0645039,
+  "lon": -88.0042004,
+  "name": "Eva, Benton County, West Tennessee, Tennessee, 38333, United States",
+  "drive_min": 494,
+  "drive_mi": 527,
+  "drive_min_clemson": 419,
+  "drive_mi_clemson": 415
+ },
+ "Greenfield|Tennessee": {
+  "lat": 36.1533982,
+  "lon": -88.8006163,
+  "name": "Greenfield, Weakley County, West Tennessee, Tennessee, 38230, United States",
+  "drive_min": 539,
+  "drive_mi": 568,
+  "drive_min_clemson": 463,
+  "drive_mi_clemson": 456
+ },
+ "Henderson|Tennessee": {
+  "lat": 35.6418311,
+  "lon": -88.3949437,
+  "name": "Henderson County, West Tennessee, Tennessee, United States",
+  "drive_min": 497,
+  "drive_mi": 534,
+  "drive_min_clemson": 421,
+  "drive_mi_clemson": 422
+ },
+ "Huntingdon|Tennessee": {
+  "lat": 36.0008612,
+  "lon": -88.4280423,
+  "name": "Huntingdon, Carroll County, West Tennessee, Tennessee, United States",
+  "drive_min": 500,
+  "drive_mi": 538,
+  "drive_min_clemson": 424,
+  "drive_mi_clemson": 426
+ },
+ "Lexington|Tennessee": {
+  "lat": 35.650903,
+  "lon": -88.3933796,
+  "name": "Lexington, Henderson County, West Tennessee, Tennessee, 38351, United States",
+  "drive_min": 494,
+  "drive_mi": 533,
+  "drive_min_clemson": 418,
+  "drive_mi_clemson": 421
+ },
+ "Milan|Tennessee": {
+  "lat": 35.9198204,
+  "lon": -88.7590179,
+  "name": "Milan, Gibson County, West Tennessee, Tennessee, 38358, United States",
+  "drive_min": 523,
+  "drive_mi": 558,
+  "drive_min_clemson": 447,
+  "drive_mi_clemson": 446
+ },
+ "Trenton|Tennessee": {
+  "lat": 35.9808073,
+  "lon": -88.9416829,
+  "name": "Trenton, Gibson County, West Tennessee, Tennessee, 38382, United States",
+  "drive_min": 536,
+  "drive_mi": 575,
+  "drive_min_clemson": 461,
+  "drive_mi_clemson": 462
+ },
+ "Wildersville|Tennessee": {
+  "lat": 35.7814893,
+  "lon": -88.3602512,
+  "name": "Wildersville, Henderson County, West Tennessee, Tennessee, 38388, United States",
+  "drive_min": 486,
+  "drive_mi": 525,
+  "drive_min_clemson": 410,
+  "drive_mi_clemson": 413
  }
 }
