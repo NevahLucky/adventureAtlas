@@ -13324,5 +13324,95 @@
   "drive_mi": 848,
   "drive_min_clemson": 953,
   "drive_mi_clemson": 784
+ },
+ "Charlestown|Rhode Island": {
+  "lat": 41.3831566,
+  "lon": -71.641729,
+  "name": "Charlestown, South County, Rhode Island, 02813, United States",
+  "drive_min": 957,
+  "drive_mi": 789,
+  "drive_min_clemson": 1091,
+  "drive_mi_clemson": 901
+ },
+ "East Greenwich|Rhode Island": {
+  "lat": 41.6603788,
+  "lon": -71.4558911,
+  "name": "East Greenwich, Kent County, Rhode Island, 02818, United States",
+  "drive_min": 976,
+  "drive_mi": 807,
+  "drive_min_clemson": 1110,
+  "drive_mi_clemson": 919
+ },
+ "Fenwick Island|Delaware": {
+  "lat": 38.4623346,
+  "lon": -75.0512922,
+  "name": "Fenwick Island, Sussex County, Delaware, 19944, United States",
+  "drive_min": 624,
+  "drive_mi": 495,
+  "drive_min_clemson": 758,
+  "drive_mi_clemson": 606
+ },
+ "Greenville|Delaware": {
+  "lat": 39.7772695,
+  "lon": -75.6059147,
+  "name": "Greenville, New Castle County, Delaware, United States",
+  "drive_min": 625,
+  "drive_mi": 526,
+  "drive_min_clemson": 758,
+  "drive_mi_clemson": 638
+ },
+ "Hockessin|Delaware": {
+  "lat": 39.7874275,
+  "lon": -75.6879987,
+  "name": "Hockessin, New Castle County, Delaware, United States",
+  "drive_min": 624,
+  "drive_mi": 524,
+  "drive_min_clemson": 758,
+  "drive_mi_clemson": 636
+ },
+ "Middletown|Rhode Island": {
+  "lat": 41.5456578,
+  "lon": -71.2914388,
+  "name": "Middletown, Newport County, Rhode Island, 02842, United States",
+  "drive_min": 1000,
+  "drive_mi": 821,
+  "drive_min_clemson": 1134,
+  "drive_mi_clemson": 933
+ },
+ "New Castle|Delaware": {
+  "lat": 39.6159851,
+  "lon": -75.662956,
+  "name": "New Castle County, Delaware, United States",
+  "drive_min": 613,
+  "drive_mi": 519,
+  "drive_min_clemson": 747,
+  "drive_mi_clemson": 631
+ },
+ "Quechee|Vermont": {
+  "lat": 43.645213,
+  "lon": -72.4157218,
+  "name": "Quechee, Hartford, Windsor County, Vermont, 05059, United States",
+  "drive_min": 1087,
+  "drive_mi": 897,
+  "drive_min_clemson": 1221,
+  "drive_mi_clemson": 1009
+ },
+ "Shaftsbury|Vermont": {
+  "lat": 42.9463567,
+  "lon": -73.2107571,
+  "name": "Shaftsbury, Bennington County, Vermont, 05262, United States",
+  "drive_min": 965,
+  "drive_mi": 820,
+  "drive_min_clemson": 1097,
+  "drive_mi_clemson": 929
+ },
+ "Yorklyn|Delaware": {
+  "lat": 39.8081666,
+  "lon": -75.6754883,
+  "name": "Yorklyn, Hockessin, New Castle County, Delaware, 19736, United States",
+  "drive_min": 627,
+  "drive_mi": 522,
+  "drive_min_clemson": 761,
+  "drive_mi_clemson": 634
  }
 }
