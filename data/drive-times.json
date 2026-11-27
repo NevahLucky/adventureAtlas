@@ -15249,56 +15249,100 @@
  "Appling|Georgia": {
   "lat": 31.7771435,
   "lon": -82.2996274,
-  "name": "Appling County, Georgia, United States"
+  "name": "Appling County, Georgia, United States",
+  "drive_min": 276,
+  "drive_mi": 287,
+  "drive_min_clemson": 252,
+  "drive_mi_clemson": 249
  },
  "Crawfordville|Georgia": {
   "lat": 33.5539938,
   "lon": -82.8961899,
-  "name": "Crawfordville, Taliaferro County, Georgia, 30631, United States"
+  "name": "Crawfordville, Taliaferro County, Georgia, 30631, United States",
+  "drive_min": 180,
+  "drive_mi": 197,
+  "drive_min_clemson": 127,
+  "drive_mi_clemson": 99
  },
  "Eatonton|Georgia": {
   "lat": 33.3267128,
   "lon": -83.388485,
-  "name": "Eatonton, Putnam County, Georgia, 31024, United States"
+  "name": "Eatonton, Putnam County, Georgia, 31024, United States",
+  "drive_min": 222,
+  "drive_mi": 233,
+  "drive_min_clemson": 133,
+  "drive_mi_clemson": 132
  },
  "Grovetown|Georgia": {
   "lat": 33.4504157,
   "lon": -82.1981764,
-  "name": "Grovetown, Columbia County, Georgia, United States"
+  "name": "Grovetown, Columbia County, Georgia, United States",
+  "drive_min": 146,
+  "drive_mi": 157,
+  "drive_min_clemson": 141,
+  "drive_mi_clemson": 137
  },
  "Juliette|Georgia": {
   "lat": 33.1095315,
   "lon": -83.8087659,
-  "name": "Juliette, Monroe County, Georgia, United States"
+  "name": "Juliette, Monroe County, Georgia, United States",
+  "drive_min": 256,
+  "drive_mi": 272,
+  "drive_min_clemson": 162,
+  "drive_mi_clemson": 154
  },
  "Lincolnton|Georgia": {
   "lat": 33.7924993,
   "lon": -82.4793806,
-  "name": "Lincolnton, Lincoln County, Georgia, United States"
+  "name": "Lincolnton, Lincoln County, Georgia, United States",
+  "drive_min": 166,
+  "drive_mi": 145,
+  "drive_min_clemson": 107,
+  "drive_mi_clemson": 80
  },
  "Martinez|Georgia": {
   "lat": 33.5183165,
   "lon": -82.0978253,
-  "name": "Martinez, Columbia County, Georgia, United States"
+  "name": "Martinez, Columbia County, Georgia, United States",
+  "drive_min": 139,
+  "drive_mi": 149,
+  "drive_min_clemson": 140,
+  "drive_mi_clemson": 104
  },
  "Monticello|Georgia": {
   "lat": 33.3044654,
   "lon": -83.684096,
-  "name": "Monticello, Jasper County, Georgia, United States"
+  "name": "Monticello, Jasper County, Georgia, United States",
+  "drive_min": 234,
+  "drive_mi": 253,
+  "drive_min_clemson": 140,
+  "drive_mi_clemson": 135
  },
  "Sparta|Georgia": {
   "lat": 33.2757006,
   "lon": -82.9762589,
-  "name": "Sparta, Hancock County, Georgia, United States"
+  "name": "Sparta, Hancock County, Georgia, United States",
+  "drive_min": 200,
+  "drive_mi": 209,
+  "drive_min_clemson": 153,
+  "drive_mi_clemson": 142
  },
  "Thomson|Georgia": {
   "lat": 33.4663248,
   "lon": -82.5026089,
-  "name": "Thomson, McDuffie County, Georgia, 30824, United States"
+  "name": "Thomson, McDuffie County, Georgia, 30824, United States",
+  "drive_min": 160,
+  "drive_mi": 175,
+  "drive_min_clemson": 124,
+  "drive_mi_clemson": 105
  },
  "Washington|Georgia": {
   "lat": 32.9619979,
   "lon": -82.7748026,
-  "name": "Washington County, Georgia, United States"
+  "name": "Washington County, Georgia, United States",
+  "drive_min": 201,
+  "drive_mi": 211,
+  "drive_min_clemson": 176,
+  "drive_mi_clemson": 171
  }
 }
