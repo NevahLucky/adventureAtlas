@@ -3465,7 +3465,11 @@
  "Medora|North Dakota": {
   "lat": 46.9139028,
   "lon": -103.5243536,
-  "name": "Medora, Billings County, North Dakota, 58645, United States"
+  "name": "Medora, Billings County, North Dakota, 58645, United States",
+  "drive_min": 1912,
+  "drive_mi": 1736,
+  "drive_min_clemson": 1871,
+  "drive_mi_clemson": 1672
  },
  "Miami|Florida": {
   "lat": 25.7741566,
@@ -3538,7 +3542,11 @@
  "Minot|North Dakota": {
   "lat": 48.23251,
   "lon": -101.296273,
-  "name": "Minot, Ward County, North Dakota, United States"
+  "name": "Minot, Ward County, North Dakota, United States",
+  "drive_min": 1895,
+  "drive_mi": 1677,
+  "drive_min_clemson": 1854,
+  "drive_mi_clemson": 1612
  },
  "Mitchell|South Dakota": {
   "lat": 43.70953,
@@ -4130,7 +4138,11 @@
  "Regent|North Dakota": {
   "lat": 46.4216712,
   "lon": -102.555719,
-  "name": "Regent, Hettinger County, North Dakota, United States"
+  "name": "Regent, Hettinger County, North Dakota, United States",
+  "drive_min": 1924,
+  "drive_mi": 1719,
+  "drive_min_clemson": 1884,
+  "drive_mi_clemson": 1655
  },
  "Rehoboth Beach|Delaware": {
   "lat": 38.7164771,
@@ -4789,7 +4801,11 @@
  "West Fargo|North Dakota": {
   "lat": 46.874967,
   "lon": -96.900362,
-  "name": "West Fargo, Cass County, North Dakota, 58078, United States"
+  "name": "West Fargo, Cass County, North Dakota, 58078, United States",
+  "drive_min": 1605,
+  "drive_mi": 1417,
+  "drive_min_clemson": 1565,
+  "drive_mi_clemson": 1353
  },
  "West Glacier|Montana": {
   "lat": 48.4963369,
@@ -11893,5 +11909,149 @@
   "drive_mi": 429,
   "drive_min_clemson": 634,
   "drive_mi_clemson": 541
+ },
+ "Arvilla|North Dakota": {
+  "lat": 47.9192587,
+  "lon": -97.4995543,
+  "name": "Arvilla, Grand Forks County, North Dakota, 58214, United States",
+  "drive_min": 1698,
+  "drive_mi": 1509,
+  "drive_min_clemson": 1657,
+  "drive_mi_clemson": 1445
+ },
+ "Belcourt|North Dakota": {
+  "lat": 48.8429635,
+  "lon": -99.7448161,
+  "name": "Belcourt, Rolette County, North Dakota, 58316, United States",
+  "drive_min": 1880,
+  "drive_mi": 1671,
+  "drive_min_clemson": 1840,
+  "drive_mi_clemson": 1606
+ },
+ "Bismarck|North Dakota": {
+  "lat": 46.808327,
+  "lon": -100.783739,
+  "name": "Bismarck, Burleigh County, North Dakota, United States",
+  "drive_min": 1783,
+  "drive_mi": 1604,
+  "drive_min_clemson": 1743,
+  "drive_mi_clemson": 1540
+ },
+ "Center|North Dakota": {
+  "lat": 47.116385,
+  "lon": -101.299594,
+  "name": "Center, Oliver County, North Dakota, United States",
+  "drive_min": 1829,
+  "drive_mi": 1643,
+  "drive_min_clemson": 1788,
+  "drive_mi_clemson": 1579
+ },
+ "Devils Lake|North Dakota": {
+  "lat": 48.112779,
+  "lon": -98.86512,
+  "name": "Devils Lake, Ramsey County, North Dakota, United States",
+  "drive_min": 1772,
+  "drive_mi": 1577,
+  "drive_min_clemson": 1732,
+  "drive_mi_clemson": 1512
+ },
+ "Dickinson|North Dakota": {
+  "lat": 46.8791756,
+  "lon": -102.7896242,
+  "name": "Dickinson, Stark County, North Dakota, United States",
+  "drive_min": 1877,
+  "drive_mi": 1701,
+  "drive_min_clemson": 1836,
+  "drive_mi_clemson": 1637
+ },
+ "Dunseith|North Dakota": {
+  "lat": 48.813057,
+  "lon": -100.060968,
+  "name": "Dunseith, Rolette County, North Dakota, United States",
+  "drive_min": 1876,
+  "drive_mi": 1667,
+  "drive_min_clemson": 1835,
+  "drive_mi_clemson": 1603
+ },
+ "Epping|North Dakota": {
+  "lat": 48.2791887,
+  "lon": -103.3571326,
+  "name": "Epping, Williams County, North Dakota, United States",
+  "drive_min": 2016,
+  "drive_mi": 1780,
+  "drive_min_clemson": 1976,
+  "drive_mi_clemson": 1716
+ },
+ "Fargo|North Dakota": {
+  "lat": 46.877229,
+  "lon": -96.789821,
+  "name": "Fargo, Cass County, North Dakota, United States",
+  "drive_min": 1598,
+  "drive_mi": 1411,
+  "drive_min_clemson": 1557,
+  "drive_mi_clemson": 1347
+ },
+ "Grand Forks|North Dakota": {
+  "lat": 47.9252104,
+  "lon": -97.0306325,
+  "name": "Grand Forks, Grand Forks County, North Dakota, United States",
+  "drive_min": 1678,
+  "drive_mi": 1492,
+  "drive_min_clemson": 1638,
+  "drive_mi_clemson": 1428
+ },
+ "Mandan|North Dakota": {
+  "lat": 46.826415,
+  "lon": -100.889704,
+  "name": "Mandan, Morton County, North Dakota, 58554, United States",
+  "drive_min": 1788,
+  "drive_mi": 1608,
+  "drive_min_clemson": 1747,
+  "drive_mi_clemson": 1544
+ },
+ "Valley City|North Dakota": {
+  "lat": 46.923313,
+  "lon": -98.003155,
+  "name": "Valley City, Valley Township, Barnes County, North Dakota, 58072, United States",
+  "drive_min": 1654,
+  "drive_mi": 1469,
+  "drive_min_clemson": 1614,
+  "drive_mi_clemson": 1405
+ },
+ "Wahpeton|North Dakota": {
+  "lat": 46.265879,
+  "lon": -96.608863,
+  "name": "Wahpeton, Richland County, North Dakota, United States",
+  "drive_min": 1567,
+  "drive_mi": 1380,
+  "drive_min_clemson": 1527,
+  "drive_mi_clemson": 1316
+ },
+ "Walhalla|North Dakota": {
+  "lat": 48.923328,
+  "lon": -97.918148,
+  "name": "Walhalla, Pembina County, North Dakota, United States",
+  "drive_min": 1789,
+  "drive_mi": 1594,
+  "drive_min_clemson": 1748,
+  "drive_mi_clemson": 1530
+ },
+ "Watford City|North Dakota": {
+  "lat": 47.802241,
+  "lon": -103.283247,
+  "name": "Watford City, McKenzie County, North Dakota, United States",
+  "drive_min": 1972,
+  "drive_mi": 1785,
+  "drive_min_clemson": 1931,
+  "drive_mi_clemson": 1721
+ },
+ "Williston|North Dakota": {
+  "lat": 48.1465457,
+  "lon": -103.621814,
+  "name": "Williston, Williams County, North Dakota, United States",
+  "drive_min": 2024,
+  "drive_mi": 1830,
+  "drive_min_clemson": 1984,
+  "drive_mi_clemson": 1766
  }
 }
