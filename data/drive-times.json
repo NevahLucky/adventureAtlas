@@ -15164,5 +15164,86 @@
   "drive_mi": 223,
   "drive_min_clemson": 192,
   "drive_mi_clemson": 185
+ },
+ "Buena Vista|Georgia": {
+  "lat": 32.3190398,
+  "lon": -84.5171411,
+  "name": "Buena Vista, Marion County, Georgia, 31803, United States",
+  "drive_min": 341,
+  "drive_mi": 343,
+  "drive_min_clemson": 247,
+  "drive_mi_clemson": 262
+ },
+ "Butler|Georgia": {
+  "lat": 32.5570898,
+  "lon": -84.2382482,
+  "name": "Butler, Taylor County, Georgia, 31006, United States",
+  "drive_min": 307,
+  "drive_mi": 319,
+  "drive_min_clemson": 224,
+  "drive_mi_clemson": 223
+ },
+ "Ellaville|Georgia": {
+  "lat": 32.2379098,
+  "lon": -84.3089928,
+  "name": "Ellaville, Schley County, Georgia, 31806, United States",
+  "drive_min": 329,
+  "drive_mi": 341,
+  "drive_min_clemson": 246,
+  "drive_mi_clemson": 245
+ },
+ "Franklin|Georgia": {
+  "lat": 34.3678347,
+  "lon": -83.2107222,
+  "name": "Franklin County, Georgia, United States",
+  "drive_min": 159,
+  "drive_mi": 159,
+  "drive_min_clemson": 47,
+  "drive_mi_clemson": 42
+ },
+ "Hamilton|Georgia": {
+  "lat": 32.7579107,
+  "lon": -84.8749311,
+  "name": "Hamilton, Harris County, Georgia, 31881, United States",
+  "drive_min": 318,
+  "drive_mi": 332,
+  "drive_min_clemson": 205,
+  "drive_mi_clemson": 215
+ },
+ "LaGrange|Georgia": {
+  "lat": 33.039291,
+  "lon": -85.0313269,
+  "name": "LaGrange, Troup County, Georgia, United States",
+  "drive_min": 293,
+  "drive_mi": 307,
+  "drive_min_clemson": 181,
+  "drive_mi_clemson": 191
+ },
+ "Pine Mountain|Georgia": {
+  "lat": 32.8648522,
+  "lon": -84.8540982,
+  "name": "Pine Mountain, Harris County, Georgia, United States",
+  "drive_min": 310,
+  "drive_mi": 325,
+  "drive_min_clemson": 196,
+  "drive_mi_clemson": 204
+ },
+ "Talbotton|Georgia": {
+  "lat": 32.6776372,
+  "lon": -84.5393664,
+  "name": "Talbotton, Talbot County, Georgia, United States",
+  "drive_min": 336,
+  "drive_mi": 332,
+  "drive_min_clemson": 222,
+  "drive_mi_clemson": 215
+ },
+ "Warm Springs|Georgia": {
+  "lat": 32.8904081,
+  "lon": -84.6810381,
+  "name": "Warm Springs, Meriwether County, Georgia, United States",
+  "drive_min": 306,
+  "drive_mi": 312,
+  "drive_min_clemson": 193,
+  "drive_mi_clemson": 196
  }
 }
