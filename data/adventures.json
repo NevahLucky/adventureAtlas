@@ -721,7 +721,9 @@
   "customer": "Families, kids, tourists",
   "unique": "A WWII amphibious vehicle drives straight from the street into the Wisconsin River and up a sandstone gorge, with a driver who tells terrible jokes.",
   "buzz": "It is exactly as silly as it sounds and kids love it; the Dells is a waterpark town with a strange natural core.",
-  "rating": 76
+  "rating": 76,
+  "drive_min": 1112,
+  "drive_min_clemson": 1071
  },
  {
   "name": "Door County",
@@ -744,7 +746,9 @@
   "customer": "Couples, families, retirees",
   "unique": "A peninsula of cherry orchards, fish boils, lighthouses and limestone cliffs, with a shoreline that feels like Maine and a pace that feels like 1955.",
   "buzz": "The fish boil at a Scandinavian restaurant is the ritual; book a cottage months ahead for fall color.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 1201,
+  "drive_min_clemson": 1160
  },
  {
   "name": "Harley-Davidson Museum",
@@ -767,7 +771,9 @@
   "customer": "Riders, design people, families",
   "unique": "The archive of an American icon: prototype engines, a wall of gas tanks, the first serial number bike and a room of custom choppers.",
   "buzz": "Even nonriders enjoy the design story; the factory tour in Menomonee Falls is a separate booking.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 993,
+  "drive_min_clemson": 953
  },
  {
   "name": "Summerfest",
@@ -790,7 +796,9 @@
   "customer": "Music fans, families, young adults",
   "unique": "Eleven stages on the Lake Michigan shore for eleven days, with a giant American flag, fried cheese and a lineup that runs from hip hop to polka.",
   "buzz": "It is cheap for a major festival and the lake breeze saves it; headliners cost extra. Bring a blanket and pace yourself.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 993,
+  "drive_min_clemson": 953
  },
  {
   "name": "Lambeau Field",
@@ -812,7 +820,9 @@
   "customer": "Football fans, families, retirees",
   "unique": "The only community owned team in major American sports, with a stadium tour that includes the tunnel, the frozen tundra and a hall of fame.",
   "buzz": "The tour is excellent even for nonfans; game day tickets require a season ticket waiting list or luck.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1122,
+  "drive_min_clemson": 1081
  },
  {
   "name": "Apostle Islands Ice Caves",
@@ -835,7 +845,9 @@
   "customer": "Adventurers, photographers, locals",
   "unique": "In rare cold winters, Lake Superior freezes solid enough to walk to sea caves hung with curtains of blue ice, a phenomenon that may not happen at all in a given year.",
   "buzz": "When it opens, it is one of the most spectacular things in the Midwest; check the park's ice report before driving. Never go alone.",
-  "rating": 90
+  "rating": 90,
+  "drive_min": 1424,
+  "drive_min_clemson": 1383
  },
  {
   "name": "House on the Rock",
@@ -858,7 +870,9 @@
   "customer": "Quirky travel people, families, teens",
   "unique": "A fever dream house built over a chimney, with the world's largest carousel, a sea monster, automated orchestras and a bookcase that opens into a tunnel.",
   "buzz": "People either call it a masterpiece of outsider art or a hoarder's monument; both are right. Allow three hours minimum.",
-  "rating": 87
+  "rating": 87,
+  "drive_min": 1120,
+  "drive_min_clemson": 1080
  },
  {
   "name": "Taliesin",
@@ -881,7 +895,9 @@
   "customer": "Design people, retirees, couples",
   "unique": "Wright's own home and studio, built into a Wisconsin hillside with the roof lines following the ridge, rebuilt twice after fires.",
   "buzz": "The house tour is excellent and the estate walk is worth the extra; photography rules are strict. Pair with House on the Rock for whiplash.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 1120,
+  "drive_min_clemson": 1080
  },
  {
   "name": "EAA AirVenture",
@@ -904,7 +920,9 @@
   "customer": "Aviation fans, families, retirees",
   "unique": "Ten thousand aircraft and 600,000 people descend on a regional airport for a week of airshows, homebuilts, warbirds and a night show with fireworks.",
   "buzz": "Even casual visitors are stunned; bring earplugs and comfortable shoes. Lodging books a year out.",
-  "rating": 89
+  "rating": 89,
+  "drive_min": 1088,
+  "drive_min_clemson": 1047
  },
  {
   "name": "Devil's Lake",
@@ -927,7 +945,9 @@
   "customer": "Families, hikers, climbers",
   "unique": "A spring fed lake between two quartzite bluffs, with a balanced rock trail, purple quartzite cliffs and some of the best top rope climbing in the Midwest.",
   "buzz": "The bluff trails are crowded on summer weekends; go at sunrise and swim after. The East Bluff is the classic loop.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 1110,
+  "drive_min_clemson": 1070
  },
  {
   "name": "Boundary Waters Canoe Area",
@@ -1100,7 +1120,9 @@
   "customer": "Families, food people, retirees",
   "unique": "The fair that invented the corn dog, with a butter cow, the largest livestock show in the country and a pork chop on a stick that draws pilgrims.",
   "buzz": "People plan vacations around it; the food is the attraction. Parking is easier than at most fairs.",
-  "rating": 85
+  "rating": 85,
+  "drive_min": 1199,
+  "drive_min_clemson": 1153
  },
  {
   "name": "RAGBRAI",
@@ -1146,7 +1168,9 @@
   "customer": "Baseball fans, families, movie lovers",
   "unique": "The actual cornfield and farmhouse from the film, with a maintained diamond where anyone can hit and ghosts of a century of baseball lore.",
   "buzz": "People arrive cynical and leave misty eyed; the movie site is free and the souvenir shop is reasonable. Combine with Dubuque.",
-  "rating": 81
+  "rating": 81,
+  "drive_min": 1123,
+  "drive_min_clemson": 1078
  },
  {
   "name": "Maquoketa Caves",
@@ -1169,7 +1193,9 @@
   "customer": "Families, scouts, cave nerds",
   "unique": "Six miles of trails connecting caves you can actually enter, including one with a 17-foot ceiling and a natural bridge, in the middle of Iowa farmland.",
   "buzz": "Bring a headlamp and clothes you don't mind ruining; the caves are unpaved and genuinely dark. Mud is part of the deal.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 1058,
+  "drive_min_clemson": 1013
  },
  {
   "name": "Grotto of the Redemption",
@@ -1192,7 +1218,9 @@
   "customer": "Road trippers, religious pilgrims, art people",
   "unique": "A priest spent forty years building a nine grotto monument out of petrified wood, geodes, agate and malachite, a folk art cathedral in a cornfield.",
   "buzz": "It is free, sincere and stranger than photos suggest; the mineral collection is genuinely impressive.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1343,
+  "drive_min_clemson": 1297
  },
  {
   "name": "Bridges of Madison County",
@@ -1215,7 +1243,9 @@
   "buzz": "The bridges are lovely and the driving is the point; the annual festival in October draws crowds. Stop at a small town cafe.",
   "rating": 77,
   "party": "2–6",
-  "customer": "Families, couples, photographers"
+  "customer": "Families, couples, photographers",
+  "drive_min": 1241,
+  "drive_min_clemson": 1183
  },
  {
   "name": "Gateway Arch",
@@ -14354,7 +14384,9 @@
   "customer": "Art people, road trippers, photographers",
   "unique": "The largest scrap metal sculpture in the world, a 300 ton time machine built from industrial salvage by a former junkyard artist, surrounded by giant birds and a teapot orchestra.",
   "buzz": "It is free, enormous and completely unexpected; photographers love it at sunset. A ten minute detour off the interstate.",
-  "rating": 83
+  "rating": 83,
+  "drive_min": 1124,
+  "drive_min_clemson": 1083
  },
  {
   "name": "SPAM Museum",
@@ -14402,7 +14434,9 @@
   "customer": "Ghost hunters, true crime fans, teens",
   "unique": "An unsolved 1912 family murder house preserved almost as it was, with bullet holes in the walls and overnight investigations if you want to stay.",
   "buzz": "The tour is matter of fact about a real tragedy; it is eerie rather than theatrical. Not for young kids.",
-  "rating": 75
+  "rating": 75,
+  "drive_min": 1279,
+  "drive_min_clemson": 1198
  },
  {
   "name": "Crown Candy Kitchen",
@@ -36715,7 +36749,9 @@
   "customer": "Art people, families, walkers",
   "unique": "A 4.4 acre downtown park with 30 large outdoor sculptures, free and open at all hours, next to the art center.",
   "buzz": "The scale is surprising for Des Moines and the park is easy to walk. Free.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 1199,
+  "drive_min_clemson": 1153
  },
  {
   "name": "Greater Des Moines Botanical Garden",
@@ -36738,7 +36774,9 @@
   "customer": "Gardeners, families, couples",
   "unique": "A domed conservatory and outdoor gardens on the Des Moines River, with tropical plants, a bonsai collection and a cafe.",
   "buzz": "The dome is the winter escape and the river walk is pretty. Cheap and calm.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1199,
+  "drive_min_clemson": 1153
  },
  {
   "name": "Living History Farms",
@@ -36761,7 +36799,9 @@
   "customer": "Families, history people",
   "unique": "A 500 acre open air museum with an 1700s Ioway village, an 1850 farm, a 1900 farm and a small town, with interpreters in period dress.",
   "buzz": "The breadth of the three farms is the strength, and kids can help with chores. Allow three hours.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1202,
+  "drive_min_clemson": 1156
  },
  {
   "name": "Czech Village",
@@ -36784,7 +36824,9 @@
   "customer": "Food people, families, history fans",
   "unique": "A neighborhood of Czech bakeries, a butcher, a museum and a riverfront, with kolaches and a national Czech and Slovak museum.",
   "buzz": "The kolaches are the reason and the museum is worth an hour. The river walk is a bonus.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1103,
+  "drive_min_clemson": 1057
  },
  {
   "name": "Brucemore",
@@ -36807,7 +36849,9 @@
   "customer": "History people, gardeners",
   "unique": "A 1886 Queen Anne mansion with 26 acres of grounds, a carriage house and the story of the three families who owned it.",
   "buzz": "The house tour is personal and the gardens are free to walk. Check the event schedule.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1103,
+  "drive_min_clemson": 1057
  },
  {
   "name": "Iowa Avenue Literary Walk",
@@ -36830,7 +36874,9 @@
   "customer": "Readers, walkers",
   "unique": "A self guided walk through a UNESCO City of Literature, with bronze reliefs of writers and quotes set into the sidewalks.",
   "buzz": "A quiet hour for readers, and the used bookshops and Prairie Lights are the stops.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1078,
+  "drive_min_clemson": 1032
  },
  {
   "name": "Amana Colonies",
@@ -36853,7 +36899,9 @@
   "customer": "Families, couples, craft people",
   "unique": "Seven villages settled by German Pietists, with communal kitchens, woolen mills, furniture shops and family style restaurants.",
   "buzz": "The colonies are a good half day, with crafts and heavy German food. The woolen mill is the best stop.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 1104,
+  "drive_min_clemson": 1058
  },
  {
   "name": "Effigy Mounds National Monument",
@@ -36876,7 +36924,9 @@
   "customer": "History people, hikers, families",
   "unique": "Two hundred prehistoric mounds shaped like bears, birds and lines on bluffs above the Mississippi, with trails through the woods.",
   "buzz": "The bear mounds are subtle but the setting is beautiful. The bluff trail is a real hike.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1212,
+  "drive_min_clemson": 1166
  },
  {
   "name": "Loess Hills",
@@ -36899,7 +36949,9 @@
   "customer": "Hikers, photographers, families",
   "unique": "A narrow band of wind deposited hills along the Missouri, with prairie ridges, sharp bluffs and a landscape found in only one other place on earth.",
   "buzz": "The ridges are best at sunrise and the prairie flowers peak in summer. Drive the back roads.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1369,
+  "drive_min_clemson": 1288
  },
  {
   "name": "Fenelon Place Elevator",
@@ -36922,7 +36974,9 @@
   "customer": "Families, visitors",
   "unique": "The world's shortest and steepest scenic railway, a 296 foot funicular up the bluff to a view over the Mississippi and three states.",
   "buzz": "The ride is short and the view is the reward. A dollar or two, and a local institution.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1096,
+  "drive_min_clemson": 1050
  },
  {
   "name": "Lewis and Clark Interpretive Center",
@@ -36945,7 +36999,9 @@
   "customer": "History people, families",
   "unique": "A museum on the Missouri telling the Corps of Discovery story, with a keelboat, a prairie garden and a view of the river.",
   "buzz": "The exhibits are well done and the river setting is the point. Good for kids studying the expedition.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 1407,
+  "drive_min_clemson": 1326
  },
  {
   "name": "Field Museum",
@@ -37776,7 +37832,9 @@
   "customer": "Art people, architecture fans",
   "unique": "A museum with a winged addition by Calatrava that opens and closes over the lake, plus a strong American and folk art collection.",
   "buzz": "The wings opening is the photo, and the collection is solid. Check the schedule for the brise soleil.",
-  "rating": 86
+  "rating": 86,
+  "drive_min": 993,
+  "drive_min_clemson": 953
  },
  {
   "name": "Miller Brewery Tour",
@@ -37799,7 +37857,9 @@
   "customer": "Visitors, beer fans",
   "unique": "A tour of the old Miller brewery with the caves, the brewhouse and a tasting at the end.",
   "buzz": "The caves and the history are the interesting parts, and the tasting is generous. Book ahead.",
-  "rating": 78
+  "rating": 78,
+  "drive_min": 993,
+  "drive_min_clemson": 953
  },
  {
   "name": "Wisconsin State Fair",
@@ -37822,7 +37882,9 @@
   "customer": "Families, locals",
   "unique": "A state fair famous for cream puffs, cheese, livestock shows and a midway, eleven days in August.",
   "buzz": "The cream puffs are the ritual and the livestock barns are the real fair. Go on a weekday.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 997,
+  "drive_min_clemson": 956
  },
  {
   "name": "Olbrich Botanical Gardens",
@@ -37845,7 +37907,9 @@
   "customer": "Gardeners, families",
   "unique": "Sixteen acres of gardens with a Thai pavilion, a rose garden, a prairie and a conservatory.",
   "buzz": "The Thai pavilion is the photo and the outdoor gardens are free. Quiet and pretty.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1063,
+  "drive_min_clemson": 1023
  },
  {
   "name": "Cave of the Mounds",
@@ -37868,7 +37932,9 @@
   "customer": "Families with kids",
   "unique": "A limestone cave with colorful mineral formations, a guided tour and a fossil dig outside.",
   "buzz": "The formations are colorful and the tour is easy. A good rainy day stop with kids.",
-  "rating": 80
+  "rating": 80,
+  "drive_min": 1092,
+  "drive_min_clemson": 1052
  },
  {
   "name": "Peninsula State Park",
@@ -37891,7 +37957,9 @@
   "customer": "Families, cyclists, campers",
   "unique": "A 3,700 acre park on Green Bay with a lighthouse, a beach, bike trails and a view of the Door County islands.",
   "buzz": "The Eagle Bluff lighthouse and the bike loop are the highlights. Book camping early in summer.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 1201,
+  "drive_min_clemson": 1160
  },
  {
   "name": "Circus World Museum",
@@ -37914,7 +37982,9 @@
   "customer": "Families, history people",
   "unique": "The winter quarters of the Ringling brothers, with circus wagons, a big top and daily performances in summer.",
   "buzz": "The wagon collection is enormous and the shows are real. Good for kids and nostalgia.",
-  "rating": 82
+  "rating": 82,
+  "drive_min": 1110,
+  "drive_min_clemson": 1070
  },
  {
   "name": "Wingspread",
@@ -37937,7 +38007,9 @@
   "customer": "Architecture fans, history people",
   "unique": "A late Frank Lloyd Wright house with a four winged plan around a central great hall, built for the Johnson wax family.",
   "buzz": "For Wright fans it is a major house, and the great hall is the showpiece. Tours by reservation.",
-  "rating": 84
+  "rating": 84,
+  "drive_min": 987,
+  "drive_min_clemson": 946
  },
  {
   "name": "Minneapolis Institute of Art",
@@ -61583,5 +61655,753 @@
   "rating": 80,
   "drive_min": 1295,
   "drive_min_clemson": 1255
+ },
+ {
+  "name": "Reiman Gardens",
+  "city": "Ames",
+  "county": "Story",
+  "state": "Iowa",
+  "cats": [
+   "Garden",
+   "Nature",
+   "Family"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Daily",
+  "start": "1995",
+  "company": "Iowa State University",
+  "party": "2–5",
+  "customer": "Gardeners, families, photographers",
+  "unique": "Seventeen acres of themed gardens with a butterfly wing, a rose garden and a 100 foot glass conservatory, on the Iowa State campus.",
+  "buzz": "The butterfly wing is the family draw and the rose garden peaks in June; the gardens are quiet on weekday mornings.",
+  "rating": 78,
+  "drive_min": 1221,
+  "drive_min_clemson": 1175
+ },
+ {
+  "name": "Octagon Center for the Arts",
+  "city": "Ames",
+  "county": "Story",
+  "state": "Iowa",
+  "cats": [
+   "Art",
+   "Community",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1970s",
+  "company": "Octagon Center for the Arts",
+  "party": "2–4",
+  "customer": "Art people, families, local artists",
+  "unique": "An arts center in a 1904 octagonal building with galleries, studios and a shop of Iowa artists, free to walk through.",
+  "buzz": "The building is the curiosity and the local art is the reason to stop; classes and openings keep it alive.",
+  "rating": 72,
+  "drive_min": 1221,
+  "drive_min_clemson": 1175
+ },
+ {
+  "name": "Old Capitol Museum",
+  "city": "Iowa City",
+  "county": "Johnson",
+  "state": "Iowa",
+  "cats": [
+   "History",
+   "Architecture",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat",
+  "start": "1842",
+  "company": "University of Iowa",
+  "party": "2–4",
+  "customer": "History people, students, families",
+  "unique": "The first capitol of Iowa and later the university's first building, with restored chambers and a spiral staircase, free on the Pentacrest.",
+  "buzz": "The chambers and the staircase are the reasons to go in and it is free; the university museum next door is the companion stop.",
+  "rating": 76,
+  "drive_min": 1078,
+  "drive_min_clemson": 1032
+ },
+ {
+  "name": "Figge Art Museum",
+  "city": "Davenport",
+  "county": "Scott",
+  "state": "Iowa",
+  "cats": [
+   "Art",
+   "Museum",
+   "Architecture"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "2005",
+  "company": "Figge Art Museum",
+  "party": "2–4",
+  "customer": "Art people, families, students",
+  "unique": "A glass building on the Mississippi by David Chipperfield, holding a collection of American and European art plus a gallery of Haitian painting.",
+  "buzz": "The building and the river view are the reasons to go and the Haitian collection is the surprise; it is small enough for 90 minutes.",
+  "rating": 78,
+  "drive_min": 1018,
+  "drive_min_clemson": 972
+ },
+ {
+  "name": "Buffalo Bill Museum",
+  "city": "Le Claire",
+  "county": "Scott",
+  "state": "Iowa",
+  "cats": [
+   "Museum",
+   "History",
+   "Quirky"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily",
+  "start": "1956",
+  "company": "Buffalo Bill Museum",
+  "party": "2–4",
+  "customer": "History families, road trippers, western fans",
+  "unique": "A museum in Buffalo Bill Cody's birthplace town with his saddle, letters and a paddlewheel steamboat exhibit, on the Mississippi.",
+  "buzz": "The steamboat and the Cody memorabilia are the two rooms and the town is a good stop; it is small and cheap.",
+  "rating": 74,
+  "drive_min": 1009,
+  "drive_min_clemson": 964
+ },
+ {
+  "name": "Grout Museum District",
+  "city": "Waterloo",
+  "county": "Black Hawk",
+  "state": "Iowa",
+  "cats": [
+   "Museum",
+   "Science",
+   "History"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Tue–Sat",
+  "start": "1932",
+  "company": "Grout Museum District",
+  "party": "2–5",
+  "customer": "Families, history people, science fans",
+  "unique": "A campus of museums with a natural history hall, a science center and a museum of the Sullivan brothers, the five Waterloo sailors lost together in 1942.",
+  "buzz": "The Sullivan brothers gallery is the emotional stop and the science center is for children; the district is bigger than it looks.",
+  "rating": 76,
+  "drive_min": 1166,
+  "drive_min_clemson": 1120
+ },
+ {
+  "name": "Union Pacific Railroad Museum",
+  "city": "Council Bluffs",
+  "county": "Pottawattamie",
+  "state": "Iowa",
+  "cats": [
+   "Rail",
+   "Museum",
+   "History"
+  ],
+  "cost": "Free–$5",
+  "cost_num": 3,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sat",
+  "start": "2003",
+  "company": "Union Pacific",
+  "party": "2–4",
+  "customer": "Train people, families, history fans",
+  "unique": "A museum in a 1930s library with a simulator of a locomotive cab, the story of the transcontinental railroad and the golden spike.",
+  "buzz": "The simulator is the family draw and the archives are serious; it is free or nearly free and the building is a landmark.",
+  "rating": 78,
+  "drive_min": 1302,
+  "drive_min_clemson": 1221
+ },
+ {
+  "name": "Sergeant Floyd Monument",
+  "city": "Sioux City",
+  "county": "Woodbury",
+  "state": "Iowa",
+  "cats": [
+   "History",
+   "Views",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year-round",
+  "start": "1901",
+  "company": "City of Sioux City",
+  "party": "Any",
+  "customer": "History people, road trippers, photographers",
+  "unique": "A 100 foot obelisk over the grave of the only member of the Lewis and Clark expedition to die on the journey, on a bluff above the Missouri.",
+  "buzz": "The view of three states from the bluff is the reason to stop and the story is the rest; it is a ten minute visit.",
+  "rating": 72,
+  "drive_min": 1407,
+  "drive_min_clemson": 1326
+ },
+ {
+  "name": "Stockman House",
+  "city": "Mason City",
+  "county": "Cerro Gordo",
+  "state": "Iowa",
+  "cats": [
+   "Architecture",
+   "History",
+   "Design"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sat, May–Oct",
+  "start": "1908",
+  "company": "River City Society for Historic Preservation",
+  "party": "2–4",
+  "customer": "Architecture people, Wright fans, families",
+  "unique": "A Frank Lloyd Wright prairie house in a town of 27,000, restored and open for tours, one of the few Wright houses in Iowa.",
+  "buzz": "Wright people detour for it and the guides know the restoration; the house is small and the tour is an hour.",
+  "rating": 76,
+  "drive_min": 1264,
+  "drive_min_clemson": 1218
+ },
+ {
+  "name": "Music Man Square",
+  "city": "Mason City",
+  "county": "Cerro Gordo",
+  "state": "Iowa",
+  "cats": [
+   "Music",
+   "Museum",
+   "Quirky"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sun",
+  "start": "2002",
+  "company": "Music Man Square",
+  "party": "2–4",
+  "customer": "Theater people, families, Meredith Willson fans",
+  "unique": "A recreation of the River City main street from The Music Man, with a boyhood home and a museum on Meredith Willson, in his hometown.",
+  "buzz": "The set and the story are the draw and the summer musical is the local event; it is small and specific.",
+  "rating": 74,
+  "drive_min": 1264,
+  "drive_min_clemson": 1218
+ },
+ {
+  "name": "Snake Alley",
+  "city": "Burlington",
+  "county": "Des Moines",
+  "state": "Iowa",
+  "cats": [
+   "Quirky",
+   "History",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "30 min",
+  "dur_h": 0.5,
+  "dates": "Year-round",
+  "start": "1894",
+  "company": "City of Burlington",
+  "party": "Any",
+  "customer": "Road trippers, photographers, families",
+  "unique": "A brick street that climbs a hill in five switchbacks, built in 1894 and called the crookedest street in the world, in a Mississippi river town.",
+  "buzz": "The drive up or walk down is the fun and the comparison with Lombard Street is the joke; it takes ten minutes and the neighborhood is historic.",
+  "rating": 74,
+  "drive_min": 1018,
+  "drive_min_clemson": 972
+ },
+ {
+  "name": "Midwest Old Threshers Reunion",
+  "city": "Mount Pleasant",
+  "county": "Henry",
+  "state": "Iowa",
+  "cats": [
+   "Festival",
+   "History",
+   "Family"
+  ],
+  "cost": "$10–$15",
+  "cost_num": 12,
+  "dur": "Full day",
+  "dur_h": 6,
+  "dates": "Labor Day weekend",
+  "start": "1950",
+  "company": "Midwest Old Threshers",
+  "party": "2–6",
+  "customer": "Tractor people, families, history fans",
+  "unique": "A five day festival of steam engines, threshing machines and antique tractors on a 200 acre grounds with a narrow gauge railroad and a carousel.",
+  "buzz": "The steam engines under load are the spectacle and the tractor parade is the tradition; it is one of the largest old threshing shows in the country.",
+  "rating": 80,
+  "drive_min": 1053,
+  "drive_min_clemson": 995
+ },
+ {
+  "name": "Pella Tulip Time",
+  "city": "Pella",
+  "county": "Marion",
+  "state": "Iowa",
+  "cats": [
+   "Festival",
+   "Community",
+   "Garden"
+  ],
+  "cost": "Free–$10",
+  "cost_num": 5,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "First weekend of May",
+  "start": "1935",
+  "company": "Pella Tulip Time",
+  "party": "2–6",
+  "customer": "Families, gardeners, heritage travelers",
+  "unique": "A Dutch heritage festival with 300,000 tulips, street scrubbing, costumed dancers and a working windmill in a town of 10,000.",
+  "buzz": "The tulips and the parade are the reasons to come and the Dutch bakeries sell out; parking is on the edge of town and the crowds are real.",
+  "rating": 80,
+  "drive_min": 1163,
+  "drive_min_clemson": 1104
+ },
+ {
+  "name": "Vesterheim Norwegian-American Museum",
+  "city": "Decorah",
+  "county": "Winneshiek",
+  "state": "Iowa",
+  "cats": [
+   "Museum",
+   "Native",
+   "Art"
+  ],
+  "cost": "$12",
+  "cost_num": 12,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Daily",
+  "start": "1877",
+  "company": "Vesterheim",
+  "party": "2–4",
+  "customer": "Heritage travelers, craft people, families",
+  "unique": "The largest museum of Norwegian American history in the country, with a reconstructed stave church, rosemaling and a boat hall of fjord craft.",
+  "buzz": "The stave church and the woodcarving collection are the reasons to come; the town also has a brewery and a bike trail along the Upper Iowa.",
+  "rating": 82,
+  "drive_min": 1236,
+  "drive_min_clemson": 1190
+ },
+ {
+  "name": "Wisconsin State Capitol",
+  "city": "Madison",
+  "county": "Dane",
+  "state": "Wisconsin",
+  "cats": [
+   "Architecture",
+   "History",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Weekdays; tours hourly",
+  "start": "1917",
+  "company": "State of Wisconsin",
+  "party": "2–4",
+  "customer": "Architecture people, school groups, travelers",
+  "unique": "A granite capitol with the only granite dome in the country and a mural by Edwin Blashfield, on the isthmus between two lakes.",
+  "buzz": "The dome and the observation deck are the reasons to go up; tours are free and the Saturday farmers market on the square is the local ritual.",
+  "rating": 80,
+  "drive_min": 1063,
+  "drive_min_clemson": 1023
+ },
+ {
+  "name": "Monona Terrace",
+  "city": "Madison",
+  "county": "Dane",
+  "state": "Wisconsin",
+  "cats": [
+   "Architecture",
+   "Views",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily",
+  "start": "1997",
+  "company": "City of Madison",
+  "party": "2–4",
+  "customer": "Architecture people, walkers, photographers",
+  "unique": "A Frank Lloyd Wright designed convention center on Lake Monona with a rooftop garden and a curving ramp that was finally built 40 years after his death.",
+  "buzz": "The roof garden and the lake view are free to visit and the Wright story is the interest; the building is a good rainy day walk.",
+  "rating": 74,
+  "drive_min": 1063,
+  "drive_min_clemson": 1023
+ },
+ {
+  "name": "Civil War Museum",
+  "city": "Kenosha",
+  "county": "Kenosha",
+  "state": "Wisconsin",
+  "cats": [
+   "Museum",
+   "History",
+   "Military"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "2008",
+  "company": "Kenosha Public Museums",
+  "party": "2–4",
+  "customer": "History people, families, school groups",
+  "unique": "A museum on the war from the perspective of the upper midwest, with a 360 degree film and a gallery on the home front and the soldiers' letters.",
+  "buzz": "The film and the personal stories are the reasons to come; it is a good companion to the larger battlefields.",
+  "rating": 74,
+  "drive_min": 968,
+  "drive_min_clemson": 927
+ },
+ {
+  "name": "Lincoln-Tallman House",
+  "city": "Janesville",
+  "county": "Rock",
+  "state": "Wisconsin",
+  "cats": [
+   "History",
+   "Architecture"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Tue–Sun, May–Oct",
+  "start": "1857",
+  "company": "Rock County Historical Society",
+  "party": "2–4",
+  "customer": "House tour people, Lincoln fans, families",
+  "unique": "An Italianate mansion where Abraham Lincoln stayed in 1859, with period rooms and a tower view over Janesville.",
+  "buzz": "The Lincoln room and the house's scale are the tour; the volunteers tell the story well and it is cheap.",
+  "rating": 72,
+  "drive_min": 1020,
+  "drive_min_clemson": 979
+ },
+ {
+  "name": "Rotary Botanical Gardens",
+  "city": "Janesville",
+  "county": "Rock",
+  "state": "Wisconsin",
+  "cats": [
+   "Garden",
+   "Walk",
+   "Family"
+  ],
+  "cost": "$5",
+  "cost_num": 5,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Daily",
+  "start": "1989",
+  "company": "Rotary Botanical Gardens",
+  "party": "2–4",
+  "customer": "Gardeners, families, photographers",
+  "unique": "Twenty acres of themed gardens on a former dairy farm, with a Japanese garden, a children's garden and a holiday light show.",
+  "buzz": "The Japanese garden and the winter lights are the two seasons; it is small and cheap and the paths are flat.",
+  "rating": 76,
+  "drive_min": 1020,
+  "drive_min_clemson": 979
+ },
+ {
+  "name": "John Michael Kohler Arts Center",
+  "city": "Sheboygan",
+  "county": "Sheboygan",
+  "state": "Wisconsin",
+  "cats": [
+   "Art",
+   "Museum",
+   "Free"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1967",
+  "company": "John Michael Kohler Arts Center",
+  "party": "2–4",
+  "customer": "Art people, families, students",
+  "unique": "An arts center with a major collection of artist built environments, plus galleries and studios, free and in a former Kohler family house.",
+  "buzz": "The art environments are the reason curators visit and it is free; the center runs a residency program in the old factory.",
+  "rating": 80,
+  "drive_min": 1051,
+  "drive_min_clemson": 1011
+ },
+ {
+  "name": "Kohler-Andrae State Park",
+  "city": "Sheboygan",
+  "county": "Sheboygan",
+  "state": "Wisconsin",
+  "cats": [
+   "Beach",
+   "Nature",
+   "Camping"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1960s",
+  "company": "Wisconsin Department of Natural Resources",
+  "party": "2–5",
+  "customer": "Swimmers, campers, birders",
+  "unique": "A Lake Michigan beach backed by sand dunes and a boardwalk through a marsh, with a campground in the pines.",
+  "buzz": "The beach and the dune boardwalk are the family stops; the water is cold and the dunes are fragile, so stay on the paths.",
+  "rating": 80,
+  "drive_min": 1051,
+  "drive_min_clemson": 1011
+ },
+ {
+  "name": "Horicon Marsh",
+  "city": "Horicon",
+  "county": "Dodge",
+  "state": "Wisconsin",
+  "cats": [
+   "Birding",
+   "Nature",
+   "Wildlife"
+  ],
+  "cost": "Free",
+  "cost_num": 0,
+  "dur": "3 hrs",
+  "dur_h": 3,
+  "dates": "Year-round",
+  "start": "1941",
+  "company": "US Fish and Wildlife Service and Wisconsin DNR",
+  "party": "2–4",
+  "customer": "Birders, photographers, families",
+  "unique": "The largest freshwater cattail marsh in the country, where Canada geese stage by the hundred thousand in fall and pelicans nest in summer.",
+  "buzz": "The auto tour and the visitor center are the easy way in and the fall goose migration is the spectacle; bring bug spray.",
+  "rating": 82,
+  "drive_min": 1058,
+  "drive_min_clemson": 1017
+ },
+ {
+  "name": "Paine Art Center",
+  "city": "Oshkosh",
+  "county": "Winnebago",
+  "state": "Wisconsin",
+  "cats": [
+   "Art",
+   "Architecture",
+   "Garden"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1930s",
+  "company": "Paine Art Center",
+  "party": "2–4",
+  "customer": "Art people, gardeners, house tour fans",
+  "unique": "A Tudor revival mansion with a formal garden, showing art in the family rooms and hosting a holiday lights event that fills the grounds.",
+  "buzz": "The house and garden are the visit and the holiday show is the local tradition; it is small and the art rotates.",
+  "rating": 76,
+  "drive_min": 1088,
+  "drive_min_clemson": 1047
+ },
+ {
+  "name": "History Museum at the Castle",
+  "city": "Appleton",
+  "county": "Outagamie",
+  "state": "Wisconsin",
+  "cats": [
+   "Museum",
+   "History",
+   "Quirky"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1875",
+  "company": "Outagamie County Historical Society",
+  "party": "2–4",
+  "customer": "History people, families, Houdini fans",
+  "unique": "A museum in a castle-like 1920s Masonic temple with a gallery on Harry Houdini, who grew up in Appleton, and a room on the paper industry.",
+  "buzz": "The Houdini exhibits are the reason people come and the building is the setting; children like the escape room style displays.",
+  "rating": 74,
+  "drive_min": 1108,
+  "drive_min_clemson": 1067
+ },
+ {
+  "name": "Rib Mountain State Park",
+  "city": "Wausau",
+  "county": "Marathon",
+  "state": "Wisconsin",
+  "cats": [
+   "Hiking",
+   "Snow",
+   "Views"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "2–3 hrs",
+  "dur_h": 2.5,
+  "dates": "Year-round",
+  "start": "1937",
+  "company": "Wisconsin Department of Natural Resources",
+  "party": "2–4",
+  "customer": "Hikers, skiers, leaf peepers",
+  "unique": "One of the highest points in the state with a 60 foot observation tower and ski runs on the same hill, above the Wisconsin River.",
+  "buzz": "The tower view in fall is the reason to climb and the ski hill is a local winter spot; the trails are steep and rocky.",
+  "rating": 76,
+  "drive_min": 1205,
+  "drive_min_clemson": 1165
+ },
+ {
+  "name": "Chippewa Valley Museum",
+  "city": "Eau Claire",
+  "county": "Eau Claire",
+  "state": "Wisconsin",
+  "cats": [
+   "Museum",
+   "History",
+   "Farm"
+  ],
+  "cost": "$8",
+  "cost_num": 8,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "Tue–Sun",
+  "start": "1976",
+  "company": "Chippewa Valley Museum",
+  "party": "2–5",
+  "customer": "History families, school groups, locals",
+  "unique": "A museum with an indoor pioneer street, a farm kitchen and a gallery on the Ojibwe and the lumber camps, in a park on the Chippewa River.",
+  "buzz": "The street scene and the farm are good with children and the Ojibwe gallery is the serious part; it is cheap and quiet.",
+  "rating": 74,
+  "drive_min": 1244,
+  "drive_min_clemson": 1203
+ },
+ {
+  "name": "Fairlawn Mansion",
+  "city": "Superior",
+  "county": "Douglas",
+  "state": "Wisconsin",
+  "cats": [
+   "History",
+   "Architecture"
+  ],
+  "cost": "$10",
+  "cost_num": 10,
+  "dur": "1 hr",
+  "dur_h": 1,
+  "dates": "Daily, May–Oct",
+  "start": "1891",
+  "company": "Superior Public Museums",
+  "party": "2–4",
+  "customer": "House tour people, history fans, families",
+  "unique": "A 42 room Queen Anne mansion built by a lumber and ore fortune, with original woodwork and a view over Lake Superior.",
+  "buzz": "The house is the tour and the story of the family is the interest; it is well kept and the guides are local.",
+  "rating": 74,
+  "drive_min": 1414,
+  "drive_min_clemson": 1374
+ },
+ {
+  "name": "Madeline Island Ferry",
+  "city": "Bayfield",
+  "county": "Bayfield",
+  "state": "Wisconsin",
+  "cats": [
+   "Boat",
+   "Water",
+   "Nature"
+  ],
+  "cost": "$15–$25",
+  "cost_num": 18,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "May–Oct",
+  "start": "1940s",
+  "company": "Madeline Island Ferry Line",
+  "party": "2–4",
+  "customer": "Day trippers, cyclists, families",
+  "unique": "A ferry from Bayfield to Madeline Island, the largest of the Apostle Islands, with bike rentals, a beach and a state park at the landing.",
+  "buzz": "The crossing and the island bike ride are the day and the ferry carries cars; the island is quiet and the water is cold.",
+  "rating": 78,
+  "drive_min": 1424,
+  "drive_min_clemson": 1383
+ },
+ {
+  "name": "Villa Louis",
+  "city": "Prairie du Chien",
+  "county": "Crawford",
+  "state": "Wisconsin",
+  "cats": [
+   "History",
+   "Architecture",
+   "Garden"
+  ],
+  "cost": "$12",
+  "cost_num": 12,
+  "dur": "1.5 hrs",
+  "dur_h": 1.5,
+  "dates": "May–Oct",
+  "start": "1843",
+  "company": "Wisconsin Historical Society",
+  "party": "2–4",
+  "customer": "History people, families, house tour fans",
+  "unique": "A Victorian mansion on a mound above the Mississippi, with original furnishings, a fur trade history and a formal garden.",
+  "buzz": "The house and the river setting are the tour and the annual car show on the grounds is the local event; it is one of the best historic houses in the state.",
+  "rating": 80,
+  "drive_min": 1190,
+  "drive_min_clemson": 1144
+ },
+ {
+  "name": "Yerkes Observatory",
+  "city": "Williams Bay",
+  "county": "Walworth",
+  "state": "Wisconsin",
+  "cats": [
+   "Science",
+   "Space",
+   "Architecture"
+  ],
+  "cost": "$25",
+  "cost_num": 25,
+  "dur": "2 hrs",
+  "dur_h": 2,
+  "dates": "Select tour dates",
+  "start": "1897",
+  "company": "Yerkes Future Foundation",
+  "party": "2–4",
+  "customer": "Astronomy people, architecture fans, families",
+  "unique": "The observatory that housed the largest refracting telescope in the world, with a terra cotta ornamented building and a 40 inch lens.",
+  "buzz": "The telescope and the building are the tour and the restoration is ongoing; tours are limited and book out in summer.",
+  "rating": 84,
+  "drive_min": 993,
+  "drive_min_clemson": 953
  }
 ]

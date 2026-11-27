@@ -2155,7 +2155,11 @@
  "Baraboo|Wisconsin": {
   "lat": 43.4704014,
   "lon": -89.7437844,
-  "name": "Baraboo, Sauk County, Wisconsin, 53913, United States"
+  "name": "Baraboo, Sauk County, Wisconsin, 53913, United States",
+  "drive_min": 1110,
+  "drive_mi": 958,
+  "drive_min_clemson": 1070,
+  "drive_mi_clemson": 894
  },
  "Baton Rouge|Louisiana": {
   "lat": 30.4494155,
@@ -2169,7 +2173,11 @@
  "Bayfield|Wisconsin": {
   "lat": 46.4710241,
   "lon": -91.1983175,
-  "name": "Bayfield County, Wisconsin, United States"
+  "name": "Bayfield County, Wisconsin, United States",
+  "drive_min": 1424,
+  "drive_mi": 1230,
+  "drive_min_clemson": 1383,
+  "drive_mi_clemson": 1166
  },
  "Beacon|New York": {
   "lat": 41.5048402,
@@ -2776,7 +2784,11 @@
  "Des Moines|Iowa": {
   "lat": 41.5868654,
   "lon": -93.6249494,
-  "name": "Des Moines, Polk County, Iowa, United States"
+  "name": "Des Moines, Polk County, Iowa, United States",
+  "drive_min": 1199,
+  "drive_mi": 1042,
+  "drive_min_clemson": 1153,
+  "drive_mi_clemson": 996
  },
  "Detroit|Michigan": {
   "lat": 42.3315509,
@@ -2844,7 +2856,11 @@
  "Dyersville|Iowa": {
   "lat": 42.4844602,
   "lon": -91.1211058,
-  "name": "Dyersville, New Wine Township, Dubuque County, Iowa, 52040, United States"
+  "name": "Dyersville, New Wine Township, Dubuque County, Iowa, 52040, United States",
+  "drive_min": 1123,
+  "drive_mi": 966,
+  "drive_min_clemson": 1078,
+  "drive_mi_clemson": 919
  },
  "East Haddam|Connecticut": {
   "lat": 41.4528584,
@@ -2939,7 +2955,11 @@
  "Fish Creek|Wisconsin": {
   "lat": 45.1277686,
   "lon": -87.2467256,
-  "name": "Fish Creek, Town of Gibraltar, Door County, Wisconsin, 54212, United States"
+  "name": "Fish Creek, Town of Gibraltar, Door County, Wisconsin, 54212, United States",
+  "drive_min": 1201,
+  "drive_mi": 1028,
+  "drive_min_clemson": 1160,
+  "drive_mi_clemson": 963
  },
  "Flora|Mississippi": {
   "lat": 32.5432591,
@@ -3093,7 +3113,11 @@
  "Green Bay|Wisconsin": {
   "lat": 44.5126379,
   "lon": -88.0125794,
-  "name": "Green Bay, Brown County, Wisconsin, United States"
+  "name": "Green Bay, Brown County, Wisconsin, United States",
+  "drive_min": 1122,
+  "drive_mi": 966,
+  "drive_min_clemson": 1081,
+  "drive_mi_clemson": 902
  },
  "Green River|Utah": {
   "lat": 40.050762,
@@ -3559,7 +3583,11 @@
  "Maquoketa|Iowa": {
   "lat": 42.0690915,
   "lon": -90.6654748,
-  "name": "Maquoketa, Jackson County, Iowa, 52060, United States"
+  "name": "Maquoketa, Jackson County, Iowa, 52060, United States",
+  "drive_min": 1058,
+  "drive_mi": 912,
+  "drive_min_clemson": 1013,
+  "drive_mi_clemson": 866
  },
  "Marblemount|Washington": {
   "lat": 48.534909,
@@ -3668,7 +3696,11 @@
  "Milwaukee|Wisconsin": {
   "lat": 43.0386475,
   "lon": -87.9090751,
-  "name": "Milwaukee, Milwaukee County, Wisconsin, United States"
+  "name": "Milwaukee, Milwaukee County, Wisconsin, United States",
+  "drive_min": 993,
+  "drive_mi": 852,
+  "drive_min_clemson": 953,
+  "drive_mi_clemson": 787
  },
  "Minden|Nevada": {
   "lat": 38.9565145,
@@ -3916,7 +3948,11 @@
  "North Freedom|Wisconsin": {
   "lat": 43.4602946,
   "lon": -89.866476,
-  "name": "North Freedom, Sauk County, Wisconsin, United States"
+  "name": "North Freedom, Sauk County, Wisconsin, United States",
+  "drive_min": 1124,
+  "drive_mi": 971,
+  "drive_min_clemson": 1083,
+  "drive_mi_clemson": 907
  },
  "Norwalk|Connecticut": {
   "lat": 41.1175966,
@@ -4047,7 +4083,11 @@
  "Oshkosh|Wisconsin": {
   "lat": 44.0206919,
   "lon": -88.5408574,
-  "name": "Oshkosh, Winnebago County, Wisconsin, United States"
+  "name": "Oshkosh, Winnebago County, Wisconsin, United States",
+  "drive_min": 1088,
+  "drive_mi": 935,
+  "drive_min_clemson": 1047,
+  "drive_mi_clemson": 871
  },
  "Ouray|Colorado": {
   "lat": 38.146044,
@@ -4630,7 +4670,11 @@
  "Spring Green|Wisconsin": {
   "lat": 43.1769367,
   "lon": -90.0680478,
-  "name": "Spring Green, Sauk County, Wisconsin, 53588, United States"
+  "name": "Spring Green, Sauk County, Wisconsin, 53588, United States",
+  "drive_min": 1120,
+  "drive_mi": 956,
+  "drive_min_clemson": 1080,
+  "drive_mi_clemson": 891
  },
  "Spring Hill|Florida": {
   "lat": 28.4635266,
@@ -4938,7 +4982,11 @@
  "Villisca|Iowa": {
   "lat": 40.9293163,
   "lon": -94.9769054,
-  "name": "Villisca, East Township, Montgomery County, Iowa, 50864, United States"
+  "name": "Villisca, East Township, Montgomery County, Iowa, 50864, United States",
+  "drive_min": 1279,
+  "drive_mi": 1119,
+  "drive_min_clemson": 1198,
+  "drive_mi_clemson": 1059
  },
  "Volcano|Hawaii": {
   "lat": 19.4297676,
@@ -5012,7 +5060,11 @@
  "West Bend|Iowa": {
   "lat": 42.9577623,
   "lon": -94.4450174,
-  "name": "West Bend, Palo Alto County, Iowa, United States"
+  "name": "West Bend, Palo Alto County, Iowa, United States",
+  "drive_min": 1343,
+  "drive_mi": 1151,
+  "drive_min_clemson": 1297,
+  "drive_mi_clemson": 1104
  },
  "West Fargo|North Dakota": {
   "lat": 46.874967,
@@ -5098,7 +5150,11 @@
  "Winterset|Iowa": {
   "lat": 41.3347631,
   "lon": -94.0135687,
-  "name": "Winterset, Madison County, Iowa, 50273, United States"
+  "name": "Winterset, Madison County, Iowa, 50273, United States",
+  "drive_min": 1241,
+  "drive_mi": 1077,
+  "drive_min_clemson": 1183,
+  "drive_mi_clemson": 1028
  },
  "Winterthur|Delaware": {
   "lat": 39.8078341,
@@ -5112,7 +5168,11 @@
  "Wisconsin Dells|Wisconsin": {
   "lat": 43.6256168,
   "lon": -89.7715646,
-  "name": "Wisconsin Dells, Columbia County, Wisconsin, 53965, United States"
+  "name": "Wisconsin Dells, Columbia County, Wisconsin, 53965, United States",
+  "drive_min": 1112,
+  "drive_mi": 964,
+  "drive_min_clemson": 1071,
+  "drive_mi_clemson": 900
  },
  "Wolcott|Connecticut": {
   "lat": 41.6023196,
@@ -7439,7 +7499,11 @@
  "Amana|Iowa": {
   "lat": 41.8000071,
   "lon": -91.8707335,
-  "name": "Amana, Lenox Township, Iowa County, Iowa, 52203, United States"
+  "name": "Amana, Lenox Township, Iowa County, Iowa, 52203, United States",
+  "drive_min": 1104,
+  "drive_mi": 952,
+  "drive_min_clemson": 1058,
+  "drive_mi_clemson": 905
  },
  "Bartlesville|Oklahoma": {
   "lat": 36.7509272,
@@ -7453,12 +7517,20 @@
  "Cedar Rapids|Iowa": {
   "lat": 41.9758872,
   "lon": -91.6704053,
-  "name": "Cedar Rapids, Linn County, Iowa, United States"
+  "name": "Cedar Rapids, Linn County, Iowa, United States",
+  "drive_min": 1103,
+  "drive_mi": 954,
+  "drive_min_clemson": 1057,
+  "drive_mi_clemson": 908
  },
  "Dubuque|Iowa": {
   "lat": 42.5006243,
   "lon": -90.6647985,
-  "name": "Dubuque, Dubuque Township, Dubuque County, Iowa, United States"
+  "name": "Dubuque, Dubuque Township, Dubuque County, Iowa, United States",
+  "drive_min": 1096,
+  "drive_mi": 944,
+  "drive_min_clemson": 1050,
+  "drive_mi_clemson": 897
  },
  "Gering|Nebraska": {
   "lat": 41.8226927,
@@ -7477,7 +7549,11 @@
  "Harpers Ferry|Iowa": {
   "lat": 43.2006041,
   "lon": -91.1525407,
-  "name": "Harpers Ferry, Taylor Township, Allamakee County, Iowa, United States"
+  "name": "Harpers Ferry, Taylor Township, Allamakee County, Iowa, United States",
+  "drive_min": 1212,
+  "drive_mi": 1017,
+  "drive_min_clemson": 1166,
+  "drive_mi_clemson": 971
  },
  "Hermann|Missouri": {
   "lat": 38.7042119,
@@ -7487,7 +7563,11 @@
  "Iowa City|Iowa": {
   "lat": 41.6612561,
   "lon": -91.5299106,
-  "name": "Iowa City, Johnson County, Iowa, United States"
+  "name": "Iowa City, Johnson County, Iowa, United States",
+  "drive_min": 1078,
+  "drive_mi": 930,
+  "drive_min_clemson": 1032,
+  "drive_mi_clemson": 883
  },
  "Lawrence|Kansas": {
   "lat": 38.9719137,
@@ -7529,7 +7609,11 @@
  "Onawa|Iowa": {
   "lat": 42.0268269,
   "lon": -96.0974618,
-  "name": "Onawa, Monona County, Iowa, 51040, United States"
+  "name": "Onawa, Monona County, Iowa, 51040, United States",
+  "drive_min": 1369,
+  "drive_mi": 1217,
+  "drive_min_clemson": 1288,
+  "drive_mi_clemson": 1157
  },
  "Royal|Nebraska": {
   "lat": 42.3320541,
@@ -7543,7 +7627,11 @@
  "Sioux City|Iowa": {
   "lat": 42.4966815,
   "lon": -96.4058782,
-  "name": "Sioux City, Woodbury County, Iowa, United States"
+  "name": "Sioux City, Woodbury County, Iowa, United States",
+  "drive_min": 1407,
+  "drive_mi": 1252,
+  "drive_min_clemson": 1326,
+  "drive_mi_clemson": 1192
  },
  "Springfield|Missouri": {
   "lat": 37.2081729,
@@ -7562,7 +7650,11 @@
  "Urbandale|Iowa": {
   "lat": 41.6274511,
   "lon": -93.7380243,
-  "name": "Urbandale, Polk County, Iowa, United States"
+  "name": "Urbandale, Polk County, Iowa, United States",
+  "drive_min": 1202,
+  "drive_mi": 1046,
+  "drive_min_clemson": 1156,
+  "drive_mi_clemson": 999
  },
  "Valentine|Nebraska": {
   "lat": 42.8746752,
@@ -7585,7 +7677,11 @@
  "Blue Mounds|Wisconsin": {
   "lat": 43.0174097,
   "lon": -89.8320348,
-  "name": "Village of Blue Mounds, Dane County, Wisconsin, United States"
+  "name": "Village of Blue Mounds, Dane County, Wisconsin, United States",
+  "drive_min": 1092,
+  "drive_mi": 941,
+  "drive_min_clemson": 1052,
+  "drive_mi_clemson": 877
  },
  "Dearborn|Michigan": {
   "lat": 42.3222599,
@@ -7653,7 +7749,11 @@
  "Madison|Wisconsin": {
   "lat": 43.07469,
   "lon": -89.3841663,
-  "name": "Madison, Dane County, Wisconsin, United States"
+  "name": "Madison, Dane County, Wisconsin, United States",
+  "drive_min": 1063,
+  "drive_mi": 916,
+  "drive_min_clemson": 1023,
+  "drive_mi_clemson": 852
  },
  "Minneapolis|Minnesota": {
   "lat": 44.9772995,
@@ -7731,12 +7831,20 @@
  "West Allis|Wisconsin": {
   "lat": 43.0166806,
   "lon": -88.0070315,
-  "name": "West Allis, Milwaukee County, Wisconsin, United States"
+  "name": "West Allis, Milwaukee County, Wisconsin, United States",
+  "drive_min": 997,
+  "drive_mi": 852,
+  "drive_min_clemson": 956,
+  "drive_mi_clemson": 788
  },
  "Wind Point|Wisconsin": {
   "lat": 42.7844636,
   "lon": -87.7661861,
-  "name": "Wind Point, Racine County, Wisconsin, United States"
+  "name": "Wind Point, Racine County, Wisconsin, United States",
+  "drive_min": 987,
+  "drive_mi": 842,
+  "drive_min_clemson": 946,
+  "drive_mi_clemson": 778
  },
  "Astoria|New York": {
   "lat": 40.7720145,
@@ -13036,5 +13144,185 @@
   "drive_mi": 1247,
   "drive_min_clemson": 1381,
   "drive_mi_clemson": 1183
+ },
+ "Ames|Iowa": {
+  "lat": 42.0267567,
+  "lon": -93.6170448,
+  "name": "Ames, Story County, Iowa, United States",
+  "drive_min": 1221,
+  "drive_mi": 1054,
+  "drive_min_clemson": 1175,
+  "drive_mi_clemson": 1008
+ },
+ "Appleton|Wisconsin": {
+  "lat": 44.2613967,
+  "lon": -88.4069744,
+  "name": "Appleton, Outagamie County, Wisconsin, United States",
+  "drive_min": 1108,
+  "drive_mi": 955,
+  "drive_min_clemson": 1067,
+  "drive_mi_clemson": 890
+ },
+ "Burlington|Iowa": {
+  "lat": 40.8126922,
+  "lon": -91.1020205,
+  "name": "Burlington, Burlington Township, Des Moines County, Iowa, 52601, United States",
+  "drive_min": 1018,
+  "drive_mi": 870,
+  "drive_min_clemson": 972,
+  "drive_mi_clemson": 823
+ },
+ "Council Bluffs|Iowa": {
+  "lat": 41.258841,
+  "lon": -95.8519484,
+  "name": "Council Bluffs, Kane Township, Pottawattamie County, Iowa, United States",
+  "drive_min": 1302,
+  "drive_mi": 1155,
+  "drive_min_clemson": 1221,
+  "drive_mi_clemson": 1095
+ },
+ "Davenport|Iowa": {
+  "lat": 41.5224692,
+  "lon": -90.5756401,
+  "name": "Davenport, Rockingham Township, Scott County, Iowa, United States",
+  "drive_min": 1018,
+  "drive_mi": 875,
+  "drive_min_clemson": 972,
+  "drive_mi_clemson": 828
+ },
+ "Decorah|Iowa": {
+  "lat": 43.3041609,
+  "lon": -91.7859098,
+  "name": "Decorah, Decorah Township, Winneshiek County, Iowa, United States",
+  "drive_min": 1236,
+  "drive_mi": 1040,
+  "drive_min_clemson": 1190,
+  "drive_mi_clemson": 993
+ },
+ "Eau Claire|Wisconsin": {
+  "lat": 44.811349,
+  "lon": -91.4984941,
+  "name": "Eau Claire, Eau Claire County, Wisconsin, United States",
+  "drive_min": 1244,
+  "drive_mi": 1086,
+  "drive_min_clemson": 1203,
+  "drive_mi_clemson": 1022
+ },
+ "Horicon|Wisconsin": {
+  "lat": 43.4513819,
+  "lon": -88.6312139,
+  "name": "Horicon, Dodge County, Wisconsin, 53032, United States",
+  "drive_min": 1058,
+  "drive_mi": 903,
+  "drive_min_clemson": 1017,
+  "drive_mi_clemson": 839
+ },
+ "Janesville|Wisconsin": {
+  "lat": 42.6829765,
+  "lon": -89.0226793,
+  "name": "Janesville, Rock County, Wisconsin, United States",
+  "drive_min": 1020,
+  "drive_mi": 876,
+  "drive_min_clemson": 979,
+  "drive_mi_clemson": 812
+ },
+ "Kenosha|Wisconsin": {
+  "lat": 42.5846773,
+  "lon": -87.8212263,
+  "name": "Kenosha, Kenosha County, Wisconsin, United States",
+  "drive_min": 968,
+  "drive_mi": 825,
+  "drive_min_clemson": 927,
+  "drive_mi_clemson": 761
+ },
+ "Le Claire|Iowa": {
+  "lat": 41.5986442,
+  "lon": -90.3434618,
+  "name": "Le Claire, Le Claire Township, Scott County, Iowa, United States",
+  "drive_min": 1009,
+  "drive_mi": 869,
+  "drive_min_clemson": 964,
+  "drive_mi_clemson": 823
+ },
+ "Mason City|Iowa": {
+  "lat": 43.1524574,
+  "lon": -93.2017941,
+  "name": "Mason City, Mason Township, Cerro Gordo County, Iowa, United States",
+  "drive_min": 1264,
+  "drive_mi": 1091,
+  "drive_min_clemson": 1218,
+  "drive_mi_clemson": 1044
+ },
+ "Mount Pleasant|Iowa": {
+  "lat": 40.966312,
+  "lon": -91.5539956,
+  "name": "Mount Pleasant, Henry County, Iowa, 52641, United States",
+  "drive_min": 1053,
+  "drive_mi": 899,
+  "drive_min_clemson": 995,
+  "drive_mi_clemson": 874
+ },
+ "Pella|Iowa": {
+  "lat": 41.4073138,
+  "lon": -92.9174074,
+  "name": "Pella, Lake Prairie Township, Marion County, Iowa, 50219, United States",
+  "drive_min": 1163,
+  "drive_mi": 994,
+  "drive_min_clemson": 1104,
+  "drive_mi_clemson": 970
+ },
+ "Prairie du Chien|Wisconsin": {
+  "lat": 43.05194,
+  "lon": -91.1409933,
+  "name": "Prairie du Chien, Crawford County, Wisconsin, 53821, United States",
+  "drive_min": 1190,
+  "drive_mi": 1007,
+  "drive_min_clemson": 1144,
+  "drive_mi_clemson": 960
+ },
+ "Sheboygan|Wisconsin": {
+  "lat": 43.7128967,
+  "lon": -87.9370433,
+  "name": "Sheboygan County, Wisconsin, United States",
+  "drive_min": 1051,
+  "drive_mi": 898,
+  "drive_min_clemson": 1011,
+  "drive_mi_clemson": 834
+ },
+ "Superior|Wisconsin": {
+  "lat": 46.7207737,
+  "lon": -92.1040796,
+  "name": "City of Superior, Douglas County, Wisconsin, 54880, United States",
+  "drive_min": 1414,
+  "drive_mi": 1233,
+  "drive_min_clemson": 1374,
+  "drive_mi_clemson": 1169
+ },
+ "Waterloo|Iowa": {
+  "lat": 42.498275,
+  "lon": -92.3328743,
+  "name": "Waterloo, Black Hawk County, Iowa, United States",
+  "drive_min": 1166,
+  "drive_mi": 1008,
+  "drive_min_clemson": 1120,
+  "drive_mi_clemson": 962
+ },
+ "Wausau|Wisconsin": {
+  "lat": 44.9597858,
+  "lon": -89.6272791,
+  "name": "Wausau, Marathon County, Wisconsin, 54401, United States",
+  "drive_min": 1205,
+  "drive_mi": 1036,
+  "drive_min_clemson": 1165,
+  "drive_mi_clemson": 972
+ },
+ "Williams Bay|Wisconsin": {
+  "lat": 42.5780721,
+  "lon": -88.5409333,
+  "name": "Williams Bay, Walworth County, Wisconsin, 53191, United States",
+  "drive_min": 993,
+  "drive_mi": 848,
+  "drive_min_clemson": 953,
+  "drive_mi_clemson": 784
  }
 }
