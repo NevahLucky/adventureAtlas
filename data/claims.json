@@ -1,66 +1,66 @@
 {
  "rounds": [
   {
-   "id": "r1-la",
+   "id": "r2-mc",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "Arizona",
    "counties": [
-    "California:Los Angeles"
+    "Arizona:Maricopa"
    ],
-   "file": "data/regions/california-r1-la.json"
+   "file": "data/regions/arizona-r2-mc.json"
   },
   {
-   "id": "r1-or",
+   "id": "r2-hr",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "Texas",
    "counties": [
-    "California:Orange"
+    "Texas:Harris"
    ],
-   "file": "data/regions/california-r1-or.json"
+   "file": "data/regions/texas-r2-hr.json"
   },
   {
-   "id": "r1-sd",
+   "id": "r2-dl",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "Texas",
    "counties": [
-    "California:San Diego"
+    "Texas:Dallas"
    ],
-   "file": "data/regions/california-r1-sd.json"
+   "file": "data/regions/texas-r2-dl.json"
   },
   {
-   "id": "r1-sb",
+   "id": "r2-tr",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "Texas",
    "counties": [
-    "California:San Bernardino"
+    "Texas:Tarrant"
    ],
-   "file": "data/regions/california-r1-sb.json"
+   "file": "data/regions/texas-r2-tr.json"
   },
   {
-   "id": "r1-rv",
+   "id": "r2-kg",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "New York",
    "counties": [
-    "California:Riverside"
+    "New York:Kings"
    ],
-   "file": "data/regions/california-r1-rv.json"
+   "file": "data/regions/new-york-r2-kg.json"
   },
   {
-   "id": "r1-sc",
+   "id": "r2-bw",
    "owner": "huesten",
-   "created": "2026-11-27T09:09:27+00:00",
-   "state": "California",
+   "created": "2026-11-27T09:41:06+00:00",
+   "state": "Florida",
    "counties": [
-    "California:Santa Clara"
+    "Florida:Broward"
    ],
-   "file": "data/regions/california-r1-sc.json"
+   "file": "data/regions/florida-r2-bw.json"
   }
  ],
  "ttl_minutes": 180,
- "updated": "2026-11-27T09:09:27+00:00"
+ "updated": "2026-11-27T09:41:06+00:00"
 }

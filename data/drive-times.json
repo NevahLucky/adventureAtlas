@@ -19085,5 +19085,360 @@
   "lat": 33.8901096,
   "lon": -117.8249705,
   "name": "Yorba Linda, Orange County, California, United States"
+ },
+ "Apache Junction|Arizona": {
+  "lat": 33.4150485,
+  "lon": -111.549577,
+  "name": "Apache Junction, Pinal County, Arizona, United States"
+ },
+ "Arlington|Texas": {
+  "lat": 32.7355816,
+  "lon": -97.1071186,
+  "name": "Arlington, Tarrant County, Texas, United States"
+ },
+ "Baytown|Texas": {
+  "lat": 29.7355047,
+  "lon": -94.9774274,
+  "name": "Baytown, Harris County, Texas, United States"
+ },
+ "Bedford|Texas": {
+  "lat": 32.844017,
+  "lon": -97.1430671,
+  "name": "Bedford, Tarrant County, Texas, United States"
+ },
+ "Bensonhurst|New York": {
+  "lat": 40.6049772,
+  "lon": -73.9934061,
+  "name": "Bensonhurst, New Utrecht, Brooklyn, Kings County, New York, 11214, United States"
+ },
+ "Brighton Beach|New York": {
+  "lat": 40.5796437,
+  "lon": -73.9611102,
+  "name": "Brighton Beach, Brooklyn, Kings County, New York, United States"
+ },
+ "Bushwick|New York": {
+  "lat": 40.6942696,
+  "lon": -73.9187482,
+  "name": "Bushwick, Brooklyn, Kings County, New York, 11237, United States"
+ },
+ "Canarsie|New York": {
+  "lat": 40.643715,
+  "lon": -73.9006921,
+  "name": "Canarsie, Brooklyn, Kings County, New York, 11236, United States"
+ },
+ "Cave Creek|Arizona": {
+  "lat": 33.8333333,
+  "lon": -111.950833,
+  "name": "Cave Creek, Maricopa County, Arizona, United States"
+ },
+ "Cedar Hill|Texas": {
+  "lat": 32.5888072,
+  "lon": -96.9553675,
+  "name": "Cedar Hill, Dallas County, Texas, 75104, United States"
+ },
+ "Chandler|Arizona": {
+  "lat": 33.3062031,
+  "lon": -111.841185,
+  "name": "Chandler, Maricopa County, Arizona, United States"
+ },
+ "Coconut Creek|Florida": {
+  "lat": 26.2517482,
+  "lon": -80.1789351,
+  "name": "Coconut Creek, Broward County, Florida, United States"
+ },
+ "Coney Island|New York": {
+  "lat": 40.5765081,
+  "lon": -73.9929419,
+  "name": "Coney Island, Brooklyn, Kings County, New York, 11224, United States"
+ },
+ "Cooper City|Florida": {
+  "lat": 26.057783,
+  "lon": -80.2695109,
+  "name": "Cooper City, Broward County, Florida, United States"
+ },
+ "Coral Springs|Florida": {
+  "lat": 26.271192,
+  "lon": -80.2706044,
+  "name": "Coral Springs, Broward County, Florida, United States"
+ },
+ "Crowley|Texas": {
+  "lat": 32.5783528,
+  "lon": -97.3585533,
+  "name": "Crowley, Tarrant County, Texas, 76036, United States"
+ },
+ "Cypress|Texas": {
+  "lat": 29.9691116,
+  "lon": -95.6971686,
+  "name": "Cypress, Harris County, Texas, 77429, United States"
+ },
+ "Dania Beach|Florida": {
+  "lat": 26.0524224,
+  "lon": -80.143929,
+  "name": "Dania Beach, Broward County, Florida, 33004, United States"
+ },
+ "DeSoto|Texas": {
+  "lat": 32.5897831,
+  "lon": -96.8570183,
+  "name": "DeSoto, Dallas County, Texas, 75115, United States"
+ },
+ "Deerfield Beach|Florida": {
+  "lat": 26.318342,
+  "lon": -80.0996306,
+  "name": "Deerfield Beach, Broward County, Florida, United States"
+ },
+ "Downtown Brooklyn|New York": {
+  "lat": 40.6915721,
+  "lon": -73.9867644,
+  "name": "Downtown Brooklyn, Brooklyn, Kings County, New York, United States"
+ },
+ "Duncanville|Texas": {
+  "lat": 32.6518004,
+  "lon": -96.9083366,
+  "name": "Duncanville, Dallas County, Texas, United States"
+ },
+ "Euless|Texas": {
+  "lat": 32.8370727,
+  "lon": -97.0819541,
+  "name": "Euless, Tarrant County, Texas, United States"
+ },
+ "Flatbush|New York": {
+  "lat": 40.6520481,
+  "lon": -73.959027,
+  "name": "Flatbush, Brooklyn, Kings County, New York, 11226, United States"
+ },
+ "Fort Greene|New York": {
+  "lat": 40.6907711,
+  "lon": -73.9766245,
+  "name": "Fort Greene, Brooklyn, Kings County, New York, United States"
+ },
+ "Fountain Hills|Arizona": {
+  "lat": 33.6117105,
+  "lon": -111.717361,
+  "name": "Fountain Hills, Maricopa County, Arizona, 85268, United States"
+ },
+ "Garland|Texas": {
+  "lat": 32.912624,
+  "lon": -96.6388833,
+  "name": "Garland, Dallas County, Texas, United States"
+ },
+ "Gila Bend|Arizona": {
+  "lat": 32.9476184,
+  "lon": -112.7144993,
+  "name": "Gila Bend, Maricopa County, Arizona, 85337, United States"
+ },
+ "Gilbert|Arizona": {
+  "lat": 33.3527632,
+  "lon": -111.789037,
+  "name": "Gilbert, Maricopa County, Arizona, United States"
+ },
+ "Glendale|Arizona": {
+  "lat": 33.5386858,
+  "lon": -112.185994,
+  "name": "Glendale, Maricopa County, Arizona, United States"
+ },
+ "Gowanus|New York": {
+  "lat": 40.6791695,
+  "lon": -73.9885041,
+  "name": "Gowanus, Brooklyn, Kings County, New York, 11217, United States"
+ },
+ "Grand Prairie|Texas": {
+  "lat": 32.7459645,
+  "lon": -96.9977846,
+  "name": "Grand Prairie, Dallas County, Texas, United States"
+ },
+ "Grapevine|Texas": {
+  "lat": 32.9337381,
+  "lon": -97.0788754,
+  "name": "Grapevine, Tarrant County, Texas, United States"
+ },
+ "Gravesend|New York": {
+  "lat": 40.5961338,
+  "lon": -73.9739426,
+  "name": "Gravesend, Brooklyn, Kings County, New York, 11223, United States"
+ },
+ "Greenpoint|New York": {
+  "lat": 40.7237134,
+  "lon": -73.9509714,
+  "name": "Greenpoint, Brooklyn, Kings County, New York, United States"
+ },
+ "Hallandale Beach|Florida": {
+  "lat": 25.9812025,
+  "lon": -80.148379,
+  "name": "Hallandale Beach, Broward County, Florida, 33009, United States"
+ },
+ "Hollywood|Florida": {
+  "lat": 26.0112014,
+  "lon": -80.1494901,
+  "name": "Hollywood, Broward County, Florida, United States"
+ },
+ "Humble|Texas": {
+  "lat": 29.9988312,
+  "lon": -95.2621553,
+  "name": "Humble, Harris County, Texas, United States"
+ },
+ "Hurst|Texas": {
+  "lat": 32.8234621,
+  "lon": -97.1705678,
+  "name": "Hurst, Tarrant County, Texas, United States"
+ },
+ "Irving|Texas": {
+  "lat": 32.8295183,
+  "lon": -96.9442177,
+  "name": "Irving, Dallas County, Texas, United States"
+ },
+ "Katy|Texas": {
+  "lat": 29.7857853,
+  "lon": -95.8243956,
+  "name": "Katy, Fort Bend County, Texas, United States"
+ },
+ "Keller|Texas": {
+  "lat": 32.9299655,
+  "lon": -97.2271249,
+  "name": "Keller, Tarrant County, Texas, 76248, United States"
+ },
+ "La Porte|Texas": {
+  "lat": 29.6657838,
+  "lon": -95.0193729,
+  "name": "La Porte, Harris County, Texas, 77571, United States"
+ },
+ "Lauderdale-by-the-Sea|Florida": {
+  "lat": 26.192028,
+  "lon": -80.0964326,
+  "name": "Lauderdale-by-the-Sea, Broward County, Florida, United States"
+ },
+ "Lighthouse Point|Florida": {
+  "lat": 26.275636,
+  "lon": -80.0872654,
+  "name": "Lighthouse Point, Broward County, Florida, United States"
+ },
+ "Mansfield|Texas": {
+  "lat": 32.563487,
+  "lon": -97.1420308,
+  "name": "Mansfield, Tarrant County, Texas, 76063, United States"
+ },
+ "Marine Park / Flatlands|New York": {
+  "lat": 40.6089469,
+  "lon": -73.9333588,
+  "name": "Marine Park Day School, 1972, East 34th Street, Flatlands, Brooklyn, Kings Count"
+ },
+ "Mesa|Arizona": {
+  "lat": 33.4151005,
+  "lon": -111.831455,
+  "name": "Mesa, Maricopa County, Arizona, United States"
+ },
+ "Mesquite|Texas": {
+  "lat": 32.7666103,
+  "lon": -96.599472,
+  "name": "Mesquite, Dallas County, Texas, United States"
+ },
+ "North Richland Hills|Texas": {
+  "lat": 32.8342952,
+  "lon": -97.2289029,
+  "name": "North Richland Hills, Tarrant County, Texas, United States"
+ },
+ "Pasadena|Texas": {
+  "lat": 29.6910753,
+  "lon": -95.2092076,
+  "name": "Pasadena, Harris County, Texas, United States"
+ },
+ "Peoria|Arizona": {
+  "lat": 33.6104446,
+  "lon": -112.242265,
+  "name": "Peoria, Maricopa County, Arizona, United States"
+ },
+ "Plantation|Florida": {
+  "lat": 26.1275862,
+  "lon": -80.2331036,
+  "name": "Plantation, Broward County, Florida, United States"
+ },
+ "Pompano Beach|Florida": {
+  "lat": 26.2378597,
+  "lon": -80.1247667,
+  "name": "Pompano Beach, Broward County, Florida, United States"
+ },
+ "Prospect Heights|New York": {
+  "lat": 40.6778708,
+  "lon": -73.9684725,
+  "name": "Prospect Heights, Brooklyn, Kings County, New York, 11238, United States"
+ },
+ "Prospect Park|New York": {
+  "lat": 40.6617743,
+  "lon": -73.9710896,
+  "name": "Prospect Park, Brooklyn, Kings County, New York, United States"
+ },
+ "Red Hook|New York": {
+  "lat": 41.9950884,
+  "lon": -73.8755317,
+  "name": "Village of Red Hook, Town of Red Hook, Dutchess County, New York, United States"
+ },
+ "Richardson|Texas": {
+  "lat": 32.9481789,
+  "lon": -96.7297206,
+  "name": "Richardson, Dallas County, Texas, United States"
+ },
+ "Rowlett|Texas": {
+  "lat": 32.9029017,
+  "lon": -96.56388,
+  "name": "Rowlett, Dallas County, Texas, United States"
+ },
+ "Scottsdale|Arizona": {
+  "lat": 33.5967034,
+  "lon": -111.8910185,
+  "name": "Scottsdale, Maricopa County, Arizona, United States"
+ },
+ "Southlake|Texas": {
+  "lat": 32.9412363,
+  "lon": -97.1341783,
+  "name": "Southlake, Tarrant County, Texas, 76092, United States"
+ },
+ "Southwest Ranches|Florida": {
+  "lat": 26.0586543,
+  "lon": -80.3381531,
+  "name": "Southwest Ranches, Broward County, Florida, 33330, United States"
+ },
+ "Spring|Texas": {
+  "lat": 30.070979,
+  "lon": -95.4013419,
+  "name": "Spring, Harris County, Texas, 77373, United States"
+ },
+ "Sunrise|Florida": {
+  "lat": 26.1666888,
+  "lon": -80.2787573,
+  "name": "Sunrise, Broward County, Florida, United States"
+ },
+ "Sunset Park|New York": {
+  "lat": 40.6442221,
+  "lon": -74.0075907,
+  "name": "Sunset Park, Brooklyn, Kings County, New York, United States"
+ },
+ "Tempe|Arizona": {
+  "lat": 33.4255117,
+  "lon": -111.940016,
+  "name": "Tempe, Maricopa County, Arizona, United States"
+ },
+ "Tomball|Texas": {
+  "lat": 30.0971621,
+  "lon": -95.6160549,
+  "name": "Tomball, Harris County, Texas, United States"
+ },
+ "Webster|Texas": {
+  "lat": 29.5351724,
+  "lon": -95.1161564,
+  "name": "Webster, Harris County, Texas, 77598, United States"
+ },
+ "Westworth Village|Texas": {
+  "lat": 32.7597192,
+  "lon": -97.4214547,
+  "name": "Westworth Village, Tarrant County, Texas, United States"
+ },
+ "Wickenburg|Arizona": {
+  "lat": 33.9680962,
+  "lon": -112.730135,
+  "name": "Wickenburg, Maricopa County, Arizona, United States"
+ },
+ "Williamsburg|New York": {
+  "lat": 40.714622,
+  "lon": -73.95345,
+  "name": "Williamsburg, Brooklyn, Kings County, New York, 11249, United States"
  }
 }
