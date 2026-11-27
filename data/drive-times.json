@@ -2725,7 +2725,11 @@
  "Glover|Vermont": {
   "lat": 44.7070889,
   "lon": -72.1870049,
-  "name": "Glover, Orleans County, Vermont, United States"
+  "name": "Glover, Orleans County, Vermont, United States",
+  "drive_min": 1180,
+  "drive_mi": 985,
+  "drive_min_clemson": 1314,
+  "drive_mi_clemson": 1097
  },
  "Government Camp|Oregon": {
   "lat": 45.3041033,
@@ -3329,7 +3333,11 @@
  "New Shoreham|Rhode Island": {
   "lat": 41.1722089,
   "lon": -71.5573011,
-  "name": "New Shoreham, South County, Rhode Island, 02807, United States"
+  "name": "New Shoreham, South County, Rhode Island, 02807, United States",
+  "drive_min": 1033,
+  "drive_mi": 819,
+  "drive_min_clemson": 1166,
+  "drive_mi_clemson": 931
  },
  "New Windsor|New York": {
   "lat": 41.4767605,
@@ -3352,7 +3360,11 @@
  "Newport|Rhode Island": {
   "lat": 41.4899827,
   "lon": -71.3137707,
-  "name": "Newport, Newport County, Rhode Island, 02840, United States"
+  "name": "Newport, Newport County, Rhode Island, 02840, United States",
+  "drive_min": 994,
+  "drive_mi": 818,
+  "drive_min_clemson": 1128,
+  "drive_mi_clemson": 930
  },
  "Niagara Falls|New York": {
   "lat": 43.084841,
@@ -3600,7 +3612,11 @@
  "Providence|Rhode Island": {
   "lat": 41.8239891,
   "lon": -71.4128343,
-  "name": "Providence, Providence County, Rhode Island, United States"
+  "name": "Providence, Providence County, Rhode Island, United States",
+  "drive_min": 988,
+  "drive_mi": 820,
+  "drive_min_clemson": 1122,
+  "drive_mi_clemson": 932
  },
  "Provincetown|Massachusetts": {
   "lat": 42.0525612,
@@ -3814,7 +3830,11 @@
  "Shelburne|Vermont": {
   "lat": 44.3784953,
   "lon": -73.228535,
-  "name": "Shelburne, Chittenden County, Vermont, 05482, United States"
+  "name": "Shelburne, Chittenden County, Vermont, 05482, United States",
+  "drive_min": 1106,
+  "drive_mi": 932,
+  "drive_min_clemson": 1239,
+  "drive_mi_clemson": 1040
  },
  "Shipshewana|Indiana": {
   "lat": 41.6728282,
@@ -3894,7 +3914,11 @@
  "St. Albans|Vermont": {
   "lat": 44.8107911,
   "lon": -73.0833607,
-  "name": "Saint Albans City, Franklin County, Vermont, 05479, United States"
+  "name": "Saint Albans City, Franklin County, Vermont, 05479, United States",
+  "drive_min": 1150,
+  "drive_mi": 991,
+  "drive_min_clemson": 1282,
+  "drive_mi_clemson": 1099
  },
  "St. Augustine|Florida": {
   "lat": 29.8946952,
@@ -3917,7 +3941,11 @@
  "St. Johnsbury|Vermont": {
   "lat": 44.419494,
   "lon": -72.0156532,
-  "name": "Saint Johnsbury, Caledonia County, Vermont, United States"
+  "name": "Saint Johnsbury, Caledonia County, Vermont, United States",
+  "drive_min": 1147,
+  "drive_mi": 957,
+  "drive_min_clemson": 1281,
+  "drive_mi_clemson": 1069
  },
  "St. Louis|Missouri": {
   "lat": 38.6254063,
@@ -4121,7 +4149,11 @@
  "Waterbury|Vermont": {
   "lat": 44.3379214,
   "lon": -72.7563801,
-  "name": "Waterbury, Washington County, Vermont, United States"
+  "name": "Waterbury, Washington County, Vermont, United States",
+  "drive_min": 1145,
+  "drive_mi": 942,
+  "drive_min_clemson": 1277,
+  "drive_mi_clemson": 1051
  },
  "Watkins Glen|New York": {
   "lat": 42.3810555,
@@ -4155,7 +4187,11 @@
  "Weston|Vermont": {
   "lat": 43.2917153,
   "lon": -72.7932204,
-  "name": "Weston, Windsor County, Vermont, 05161, United States"
+  "name": "Weston, Windsor County, Vermont, 05161, United States",
+  "drive_min": 1020,
+  "drive_mi": 857,
+  "drive_min_clemson": 1152,
+  "drive_mi_clemson": 966
  },
  "White Bird|Idaho": {
   "lat": 45.7619335,
@@ -8420,5 +8456,185 @@
   "drive_mi": 796,
   "drive_min_clemson": 1102,
   "drive_mi_clemson": 908
+ },
+ "Bennington|Vermont": {
+  "lat": 42.8788667,
+  "lon": -73.1968205,
+  "name": "Bennington, Bennington County, Vermont, United States",
+  "drive_min": 961,
+  "drive_mi": 817,
+  "drive_min_clemson": 1094,
+  "drive_mi_clemson": 926
+ },
+ "Bristol|Rhode Island": {
+  "lat": 41.6770463,
+  "lon": -71.2661597,
+  "name": "Bristol, Bristol County, Rhode Island, 02809, United States",
+  "drive_min": 1011,
+  "drive_mi": 832,
+  "drive_min_clemson": 1144,
+  "drive_mi_clemson": 944
+ },
+ "Brunswick|Vermont": {
+  "lat": 44.7366303,
+  "lon": -71.6327336,
+  "name": "Brunswick, Essex County, Vermont, United States",
+  "drive_min": 1225,
+  "drive_mi": 1007,
+  "drive_min_clemson": 1358,
+  "drive_mi_clemson": 1119
+ },
+ "Burlington|Vermont": {
+  "lat": 44.4761601,
+  "lon": -73.212906,
+  "name": "Burlington, Chittenden County, Vermont, United States",
+  "drive_min": 1121,
+  "drive_mi": 939,
+  "drive_min_clemson": 1254,
+  "drive_mi_clemson": 1047
+ },
+ "Cabot|Vermont": {
+  "lat": 44.4028778,
+  "lon": -72.3104466,
+  "name": "Cabot, Washington County, Vermont, 05647, United States",
+  "drive_min": 1163,
+  "drive_mi": 970,
+  "drive_min_clemson": 1295,
+  "drive_mi_clemson": 1079
+ },
+ "Charlotte|Vermont": {
+  "lat": 44.3105141,
+  "lon": -73.2531419,
+  "name": "Charlotte, Chittenden County, Vermont, 05445, United States",
+  "drive_min": 1099,
+  "drive_mi": 927,
+  "drive_min_clemson": 1231,
+  "drive_mi_clemson": 1036
+ },
+ "Coventry|Rhode Island": {
+  "lat": 41.7000996,
+  "lon": -71.6828444,
+  "name": "Coventry, Kent County, Rhode Island, United States",
+  "drive_min": 971,
+  "drive_mi": 801,
+  "drive_min_clemson": 1105,
+  "drive_mi_clemson": 913
+ },
+ "Danville|Vermont": {
+  "lat": 44.411562,
+  "lon": -72.1400382,
+  "name": "Danville, Caledonia County, Vermont, 05828, United States",
+  "drive_min": 1156,
+  "drive_mi": 965,
+  "drive_min_clemson": 1289,
+  "drive_mi_clemson": 1077
+ },
+ "Ferrisburgh|Vermont": {
+  "lat": 44.2057119,
+  "lon": -73.2462973,
+  "name": "Ferrisburgh, Addison County, Vermont, United States",
+  "drive_min": 1086,
+  "drive_mi": 919,
+  "drive_min_clemson": 1219,
+  "drive_mi_clemson": 1028
+ },
+ "Jeffersonville|Vermont": {
+  "lat": 44.6437941,
+  "lon": -72.8293886,
+  "name": "Jeffersonville, Cambridge, Lamoille County, Vermont, United States",
+  "drive_min": 1169,
+  "drive_mi": 974,
+  "drive_min_clemson": 1301,
+  "drive_mi_clemson": 1083
+ },
+ "Killington|Vermont": {
+  "lat": 43.67433,
+  "lon": -72.7784445,
+  "name": "Killington, Rutland County, Vermont, 05751, United States",
+  "drive_min": 1064,
+  "drive_mi": 899,
+  "drive_min_clemson": 1196,
+  "drive_mi_clemson": 1007
+ },
+ "Manchester|Vermont": {
+  "lat": 43.176909,
+  "lon": -73.0568716,
+  "name": "Manchester, Bennington County, Vermont, United States",
+  "drive_min": 994,
+  "drive_mi": 840,
+  "drive_min_clemson": 1126,
+  "drive_mi_clemson": 949
+ },
+ "Marlboro|Vermont": {
+  "lat": 42.8596573,
+  "lon": -72.7258755,
+  "name": "Marlboro, Windham County, Vermont, United States",
+  "drive_min": 1010,
+  "drive_mi": 849,
+  "drive_min_clemson": 1142,
+  "drive_mi_clemson": 958
+ },
+ "Montpelier|Vermont": {
+  "lat": 44.2602244,
+  "lon": -72.5750364,
+  "name": "Montpelier, Washington County, Vermont, 05602, United States",
+  "drive_min": 1134,
+  "drive_mi": 951,
+  "drive_min_clemson": 1266,
+  "drive_mi_clemson": 1060
+ },
+ "Proctor|Vermont": {
+  "lat": 43.6610327,
+  "lon": -73.03532,
+  "name": "Proctor, Rutland County, Vermont, United States",
+  "drive_min": 1042,
+  "drive_mi": 885,
+  "drive_min_clemson": 1175,
+  "drive_mi_clemson": 994
+ },
+ "South Hero|Vermont": {
+  "lat": 44.645697,
+  "lon": -73.3024759,
+  "name": "South Hero, Grand Isle County, Vermont, 05486, United States",
+  "drive_min": 1122,
+  "drive_mi": 951,
+  "drive_min_clemson": 1254,
+  "drive_mi_clemson": 1060
+ },
+ "Stowe|Vermont": {
+  "lat": 44.4643768,
+  "lon": -72.6856197,
+  "name": "Stowe, Lamoille County, Vermont, 05672, United States",
+  "drive_min": 1162,
+  "drive_mi": 970,
+  "drive_min_clemson": 1294,
+  "drive_mi_clemson": 1079
+ },
+ "Warwick|Rhode Island": {
+  "lat": 41.6992717,
+  "lon": -71.4586114,
+  "name": "Warwick, Kent County, Rhode Island, United States",
+  "drive_min": 976,
+  "drive_mi": 809,
+  "drive_min_clemson": 1110,
+  "drive_mi_clemson": 920
+ },
+ "Watch Hill|Rhode Island": {
+  "lat": 41.3142611,
+  "lon": -71.849017,
+  "name": "Watch Hill, Westerly, South County, Rhode Island, United States",
+  "drive_min": 952,
+  "drive_mi": 783,
+  "drive_min_clemson": 1086,
+  "drive_mi_clemson": 895
+ },
+ "Westerly|Rhode Island": {
+  "lat": 41.3775996,
+  "lon": -71.8272911,
+  "name": "Westerly, South County, Rhode Island, United States",
+  "drive_min": 942,
+  "drive_mi": 778,
+  "drive_min_clemson": 1076,
+  "drive_mi_clemson": 890
  }
 }
