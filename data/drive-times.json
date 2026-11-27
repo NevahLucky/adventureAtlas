@@ -14480,5 +14480,131 @@
   "drive_mi": 175,
   "drive_min_clemson": 172,
   "drive_mi_clemson": 165
+ },
+ "Arlington|Georgia": {
+  "lat": 31.4398976,
+  "lon": -84.7249188,
+  "name": "Arlington, Calhoun County, Georgia, United States",
+  "drive_min": 404,
+  "drive_mi": 413,
+  "drive_min_clemson": 301,
+  "drive_mi_clemson": 315
+ },
+ "Baconton|Georgia": {
+  "lat": 31.3776288,
+  "lon": -84.1610382,
+  "name": "Baconton, Mitchell County, Georgia, United States",
+  "drive_min": 370,
+  "drive_mi": 388,
+  "drive_min_clemson": 287,
+  "drive_mi_clemson": 292
+ },
+ "Bainbridge|Georgia": {
+  "lat": 30.9038252,
+  "lon": -84.5754768,
+  "name": "Bainbridge, Decatur County, Georgia, United States",
+  "drive_min": 428,
+  "drive_mi": 434,
+  "drive_min_clemson": 345,
+  "drive_mi_clemson": 338
+ },
+ "Blakely|Georgia": {
+  "lat": 31.3773475,
+  "lon": -84.9343388,
+  "name": "Blakely, Early County, Georgia, 39823, United States",
+  "drive_min": 422,
+  "drive_mi": 428,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 317
+ },
+ "Cairo|Georgia": {
+  "lat": 30.8773326,
+  "lon": -84.2079425,
+  "name": "Cairo, Grady County, Georgia, 39828, United States",
+  "drive_min": 411,
+  "drive_mi": 424,
+  "drive_min_clemson": 328,
+  "drive_mi_clemson": 328
+ },
+ "Camilla|Georgia": {
+  "lat": 31.2312887,
+  "lon": -84.2103726,
+  "name": "Camilla, Mitchell County, Georgia, United States",
+  "drive_min": 380,
+  "drive_mi": 398,
+  "drive_min_clemson": 297,
+  "drive_mi_clemson": 302
+ },
+ "Colquitt|Georgia": {
+  "lat": 31.1803601,
+  "lon": -83.7696152,
+  "name": "Colquitt County, Georgia, United States",
+  "drive_min": 382,
+  "drive_mi": 371,
+  "drive_min_clemson": 297,
+  "drive_mi_clemson": 304
+ },
+ "Cuthbert|Georgia": {
+  "lat": 31.7712748,
+  "lon": -84.7893658,
+  "name": "Cuthbert, Randolph County, Georgia, United States",
+  "drive_min": 393,
+  "drive_mi": 388,
+  "drive_min_clemson": 268,
+  "drive_mi_clemson": 286
+ },
+ "Dawson|Georgia": {
+  "lat": 34.4077085,
+  "lon": -84.1356771,
+  "name": "Dawson County, Georgia, 30534, United States",
+  "drive_min": 239,
+  "drive_mi": 225,
+  "drive_min_clemson": 125,
+  "drive_mi_clemson": 100
+ },
+ "Donalsonville|Georgia": {
+  "lat": 31.0404625,
+  "lon": -84.8790911,
+  "name": "Donalsonville, Seminole County, Georgia, United States",
+  "drive_min": 435,
+  "drive_mi": 440,
+  "drive_min_clemson": 329,
+  "drive_mi_clemson": 346
+ },
+ "Edison|Georgia": {
+  "lat": 31.5581741,
+  "lon": -84.7381045,
+  "name": "Edison, Calhoun County, Georgia, 39846, United States",
+  "drive_min": 407,
+  "drive_mi": 416,
+  "drive_min_clemson": 288,
+  "drive_mi_clemson": 306
+ },
+ "Morgan|Georgia": {
+  "lat": 33.5793193,
+  "lon": -83.5051522,
+  "name": "Morgan County, Georgia, United States",
+  "drive_min": 211,
+  "drive_mi": 233,
+  "drive_min_clemson": 114,
+  "drive_mi_clemson": 112
+ },
+ "Sasser|Georgia": {
+  "lat": 31.7198916,
+  "lon": -84.3471355,
+  "name": "Sasser, Terrell County, Georgia, United States",
+  "drive_min": 371,
+  "drive_mi": 384,
+  "drive_min_clemson": 280,
+  "drive_mi_clemson": 299
+ },
+ "Shellman|Georgia": {
+  "lat": 31.7562765,
+  "lon": -84.6151965,
+  "name": "Shellman, Randolph County, Georgia, United States",
+  "drive_min": 383,
+  "drive_mi": 379,
+  "drive_min_clemson": 280,
+  "drive_mi_clemson": 291
  }
 }
