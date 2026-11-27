@@ -7475,5 +7475,248 @@
   "drive_mi": 491,
   "drive_min_clemson": 714,
   "drive_mi_clemson": 600
+ },
+ "Acme|Pennsylvania": {
+  "lat": 40.1267392,
+  "lon": -79.4286473,
+  "name": "Acme, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15610, United ",
+  "drive_min": 511,
+  "drive_mi": 443,
+  "drive_min_clemson": 639,
+  "drive_mi_clemson": 542
+ },
+ "Altoona|Pennsylvania": {
+  "lat": 40.5193586,
+  "lon": -78.3968299,
+  "name": "Altoona, Blair County, Pennsylvania, 16601, United States",
+  "drive_min": 584,
+  "drive_mi": 499,
+  "drive_min_clemson": 716,
+  "drive_mi_clemson": 608
+ },
+ "Ashland|Pennsylvania": {
+  "lat": 40.7817542,
+  "lon": -76.3457825,
+  "name": "Ashland, Schuylkill County, Pennsylvania, United States",
+  "drive_min": 630,
+  "drive_mi": 550,
+  "drive_min_clemson": 762,
+  "drive_mi_clemson": 659
+ },
+ "Bloomsburg|Pennsylvania": {
+  "lat": 41.0044958,
+  "lon": -76.4537302,
+  "name": "Bloomsburg, Columbia County, Pennsylvania, 17815, United States",
+  "drive_min": 665,
+  "drive_mi": 571,
+  "drive_min_clemson": 797,
+  "drive_mi_clemson": 680
+ },
+ "Bradford|Pennsylvania": {
+  "lat": 41.7746685,
+  "lon": -76.5264613,
+  "name": "Bradford County, Pennsylvania, United States",
+  "drive_min": 759,
+  "drive_mi": 628,
+  "drive_min_clemson": 891,
+  "drive_mi_clemson": 737
+ },
+ "Bryn Athyn|Pennsylvania": {
+  "lat": 40.1314988,
+  "lon": -75.0673938,
+  "name": "Bryn Athyn, Montgomery County, Pennsylvania, 19009, United States",
+  "drive_min": 685,
+  "drive_mi": 600,
+  "drive_min_clemson": 817,
+  "drive_mi_clemson": 709
+ },
+ "Centre Hall|Pennsylvania": {
+  "lat": 40.844505,
+  "lon": -77.6836445,
+  "name": "Centre Hall, Centre County, Pennsylvania, United States",
+  "drive_min": 636,
+  "drive_mi": 529,
+  "drive_min_clemson": 768,
+  "drive_mi_clemson": 638
+ },
+ "Chadds Ford|Pennsylvania": {
+  "lat": 39.872027,
+  "lon": -75.5914213,
+  "name": "Chadds Ford, Chadds Ford Township, Delaware County, Pennsylvania, 19317, United ",
+  "drive_min": 637,
+  "drive_mi": 533,
+  "drive_min_clemson": 770,
+  "drive_mi_clemson": 644
+ },
+ "Doylestown|Pennsylvania": {
+  "lat": 40.3100446,
+  "lon": -75.1304588,
+  "name": "Doylestown, Bucks County, Pennsylvania, 18901, United States",
+  "drive_min": 691,
+  "drive_mi": 605,
+  "drive_min_clemson": 823,
+  "drive_mi_clemson": 713
+ },
+ "Eldred|Pennsylvania": {
+  "lat": 41.9578425,
+  "lon": -78.3852953,
+  "name": "Eldred, McKean County, Pennsylvania, United States",
+  "drive_min": 748,
+  "drive_mi": 626,
+  "drive_min_clemson": 877,
+  "drive_mi_clemson": 725
+ },
+ "Elysburg|Pennsylvania": {
+  "lat": 40.8676825,
+  "lon": -76.5481019,
+  "name": "Elysburg, Ralpho Township, Northumberland County, Pennsylvania, 17824, United St",
+  "drive_min": 648,
+  "drive_mi": 562,
+  "drive_min_clemson": 780,
+  "drive_mi_clemson": 671
+ },
+ "Hershey|Pennsylvania": {
+  "lat": 40.2850285,
+  "lon": -76.6534662,
+  "name": "Hershey, Derry Township, Dauphin County, Pennsylvania, United States",
+  "drive_min": 579,
+  "drive_mi": 506,
+  "drive_min_clemson": 712,
+  "drive_mi_clemson": 615
+ },
+ "Jersey Shore|Pennsylvania": {
+  "lat": 41.2020171,
+  "lon": -77.2644152,
+  "name": "Jersey Shore, Lycoming County, Pennsylvania, United States",
+  "drive_min": 680,
+  "drive_mi": 582,
+  "drive_min_clemson": 813,
+  "drive_mi_clemson": 691
+ },
+ "Johnstown|Pennsylvania": {
+  "lat": 40.3267407,
+  "lon": -78.9219698,
+  "name": "Johnstown, Cambria County, Pennsylvania, United States",
+  "drive_min": 565,
+  "drive_mi": 479,
+  "drive_min_clemson": 693,
+  "drive_mi_clemson": 578
+ },
+ "Kempton|Pennsylvania": {
+  "lat": 40.6262044,
+  "lon": -75.8524214,
+  "name": "Kempton, Albany Township, Berks County, Pennsylvania, 19529, United States",
+  "drive_min": 633,
+  "drive_mi": 554,
+  "drive_min_clemson": 765,
+  "drive_mi_clemson": 663
+ },
+ "King of Prussia|Pennsylvania": {
+  "lat": 40.0947625,
+  "lon": -75.3851334,
+  "name": "King of Prussia, Upper Merion Township, Montgomery County, Pennsylvania, 19406, ",
+  "drive_min": 658,
+  "drive_mi": 580,
+  "drive_min_clemson": 790,
+  "drive_mi_clemson": 688
+ },
+ "Ligonier|Pennsylvania": {
+  "lat": 40.2430966,
+  "lon": -79.2376363,
+  "name": "Ligonier, Westmoreland County, Pennsylvania, United States",
+  "drive_min": 534,
+  "drive_mi": 458,
+  "drive_min_clemson": 662,
+  "drive_mi_clemson": 557
+ },
+ "Mount Jewett|Pennsylvania": {
+  "lat": 41.725618,
+  "lon": -78.6383591,
+  "name": "Mount Jewett, McKean County, Pennsylvania, United States",
+  "drive_min": 703,
+  "drive_mi": 593,
+  "drive_min_clemson": 832,
+  "drive_mi_clemson": 692
+ },
+ "Pottsville|Pennsylvania": {
+  "lat": 40.6851324,
+  "lon": -76.1953701,
+  "name": "Pottsville, Schuylkill County, Pennsylvania, 17901, United States",
+  "drive_min": 629,
+  "drive_mi": 545,
+  "drive_min_clemson": 762,
+  "drive_mi_clemson": 654
+ },
+ "Reading|Pennsylvania": {
+  "lat": 40.335345,
+  "lon": -75.9279495,
+  "name": "Reading, Berks County, Pennsylvania, United States",
+  "drive_min": 631,
+  "drive_mi": 551,
+  "drive_min_clemson": 763,
+  "drive_mi_clemson": 660
+ },
+ "Shanksville|Pennsylvania": {
+  "lat": 40.0175017,
+  "lon": -78.9071878,
+  "name": "Shanksville, Somerset County, Pennsylvania, 15560, United States",
+  "drive_min": 554,
+  "drive_mi": 474,
+  "drive_min_clemson": 682,
+  "drive_mi_clemson": 573
+ },
+ "Somerset|Pennsylvania": {
+  "lat": 39.9980022,
+  "lon": -79.0415528,
+  "name": "Somerset County, Pennsylvania, United States",
+  "drive_min": 540,
+  "drive_mi": 471,
+  "drive_min_clemson": 669,
+  "drive_mi_clemson": 570
+ },
+ "South Williamsport|Pennsylvania": {
+  "lat": 41.2320232,
+  "lon": -76.9991341,
+  "name": "South Williamsport, Lycoming County, Pennsylvania, United States",
+  "drive_min": 675,
+  "drive_mi": 573,
+  "drive_min_clemson": 807,
+  "drive_mi_clemson": 682
+ },
+ "State College|Pennsylvania": {
+  "lat": 40.7944504,
+  "lon": -77.8616386,
+  "name": "State College, Centre County, Pennsylvania, United States",
+  "drive_min": 629,
+  "drive_mi": 537,
+  "drive_min_clemson": 761,
+  "drive_mi_clemson": 646
+ },
+ "Towanda|Pennsylvania": {
+  "lat": 41.7673567,
+  "lon": -76.44291,
+  "name": "Towanda, Bradford County, Pennsylvania, United States",
+  "drive_min": 749,
+  "drive_mi": 622,
+  "drive_min_clemson": 881,
+  "drive_mi_clemson": 730
+ },
+ "Wellsboro|Pennsylvania": {
+  "lat": 41.7486838,
+  "lon": -77.3005305,
+  "name": "Wellsboro, Tioga County, Pennsylvania, United States",
+  "drive_min": 741,
+  "drive_mi": 624,
+  "drive_min_clemson": 874,
+  "drive_mi_clemson": 733
+ },
+ "Williamsport|Pennsylvania": {
+  "lat": 41.2411556,
+  "lon": -77.0011096,
+  "name": "Williamsport, Lycoming County, Pennsylvania, United States",
+  "drive_min": 675,
+  "drive_mi": 574,
+  "drive_min_clemson": 807,
+  "drive_mi_clemson": 682
  }
 }
