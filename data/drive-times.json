@@ -18215,5 +18215,14 @@
   "drive_mi": 380,
   "drive_min_clemson": 462,
   "drive_mi_clemson": 488
+ },
+ "Jamestown|Virginia": {
+  "lat": 37.2089184,
+  "lon": -76.7783003,
+  "name": "Jamestown, James City County, Virginia, 23081, United States",
+  "drive_min": 321,
+  "drive_mi": 331,
+  "drive_min_clemson": 428,
+  "drive_mi_clemson": 442
  }
 }
