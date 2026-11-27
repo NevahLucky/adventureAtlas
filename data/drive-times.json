@@ -2048,7 +2048,11 @@
  "Arco|Idaho": {
   "lat": 43.635336,
   "lon": -113.299953,
-  "name": "Arco, Butte County, Idaho, United States"
+  "name": "Arco, Butte County, Idaho, United States",
+  "drive_min": 2382,
+  "drive_mi": 2191,
+  "drive_min_clemson": 2301,
+  "drive_mi_clemson": 2131
  },
  "Asbury Park|New Jersey": {
   "lat": 40.2203907,
@@ -2232,7 +2236,11 @@
  "Blackfoot|Idaho": {
   "lat": 43.190039,
   "lon": -112.348357,
-  "name": "Blackfoot, Bingham County, Idaho, 83221, United States"
+  "name": "Blackfoot, Bingham County, Idaho, 83221, United States",
+  "drive_min": 2318,
+  "drive_mi": 2134,
+  "drive_min_clemson": 2237,
+  "drive_mi_clemson": 2074
  },
  "Bloomington|Minnesota": {
   "lat": 44.8322405,
@@ -4012,7 +4020,11 @@
  "Riggins|Idaho": {
   "lat": 45.4221105,
   "lon": -116.315411,
-  "name": "Riggins, Idaho County, Idaho, United States"
+  "name": "Riggins, Idaho County, Idaho, United States",
+  "drive_min": 2696,
+  "drive_mi": 2499,
+  "drive_min_clemson": 2615,
+  "drive_mi_clemson": 2439
  },
  "Rolla|Missouri": {
   "lat": 37.9509324,
@@ -4380,7 +4392,11 @@
  "Sun Valley|Idaho": {
   "lat": 43.696215,
   "lon": -114.353097,
-  "name": "Sun Valley, Blaine County, Idaho, United States"
+  "name": "Sun Valley, Blaine County, Idaho, United States",
+  "drive_min": 2467,
+  "drive_mi": 2299,
+  "drive_min_clemson": 2386,
+  "drive_mi_clemson": 2239
  },
  "Supai|Arizona": {
   "lat": 36.223782,
@@ -4563,7 +4579,11 @@
  "Wallace|Idaho": {
   "lat": 47.4716008,
   "lon": -115.923925,
-  "name": "Wallace, Shoshone County, Idaho, 83873, United States"
+  "name": "Wallace, Shoshone County, Idaho, 83873, United States",
+  "drive_min": 2625,
+  "drive_mi": 2454,
+  "drive_min_clemson": 2544,
+  "drive_mi_clemson": 2394
  },
  "Washington|District of Columbia": {
   "lat": 38.8950982,
@@ -4632,7 +4652,11 @@
  "White Bird|Idaho": {
   "lat": 45.7619335,
   "lon": -116.3005078,
-  "name": "White Bird, Idaho County, Idaho, United States"
+  "name": "White Bird, Idaho County, Idaho, United States",
+  "drive_min": 2729,
+  "drive_mi": 2528,
+  "drive_min_clemson": 2648,
+  "drive_mi_clemson": 2468
  },
  "Williams|Arizona": {
   "lat": 35.2508504,
@@ -10794,5 +10818,167 @@
   "drive_mi": 1952,
   "drive_min_clemson": 2058,
   "drive_mi_clemson": 1892
+ },
+ "Athol|Idaho": {
+  "lat": 47.9479601,
+  "lon": -116.707974,
+  "name": "Athol, Kootenai County, Idaho, United States",
+  "drive_min": 2704,
+  "drive_mi": 2522,
+  "drive_min_clemson": 2623,
+  "drive_mi_clemson": 2462
+ },
+ "Billings|Montana": {
+  "lat": 45.7874957,
+  "lon": -108.49607,
+  "name": "Billings, Yellowstone County, Montana, United States",
+  "drive_min": 2167,
+  "drive_mi": 1993,
+  "drive_min_clemson": 2086,
+  "drive_mi_clemson": 1933
+ },
+ "Boise|Idaho": {
+  "lat": 43.6166163,
+  "lon": -116.200886,
+  "name": "Boise, Ada County, Idaho, United States",
+  "drive_min": 2488,
+  "drive_mi": 2345,
+  "drive_min_clemson": 2407,
+  "drive_mi_clemson": 2285
+ },
+ "Browning|Montana": {
+  "lat": 48.557743,
+  "lon": -113.017258,
+  "name": "Browning, Glacier County, Montana, United States",
+  "drive_min": 2498,
+  "drive_mi": 2272,
+  "drive_min_clemson": 2457,
+  "drive_mi_clemson": 2208
+ },
+ "Cataldo|Idaho": {
+  "lat": 47.5488066,
+  "lon": -116.3296149,
+  "name": "Cataldo, Kootenai County, Idaho, 83839, United States",
+  "drive_min": 2647,
+  "drive_mi": 2475,
+  "drive_min_clemson": 2565,
+  "drive_mi_clemson": 2415
+ },
+ "Coeur d'Alene|Idaho": {
+  "lat": 47.6742994,
+  "lon": -116.7811531,
+  "name": "Coeur d'Alene, Kootenai County, Idaho, 83815, United States",
+  "drive_min": 2678,
+  "drive_mi": 2502,
+  "drive_min_clemson": 2597,
+  "drive_mi_clemson": 2442
+ },
+ "Darby|Montana": {
+  "lat": 46.022659,
+  "lon": -114.178093,
+  "name": "Darby, Ravalli County, Montana, United States",
+  "drive_min": 2563,
+  "drive_mi": 2335,
+  "drive_min_clemson": 2482,
+  "drive_mi_clemson": 2275
+ },
+ "Deer Lodge|Montana": {
+  "lat": 46.0753795,
+  "lon": -113.089332,
+  "name": "Deer Lodge County, Montana, United States",
+  "drive_min": 2504,
+  "drive_mi": 2257,
+  "drive_min_clemson": 2423,
+  "drive_mi_clemson": 2197
+ },
+ "Dillon|Montana": {
+  "lat": 45.2141249,
+  "lon": -112.6346079,
+  "name": "Dillon, Beaverhead County, Montana, United States",
+  "drive_min": 2449,
+  "drive_mi": 2250,
+  "drive_min_clemson": 2367,
+  "drive_mi_clemson": 2190
+ },
+ "East Glacier Park|Montana": {
+  "lat": 48.4422306,
+  "lon": -113.2193626,
+  "name": "East Glacier Park, Looking Glass Road, East Glacier Park Village, Glacier County",
+  "drive_min": 2512,
+  "drive_mi": 2285,
+  "drive_min_clemson": 2472,
+  "drive_mi_clemson": 2221
+ },
+ "Great Falls|Montana": {
+  "lat": 47.5048851,
+  "lon": -111.29189,
+  "name": "Great Falls, Cascade County, Montana, United States",
+  "drive_min": 2355,
+  "drive_mi": 2148,
+  "drive_min_clemson": 2315,
+  "drive_mi_clemson": 2084
+ },
+ "Hamilton|Montana": {
+  "lat": 46.2472045,
+  "lon": -114.1555462,
+  "name": "Hamilton, Ravalli County, Montana, United States",
+  "drive_min": 2552,
+  "drive_mi": 2324,
+  "drive_min_clemson": 2471,
+  "drive_mi_clemson": 2264
+ },
+ "Libby|Montana": {
+  "lat": 48.3883645,
+  "lon": -115.5558612,
+  "name": "Libby, Lincoln County, Montana, United States",
+  "drive_min": 2720,
+  "drive_mi": 2460,
+  "drive_min_clemson": 2655,
+  "drive_mi_clemson": 2472
+ },
+ "Missoula|Montana": {
+  "lat": 46.8701049,
+  "lon": -113.995267,
+  "name": "Missoula, Missoula County, Montana, United States",
+  "drive_min": 2505,
+  "drive_mi": 2338,
+  "drive_min_clemson": 2423,
+  "drive_mi_clemson": 2278
+ },
+ "Polson|Montana": {
+  "lat": 47.6905295,
+  "lon": -114.163761,
+  "name": "Polson, Lake County, Montana, United States",
+  "drive_min": 2588,
+  "drive_mi": 2407,
+  "drive_min_clemson": 2507,
+  "drive_mi_clemson": 2347
+ },
+ "Stevensville|Montana": {
+  "lat": 46.510407,
+  "lon": -114.094385,
+  "name": "Stevensville, Ravalli County, Montana, United States",
+  "drive_min": 2542,
+  "drive_mi": 2367,
+  "drive_min_clemson": 2461,
+  "drive_mi_clemson": 2307
+ },
+ "Troy|Montana": {
+  "lat": 48.4615199,
+  "lon": -115.8949854,
+  "name": "Troy, Lincoln County, Montana, United States",
+  "drive_min": 2743,
+  "drive_mi": 2478,
+  "drive_min_clemson": 2676,
+  "drive_mi_clemson": 2456
+ },
+ "Whitefish|Montana": {
+  "lat": 48.4108018,
+  "lon": -114.334624,
+  "name": "Whitefish, Flathead County, Montana, 59937, United States",
+  "drive_min": 2612,
+  "drive_mi": 2365,
+  "drive_min_clemson": 2571,
+  "drive_mi_clemson": 2301
  }
 }
