@@ -138,8 +138,8 @@ that do not match the Census list, which usually means a spelling or type error.
 python3 scripts/coverage.py
 ```
 
-Current picture: 1,241 of 3,143 counties covered, 3,604 entries. Every state and district has at
-least thirty entries. 283 counties nationally still have a single entry, and those are the backlog.
+Current picture: 1,245 of 3,143 counties covered, 3,634 entries. Every state and district has at
+least thirty entries. 275 counties nationally still have a single entry, and those are the backlog.
 
 Three states are finished. Georgia is 159 of 159 counties with 594 entries. North Carolina is 100 of
 100 with 337 entries, every county at three or more except Alexander and Davie at two. Tennessee is

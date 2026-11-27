@@ -17963,5 +17963,122 @@
   "drive_mi": 590,
   "drive_min_clemson": 566,
   "drive_mi_clemson": 604
+ },
+ "Basye|Virginia": {
+  "lat": 38.8202455,
+  "lon": -78.7660062,
+  "name": "Basye, Shenandoah County, Virginia, 22810, United States",
+  "drive_min": 336,
+  "drive_mi": 347,
+  "drive_min_clemson": 441,
+  "drive_mi_clemson": 456
+ },
+ "Bridgewater|Virginia": {
+  "lat": 38.3820655,
+  "lon": -78.9766975,
+  "name": "Bridgewater, Rockingham County, Virginia, United States",
+  "drive_min": 287,
+  "drive_mi": 307,
+  "drive_min_clemson": 392,
+  "drive_mi_clemson": 416
+ },
+ "Dayton|Virginia": {
+  "lat": 38.4148492,
+  "lon": -78.9386427,
+  "name": "Dayton, Rockingham County, Virginia, United States",
+  "drive_min": 291,
+  "drive_mi": 310,
+  "drive_min_clemson": 396,
+  "drive_mi_clemson": 419
+ },
+ "Edinburg|Virginia": {
+  "lat": 38.8209466,
+  "lon": -78.5658453,
+  "name": "Edinburg, Shenandoah County, Virginia, United States",
+  "drive_min": 320,
+  "drive_mi": 343,
+  "drive_min_clemson": 425,
+  "drive_mi_clemson": 452
+ },
+ "Fort Valley|Virginia": {
+  "lat": 38.95717,
+  "lon": -78.2957972,
+  "name": "Fort Valley Road, Waterlick, Warren County, Virginia, 22630, United States",
+  "drive_min": 345,
+  "drive_mi": 368,
+  "drive_min_clemson": 450,
+  "drive_mi_clemson": 476
+ },
+ "Harrisonburg|Virginia": {
+  "lat": 38.4493315,
+  "lon": -78.8688833,
+  "name": "Harrisonburg, Virginia, United States",
+  "drive_min": 292,
+  "drive_mi": 311,
+  "drive_min_clemson": 397,
+  "drive_mi_clemson": 420
+ },
+ "McGaheysville|Virginia": {
+  "lat": 38.372451,
+  "lon": -78.7352814,
+  "name": "McGaheysville, Rockingham County, Virginia, United States",
+  "drive_min": 299,
+  "drive_mi": 314,
+  "drive_min_clemson": 404,
+  "drive_mi_clemson": 423
+ },
+ "Mount Jackson|Virginia": {
+  "lat": 38.7459482,
+  "lon": -78.6422377,
+  "name": "Mount Jackson, Shenandoah County, Virginia, United States",
+  "drive_min": 314,
+  "drive_mi": 336,
+  "drive_min_clemson": 419,
+  "drive_mi_clemson": 445
+ },
+ "New Market|Virginia": {
+  "lat": 38.6479018,
+  "lon": -78.6714137,
+  "name": "New Market, Shenandoah County, Virginia, 22844, United States",
+  "drive_min": 306,
+  "drive_mi": 329,
+  "drive_min_clemson": 411,
+  "drive_mi_clemson": 437
+ },
+ "Orkney Springs|Virginia": {
+  "lat": 38.795091,
+  "lon": -78.8152228,
+  "name": "Orkney Springs, Basye, Shenandoah County, Virginia, 22845, United States",
+  "drive_min": 334,
+  "drive_mi": 349,
+  "drive_min_clemson": 439,
+  "drive_mi_clemson": 457
+ },
+ "Quicksburg|Virginia": {
+  "lat": 38.69141,
+  "lon": -78.6814003,
+  "name": "Quicksburg, Shenandoah County, Virginia, United States",
+  "drive_min": 313,
+  "drive_mi": 333,
+  "drive_min_clemson": 418,
+  "drive_mi_clemson": 442
+ },
+ "Strasburg|Virginia": {
+  "lat": 38.9887251,
+  "lon": -78.3622801,
+  "name": "Strasburg, Shenandoah County, Virginia, United States",
+  "drive_min": 338,
+  "drive_mi": 362,
+  "drive_min_clemson": 443,
+  "drive_mi_clemson": 471
+ },
+ "Woodstock|Virginia": {
+  "lat": 38.8817784,
+  "lon": -78.5058429,
+  "name": "Woodstock, Shenandoah County, Virginia, 22664, United States",
+  "drive_min": 325,
+  "drive_mi": 349,
+  "drive_min_clemson": 430,
+  "drive_mi_clemson": 457
  }
 }
