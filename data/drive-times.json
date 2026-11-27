@@ -14606,5 +14606,131 @@
   "drive_mi": 379,
   "drive_min_clemson": 280,
   "drive_mi_clemson": 291
+ },
+ "Carnesville|Georgia": {
+  "lat": 34.3698266,
+  "lon": -83.235155,
+  "name": "Carnesville, Franklin County, Georgia, United States",
+  "drive_min": 156,
+  "drive_mi": 157,
+  "drive_min_clemson": 44,
+  "drive_mi_clemson": 41
+ },
+ "Clarkesville|Georgia": {
+  "lat": 34.6125971,
+  "lon": -83.5248933,
+  "name": "Clarkesville, Habersham County, Georgia, 30325, United States",
+  "drive_min": 181,
+  "drive_mi": 179,
+  "drive_min_clemson": 59,
+  "drive_mi_clemson": 50
+ },
+ "Comer|Georgia": {
+  "lat": 34.0637227,
+  "lon": -83.1254261,
+  "name": "Comer, Madison County, Georgia, United States",
+  "drive_min": 188,
+  "drive_mi": 170,
+  "drive_min_clemson": 75,
+  "drive_mi_clemson": 64
+ },
+ "Cornelia|Georgia": {
+  "lat": 34.5114883,
+  "lon": -83.5271166,
+  "name": "Cornelia, Habersham County, Georgia, United States",
+  "drive_min": 183,
+  "drive_mi": 183,
+  "drive_min_clemson": 61,
+  "drive_mi_clemson": 55
+ },
+ "Danielsville|Georgia": {
+  "lat": 34.1242771,
+  "lon": -83.2212629,
+  "name": "Danielsville, Madison County, Georgia, United States",
+  "drive_min": 179,
+  "drive_mi": 177,
+  "drive_min_clemson": 67,
+  "drive_mi_clemson": 61
+ },
+ "Elberton|Georgia": {
+  "lat": 34.1112226,
+  "lon": -82.8670839,
+  "name": "Elberton, Elbert County, Georgia, United States",
+  "drive_min": 169,
+  "drive_mi": 152,
+  "drive_min_clemson": 69,
+  "drive_mi_clemson": 50
+ },
+ "Hartwell|Georgia": {
+  "lat": 34.3528825,
+  "lon": -82.932087,
+  "name": "Hartwell, Hart County, Georgia, United States",
+  "drive_min": 163,
+  "drive_mi": 157,
+  "drive_min_clemson": 50,
+  "drive_mi_clemson": 36
+ },
+ "Homer|Georgia": {
+  "lat": 34.3337156,
+  "lon": -83.499055,
+  "name": "Homer, Banks County, Georgia, 30547, United States",
+  "drive_min": 177,
+  "drive_mi": 179,
+  "drive_min_clemson": 64,
+  "drive_mi_clemson": 63
+ },
+ "Jefferson|Georgia": {
+  "lat": 33.0380388,
+  "lon": -82.436141,
+  "name": "Jefferson County, Georgia, United States",
+  "drive_min": 181,
+  "drive_mi": 191,
+  "drive_min_clemson": 157,
+  "drive_mi_clemson": 153
+ },
+ "Maysville|Georgia": {
+  "lat": 34.2528839,
+  "lon": -83.5615548,
+  "name": "Maysville, Banks County, Georgia, 30558, United States",
+  "drive_min": 176,
+  "drive_mi": 179,
+  "drive_min_clemson": 63,
+  "drive_mi_clemson": 63
+ },
+ "Royston|Georgia": {
+  "lat": 34.2870503,
+  "lon": -83.1101483,
+  "name": "Royston, Franklin County, Georgia, United States",
+  "drive_min": 161,
+  "drive_mi": 162,
+  "drive_min_clemson": 49,
+  "drive_mi_clemson": 45
+ },
+ "Toccoa|Georgia": {
+  "lat": 34.5774368,
+  "lon": -83.332881,
+  "name": "Toccoa, Stephens County, Georgia, 30577, United States",
+  "drive_min": 166,
+  "drive_mi": 165,
+  "drive_min_clemson": 40,
+  "drive_mi_clemson": 35
+ },
+ "Watkinsville|Georgia": {
+  "lat": 33.8628959,
+  "lon": -83.4087709,
+  "name": "Watkinsville, Oconee County, Georgia, 30644, United States",
+  "drive_min": 204,
+  "drive_mi": 206,
+  "drive_min_clemson": 91,
+  "drive_mi_clemson": 89
+ },
+ "Winder|Georgia": {
+  "lat": 33.9919085,
+  "lon": -83.7184368,
+  "name": "Winder, Barrow County, Georgia, United States",
+  "drive_min": 201,
+  "drive_mi": 203,
+  "drive_min_clemson": 88,
+  "drive_mi_clemson": 86
  }
 }
