@@ -14984,5 +14984,104 @@
   "drive_mi": 283,
   "drive_min_clemson": 295,
   "drive_mi_clemson": 285
+ },
+ "Eastman|Georgia": {
+  "lat": 32.1979807,
+  "lon": -83.17615,
+  "name": "Eastman, Dodge County, Georgia, 31023, United States",
+  "drive_min": 273,
+  "drive_mi": 271,
+  "drive_min_clemson": 234,
+  "drive_mi_clemson": 230
+ },
+ "Enigma|Georgia": {
+  "lat": 31.4129695,
+  "lon": -83.3290468,
+  "name": "Enigma, Berrien County, Georgia, United States",
+  "drive_min": 349,
+  "drive_mi": 343,
+  "drive_min_clemson": 280,
+  "drive_mi_clemson": 289
+ },
+ "Hawkinsville|Georgia": {
+  "lat": 32.2835422,
+  "lon": -83.4667907,
+  "name": "Hawkinsville, Pulaski County, Georgia, United States",
+  "drive_min": 287,
+  "drive_mi": 285,
+  "drive_min_clemson": 225,
+  "drive_mi_clemson": 225
+ },
+ "Homerville|Georgia": {
+  "lat": 31.0365983,
+  "lon": -82.7470849,
+  "name": "Homerville, Clinch County, Georgia, 31634, United States",
+  "drive_min": 341,
+  "drive_mi": 362,
+  "drive_min_clemson": 313,
+  "drive_mi_clemson": 313
+ },
+ "Lakeland|Georgia": {
+  "lat": 31.0410373,
+  "lon": -83.0751471,
+  "name": "Lakeland, Lanier County, Georgia, 31635, United States",
+  "drive_min": 359,
+  "drive_mi": 356,
+  "drive_min_clemson": 319,
+  "drive_mi_clemson": 315
+ },
+ "Nashville|Georgia": {
+  "lat": 31.2074197,
+  "lon": -83.2501548,
+  "name": "Nashville, Berrien County, Georgia, 31639, United States",
+  "drive_min": 359,
+  "drive_mi": 351,
+  "drive_min_clemson": 295,
+  "drive_mi_clemson": 302
+ },
+ "Pearson|Georgia": {
+  "lat": 31.297703,
+  "lon": -82.8523668,
+  "name": "Pearson, Atkinson County, Georgia, 31642, United States",
+  "drive_min": 331,
+  "drive_mi": 332,
+  "drive_min_clemson": 292,
+  "drive_mi_clemson": 292
+ },
+ "Quitman|Georgia": {
+  "lat": 31.8769847,
+  "lon": -85.0154412,
+  "name": "Quitman County, Georgia, United States",
+  "drive_min": 386,
+  "drive_mi": 402,
+  "drive_min_clemson": 274,
+  "drive_mi_clemson": 285
+ },
+ "Statenville|Georgia": {
+  "lat": 30.7033263,
+  "lon": -83.0279282,
+  "name": "Statenville, Echols County, Georgia, 31648, United States",
+  "drive_min": 377,
+  "drive_mi": 395,
+  "drive_min_clemson": 334,
+  "drive_mi_clemson": 347
+ },
+ "Valdosta|Georgia": {
+  "lat": 30.8327022,
+  "lon": -83.2784851,
+  "name": "Valdosta, Lowndes County, Georgia, United States",
+  "drive_min": 376,
+  "drive_mi": 397,
+  "drive_min_clemson": 311,
+  "drive_mi_clemson": 326
+ },
+ "Willacoochee|Georgia": {
+  "lat": 31.3407551,
+  "lon": -83.0459826,
+  "name": "Willacoochee, Atkinson County, Georgia, United States",
+  "drive_min": 338,
+  "drive_mi": 336,
+  "drive_min_clemson": 299,
+  "drive_mi_clemson": 295
  }
 }
