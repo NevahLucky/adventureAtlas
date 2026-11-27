@@ -14732,5 +14732,122 @@
   "drive_mi": 203,
   "drive_min_clemson": 88,
   "drive_mi_clemson": 86
+ },
+ "Bremen|Georgia": {
+  "lat": 33.7208676,
+  "lon": -85.1456929,
+  "name": "Bremen, Haralson County, Georgia, 30110, United States",
+  "drive_min": 277,
+  "drive_mi": 290,
+  "drive_min_clemson": 165,
+  "drive_mi_clemson": 173
+ },
+ "Calhoun|Georgia": {
+  "lat": 31.5311784,
+  "lon": -84.614328,
+  "name": "Calhoun County, Georgia, United States",
+  "drive_min": 398,
+  "drive_mi": 408,
+  "drive_min_clemson": 298,
+  "drive_mi_clemson": 307
+ },
+ "Cedartown|Georgia": {
+  "lat": 34.0124425,
+  "lon": -85.2559398,
+  "name": "Cedartown, Polk County, Georgia, 30125, United States",
+  "drive_min": 292,
+  "drive_mi": 293,
+  "drive_min_clemson": 180,
+  "drive_mi_clemson": 177
+ },
+ "Chatsworth|Georgia": {
+  "lat": 34.7665942,
+  "lon": -84.7698842,
+  "name": "Chatsworth, Murray County, Georgia, United States",
+  "drive_min": 292,
+  "drive_mi": 285,
+  "drive_min_clemson": 164,
+  "drive_mi_clemson": 150
+ },
+ "Dalton|Georgia": {
+  "lat": 34.7691867,
+  "lon": -84.9702475,
+  "name": "Dalton, Whitfield County, Georgia, United States",
+  "drive_min": 309,
+  "drive_mi": 299,
+  "drive_min_clemson": 182,
+  "drive_mi_clemson": 164
+ },
+ "Fort Oglethorpe|Georgia": {
+  "lat": 34.9499947,
+  "lon": -85.2456607,
+  "name": "Fort Oglethorpe, Catoosa County, Georgia, 30742, United States",
+  "drive_min": 319,
+  "drive_mi": 336,
+  "drive_min_clemson": 202,
+  "drive_mi_clemson": 186
+ },
+ "Resaca|Georgia": {
+  "lat": 34.5803628,
+  "lon": -84.9432765,
+  "name": "Resaca, Gordon County, Georgia, United States",
+  "drive_min": 286,
+  "drive_mi": 301,
+  "drive_min_clemson": 173,
+  "drive_mi_clemson": 184
+ },
+ "Ringgold|Georgia": {
+  "lat": 34.91591,
+  "lon": -85.1091173,
+  "name": "Ringgold, Catoosa County, Georgia, United States",
+  "drive_min": 311,
+  "drive_mi": 328,
+  "drive_min_clemson": 194,
+  "drive_mi_clemson": 178
+ },
+ "Rossville|Georgia": {
+  "lat": 34.983376,
+  "lon": -85.28603,
+  "name": "Rossville, Walker County, Georgia, United States",
+  "drive_min": 323,
+  "drive_mi": 340,
+  "drive_min_clemson": 203,
+  "drive_mi_clemson": 184
+ },
+ "Summerville|Georgia": {
+  "lat": 34.480642,
+  "lon": -85.3477343,
+  "name": "Summerville, Chattooga County, Georgia, 30747, United States",
+  "drive_min": 309,
+  "drive_mi": 316,
+  "drive_min_clemson": 196,
+  "drive_mi_clemson": 200
+ },
+ "Tallapoosa|Georgia": {
+  "lat": 33.7442912,
+  "lon": -85.2879889,
+  "name": "Tallapoosa, Haralson County, Georgia, United States",
+  "drive_min": 285,
+  "drive_mi": 298,
+  "drive_min_clemson": 173,
+  "drive_mi_clemson": 181
+ },
+ "Trenton|Georgia": {
+  "lat": 34.8720222,
+  "lon": -85.50913,
+  "name": "Trenton, Dade County, Georgia, United States",
+  "drive_min": 347,
+  "drive_mi": 373,
+  "drive_min_clemson": 218,
+  "drive_mi_clemson": 203
+ },
+ "Tunnel Hill|Georgia": {
+  "lat": 34.8406339,
+  "lon": -85.0427257,
+  "name": "Tunnel Hill, Whitfield County, Georgia, United States",
+  "drive_min": 305,
+  "drive_mi": 321,
+  "drive_min_clemson": 188,
+  "drive_mi_clemson": 171
  }
 }
